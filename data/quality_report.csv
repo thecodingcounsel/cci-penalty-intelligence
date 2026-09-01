@@ -1,0 +1,2 @@
+order_id,check,severity,detail
+CCI-1101; CCI-1102,duplicate_registration_no,warning,"combination_registration_no 'C-2015/02/246' shared by ['CCI-1101', 'CCI-1102']"

@@ -42,18 +42,47 @@ def compute_penalty_stats(df: pd.DataFrame, column: str = "penalty_43a") -> dict
     }
 
 
-def exclude_outliers(df: pd.DataFrame) -> pd.DataFrame:
-    """Return only rows not flagged is_outlier=True."""
-    if df.empty or "is_outlier" not in df.columns:
+def flag_statistical_outliers(df: pd.DataFrame, column: str = "penalty_43a") -> pd.DataFrame:
+    """Add a `statistical_outlier` boolean column using the standard IQR rule (below
+    Q1-1.5*IQR or above Q3+1.5*IQR), computed fresh from whatever rows are passed in.
+
+    This is a transparent, explainable statistical flag - never a manual "this case is
+    famous so it must be an outlier" label. With fewer than 4 valid values, IQR isn't
+    meaningful, so nothing is flagged rather than flagging on a near-empty distribution.
+    """
+    df = df.copy()
+    values = pd.to_numeric(df[column], errors="coerce") if column in df.columns else pd.Series(dtype=float)
+    valid = values.dropna()
+
+    if len(valid) < 4:
+        df["statistical_outlier"] = False
         return df
-    return df[df["is_outlier"] != True]  # noqa: E712
+
+    q1, q3 = valid.quantile(0.25), valid.quantile(0.75)
+    iqr = q3 - q1
+    lower, upper = q1 - 1.5 * iqr, q3 + 1.5 * iqr
+    df["statistical_outlier"] = ((values < lower) | (values > upper)).fillna(False)
+    return df
+
+
+def exclude_outliers(df: pd.DataFrame, column: str = "statistical_outlier") -> pd.DataFrame:
+    """Return only rows not flagged as an outlier in `column` (default: the computed
+    statistical_outlier flag; pass column="is_outlier" for the legacy manual flag).
+    """
+    if df.empty or column not in df.columns:
+        return df
+    return df[df[column] != True]  # noqa: E712
 
 
 def compare_outlier_impact(df: pd.DataFrame, column: str = "penalty_43a") -> dict:
-    """Compare penalty stats including vs excluding flagged outliers, for the same base set of rows."""
+    """Compare penalty stats including vs excluding flagged statistical outliers, for the
+    same base set of rows. Recomputes the statistical_outlier flag on this exact set, so the
+    comparison reflects outliers relative to whatever's currently selected/filtered.
+    """
+    flagged = flag_statistical_outliers(df, column)
     return {
-        "including_outliers": compute_penalty_stats(df, column),
-        "excluding_outliers": compute_penalty_stats(exclude_outliers(df), column),
+        "including_outliers": compute_penalty_stats(flagged, column),
+        "excluding_outliers": compute_penalty_stats(exclude_outliers(flagged), column),
     }
 
 
