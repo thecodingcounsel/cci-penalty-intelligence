@@ -155,20 +155,23 @@ def main() -> None:
 # ------------------------------------------------------------------------------------------
 
 def render_overview(df: pd.DataFrame) -> None:
-    stats = compute_penalty_stats(df, "penalty_43a")
+    # All Overview penalty statistics (median/mean/largest) and the trend chart use the
+    # Amazon-excluded view consistently - see AMAZON_ORDER_ID / _overview_corpus() above.
+    # Total Orders is the only card that reflects the full 68-order corpus. Amazon remains
+    # fully present in the underlying dataset and every other tab.
     overview_df = _overview_corpus(df)
     overview_penalized = overview_df[overview_df["penalty_43a"].notna()]
-    largest_excl_amazon = overview_penalized["penalty_43a"].max() if not overview_penalized.empty else None
+    overview_stats = compute_penalty_stats(overview_df, "penalty_43a")
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Orders", len(df))
-    c2.metric("Median Penalty", format_inr(stats["median"]))
-    c3.metric("Mean / Average Penalty", format_inr(stats["mean"]))
-    c4.metric("Largest Penalty (excl. Amazon)", format_inr(largest_excl_amazon))
+    c2.metric("Median Penalty (excl. Amazon)", format_inr(overview_stats["median"]))
+    c3.metric("Mean / Average (excl. Amazon)", format_inr(overview_stats["mean"]))
+    c4.metric("Largest Penalty (excl. Amazon)", format_inr(overview_stats["max"]))
     st.caption(
-        "Amazon/Future is excluded from this overview visual because its exceptional penalty "
-        "materially distorts the scale. It remains available throughout the underlying corpus "
-        "and benchmarking tools."
+        "Amazon/Future is excluded from overview penalty statistics and the trend visual "
+        "because its exceptional penalty materially distorts the scale. It remains available "
+        "throughout the corpus and benchmarking tools."
     )
 
     st.divider()
@@ -201,7 +204,7 @@ def render_overview(df: pd.DataFrame) -> None:
 BENCHMARK_TABLE_COLUMNS = [
     "case_name", "decision_date", "provision",
     "penalty_43a", "penalty_44", "penalty_45", "total_penalty",
-    "conduct_type", "statistical_outlier", "verified", "source_url", "pdf_url",
+    "conduct_type", "verified", "source_url", "pdf_url",
 ]
 
 
@@ -249,7 +252,6 @@ def render_benchmark(df: pd.DataFrame) -> None:
                 "penalty_44": st.column_config.NumberColumn("44", format="%.0f"),
                 "penalty_45": st.column_config.NumberColumn("45", format="%.0f"),
                 "total_penalty": st.column_config.NumberColumn("Total", format="%.0f"),
-                "statistical_outlier": st.column_config.CheckboxColumn("Outlier"),
                 "verified": st.column_config.CheckboxColumn("Verified"),
                 "source_url": st.column_config.LinkColumn("Source", display_text="Open"),
                 "pdf_url": st.column_config.LinkColumn("PDF", display_text="Open"),
