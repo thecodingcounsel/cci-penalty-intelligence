@@ -12,8 +12,8 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
-import altair as alt
 import pandas as pd
+import plotly.graph_objects as go
 import streamlit as st
 
 from src.analytics import compute_penalty_stats, flag_statistical_outliers, format_inr
@@ -32,6 +32,13 @@ METADATA_PATH = "data/corpus_metadata.json"
 # choice on one tab, not a data exclusion - see README "Trust model" / "Amazon handling".
 AMAZON_ORDER_ID = "CCI-1138"
 
+# Restrained palette shared by the CSS below and the Plotly charts in render_overview().
+# Kept in sync by hand with .streamlit/config.toml's [theme] block - one muted accent,
+# no gradients, no additional bright colors.
+ACCENT_COLOR = "#5B8DEF"
+CHART_TEXT_COLOR = "#9aa4b2"
+CHART_GRID_COLOR = "rgba(255, 255, 255, 0.07)"
+
 st.set_page_config(page_title="CCI Penalty Intelligence", layout="wide")
 
 CSS = """
@@ -43,19 +50,45 @@ CSS = """
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
 }
 
-.block-container { padding-top: 2.5rem; padding-bottom: 3rem; max-width: 1180px; }
+/* Hide default Streamlit chrome (hamburger menu, "Made with Streamlit" footer, the
+   decorative top gradient bar) that makes the page read as a prototype rather than a
+   product. The toolbar/running-indicator area is left alone so functionality is untouched. */
+#MainMenu { visibility: hidden; }
+footer { visibility: hidden; }
+[data-testid="stDecoration"] { display: none; }
+
+.block-container { padding-top: 1.75rem; padding-bottom: 3rem; max-width: 1180px; }
+
+/* Title: smaller and less dominant than Streamlit's default st.title size. Subtitle and
+   corpus-info line (both st.caption) are visually secondary via reduced opacity/size. */
+h1 { font-size: 1.65rem !important; font-weight: 600 !important; margin-bottom: 0.1rem !important; }
+[data-testid="stCaptionContainer"] { opacity: 0.62; font-size: 0.85rem; }
+
+/* Tighten the default gap Streamlit puts between stacked elements so the page doesn't feel
+   like it has dead vertical space, while still leaving deliberate room via st.divider(). */
+[data-testid="stVerticalBlock"] { gap: 0.6rem; }
 
 /* Metric labels: title case as written in the Python code (no forced uppercase), medium
    weight rather than bold, muted via opacity so it adapts to both light and dark themes. */
 [data-testid="stMetricValue"] { font-size: 1.7rem; font-weight: 600; letter-spacing: -0.01em; }
 [data-testid="stMetricLabel"] { font-size: 0.82rem; font-weight: 500; opacity: 0.65; letter-spacing: 0.01em; }
 
-hr { margin: 1.5rem 0; border-color: rgba(128, 128, 128, 0.25); }
+hr { margin: 1.1rem 0; border-color: rgba(128, 128, 128, 0.2); }
 h3 { margin-top: 0.25rem; font-weight: 600; }
 
 .cci-hero { padding: 0.25rem 0 0.75rem 0; }
 .cci-hero .cci-label { font-size: 0.82rem; font-weight: 500; opacity: 0.65; margin-bottom: 0.15rem; }
 .cci-hero .cci-value { font-size: 2.8rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
+
+/* Overview metric cards: subtle border, gently rounded corners, modest padding, no shadow. */
+.cci-metric-card {
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.02);
+  padding: 0.85rem 1rem 0.75rem 1rem;
+}
+.cci-metric-card .cci-metric-label { font-size: 0.76rem; font-weight: 500; opacity: 0.6; margin-bottom: 0.35rem; letter-spacing: 0.01em; }
+.cci-metric-card .cci-metric-value { font-size: 1.55rem; font-weight: 600; letter-spacing: -0.01em; line-height: 1.15; }
 
 .cci-tag { display: inline-block; font-size: 0.78rem; padding: 0.18rem 0.6rem; border-radius: 999px;
            background: rgba(128, 128, 128, 0.16); margin: 0 0.3rem 0.3rem 0; white-space: nowrap; }
@@ -105,6 +138,31 @@ def render_hero_metric(label: str, value: str) -> None:
         f'<div class="cci-hero"><div class="cci-label">{label}</div><div class="cci-value">{value}</div></div>',
         unsafe_allow_html=True,
     )
+
+
+def render_metric_card(label: str, value) -> None:
+    st.markdown(
+        f'<div class="cci-metric-card"><div class="cci-metric-label">{label}</div>'
+        f'<div class="cci-metric-value">{value}</div></div>',
+        unsafe_allow_html=True,
+    )
+
+
+def _plotly_layout(**overrides) -> dict:
+    """Shared restrained styling for both Overview charts: transparent background (so the
+    app's own dark background shows through), muted axis text, subtle gridlines, no legend,
+    no Plotly toolbar - avoids the 'default dashboard' look."""
+    layout = dict(
+        showlegend=False,
+        margin=dict(l=10, r=10, t=10, b=10),
+        height=260,
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        font=dict(color=CHART_TEXT_COLOR, size=12),
+        hoverlabel=dict(bgcolor="#1c2129", font_color=CHART_TEXT_COLOR),
+    )
+    layout.update(overrides)
+    return layout
 
 
 def render_tags(items: list[str]) -> None:
@@ -178,23 +236,22 @@ def render_overview(df: pd.DataFrame) -> None:
     overview_stats = compute_penalty_stats(overview_df, "penalty_43a")
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Total Orders", len(df))
-    c2.metric("Median Penalty (excl. Amazon)", format_inr(overview_stats["median"]))
-    c3.metric("Mean / Average (excl. Amazon)", format_inr(overview_stats["mean"]))
-    c4.metric("Largest Penalty (excl. Amazon)", format_inr(overview_stats["max"]))
+    with c1:
+        render_metric_card("Total Orders", len(df))
+    with c2:
+        render_metric_card("Median Penalty (excl. Amazon)", format_inr(overview_stats["median"]))
+    with c3:
+        render_metric_card("Mean / Average (excl. Amazon)", format_inr(overview_stats["mean"]))
+    with c4:
+        render_metric_card("Largest Penalty (excl. Amazon)", format_inr(overview_stats["max"]))
     st.caption("Amazon/Future is excluded from overview penalty statistics.")
 
-    st.divider()
     col_a, col_b = st.columns(2)
 
     with col_a:
         st.markdown("**Penalty trend by year**")
         if not overview_penalized.empty:
-            yearly = (
-                overview_penalized.groupby(overview_penalized["decision_date"].dt.year)["penalty_43a"]
-                .median() / 1_00_000
-            )
-            st.line_chart(yearly.rename("Median penalty (₹ Lakh)"))
+            render_trend_chart(overview_penalized)
         else:
             st.caption("Not enough data to chart yet.")
 
@@ -202,23 +259,56 @@ def render_overview(df: pd.DataFrame) -> None:
         st.markdown("**Most common conduct types**")
         conduct_counts = df[df["conduct_type"] != ""]["conduct_type"].value_counts()
         if not conduct_counts.empty:
-            # st.bar_chart's simplified API truncates long y-axis labels in horizontal mode
-            # with no way to widen the label area - built directly on Altair (which
-            # st.bar_chart itself wraps) instead, with labelLimit set high enough that no
-            # conduct-type label is ever cut off, however long it gets.
-            chart_df = conduct_counts.rename("Orders").rename_axis("Conduct type").reset_index()
-            chart = (
-                alt.Chart(chart_df)
-                .mark_bar()
-                .encode(
-                    x=alt.X("Orders:Q", title="Orders"),
-                    y=alt.Y("Conduct type:N", sort="-x", title=None, axis=alt.Axis(labelLimit=500)),
-                )
-                .properties(height=alt.Step(30))
-            )
-            st.altair_chart(chart, width="stretch")
+            render_conduct_chart(conduct_counts)
         else:
             st.caption("No conduct-type intelligence extracted yet.")
+
+
+def render_trend_chart(overview_penalized: pd.DataFrame) -> None:
+    yearly = (
+        overview_penalized.groupby(overview_penalized["decision_date"].dt.year)["penalty_43a"]
+        .median() / 1_00_000
+    )
+    # Years as category-typed strings, not a numeric axis - the only way to guarantee
+    # Plotly never applies thousands-grouping (e.g. "2,013") to a tick label.
+    years = [str(int(y)) for y in yearly.index]
+
+    fig = go.Figure(go.Scatter(
+        x=years, y=yearly.values, mode="lines+markers",
+        line=dict(color=ACCENT_COLOR, width=2),
+        marker=dict(size=5, color=ACCENT_COLOR),
+        hovertemplate="%{x}: ₹%{y:.1f} Lakh<extra></extra>",
+    ))
+    fig.update_layout(**_plotly_layout(
+        xaxis=dict(type="category", showgrid=False, tickfont=dict(size=11)),
+        yaxis=dict(
+            showgrid=True, gridcolor=CHART_GRID_COLOR, zeroline=False, tickformat=".0f",
+            title=dict(text="₹ Lakh", font=dict(size=11)),
+        ),
+    ))
+    st.plotly_chart(fig, width="stretch", config={"displayModeBar": False})
+
+
+def render_conduct_chart(conduct_counts: pd.Series) -> None:
+    labels = conduct_counts.index.tolist()  # value_counts() is already sorted largest-first
+    values = conduct_counts.values.tolist()
+
+    fig = go.Figure(go.Bar(
+        x=values, y=labels, orientation="h",
+        marker=dict(color=ACCENT_COLOR),
+        hovertemplate="%{y}: %{x}<extra></extra>",
+    ))
+    fig.update_layout(**_plotly_layout(
+        margin=dict(l=10, r=20, t=10, b=30),
+        # automargin lets Plotly reserve exactly as much left space as the longest label
+        # needs (e.g. "Pre-closing consummation") - no truncation, no manual guessing.
+        yaxis=dict(autorange="reversed", showgrid=False, automargin=True, tickfont=dict(size=11)),
+        xaxis=dict(
+            showgrid=True, gridcolor=CHART_GRID_COLOR, tickformat="d",
+            title=dict(text="Orders", font=dict(size=11)),
+        ),
+    ))
+    st.plotly_chart(fig, width="stretch", config={"displayModeBar": False})
 
 
 # ------------------------------------------------------------------------------------------

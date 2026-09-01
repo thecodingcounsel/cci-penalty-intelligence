@@ -1,5 +1,5 @@
 streamlit>=1.38
-altair>=5.0
+plotly>=5.20
 pandas>=2.2
 requests>=2.31
 pymupdf>=1.24

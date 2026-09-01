@@ -1,0 +1,11 @@
+# Explicit theme so the app looks the same for every viewer regardless of their system
+# light/dark preference, rather than relying on Streamlit's default light theme or
+# auto-detection. Restrained palette: dark background, off-white text, one muted accent -
+# see app.py's ACCENT_COLOR (kept in sync with primaryColor below by hand).
+[theme]
+base = "dark"
+primaryColor = "#5B8DEF"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161b22"
+textColor = "#e6edf3"
+font = "sans serif"
