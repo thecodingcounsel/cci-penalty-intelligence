@@ -1,0 +1,715 @@
+ 
+Page 1 of 17 
+ 
+COMPETITION COMMISSION OF INDIA 
+Combination Registration No. C-2025/05/1283 
+Non-Confidential 
+ 
+20  May 2026 
+ 
+Proceedings under Section 43A of the Competition Act, 2002 in relation to notice filed 
+under sub-section (2) of Section 6 of the Act by Manipal Health Systems Private Limited 
+and Manipal Education and Medical Group India Private Limited. 
+ 
+CORAM:  
+ 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Mr. Anil Agrawal  
+Member 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearances: Mr. Samir Gandhi, Advocate; Mr. Rahul Rai, Advocate; Mr. Ankit Majumdar, 
+Advocate and Mr. Ravi Gangal, Advocate  
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+A. 
+BACKGROUND 
+ 
+1. 
+The Competition Commission of India (Commission) in its meeting held on 24th June 2025 
+had considered the notice dated 09th May 2025 received under sub-section (2) of Section 6 
+of the Act filed by Manipal Health Systems Private Limited (Acquirer 1/ MHSPL) and 
+Manipal Education and Medical Group India Private Limited (Acquirer-2 / MEMGIPL) 
+[hereinafter, Acquirer-1 and Acquirer-2 are collectively referred to as “Acquirers”] and 
+passed an order under sub-section (1) of Section 31 of the Competition Act, 2002 (Act) 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 2 of 17 
+ 
+approving the combination without prejudice to any proceeding under Section 43A of the 
+Act (Order).  
+ 
+Description of the Parties 
+ 
+2. 
+Acquirer 1: Acquirer-1 is a privately held healthcare company in which Manipal Global 
+Health Services (MGHS) and Acquirer-2 are majority shareholders, while MEMG Family 
+Office LLP (MEMG FO) owns a minority shareholding. It provides a diverse range of 
+services, including hospital services, research services, telemedicine, home healthcare, and 
+medical tourism.  
+ 
+3. 
+Acquirer 2: Acquirer-2, incorporated in India, is a private limited company and ultimately 
+belongs to the Pai Family Group. Its shareholding is split between RSP Trust (India) being 
+the sole majority shareholder and MEMG FO, MEMG International India Private Limited 
+and Dr. Arun being its minority shareholders. It is engaged in the provision of management 
+consultancy services and advisory activities to customers in India and does not have any 
+operations other than that in India.  
+ 
+4. 
+Pai Family: The Pai Family comprises Dr. Ranjan Pai, Mrs. Shruti Pai, Ms. Sanya Pai and 
+Ms. Rhea Pai (together referred to as “Pai Family”). The Pai Family is treated as the 
+ultimate parent of the Pai Family Group, including the Acquirers. Thus, the Acquirers may 
+be said to belong to the Pai Family Group.The Pai Family and Pai Family Group, including 
+through their affiliates, are engaged in (i) running and managing hospitals and providing 
+health care services; (ii) providing management business consultancy and other related 
+services; (iii) providing services in finance, management, administration, legal, human 
+resources development and other related fields; (iv) management and administration of 
+teaching hospitals; (v) operating various hospitals or clinics for providing healthcare 
+services; and (vi) providing educations and related services. It is submitted in the notice 
+that educational institutions operated by the Acquirer Group offer their services primarily 
+in the formal education segment and not in the market for non-formal education. 
+ 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 3 of 17 
+ 
+5. 
+Target: The Target is Aakash Educational Services Limited (Target/AESL). Aakash 
+Edutech Private Limited (AEPL) is the 100% subsidiary of the Target. The Target operates 
+classroom centres (including its franchisee centres) (Aakash Centres) across India. Further, 
+the Target offers its services through multiple modes such as classroom-based coaching, 
+online learning, distance learning and hybrid learning programmes. The Target (directly or 
+through its subsidiary or its franchisees) provides following services: (i) coaching services 
+supplementing their classroom learning curated learning resources for class 8; (ii) 
+preparatory coaching services for junior competitive scholarship tests and merit-based 
+entrance tests, such as Olympiads and NTSE; (iii) coaching services supplementing their 
+classroom learning curated learning resources for class 9 to 10; and (iv) coaching services 
+supplementing their classroom learning curated learning resources for science stream for 
+classes 11 and 12. 
+ 
+Transaction 
+ 
+6. 
+The Commission in its Order dated 24th June 2025 approved the combination filed pursuant 
+to, inter alia, the Share Purchase Agreement dated 30th April 2025 (SPA) entered into by 
+the Acquirers with J. C. Chaudhry (Seller), the founder of the Target [hereinafter, the 
+Acquirers and the Target are collectively referred to as the ‘Parties’].  
+ 
+7. 
+Under the terms of the SPA, the Acquirers agreed to purchase approximately 11.03% of 
+the total issued and paid-up share capital of the Target on a fully diluted basis from the 
+Seller (Notified Transaction/Combination). Out of this, Acquirer-1 agreed to acquire 
+7.39%, while Acquirer-2 agreed to acquire 3.64% of the Target’s total equity shareholding.  
+ 
+Submissions in the Notice 
+ 
+8. 
+With respect to Notified Transaction, it was submitted in the notice that Acquirer-1 and 
+MEMG FO by way of Combination Registration No. C-2024/05/1142 had earlier sought 
+the approval of the Commission for the acquisition of approximately 39.61% stake in the 
+Target by Acquirer-1, and acquisition of approximately 8.25% stake in the Target by 
+MEMG FO. Both of which were approved by the Commission by way of an order dated 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 4 of 17 
+ 
+23rd July 2024. However, MEMG FO’s proposed acquisition of 8.25% stake in the Target 
+is still not complete due to ongoing litigation. Meanwhile, in November 2024, the 
+shareholders of the Target approved certain amendments to its Articles of Association 
+(AoA), pursuant to which Acquirer-1 (together with any other entities controlled by Dr 
+Ranjan Pai or his relatives) were granted various rights in the Target in addition to the 
+ordinary shareholder rights that vested in it by virtue of its shareholding of more than 26% 
+in the Target. 
+ 
+9. 
+Further, on 24th February 2025, MNI Ventures, an affiliate of the Acquirers, acquired 
+approximately 6.91% and 0.84% of the Target’s total equity share capital from Singapore 
+VII Topco I Pte. Limited (Singapore Topco) and BCP Asia Athena ESC (Cayman) 
+Limited (BCP Asia), respectively (collectively, ‘Blackstone Acquisition’). Thereafter, 
+the Combination, as mentioned above, was completed on 30th April 2025 following which 
+the equity shareholding of the Acquirers, together with their affiliates increased to 
+approximately 58.39%. 
+ 
+B. 
+ISSUE OF SHOW CAUSE NOTICE (SCN) 
+ 
+10. The Commission considered the matter in its meeting held on 24th June 2025 and observed 
+that vide order dated 23rd July 2024, in Combination Registration No. C-2024/05/1142, the 
+approval was granted for the acquisition of approximately 39.61% stake in the Target by 
+Acquirer-1 and approximately 8.25% stake in the Target by MEMG FO. The said order 
+noted that post the completion of the acquisition by MEMG FO, the Acquirers will together 
+hold up to approximately 48% of the Target’s share capital. However, the rights in the 
+Target granted to Acquirer-1 (together with other entities controlled by Dr Ranjan Pai or 
+his relatives) by way of Amendment to AoA of the Target in November 2024 (AoA 
+Amendment) and the Blackstone Acquisition were not a subject matter of approval in 
+Combination Registration No. C-2024/05/1142. Both these events/transactions as well as 
+the Combination notified by way of instant notice took place subsequent to and in addition 
+to the transactions disclosed in that notice.  
+ 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 5 of 17 
+ 
+11. It was noted that various rights were granted to the Acquirer-1 (together with any other 
+entities controlled by Dr Ranjan Pai or his relatives) in the Target by way of AoA 
+Amendment are in addition to the ordinary shareholder rights that vested in it by virtue of 
+its shareholding of more than 26% in the Target. ******************************* 
+************************************************************************
+************************************************************************
+************************************************************************
+********** However, the acquisition of these rights were made without any notice to or 
+approval of the Commission. 
+ 
+12. Regarding Blackstone Acquisition, it was submitted in the notice that on the date of the 
+Blackstone Acquisition, the Acquirers and their affiliates only held approximately 39.61% 
+stake in the Target and increased their stake to approximately 48% pursuant to the 
+transaction (which was below 50%) without acquisition of any additional rights. Hence, 
+the said acquisition was exempt under Item 4 of the Schedule in the Competition (Criteria 
+for Exemption of Combinations) Rules, 2024 (Item 4 Exemption).  
+ 
+13. However, it was noted that the Commission in Combination Registration No. C-
+2024/05/1142 had approved the acquisition of up to approximately 48% of the Target’s 
+share capital. Considering the same, the Blackstone Acquisition i.e., acquisition of 7.75% 
+stake in the Target by MNI Ventures (an affiliate of the Acquirers) appears to be an 
+acquisition in addition to the combination approved in Combination Registration No. C-
+2024/05/1142. Given the foregoing, it appears that the Acquirers and their affiliates 
+exceeded the threshold of 50% in the Target with the Blackstone Acquisition. Hence, the 
+benefit of Item 4 Exemption was not applicable to the Blackstone Acquisition. Therefore, 
+a notice in respect of the same ought to have been given to the Commission, prior to its 
+consummation. Likewise, a notice in respect of Notified Transaction also ought to have 
+been given to the Commission prior to its consummation. 
+  
+14. Accordingly, an Order dated 24th June 2025 (SCN Order) was passed by the Commission 
+under Section 43A of the Act read with Regulation 48 of the Competition Commission of 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 6 of 17 
+ 
+India (General) Regulations, 2009, directing the Acquirers and their affiliate MNI 
+Ventures, to explain, in writing, within a time period of 15 days from the receipt of the 
+SCN Order, why they should not be found in contravention of the provisions of the Act 
+and why no penalty in terms of Section 43A of the Act should be imposed upon them. The 
+SCN Order was communicated to the Acquirers vide letter dated 16th July 2025 and the 
+Acquirers submitted their response on 1st September 2025 (SCN Response), after seeking 
+extension of time. 
+ 
+C. 
+RESPONSE TO SCN  
+ 
+15. In their SCN Response, the Acquirers submitted that their actions were solely driven by a 
+commitment to preserve the Target's financial stability and protect the interests of its 
+numerous stakeholders, especially students across India who rely on its services for 
+preparation of competitive examinations and would have faced severe disruption had the 
+Target been unable to continue its operation .  
+ 
+16. It is submitted that the Target and its earlier parent company, Think & Learn Private 
+Limited (T&L), suffered from financial and management irregularities since 2022. The 
+Manipal Group disbursed multiple loans to T&L and the Target between June 2023 to 
+February 2024, to ensure the Target’s operations and financial viability. Despite these 
+efforts, in 2023, the Target defaulted on its debentures valued at INR 2,000 crores. 
+Additionally, T&L, as the Target’s corporate guarantor for the debentures, continued to 
+face severe financial distress, including ongoing insolvency proceedings. This compelled 
+Acquirer-1, the debenture holder, to immediately undertake the acquisition in January 2024 
+converting the debentures into approximately 39.61% of the Target’s total equity share 
+capital (Initial Acquisition), which was duly notified to and approved by the Commission 
+in Combination Registration C-2024/05/1142. 
+ 
+17. While the Initial Acquisition's capital infusion reduced the Target’s debt, it was insufficient 
+for continued viability, particularly because T&L, a significant shareholder in the Target, 
+was undergoing corporate insolvency proceedings and was in severe financial distress. The 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 7 of 17 
+ 
+Manipal Group (to which the Acquirers belong) was mindful of the impact on the Target 
+and its students, and had intended to acquire an additional approximately 8.25% equity 
+shareholding in the Target, which was secured as collateral for a loan advanced to the 
+Target in October 2023. The proposed acquisition of this additional approximately 8.25% 
+in the Target was notified to the Commission by the Acquirer along with the Initial 
+Acquisition in Combination Registration No. C-2024/05/1142 and was duly approved. 
+However, despite the Commission’s approval for this proposed acquisition, the Manipal 
+Group has not completed this additional acquisition of 8.25% shares of the Target due to 
+ongoing litigation across multiple forums. 
+ 
+18. Given these circumstances, the Acquirers were compelled to undertake both the Blackstone 
+Acquisition and the Notified Transaction purely with a view to protect the Target, and more 
+importantly its staff, employees, and students. 
+ 
+i. 
+The Acquirers should not be penalised under Section 43A of the Act with respect 
+to the Notified Transaction: 
+ 
+19. With respect to the Notified Transaction, it is submitted that the Seller was the original 
+founder of the Target and was engaged in protracted litigation before various courts and 
+tribunals in India over his approximately 11.03% shareholding in the Target. In light of the 
+Target’s precarious financial situation and the need to protect the interests of its students, 
+the Acquirer and the Seller decided not to pursue further proceedings in courts, ……… 
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+……………………………………………………………………………………………
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 8 of 17 
+ 
+……………………………………………………………………………………………
+……………………………… . 
+ 
+20. It is submitted that given the Target’s deteriorating financial condition, it was equally 
+critical for the Acquirers to complete the Notified Transaction at the earliest for, inter alia, 
+the following reasons: (i) financial distress of key shareholder i.e., T&L; (ii) the Target’s 
+financial vulnerability, due to presence of T&L as a significant shareholder in the Target  
+and lack of necessary rights with the Acquirers/Manipal Group to make decisions with 
+respect to the Target’s business operations and management without the consent of other 
+shareholders; (iii) protection of Acquirers’ rights from T&L’s insolvency proceedings 
+which resulted in numerous legal proceedings involving both T&L and the Target  as well 
+as the Acquirers; (iv) ******************************************************* 
+************************************************************************
+************************************************************************
+************************************************************************
+************************************************************************
+************************************************************************
+************************************************************************
+************************************************************************
+***********************************.  
+ 
+21. It is submitted that had the Acquirers not consummated the Notified Transaction at the 
+earliest, the Target’s financial condition and economic viability would have deteriorated 
+further or become collateral to T&L’s insolvency proceedings, adversely impacting the 
+interest of the students enrolled with the Target and other stakeholders.  
+ 
+22.  Therefore, it is submitted that the above noted critical and extenuating circumstances, 
+necessitate interpreting Sections 6(2), 6(2A) and 43A of the Competition Act purposively 
+and holistically. Such an approach will demonstrate that the Acquirers’ acquisition of the 
+Target’s shares pursuant to the Notified Transaction neither warrants a finding of 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 9 of 17 
+ 
+infringement under Sections 6(2) and 6(2A) of the Competition Act nor requires imposition 
+of any penalty under Section 43A of the Competition Act. 
+ 
+23. Further, it is submitted that the Notified Transaction does not warrant any penalties under 
+Section 43A of the Act, for the following additional reasons: 
+a) Absence of special rights: The Acquirers did not enter into a shareholders' agreement 
+with the Target or its shareholders concerning the Notified Transaction. Therefore, they 
+did not obtain special contractual rights in the Target through this transaction. 
+b) The Notified Transaction helped sustain competition and did not result in AAEC 
+in India: The Notified Transaction helps sustain competition in the market for the 
+students enrolled with the Target as it ensures the continued financial stability and 
+viability of the Target.  
+c) The Acquirers have acted in a bona fide manner: The Acquirers submit that their 
+continued engagement and cooperation with the Commission demonstrates their bona 
+fides and underscores their genuine commitment to complete transparency and 
+cooperation.  
+ 
+24. Accordingly, the Acquirers have requested the Commission to consider all the mitigating 
+and exonerating circumstances highlighted above, and exercise its discretion under Section 
+43A, read with Section 6(2) and 6(2A), in a favourable manner and not impose any 
+penalties on the Acquirers. 
+ 
+ii. The Blackstone Acquisition was exempt from notification to the Commission 
+ 
+25. It is submitted that SCN incorrectly alleges that the Manipal Group had an obligation to 
+notify the Blackstone Acquisition to the Commission. It is submitted that the Blackstone 
+Acquisition did not necessitate a notification under Section 6(7) of the Competition Act, 
+as it met the criteria for the Item 4 Exemption, which applies to additional acquisitions if: 
+(a) the acquirer already holds more than 25% of the target’s shares or voting rights; (b) the 
+acquisition does not result in an increase in its shareholding to 50% or higher; and (c) there 
+is no change of control over the target. 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 10 of 17 
+ 
+ 
+26. It is submitted that the Blackstone Acquisition satisfies all these elements in the following 
+manner: 
+ 
+a) The Manipal Group already held more than 25% of the Target’s shareholding: 
+i. 
+On 24th February 2025, the Blackstone Acquisition was finalised. At this point, 
+the Manipal Group held approximately 39.61% of the Target’s equity shares. 
+While Combination Registration No. C/2024/05/1142, concurrent with the Initial 
+Acquisition, included a proposal for the Manipal Group to acquire an additional 
+8.25% shareholding in the Target, these shares have not yet been acquired due to 
+ongoing legal proceedings. 
+ii. 
+Till date, the Acquirers have not acquired, and hence do not hold, the 
+approximately 8.25% shares of the Target for which they had sought and received 
+the Commission’s approval. In fact, the Target did not register the Manipal Group 
+as the owners of these additional approximately 8.25% equity shares of the Target 
+under Section 56 of the Companies Act, 2013 (Companies Act).  
+iii. 
+Therefore, absent the acquisition of the proposed approximately 8.25% equity 
+shareholding in the Target, the Manipal Group’s shareholding in the Target 
+remained at approximately 39.61%, i.e., remained above 25%. 
+ 
+b) The Manipal Group’s shareholding in the Target did not increase to over 50% as 
+a consequence of the Blackstone Acquisition:  
+i. 
+The Manipal Group’s total shareholding in the Target as on date of the Blackstone 
+Acquisition was approximately 39.61%. The Manipal Group did not “hold” 
+approximately 48 % of the Target as on the date of the Blackstone Acquisition. 
+ii. 
+With respect to the acquisition of approximately 8.25% shares of the Target, it is 
+submitted that the buyer (i.e., MEMG Family Office LLP) and the seller (i.e., 
+T&L) are yet to complete the transaction by exchanging the relevant shares for 
+the agreed consideration; and 
+iii. 
+the Target is yet to register the Manipal Group as the owners of these additional 
+approximately 8.25% equity shares of the Target. Consequently, the acquisition 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 11 of 17 
+ 
+of an additional approximately 7.75% equity shareholding in the Target through 
+the Blackstone Acquisition increased the Acquirers/their affiliates’ cumulative 
+shareholding to approximately 48 % and not more than 50% as the SCN notes.  
+ 
+c) The Manipal Group did not acquire additional control over the Target pursuant 
+to the Blackstone Acquisition: The Manipal Group did not acquire additional control 
+over the Target, resulting in either a change in the degree or the quality of control that 
+it previously exercised in the Target pursuant to the Blackstone Acquisition. Prior to 
+the Blackstone Acquisition, the sellers, i.e., Singapore Topco and BCP Asia, had 
+waived all their existing rights in the Target. As such, the Blackstone Acquisition did 
+not result in a change in the Acquirers/Manipal Group’s control over the Target. 
+ 
+27. In view of above, it is submitted that the Blackstone Acquisition did not result in the 
+acquisition of shares in the Target exceeding 50% or change in the Acquirers/Manipal 
+Group’s control over the Target and was, consequently, exempt from notification to the 
+Commission under Section 6(7) of the Act, read with the Item 4 Exemption. 
+ 
+iii. 
+A contrary view will absolve the Acquirers of an obligation to notify the Notified 
+Transaction: 
+ 
+28. It is submitted that if the Commission considers that the Blackstone Acquisition did not 
+qualify for the Item 4 Exemption given the Manipal Group’s continuing endeavour to 
+acquire an additional 8.25% shareholding in the Target, the Notified Transaction would 
+qualify for the exemption under Item 5 of the Exemption Rules (Item 5 Exemption), which 
+exempts additional acquisitions, if (a) the acquirer already holds more than 50% of the 
+shares in the target, and (b) the acquisition does not result in a change of control. 
+ 
+iv. The AoA Amendment did not result in a change in control over the Target: 
+ 
+29. It is submitted that the AoA Amendment of the Target did not result in acquisition of 
+additional control over the Target by the Manipal Group, either in terms of ‘degree’ or 
+‘quality’, for the following reasons: 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 12 of 17 
+ 
+ 
+a) The Manipal Group already exercised control over the Target: At the time of the 
+AoA Amendment, the Manipal Group, through MHSPL, had an approximate 
+shareholding of 39.61% in the Target. With Manipal Group’s shareholding in the 
+Target exceeding 25%, Section 14 of the Companies Act, empowered it to block 
+critical special-resolutions, such as amendments to the Target’s charter documents, 
+capital reductions, mergers/demergers, business sales, related-party transactions 
+exceeding specified limits, and company winding-up procedures. As such, the 
+Manipal Group already exercised ‘negative’ control over the Target. 
+  
+b) No change in either the ‘degree’ or ‘quality’ of control: The AoA Amendment did 
+not alter the 'degree' or 'quality' of the Manipal Group's control over the Target. 
+Despite not holding 50% or more shares in the Target, being its largest shareholder 
+(as of the AoA Amendment), the Manipal Group already exercised some degree of 
+control due to normal voting rights in proportion to its shareholding. Further, the rights 
+acquired through the AoA Amendment did not confer any new or enhanced 
+operational control.**************************************************** 
+********************************************************************
+********************************************************************
+********************************************************************
+***********************************************************.********
+************************************************* Accordingly, the AoA 
+Amendment did not alter the extent or nature of the Manipal Group's pre-existing 
+control in the Target and hence, did not require a notification to or an approval from 
+the Commission. 
+ 
+30. The Acquirers have urged the Commission to consider the above factors, particularly given 
+the Target’s ongoing financial challenges and the need for stable ownership to support 
+thousands of students who depend on the Target for their future. In light of the above, the 
+Acquirers have requested the Commission to not impose any penalty for any alleged 
+contraventions of the Act.  
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 13 of 17 
+ 
+ 
+D. 
+OBSERVATIONS OF THE COMMISSION 
+ 
+31. The Commission has considered the material on record and heard the arguments of the 
+learned counsel in the matter on 16th December 2025. Further, the Acquirer were also 
+granted liberty to submit their written submission which were submitted on 23rd December 
+2025. 
+ 
+32. Upon consideration of the above, it is noted that the primary argument made regarding the 
+Blackstone Acquisition is that since the Acquirers are yet to acquire the additional 
+approximately 8.25% equity shares for which they had earlier sought and received the 
+Commission’s approval, the benefit of Item 4 exemption would apply. Also, the Target has 
+not registered them as the owners of 8.25% equity shares since the ownership of these 
+shares is still under litigation and the Acquirers are unable to acquire them despite their 
+best efforts. Therefore, it would be incorrect to aggregate these litigated shares with the 
+Parties’ overall shareholding in the Target for assessing applicability of Item 4 Exemption 
+to the Blackstone Acquisition. Moreover, no rights were acquired as a result of the 
+Blackstone Acquisition. This is because the rights of the Blackstone entities in the Target 
+had been terminated well before the Blackstone Acquisition was contemplated. 
+ 
+33. Additionally, it is contended that if a contrary view were to be taken, then the Manipal 
+Group’s total shareholding in the Target prior to the Notified Transaction would be 
+approximately 55.61%, i.e., more than 50%. In such a situation, the acquisition of 
+additional shares through the Notified Transaction i.e., acquisition of approximately 
+11.03% shareholding in the Target (resulting in Acquirer’s shareholding in the Target 
+increasing to approximately 66.64% but less than 75%), would satisfy the requirements of 
+Item 5 Exemption. This is so because the rights of the Seller in the Target had been 
+terminated well before the Parties contemplated this acquisition. 
+ 
+34. Regarding rights acquired by way of the AoA Amendment, pursuant to which Acquirer-1 
+(together with any other entities controlled by Dr Ranjan Pai or his relatives) were granted 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 14 of 17 
+ 
+certain rights in the Target, it is submitted that the AoA Amendment did not result in a 
+change of control over the Target  or acquisition of additional degree of control by the 
+Manipal Group. ********************************************************** 
+*********** the Manipal Group remained a minority on the Target’s board of directors.  
+ 
+35. In response to the Commission’s query during the hearing, ,************************* 
+***********************************************************************
+***********************************************************************
+***********************************************************************
+***********************************************************************
+************Despite the rights granted to the Manipal Group through the AoA 
+Amendment, it did not exercise these rights in AESL. It did not entitle exercise of control 
+over the Target’s board of directors. .****************************************** 
+*********************************************************************** 
+Further, the AoA Amendment is currently pending litigation from various parties and has 
+not been implemented. 
+ 
+36. Lastly, regarding the Notified Transaction involving the acquisition of 11.03% of the 
+Target’s equity share capital by Acquirers on a post-issue fully diluted basis being 
+completed prior to submitting the notice to the Commission, the Acquirers have not denied 
+the same, but emphasised the critical and extenuating circumstances underpinning Notified 
+Transaction due to which they were constrained to proceed with Notified Transaction. 
+Further, relying upon the mitigating circumstances, as outlined above, they have prayed 
+that they ought not to be held guilty of contraventions of the Act or imposed penalty upon.  
+ 
+37. Further, the Acquirers have emphasised that they acted in good faith ************** 
+**************************************** and filed the Notice within nine days 
+from signing the trigger document, i.e., the SPA and having purchased the shares. It is 
+submitted that they could not have approached the Commission prior to signing the trigger 
+document as required under Section 6(2) of the Act and the signing was contingent upon 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 15 of 17 
+ 
+immediate closing. Furthermore, a full and voluntary disclosure of all events was made to 
+the Commission, including both the AoA Amendment and the Blackstone Acquisition in 
+the Notice itself. 
+ 
+38. Upon consideration of the submissions made in the Notice, the SCN Response and during 
+the hearing, the Commission finds that the Blackstone Acquisition, AOA Amendment as 
+well as the Notified Transaction were all consummated without being notified to the 
+Commission. 
+ 
+39. It is pertinent to note that the merger control regime in India is mandatory and suspensory 
+in nature. This means that combinations are notifiable unless they can avail any exemptions 
+and cannot be consummated, either entirely or in part, before an approval from the 
+Commission. Section 5 of the Competition Act provides the assets and turnover criteria for 
+acquisitions of control, shares, voting rights or assets as well as mergers and 
+amalgamations that amount to a combination. Section 6(2) of the Competition Act 
+requires/ mandates parties to give notice in respect of their proposed combination. Section 
+6(2A) of the Act provides that a combination notified to the Commission shall not come 
+into effect for a period of 150 days from the date of notification or approval by the 
+Commission, whichever is earlier. It is also pertinent to mention here that the mandatory 
+regime for notifying a proposed combination to the Commission is applicable, irrespective 
+of whether the combination causes appreciable adverse effect on competition in India or 
+not.  
+ 
+40. In the facts and circumstances of the instant matter, even if the submissions made regarding 
+notifiability of Blackstone Acquisition and the AoA amendment made by the Acquirers 
+were to be accepted by the Commission, it cannot be denied that the Notified Transaction 
+was consummated in contravention of the provisions of the Act. It was incumbent upon 
+the Acquirers to be in conformity with all relevant provisions of the Act and applicable 
+regulations; however, the transactions were consummated by them without filing a notice 
+and without seeking the approval of the Commission.   
+ 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 16 of 17 
+ 
+E. 
+CONTRAVENTION AND PENALTY 
+ 
+41. In view of the foregoing, the Commission is of the opinion that there is contravention of 
+the provisions of sub-section (2) of Section 6 and sub-section (2A) of Section 6 of the Act 
+by the Acquirers. It is to be noted that failure to give notice in accordance with sub-section 
+(2) of Section 6 of the Act attracts penalty under Section 43A of the Act.  
+ 
+42. The Hon’ble Supreme Court in ‘Competition Commission of India v Thomas Cook (India) 
+Ltd. & Anr.’1 has held that: “For   the   imposition   of penalty under section 43A, the 
+action may not be mala fide in case there is a breach of the statutory provisions of the civil 
+law, penalty is attracted simpliciter on its violation.” In terms of Section 43A of the Act, 
+a maximum penalty of one per cent of the combined value of turnover of the parties in 
+India can be imposed.  
+ 
+43. It is to be noted that Section 43A of the Act prescribes the maximum extent of penalty that 
+can be levied for failure to file notice; however, the Commission can consider the conduct 
+of the parties and circumstances of the case to arrive at an appropriate amount of penalty. 
+ 
+44. In the instant matter, the Acquirers by consummating the transaction without filing a notice 
+contravened the provisions of Section 43A read with Section 6(2) and Section 6(2A) of the 
+Act. Therefore, they cannot be exculpated of their statutory obligation thereunder. In fact, 
+this is not the first instance of contravention of the provisions of the Act. Earlier, in 
+Combination Registration No. C-2024/05/1142 also, Acquirer-1 had consummated the 
+acquisition of an approximately 39.61% stake in the Target without notifying the 
+Commission. 
+ 
+45. However, the Commission has considered the mitigating circumstances mentioned above 
+and the conduct of the Acquirers whereby they disclosed the transaction voluntarily and 
+extended cooperation and provided the material/documents as sought by the Commission. 
+Thus, considering the facts and circumstances of the case and the conduct of the Acquirers 
+ 
+1 Civil Appeal No.13578 OF 2015 (17 April 2018) 
+
+ 
+ 
+ 
+Combination Registration No. C-2025/05/1283 
+ 
+ 
+ 
+ 
+Page 17 of 17 
+ 
+in the matter, the Commission decides to impose a penalty of INR 50,00,000 (INR Fifty 
+Lakh only) in the matter. The penalty shall be paid within 60 days from the date of receipt 
+of this order. 
+ 
+46. It is made clear that nothing used in this order shall be deemed to be confidential or deemed 
+to have been granted confidentiality, as the same has been used for the purposes of the Act 
+in terms of the provisions contained in Section 57 thereof. 
+ 
+47. The Secretary is directed to communicate to the Acquirers, accordingly.           
+ 
+ 

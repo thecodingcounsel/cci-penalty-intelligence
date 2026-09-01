@@ -1,0 +1,503 @@
+ 
+ 
+ 
+ 
+ 
+Page 1 of 10 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+9th August 2023 
+ 
+ 
+Proceedings against Axis Bank Limited under Section 43A of the Competition Act, 2002 
+ 
+ 
+CORAM: 
+ 
+Ms. Ravneet Kaur  
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+ 
+Appearances during the hearing: 
+For Axis Bank Limited 
+: Mr. Rajshekhar Rao, Senior Advocate with Mr. Sagardeep Rathi, 
+Ms. Alisha Mehra, Mr. Harshil Wason and Mr. Yashraj Samant, 
+Advocates along with Mr. Sapan Siddharth and Mr. Rahul Jain, 
+representatives of Axis Bank Limited 
+ 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+1. 
+This Order shall dispose of the proceedings under Section 43A of the Competition Act, 
+2002 (Act) against Axis Bank Limited (Axis Bank) in relation to its acquisition of stake 
+in CSC e-Governance Services India Limited (CSC e-Governance). 
+ 
+Transaction and the Parties 
+ 
+2. 
+The transaction under consideration comprised acquisition of 9.91% stake in CSC e-
+Governance by Axis Bank (Axis–CSC e-Governance Acquisition). The Axis–CSC e-
+Governance Acquisition was closed on 23rd November 2020. No notice was given to the 
+Commission, under Section 6(2) of the Act, in relation to the Axis–CSC e-Governance 
+Acquisition. 
+ 
+3. 
+It has been submitted that Axis Bank is a banking company and CSC e-Governance is a 
+special purpose vehicle (SPV), established to oversee implementation of the Common 
+
+ 
+          Page 2 of 10 
+Service Centres (CSC) Scheme. CSC Scheme is a project under the Digital India 
+Programme of the Ministry of Electronics and Information Technology (MEITY), 
+Government of India (GoI), to provide access points for the delivery of essential public 
+utility services, social welfare schemes, healthcare, financial, education and agriculture 
+services, and a host of business-to-consumer services to the people in rural and remote 
+areas. 
+ 
+Initiation of Proceedings 
+ 
+4. 
+The Commission in its meeting held on 29th December 2021, in order to assess whether 
+further proceeding is required under Section 20(1) and/or Section 43A of the Act, in 
+relation to acquisition of stake in CSC e-Governance by Axis Bank, under Section 36(4) 
+of the Act, directed Axis Bank to furnish certain information and documents within 
+specified time. Axis Bank submitted its response vide communication dated 21st 
+February 2022 (Response I). 
+ 
+5. 
+Upon perusal of the Response I, it was considered necessary to obtain further 
+information from Axis Bank. In response to communication dated 23rd August 2022, 
+Axis Bank submitted further information, vide its response dated 26th August 2022 
+(Response II). 
+ 
+6. 
+The Commission considered Response I, Response II and other materials available on 
+record. 
+ 
+Transaction and its Rationale 
+ 
+7. 
+Axis Bank entered into a Share Subscription Agreement on 4th November 2020 (SSA) 
+with CSC e-Governance for the Axis–CSC e-Governance Acquisition.  
+ 
+8. 
+Article 4.2 of the SSA provides as under: 
+ 
+4.2 On the Closing Date: 
+… 
+4.2.2. 
+Further, the Investor [i.e., Axis Bank] shall 
+procure and deliver to the Company [i.e., CSC e-Governance] 
+a letter from an identified person, consenting to his/her 
+appointment as director on the board of the Company and such 
+other documents as may be required by the Company for same. 
+… 
+ 
+4.2.4. 
+Upon delivery of requisite documents to the 
+Company in terms of Article 4.2.2, the Company shall include 
+the following agenda in the meeting of the board of director of 
+
+ 
+          Page 3 of 10 
+the Company to be held under Article 4.2.3 [i.e., meeting held 
+for allotment of shares]: 
+ 
+(a) To consider the appointment of the person identified in 
+Article 4.2.2 above as a director on the board of director of 
+the Company; and 
+ 
+(b) Authorising the company secretary of the Company to 
+make necessary filing with the Registrar of Companies 
+(“ROC”) and to provide certified copies of the resolutions 
+passed pursuant to this Article 4.2.4. 
+(emphasis supplied) 
+ 
+9. 
+It has been submitted by Axis Bank that it proposed the nomination of Mr. Sumit Bali 
+as a director on 1st December 2020. The board of CSC e-Governance appointed him as 
+an additional director in the board meeting dated 28th December 2020, and regularised 
+it in the annual general meeting held on 30th November 2021. Mr. Sumit Bali held 
+directorship in CSC e-Governance from 28th December 2020 to 17th February 2022. 
+Again, on 1st February 2022, Axis Bank proposed the nomination of Mr. Munish Sharda 
+as a director, replacing Mr. Sumit Bali. The board of CSC e-Governance appointed Mr. 
+Munish Sharda as an additional director in the board meeting dated 17th February 2022. 
+It was submitted that Mr. Munish Sharda has been holding directorship in CSC e-
+Governance since 17th February 2022. 
+ 
+10. 
+With regard to the objective of the Axis–CSC e-Governance Acquisition, it has been 
+submitted by Axis Bank that CSC e-Governance, being a government-backed entity and 
+having a pan-India presence in deep rural areas, would be well positioned for delivery 
+of government-led initiatives towards the financial inclusion of people living in such 
+areas and implementing direct benefit transfer schemes. Further, the investment would 
+also help the bank gain knowledge and expertise towards the financial inclusion through 
+its association with the company. The investment was aligned with the bank’s focus of 
+looking to expand outreach to deeper rural geographies and towards priority sector 
+lending. Further, Axis Bank, in its disclosure made to stock exchanges (viz., BSE 
+Limited and National Stock Exchange of India Limited) on 5th November 2020, stated 
+that the Axis–CSC e-Governance Acquisition is a strategic investment by Axis Bank. 
+ 
+Issue of Show Cause Notice 
+ 
+11. 
+The Commission was of prima facie opinion that the Axis–CSC e-Governance 
+Acquisition required a notice by Axis Bank to the Commission in terms of the provisions 
+of Section 6(2) of the Act. Accordingly, the Commission vide its order dated 19th 
+September 2022 (SCN), directed Axis Bank to show cause in writing within 15 days of 
+receipt of the SCN, as to why it should not be held in contravention of the provisions of 
+
+ 
+          Page 4 of 10 
+Section 6(2) of the Act, read with Section 43A thereof, for not notifying the transaction 
+to the Commission. The Commission also allowed Axis Bank to make its submissions 
+on the quantum of penalty which may be levied by the Commission, in the event it is to 
+be held in contravention of the provisions of the Act. The SCN was communicated to 
+Axis Bank, vide communication dated 29th September 2022. Axis Bank furnished its 
+response to the SCN, vide submission dated 14th October 2022. 
+ 
+12. 
+Axis Bank requested for an oral hearing in the matter before the Commission. On 4th 
+July 2023, the Commission heard the submissions and arguments of Axis Bank. 
+ 
+Submissions of Axis Bank  
+ 
+13. 
+The contentions of Axis Bank are summarised as follows: 
+ 
+Bona fide error in assessing the applicability of the De Minimis Exemption 
+ 
+14. 
+It has been submitted that at the time of deliberation and in-principal approval of the 
+transaction in the year 2020, Axis Bank internally assessed the requirement for a notice 
+under the Act. While doing so, Axis Bank relied upon the financials of CSC e-
+Governance for the financial year (FY) ending March 2019 (FY 2019). Turnover of 
+CSC e-Governance for FY 2019 stood at INR 919.77 crore which fell below the De 
+Minimis Exemption (i.e., the exemption granted from the provisions of section 5 of the 
+said Act under notification no. S.O. 988(E) dated 27th March 2017 read with notification 
+no. S.O. 1192(E) dated 16th March 2022 issued by the Ministry of Corporate Affairs, 
+Government of India, under Section 54 of the Act) turnover threshold of INR 1,000 
+crore. Axis Bank, under the bona fide belief that the transaction benefitted from the De 
+Minimis Exemption, commenced with the execution of the SSA and closing of the 
+transaction. However, the consolidated turnover of CSC e-Governance for FY 2020, i.e., 
+INR 1095.78 crore, exceeded the De Minimis Exemption turnover threshold only 
+marginally. Axis Bank inadvertently failed to consider the financials of FY 2020. Axis 
+Bank’s oversight in revisiting the notifiability assessment was also a consequence of the 
+transaction size (i.e., INR 36.38 crore) and insignificance of the transaction to Axis 
+Bank’s broader corporate strategy. 
+ 
+Without prejudice, the benefit of the Item 1 of Schedule I of the Combination Regulations 
+is available to the transaction 
+ 
+15. 
+It has been submitted that benefit of the Item 1 of Schedule I of the Competition 
+Commission of India (Procedure in regard to the transaction of business relating to 
+combinations) Regulations, 2011 (Combination Regulations) (Item 1 Benefit) is 
+available, where: (i) an acquisition is made “solely as an investment” or “in the ordinary 
+course of business”, (ii) the acquirer does not hold 25% or more shareholding, (iii) the 
+
+ 
+          Page 5 of 10 
+acquisition does not confer “control”. Further, the Explanation to Item 1 of Schedule I 
+of the Combination Regulations (Explanation to Item 1) treats the acquisition to be 
+“solely as an investment”, if: (i) the acquisition involves less than 10% shareholding; 
+(ii) acquirer gets only those rights that are exercisable by the ordinary shareholders of 
+target to the extent of their shareholding; (iii) acquirer does not intend to participate in 
+the affairs or management of target; and (iv) acquirer is not a member of the board of 
+director of target or does not have a right or intention to nominate a member on the board 
+of director of target. The Axis–CSC e-Governance Acquisition need not have been 
+notified to the Commission as it meets the criteria for the Item 1 Benefit, based on 
+Explanation thereto, as follows: 
+ 
+- 
+The transaction involves a minority investment of 9.91% which falls below the 
+10% threshold; 
+ 
+- 
+The rights exercisable by Axis Bank in CSC e-Governance are “ordinary” 
+shareholder rights. That is to say, Axis Bank has the same rights as all other 
+shareholders of CSC e-Governance except the GoI, which has 1 golden share1. 
+For instance, any shareholder of CSC e-Governance, including Axis Bank, can 
+propose an individual to be appointed on the Board of Directors of CSC e-
+Governance. The Board of Directors of CSC e-Governance, at its sole 
+discretion, can approve the appointment of any person. 
+ 
+- 
+Axis Bank has no intention to participate in the affairs or management of CSC 
+e-Governance. The affairs and management of CSC e-Governance are firmly 
+driven by the GoI initiatives. This becomes even more evident from the MoA 
+of CSC e-Governance wherein: (i) the GoI is granted a golden share, (ii) the 
+GoI has the right to nominate two directors, and (iii) the GoI director is 
+nominated on a non- rotational basis and can only be removed by the relevant 
+office of GoI, unlike ordinary shareholders whose directors are liable to retire 
+by rotation. Therefore, Axis bank’s investment could not have been to control 
+or manage the affairs of CSC e-Governance; 
+ 
+- 
+With respect to the fourth requirement, Axis Bank has admittedly nominated a 
+member to the board of CSC e-Governance. However, this should not be 
+construed in the same light as the right to appoint a director on the board of an 
+entity. Ordinarily, the right to appoint a director on the board of an enterprise 
+is limited to select shareholders and the decision is driven by commercial 
+interests. However, in the case of CSC e-Governance, other than the GoI, no 
+ 
+1 The “golden share” of the GoI entitles it to, inter alia, veto decisions in relation to the Specified Matters (as 
+defined in the Memorandum of Association (MOA) of CSC e-Governance) by voting against any resolution so 
+proposed. 
+
+ 
+          Page 6 of 10 
+other shareholders have such specific rights, and any shareholder can choose to 
+nominate a director which would be subject to the approval of Board of 
+Directors of CSC e-Governance at their sole discretion. There is no certainty 
+that such nominated person would get appointed by the Board of Directors and 
+hence, this should not be construed as a specific right to such shareholder. 
+ 
+16. 
+It has also been submitted that simply because a transaction does not meet the criteria 
+under the Explanation to Item 1, it does not mean that the transaction cannot avail the 
+Item 1 Benefit. Axis Bank acquired 9.91% equity shareholding of CSC e-Governance 
+which is well below the 25% threshold prescribed under the Item 1 Benefit. Axis Bank 
+does not have any special rights, like affirmative voting rights/veto rights, in CSC e-
+Governance and has the same rights as available to all other shareholders. CSC e-
+Governance is a MEITY-backed SPV and its decisions are driven by the GoI initiatives 
+and the outlines of the CSC Scheme. Further, the GoI enjoys a golden share to ensure 
+that the operations of CSC e-Governance remain squarely aligned with the CSC Scheme. 
+For these reasons, the transaction did not confer any control to Axis Bank. For the 
+abovementioned reasons, the transaction satisfies the requirements of the Item 1 Benefit. 
+ 
+Analysis and Findings  
+ 
+17. 
+The Commission has considered the written and oral submissions of Axis Bank. Axis 
+Bank has largely argued that it made a bona fide error in assessing the applicability of 
+the De Minimis Exemption, and without prejudice, the Axis–CSC e-Governance 
+Acquisition is eligible for Item 1 Benefit: (i) based on Explanation thereto, and (ii) 
+otherwise also, i.e., without considering the Explanation to Item 1. 
+ 
+18. 
+Before delving into issues for determination, it is relevant to refer to relevant statutory 
+provisions. Section 6(2) of the Act provides that any person or enterprise who or which 
+proposes to enter into a combination shall give notice to the Commission. Section 6(2A) 
+of the Act provides that no combination shall come into effect until 210 days have passed 
+from the day on which the notice has been given to the Commission under Section 6(2) 
+of the Act or the Commission has passed orders under Section 31, whichever is earlier. 
+However, Section 54 of the Act empowers the Central Government to grant exemption 
+from the application of the Act, or any provision thereof. Further, Regulation 4 of the 
+Combination Regulations provides that, since the categories of combinations mentioned 
+in Schedule I are ordinarily not likely to cause an appreciable adverse effect on 
+competition in India, notice under Section 6(2) of the Act need not normally be filed. 
+Section 43A of the Act provides that if any person or enterprise fails to give notice to 
+the Commission under Section 6(2) of the Act, the Commission shall impose on such 
+person or enterprise a penalty which may extend to 1% of the total turnover or the assets, 
+whichever is higher, of such a combination. 
+ 
+
+ 
+          Page 7 of 10 
+19. 
+From the above, it is apparent that a person or enterprise proposing to enter into a 
+combination needs to give notice to the Commission unless the requirement has been 
+dispensed with. After notice to the Commission, parties to the combination are required 
+to observe a standstill obligation for 210 days from the date of notice to the Commission 
+or approval by the Commission, under Section 31 of the Act, whichever is earlier.  
+ 
+20. 
+In terms of Section 5 of the Act, an acquisition of shares is a combination if any of the 
+assets or turnover based threshold prescribed therein is met. The consolidated total assets 
+and income of Axis Bank for FY 2019–20 are more than nine lakh crore and eighty 
+thousands crore, respectively. The consolidated total assets and turnover of CSC e-
+Governance for the same FY are INR 1,556.81 crore and INR 1,095.78 crore, 
+respectively. The combined assets as well as combined turnover of Axis Bank and CSC 
+e-Governance exceed the threshold prescribed under Section 5(a) of the Act. 
+Accordingly, the Axis–CSC e-Governance Acquisition is a combination in terms of 
+Section 5 of the Act. Further, both the assets and turnover of CSC e-Governance are 
+higher than the threshold prescribed for De Minims Exemption. Thus, the Axis–CSC e-
+Governance Acquisition did not appear to be eligible for the benefit of the De Minimis 
+Exemption. 
+ 
+21. 
+With regard to submissions of Axis Bank that it made a bona fide error in assessing the 
+applicability of the De Minimis Exemption, it is pertinent to refer the provisions of 
+Section 43A of the Act, which provides that, if any person or enterprise who fails to 
+give notice to the Commission under sub- section (2) of section 6, the Commission shall 
+impose on such person or enterprise a penalty which may extend to….”. The provisions 
+of Section 43A of the Act make it abundantly clear that its provisions get attracted if 
+there is failure to give notice to the Commission under Section 6(2) of the Act. It is 
+immaterial whether failure to give notice under Section 6(2) of the Act is bona fide or 
+mala fide; or it was inadvertent or intentional. Error, if any, made in assessing 
+applicability of the De Minimis Exemption to the transaction does not negate the fact 
+that transaction was not eligible for the benefit of De Minimis Exemption. The argument 
+about error is not a relevant argument for determining whether Section 43A of the Act 
+gets attracted to a case or not. Axis Bank does not get absolved from the duty cast upon 
+it by the provisions of the Act, merely on the ground of an error. 
+ 
+22. 
+With regard to applicability of the Explanation to Item 1, it is observed that one of the 
+conditions to avail benefit of the Explanation to Item 1 is that the Acquirer is not a 
+member of the board of directors of the enterprise whose shares or voting rights are 
+being acquired; does not have a right or intention to nominate a director on the board of 
+directors of the enterprise whose shares or voting rights are being acquired; and does not 
+intend to participate in the affairs or management of the enterprise whose shares or 
+voting rights are being acquired. 
+ 
+
+ 
+          Page 8 of 10 
+23. 
+The SSA inter alia provided that Axis Bank shall procure and deliver to CSC e-
+Governance, a letter from an identified person, consenting to his/her appointment as 
+director on the board of CSC e-Governance and such other documents as may be 
+required by CSC e-Governance for the same. Axis Bank proposed the nomination of Mr. 
+Sumit Bali as a Director on 1st December 2020. The board of CSC e-Governance 
+appointed him as an Additional Director in its meeting dated 28th December 2020, and 
+it was regularised in the Annual General Meeting held on 30th November 2021. He held 
+the directorship from 28th December 2020 to 17th February 2022. Axis Bank proposed 
+the nomination of Mr. Munish Sharda, replacing Mr. Sumit Bali on 1st February 2022. 
+The board of CSC e-Governance appointed Mr. Munish Sharda as an Additional 
+Director in its meeting dated 17th February 2022. He held the directorship from 28th 
+December 2020 to 17th February 2022. It was submitted that he has been holding 
+directorship since 17th February 2022. From the above, it is abundantly clear that Axis 
+Bank had/has representation on the board of the enterprise whose shares were acquired. 
+Further, latest by the date of execution of the SSA, Axis Bank had intention to have 
+representation on the board of directors of CSC e-Governance and participate in its 
+management or affairs. Thereby, Axis Bank is not eligible for the benefit of the 
+Explanation to Item 1. 
+ 
+24. 
+With regard to applicability of the Item 1 of Schedule I, it is observed that to avail the 
+benefit of the Item 1 of Schedule I of the Combination Regulations, inter alia, the 
+acquisition should be solely as an investment or in the ordinary course of business. 
+ 
+25. 
+With regard to ordinary course of business, the Commission vide its order dated 23rd 
+March 2022, in the Combination Registration No. C-2022/02/905 observed as under: 
+ 
+8. 
+In this regard, the Commission observed that in the order 
+dated 11th May 2018 issued under Section 43A of the Act in 
+relation to Combination Registration No. C-2017/05/509 the 
+Commission has noted that The term “ordinary course of 
+business” also is meant to refer to transactions which are 
+frequent, routine and usual and therefore it may be said that 
+the term “ordinary course of business” corresponds to 
+revenue transactions for the competition law purposes. 
+Transactions in ordinary course of sale and purchase of 
+securities are done solely with the intent to get benefited from 
+short term price movement of securities. From the Notice, the 
+Commission noted that the purpose of the Proposed 
+Combination is not to get benefited solely from short term 
+price movement. Therefore, Proposed Combination cannot be 
+considered to be done in ordinary course of business, for the 
+purpose of Item 1 of Schedule I of the Combination 
+Regulations. 
+ 
+
+ 
+          Page 9 of 10 
+9. 
+Further, acquisition in ordinary course of business of sale 
+and purchase of securities neither entails right or ability of any 
+of the party to the acquisition (including their affiliates) to 
+participate in decision making process of another party(ies) to 
+the acquisition (including its affiliates) nor result into access 
+to commercially sensitive information nor envisages any other 
+agreement or understanding having commercial significance. 
+These agreements or understanding could be related to 
+strategic course of business, or any domains of operation such 
+as 
+procurement, 
+production, 
+marketing, 
+distribution, 
+technology, research and development, sales, etc. In the 
+instant matter, TPG SF would have right to nominate a 
+director on the board of directors of Xpressbees and 
+participate in the matters requiring consent of certain 
+threshold of the investors. Therefore, again the Proposed 
+Combination cannot be considered to be done in ordinary 
+course of business, for the purpose of Item 1 of Schedule I of 
+the Combination Regulations. 
+ 
+(emphasis supplied) 
+ 
+26. 
+Regarding the objective of the Axis–CSC e-Governance Acquisition, it has been 
+submitted by Axis Bank that CSC e-Governance, thus being a government-backed entity 
+and having a pan India presence in deep rural areas, would be well positioned for 
+delivery of government led initiatives towards financial inclusion of people living in 
+such areas and implementing direct benefit transfer schemes. Further, the investment 
+would also help the bank gain knowledge and expertise towards the financial 
+inclusion sector through its association with the company. The investment was 
+aligned with the bank’s focus of looking to expand the outreach to deeper rural 
+geographies and towards priority sector lending (emphasis supplied). Further, Axis 
+Bank had/has representation on the board of directors of CSC e-Governance and 
+participates in the affairs of CSC e-Governance. 
+ 
+27. 
+In view of the above, it is apparent that the acquisition of stake in CSC e-Governance 
+by Axis Bank was neither solely as an investment nor can be considered to be in ordinary 
+course of business. Therefore, the Axis–CSC e-Governance Acquisition is not eligible 
+for the benefit of the Item 1 of Schedule I and accordingly, it is immaterial whether the 
+transaction led to acquisition of control or not. Thus, the Commission observes that no 
+determination is warranted whether transaction led to acquisition of control or not in this 
+matter. 
+ 
+28. 
+Accordingly, the Commission finds that in relation to the Axis–CSC e-Governance 
+Acquisition, Axis Bank failed to comply with the provisions of Section 6(2) of the Act 
+and is liable for penalty under Section 43A of the Act. 
+
+ 
+          Page 10 of 10 
+ 
+29. 
+Axis Bank has submitted the following as mitigating factors: 
+ 
+- 
+Axis Bank did not intend to circumvent the jurisdiction of the Commission and 
+the non-notification of the transaction was a bona fide error; 
+ 
+- 
+Axis Bank extended full cooperation to the Commission and has not fallen foul 
+of the Act previously; and 
+ 
+- 
+The transaction was entered to support the GoI initiative towards financial 
+inclusion. 
+ 
+30. 
+Section 43A of the Act empowers the Commission to determine the appropriate amount 
+of penalty in a matter, subject to maximum of 1% of the total turnover or assets, 
+whichever is higher, of such combination. Considering the facts and circumstances of 
+the case in toto, including mitigating factors submitted by Axis Bank, the Commission 
+considers it appropriate to impose a penalty of INR 40,00,000 (INR Forty Lakh only) 
+on Axis Bank. Axis Bank shall pay the penalty within 60 days from the date of receipt 
+of this order. 
+ 
+31. 
+It is made clear that nothing contained in this order shall be deemed to be confidential, 
+as the same has been used for the purposes of the Act in terms of the provisions contained 
+in Section 57 of the Act. 
+ 
+32. 
+The Secretary is directed to communicate this order to Axis Bank. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

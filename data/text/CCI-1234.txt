@@ -1,0 +1,747 @@
+ 
+ 
+ 
+ 
+ 
+Page 1 of 15 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+Combination Registration No. C-2022/12/995 
+ 
+18th August 2023 
+ 
+In re: Proceedings against Platinum Jasmine A 2018 Trust, acting through its trustee 
+Platinum Owl C 2018 RSC Limited, and TPG Upswing Ltd. under Sections 43A 
+and 44 of the Competition Act, 2002 
+ 
+CORAM: 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing: 
+ 
+For Acquirers 
+:
+Mr. Rajshekhar Rao, Senior Advocate with Ms. Meherunissa Anand, 
+Ms. Manasa Dammalapati, Mr. Toshit Shandilya, Mr. Sanjeev Kumar, 
+Ms. Nandini Modi, Advocates along with Mr. William Cates Turner 
+Herbert, Mr. Ayush Agarwal and Mr. Ombeer Tyagi, representatives 
+of Abu Dhabi Investment Authority, TPG, and UPL, respectively. 
+ 
+ 
+Order under Sections 43A and 44 of the Competition Act, 2002 
+ 
+1. 
+This order shall dispose of the proceedings under Section 43A and 44 of the Competition 
+Act, 2002 (Act) and Regulation 5A(2) and 8(2) of the Competition Commission of India 
+(Procedure in regard to the transaction of business relating to combinations) Regulations, 
+2011 (Combination Regulations) against Platinum Jasmine A 2018 Trust (Platinum 
+Trust), acting through its trustee Platinum Owl C 2018 RSC Limited (Platinum 
+Trustee), and TPG Upswing Ltd. (TPG Upswing) [collectively, Acquirers] in relation 
+to the combination comprising acquisition of stake in UPL Sustainable Agri Solutions 
+Limited (UPL SAS) by Platinum Trust and TPG Upswing through the Upswing Trust. 
+ 
+Introduction 
+ 
+2. 
+On 20th December 2022, the Competition Commission of India (Commission) received 
+a notice (Notice) jointly given by Platinum Trust, acting through Platinum Trustee, and 
+TPG Upswing in relation to the combination comprising acquisition of stake in UPL SAS 
+by Platinum Trust and TPG Upswing through the Upswing Trust. 
+
+ 
+Page 2 of 15 
+ 
+ 
+Notifying Parties 
+ 
+Platinum Trust 
+ 
+3. 
+It has been submitted that Platinum Trust is established under the laws of the Abu Dhabi 
+Global Market (ADGM) by a deed of settlement dated 27th January 2019. The Abu Dhabi 
+Investment Authority (ADIA) is the sole beneficiary and settlor of the trust. ADIA is a 
+public institution established as an independent investment institution by the Government 
+of the Emirate of Abu Dhabi. ADIA manages a global investment portfolio across more 
+than two dozen asset classes and subcategories, including developed equities, emerging 
+market equities, small cap equities, government bonds, credit, fixed income, real estate, 
+infrastructure, private equity, cash and alternatives. 
+ 
+4. 
+It has been submitted that Platinum Trustee, a restricted scope company, is incorporated 
+in the ADGM. It is acting in its capacity as trustee for Platinum Trust. Apart from making 
+investments in its capacity as trustee for Platinum Trust, it does not directly carry out any 
+business activities in India. 
+ 
+TPG Upswing 
+ 
+5. 
+It has been submitted that TPG Upswing is part of the TPG Group. TPG Inc. is the 
+ultimate holding company of the TPG Group, which comprises TPG Inc. with all its 
+subsidiaries and affiliates. The TPG Group operates through multiple strategies, including 
+buyout/control situations; growth & technology investing; and impact investing 
+(including climate) across multiple sectors such as financial services, technology, 
+consumer, travel, media, real estate and healthcare. 
+ 
+The Upswing Trust 
+ 
+6. 
+It has been submitted that Upswing Trust is jointly owned by subsidiaries of ADIA and 
+TPG Inc. Upswing Trust acts through its trustee Upswing Trustee Company Limited 
+(Upswing Trustee), a company incorporated under the laws of Jersey. 
+ 
+Transaction 
+ 
+7. 
+The Notice was given in relation to the combination envisaging acquisition of 5% 
+shareholding of UPL SAS, subsequent to the internal reorganisation, by Platinum Trust 
+and TPG Upswing through the Upswing Trust, acting through its trustee Upswing Trustee 
+(UPL SAS Acquisition). As a condition precedent to the UPL SAS Acquisition, the UPL 
+group proposed to undertake internal reorganisation of crop protection business (except 
+manufacturing) and agri-tech/farm services business of UPL Limited (UPL), which inter 
+alia involved the following steps:  
+ 
+
+ 
+Page 3 of 15 
+ 
+- UPL SAS will become a direct1 wholly owned subsidiary of UPL; 
+ 
+- SWAL Corporation Limited (SWAL) and Nurture Agtech Private Limited (Nurture), 
+presently wholly owned subsidiaries of UPL, will each become wholly owned 
+subsidiaries of UPL SAS; 
+ 
+- transfer of the crop protection business (except manufacturing) and the agri- tech/farm 
+service business conducted by UPL (Restructured Business) to UPL SAS and 
+Nurture. 
+ 
+8. 
+Further, it was envisaged that Nurture will acquire Adarsh Farm Services business (AFS 
+Business) from UPL. 
+ 
+9. 
+UPL SAS, including all entities/businesses that will be housed under it, pursuant to the 
+internal reorganisation, is hereinafter collectively referred to as the Target Business. 
+ 
+10. 
+From the information available in the public domain, 2 it appears that the UPL SAS 
+Acquisition has been consummated on or before 17th February 2023. 
+ 
+Notice under Green Channel and Issue of Show Cause Notice (SCN)  
+ 
+Statutory Obligations 
+ 
+11. 
+The Section 6(2) of the Competition Act, 2002 (Act) provides that any person or 
+enterprise who or which proposes to enter into a combination shall give a notice to the 
+Commission. Section 6(2A) of the Act provides that no combination shall come into effect 
+until 210 days have passed from the day on which the notice has been given to the 
+Commission under Section 6(2) of the Act or the Commission has passed orders under 
+Section 31 of the Act, whichever is earlier. 
+ 
+12. 
+The Notice was given under Section 6(2) of the Act read with Regulation 5A of the 
+Combination Regulations, i.e., the facility of Green Channel approval was availed by the 
+notifying parties. Under Green Channel approval facility, i.e., notice under Section 6(2) 
+of the Act read with Regulation 5A of the Combination Regulations, a proposed 
+combination is deemed to have been approved by the Commission under Section 31(1) of 
+the Act upon filing of a notice under Regulation 5A(1) of the Combination Regulations 
+and acknowledgement thereof. 
+ 
+13. 
+Regulation 5A(1) of the Combination Regulations provides that for the category of 
+combination mentioned in Schedule III of the Combination Regulations, the parties to 
+ 
+1 Previously indirect 
+2 Disclosure dated 17th February 2023 made by UPL to BSE Limited  
+
+ 
+Page 4 of 15 
+ 
+such combination may, at their option, give notice in Form I along with the declaration 
+specified in Schedule IV (Green Channel Declaration). Schedule III of the Combination 
+Regulations provides as follows: 
+ 
+Considering all plausible alternative market definitions, the 
+parties to the combination, their respective group entities 
+and/or any entity in which they, directly or indirectly, hold 
+shares and/or control: - 
+ 
+(a) do not produce/provide similar or identical or 
+substitutable product(s) or service(s) (Horizontal Overlap);  
+ 
+(b) are not engaged in any activity relating to production, 
+supply, distribution, storage, sale and service or trade in 
+product(s) or provision of service(s) which are at different 
+stage or level of production chain (Vertical Interface); and 
+ 
+(c) are not engaged in any activity relating to production, 
+supply, distribution, storage, sale and service or trade in 
+product(s) or provision of service(s) which are complementary 
+to each other (Complementarity). 
+ 
+[emphasis supplied] 
+ 
+14. 
+The enterprise or person availing the Green Channel approval facility is required to 
+furnish the Green Channel Declaration along with the notice. The contents of the Green 
+Channel Declaration are reproduced as under: 
+ 
+1. 
+The notifying party confirms that it has furnished all the 
+information and documents as required in Form I, as specified 
+in Schedule II. 
+ 
+2. 
+The notifying party confirms that the proposed 
+combination falls under Schedule III and is not likely to cause 
+adverse effect on competition. 
+ 
+3. 
+The notifying party confirms that it has not made any 
+statement which is false in any material particular or knowing 
+it to be false; or omitted to state any material particular 
+knowing it to be material. 
+ 
+
+ 
+Page 5 of 15 
+ 
+The notifying party understands that if any of the above 
+statements is found to be incorrect, the notice given and the 
+approval granted, under regulation 5A, shall be void ab initio. 
+ 
+Signed by or on behalf of the notifying party 
+Signature(s) 
+Name (in block letters): 
+Designation: 
+Date: ________________ 
+ 
+15. 
+From the provisions of Regulation 5A(1) read with Schedule III of the Combination 
+Regulations, it is observed that the parties to the combination can avail the benefit of the 
+Green Channel approval facility only if the parties to the combination, their respective 
+group entities and/or any entity in which they, directly or indirectly, hold shares and/or 
+control neither exhibit Horizontal Overlap nor Vertical Interface nor Complementarity. 
+Further, the person or enterprise giving notice to the Commission is required to furnish 
+the Green Channel Declaration, inter alia, to the effect that the transaction satisfies the 
+criteria prescribed for the Green Channel approval facility. 
+ 
+16. 
+To avail the Green Channel approval facility, as required by Regulation 5A(1) of the 
+Combination Regulations, the notifying parties in the instant matter along with the Notice, 
+furnished the Green Channel Declaration, inter alia, declaring as follows: 
+ 
+2. The notifying party confirms that the proposed combination 
+falls under Schedule III and is not likely to cause adverse effect 
+on competition.  
+ 
+3. The notifying party confirms that it has not made any 
+statement which is false in any material particular or knowing 
+it to be false; or omitted to state any material particular 
+knowing it to be material. 
+ 
+[emphasis supplies] 
+17. 
+In the Notice, it was stated that: 
+ 
+14. Based on the requirements for the Green Channel approval 
+as provided in Regulation 5A and Schedule III of the 
+Competition Commission of India (Procedure in regard to the 
+transaction of business relating to combinations) Regulations, 
+2011 (Combination Regulations), the Parties confirm that to 
+the best of their knowledge, there are: 
+ 
+
+ 
+Page 6 of 15 
+ 
+a. 
+No horizontal overlaps: Neither TPG (including the TPG 
+Group) nor Platinum [i.e., Platinum Trust] (including ADIA 
+and its affiliates (ADIA Group)) will be / are engaged in any 
+business activity directly or indirectly5 (through any 
+investment) 
+which 
+is 
+active 
+in 
+the 
+same/similar/identical/substitutable business as that of Target 
+Business in India post the Proposed Combination; 
+ 
+b. 
+No vertical relationships: Neither TPG (including the 
+TPG Group), nor Platinum (including the ADIA Group) will 
+be / are engaged in any activity relating to the production, 
+supply, distribution, storage, sale and service or trade in 
+products or provision of services which are at different stages 
+or levels of the production chain, as that of the Target 
+Business, directly or indirectly,6 post the Proposed 
+Combination; and 
+ 
+c. 
+No complementary relationships: Neither TPG (including 
+the TPG Group) nor Platinum (including the ADIA Group) are 
+engaged in any activity relating to the production, supply, 
+distribution, storage, sale and service or trade in products or 
+provision of services which are complementary to the activities 
+of the Target Business in India post the Proposed 
+Combination. 
+_________________________ 
+5 a. With respect to TPG, considering all entities in which the 
+affiliates of the TPG Group has: 
+ 
+i. 
+direct or indirect shareholding of 10% or more; or 
+ii. 
+a right or ability to exercise any right (including any 
+advantage of commercial nature with the portfolio company or 
+its affiliates) that is not available to an ordinary shareholder; 
+or 
+iii. right or ability to nominate a director or observer 
+(collectively, Materiality Threshold), and which have a 
+direct/indirect business presence in India. 
+ 
+b. With respect to Platinum, all investee companies of ADIA 
+Group that have a direct/indirect business presence in India 
+and meet the Materiality Threshold. 
+ 
+6 Ibid. 
+ 
+
+ 
+Page 7 of 15 
+ 
+[emphasis supplies] 
+ 
+18. 
+In the Notice, in response to query 6.4 of Form I, it has been presented that parties to the 
+combination and/or their respective group entities, directly or indirectly, do not 
+produce/provide similar or identical or substitutable products or services, considering all 
+plausible alternative(s). 
+ 
+19. 
+Further, in the Notice, in response to query 6.5 of Form I, it has been presented that the 
+parties to the combination and/or their respective group entities, directly or indirectly, are 
+not engaged in any activity relating to the production, supply, distribution, storage, sale 
+and service or trade in products or provision of services which is at different stages or 
+levels of the production chain in which any other party to the combination is involved, 
+considering all plausible alternative(s); and/or any complementary activities. 
+ 
+20. 
+Along with the Notice, the notifying parties also furnished a declaration (Notice 
+Declaration) as under: 
+ 
+the notifying party declares and confirms that all information 
+given in this Form [viz. Notice] and all pages annexed hereto 
+are true, correct and complete to the best of its knowledge and 
+belief, and that all estimates are identified as such and are its 
+best estimates based on the underlying facts. 
+ 
+[emphasis supplies] 
+ 
+21. 
+From the Notice, the Commission vide its order dated 18th May 2023 (SCN), observed 
+that the Upswing Trust holds 22.2% stake in UPL Corporation Ltd. (UPLC). Arysta 
+LifeScience India Limited (Arysta India), a subsidiary of UPLC, is engaged in the 
+business of manufacturing and distribution of formulated crop protection products 
+(FCPPs), inter alia, to SWAL and UPL SAS. Arysta India also makes sales of FCPPs to 
+third parties. Further, UPL SAS and SWAL are respectively engaged in the business of 
+manufacturing and distribution, and marketing and sale of formulated crop protection 
+products to third parties in India. Thus, activities of Arysta India on one hand, and UPL 
+SAS and SWAL on the other, exhibit overlaps. Arysta India is an indirect subsidiary of 
+the portfolio company3 of the Upswing Trust. Thus, the activities of the Upswing Trust 
+through UPLC and Arysta India appeared to exhibit overlaps with the activities of Target 
+Business. Thereby, it appeared that the UPL SAS Acquisition does not fall under Schedule 
+III, and the Green Channel Declaration appeared to be incorrect and false in material 
+particular. Further, it appeared that notifying parties have made statements in the Notice, 
+including Notice Declaration, that are false in material particular. 
+ 
+3 UPLC 
+
+ 
+Page 8 of 15 
+ 
+ 
+22. 
+The Commission further observed that the first proviso to Regulation 5A(2) of the 
+Combination Regulations provides that where the Commission finds that the combination 
+does not fall under Schedule III and/or the declaration filed pursuant to sub-regulation (1) 
+is incorrect, the notice given and the approval granted under this regulation shall be void 
+ab initio and the Commission shall deal with the combination in accordance with the 
+provisions contained in the Act. Section 43A of the Act provides that if any person or 
+enterprise fails to give notice to the Commission under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may extend to 1% 
+of the total turnover or the assets, whichever is higher, of such a combination.  Section 44 
+of the Act, inter alia, provides that if any person, being a party to a combination makes a 
+statement which is false in any material particular, or knowing it to be false, such person 
+shall be liable to a penalty which shall not be less than rupees fifty lakhs but which may 
+extend to an amount prescribed therein. 
+ 
+23. 
+In view of the above, the Commission vide the SCN dated 18th May 2023 directed 
+Platinum Trust, acting through its trustee Platinum Trustee, and TPG Upswing to show 
+cause in writing within 15 days of receipt of the notice as to why: (i) Notice should not 
+be found void ab initio in term of first proviso to Regulation 5A(2) of the Combination 
+Regulations and they should not be held in contravention of the provisions of Section 43A 
+for not notifying UPL SAS Acquisition/consummating the UPL SAS Acquisition without 
+the approval of the Commission; (ii) they should not be held in contravention of the 
+provisions of Section 44 of the Act for making statements in the Notice, including Notice 
+Declaration, and Green Channel Declaration which are false in material particular; and 
+(iii) they should not be directed, under Regulation 8(1) [to be actually read as 8(2)] of the 
+Combination Regulations, to furnish a notice in relation to the UPL SAS Acquisition. 
+Further, the Commission allowed Platinum Trust, acting through its trustee Platinum 
+Trustee, and TPG Upswing, to make their submissions on the quantum of penalty which 
+may be levied by the Commission in the event they are to be held in contravention of the 
+provisions of the Section 43A and/or 44 of the Act. 
+ 
+24. 
+The SCN was communicated to Platinum Trust, acting through its trustee Platinum 
+Trustee, and TPG Upswing vide communication dated 24th May 2023. After seeking 
+extension of time, Platinum Trust, acting through its trustee Platinum Trustee, and TPG 
+Upswing vide submission dated 29th June 2023 furnished their response to the SCN 
+(Response to SCN) and sought a hearing before the Commission. 
+ 
+25. 
+The Commission, on 24th July 2023, heard the Acquirers at length. The Acquirers 
+completed their submissions. Further, the Acquirers undertook to furnish complete details 
+as per query 6 of the Form I, within 10 days from the date of hearing. Thereupon, the 
+Acquirers furnished their written submissions dated 3rd August 2023, followed by 
+submissions dated 8th August 2023 (collectively, the Written Submissions). 
+
+ 
+Page 9 of 15 
+ 
+ 
+Submissions of the Acquirers  
+ 
+26. 
+The contentions of the Acquirers are summarised as follows: 
+ 
+26.1 Arysta India and UPL SAS/SWAL belong to the same corporate group, i.e., UPL 
+Group. Arysta India and UPL SAS/SWAL are essentially two arms of the same 
+group selling the same products. There is no need to map overlaps between two 
+entities that belong to the same group; 
+ 
+26.2 The FCPPs sold by Arysta India to UPL SAS/ SWAL are in the nature of intra-
+group (captive) sales, therefore there is no change in the competitive landscape of 
+the market of FCPPs on account of the instant transaction; 
+ 
+26.3 UPL SAS/SWAL and Arysta India are treated as the same brand/entity both 
+internally within the companies and externally by the third parties. The Commission 
+in the Godrej case4 clarifies that in determining whether two entities are competitors 
+(or not), significant reliance must be placed on consumer perception, i.e., whether 
+the end consumers of such products and services perceived the two entities/brands 
+as competitors or not; 
+ 
+26.4 Arysta India’s miniscule sales for FCPPs in the market to third parties is not its 
+primary business. It only undertakes such third-party sales because of certain 
+regulatory reason or surplus capacity. Arysta India does not even have an 
+independent distribution network or marketing team of its own in India and instead 
+relies on UPL SAS’s distributors. Arysta India is in the process of ceasing its FCCPs 
+sales to third parties. The decision to discontinue third party sales by Arysta India 
+had been taken independently on account of purely commercial reasons, much 
+before the transaction was completed. In furtherance of such a decision in 2019, 
+Arysta India’s employees that are responsible for sales and marketing of FCPPs in 
+India were intended to be reduced, and at the time of filing the Notice, Arysta India’s 
+sales and marketing department which is responsible for overseeing the sales in 
+India, had number of employees just in single digit. By 31st December 2023: (a) 
+Arysta India will not have any employees who will be responsible for sales of 
+FCPPs to third-parties in India; and (b) Arysta India will not have a marketing or 
+sales team for its India business. Third-party sales have diminished over the course 
+of FY 2019-20 to FY 2022-23. Arysta India generated 1.5% and 0.8% of its total 
+revenue from the third-party sales for FY 2022-23 and for FY 2023-24 (April and 
+May) respectively. Cessation of Arysta India’s sales to third parties renders any 
+overlap concerns academic. In the transactions filed under the regular route, the 
+Commission has not mapped overlaps between the businesses that are discontinued 
+ 
+4 Suo Moto Case No. 03 of 2017 
+
+ 
+Page 10 of 15 
+ 
+since it eliminated any overlap and consequently any market impact of that overlap. 
+For instance, in one of the most recent transactions, Dalmia Cement 5 , the 
+Commission accounted for the fact that after the consummation of the transaction, 
+the acquirer would cease to provide refractory services to cement manufacturers in 
+India due to which the potential vertical relationship between the acquirer group 
+and the target will no longer exist and accordingly approved the transaction without 
+conducting an overlap assessment on this aspect (also see Aircel6, ABFPL/KAPL7, 
+HCJI Holdings8). Similarly, here, Arysta India is going to stop its FCCPs sales to 
+third parties in due course; and 
+ 
+26.5 The Commission, in its decisional practice, has been liberal while examining 
+transactions under the green channel mechanism. The Commission has approved 
+combinations under the green channel mechanism even though the transaction 
+exhibited certain minor horizontal/vertical overlaps because these transactions have 
+no impact on the market. Green channel mechanism is a beneficial provision and it 
+is a settled law that a beneficial provision/exemption must be liberally interpreted. 
+The Hon’ble Supreme Court of India recognised the importance of economic 
+analysis in judicial decisions and while introducing policies in Shivashakti Sugars 
+Ltd vs Shree Renuka Sugar Ltd. & Ors.9 and held that, “However, on the application 
+of law and while interpreting a particular provision, economic impact/effect of a 
+decision, wherever warranted, has to be kept in mind. …Likewise, in a situation 
+where two views are possible or wherever there is a discretion given to the Court 
+by law, the Court needs to lean in favour of a particular view which subserves the 
+economic interest of the nation.”. 
+ 
+Findings of the Commission 
+ 
+27. 
+The Commission has considered the written and oral submissions of the Acquirers. A 
+notice under 6(2) of the Act can be submitted by the notifying party(ies) for the Green 
+Channel approval facility, only if criteria prescribed under Schedule III of the 
+Combination Regulations are satisfied. Criteria prescribed under Schedule III of the 
+Combination Relations are objective and specific viz. no overlap [no Horizontal Overlap, 
+Vertical Interface and Complementarity]. To determine whether a particular combination 
+is eligible to avail the benefit of Green Channel, the pertinent question that should be 
+asked is do the parties to the transaction, their respective group entities and/or any entity 
+in which they, directly or indirectly, hold shares and/or control, exhibit Horizontal 
+Overlap, Vertical Interface or Complementarity, considering all plausible alternative 
+ 
+5 Combination Registration No.C-2022/12/993 
+6 Combination Registration No. C-2020/08/76 
+7 Combination Registration No. C-2013/11/139   
+8 Combination Registration No. C-2022/03/916 
+9 Civil Appeal No. 5040 of 2014 
+
+ 
+Page 11 of 15 
+ 
+market definitions. If answer to the question is yes, then the transaction cannot avail 
+benefit of the Green Channel approval facility. 
+ 
+28. 
+In the instant matter, the primary issue for determination is whether the UPL SAS 
+Acquisition is eligible for Green Channel approval facility or not. The issue requires its 
+determination based on criteria prescribed under Schedule III of the Combination 
+Regulations and facts of the instant case. So far as the eligibility of a combination for 
+Green Channel approval facility is concerned, facts or opinions such as the overlapping 
+entities belonging to the same group; the transaction not resulting in change in 
+competition landscape; no likely effect of a combination; perception about overlapping 
+entities/products being considered as the same; and sales to third parties not being 
+significant and declining etc. are inconsequential. These factors may, at most, warrant 
+their consideration in detailed assessment of likely effect of a combination on competition 
+based on the facts of the case but not in determination of eligibility for Green Channel 
+approval facility.  
+ 
+29. 
+The Acquirers have also argued that Arysta India is in the process of ceasing its FCCPs 
+sales to third parties. Further, cessation of Arysta India’s sales to third parties renders any 
+overlap concerns academic. Acquirers have also submitted that even in the transactions 
+filed under normal route, the Commission has not mapped overlaps between the 
+businesses that are discontinued since it eliminated any overlap and consequently any 
+market impact of that overlap. In this regard, the Commission observes that the cases cited 
+by the Acquirers are the cases where notices to the Commission were given under ordinary 
+route [i.e., not under Green Channel] under which the Commission undertakes a detailed 
+assessment of likely effect of the combination on competition in India. In these cases, the 
+commission factored case specific facts in holistic assessment of likely effect of the 
+combination on competition. Under the Green Channel approval facility, a proposed 
+combination is deemed to have been approved by the Commission under sub-section (1) 
+of section 31 of the Act, upon filing of a notice under regulation 5A(1) of the Combination 
+Regulations and acknowledgement thereof. The Green Channel approval facility does not 
+envisage detailed assessment of likely effect of a combination on competition in India 
+that is otherwise undertaken for all other combinations. If any overlap exists between the 
+parties to the combination, their respective group entities and/or any entity in which they, 
+directly or indirectly, hold shares and/or control, then case requires detailed assessment 
+of likely effect of the combination on competition in India and accordingly is not eligible 
+for benefit of the Green Channel approval facility. A combination does not become 
+eligible for the benefit of Green Channel approval facility merely on the ground of 
+probable/potential/under progress cessation of overlap. These factors may, at most, 
+warrant their consideration in detailed assessment of likely effect of a combination on 
+competition based on the facts of the case. 
+ 
+
+ 
+Page 12 of 15 
+ 
+30. 
+With regard to the claim of the Acquirers that notices for certain other combinations with 
+certain minor horizontal/vertical overlaps have given under Green Channel approval 
+facility, the Commission observes that in the instant matter, primary issue for 
+determination is whether the UPL SAS Acquisition is eligible for the benefit of Green 
+Channel approval facility. The issue needs its determination based on the facts of the 
+instant matter. In deference of the judgment10 of Hon’ble Supreme Court cited by the 
+Acquirers, the Commission observes that the eligibility criteria for Green Channel 
+approval facility are objective and specific viz. no overlap between the parties to the 
+combination, their respective group entities and/or any entity in which they, directly or 
+indirectly, hold shares and/or control. 
+ 
+31. 
+The Commission observes that Arysta India, a subsidiary of UPLC, is engaged in the 
+business of manufacturing and distribution of formulated crop protection products 
+(FCPPs), inter alia, to SWAL and UPL SAS. Arysta India also makes sales of FCPPs to 
+third parties. Further, UPL SAS and SWAL are respectively engaged in the business of 
+manufacturing and distribution, and marketing and sale of formulated crop protection 
+products (FCPPs) to third parties in India. Thus, activities of Arysta India on one hand, 
+and UPL SAS and SWAL on the other exhibit overlaps. Arysta India is an indirect 
+subsidiary of the portfolio company11 of the Upswing Trust. Thus, the activities of the 
+Upswing Trust through UPLC and Arysta India appeared to exhibit overlaps with the 
+activities of Target Business. Thereby, the Commission finds that the UPL SAS 
+Acquisition does not satisfy the conditions prescribed under Schedule III of the 
+Combination Regulations. Therefore, the UPL SAS Acquisition is not eligible for the 
+benefit of Green Channel approval facility and the Green Channel Declaration was 
+incorrect and false in material particulars. Further, the notifying parties made statements 
+in the Notice, including Notice Declaration which are false in material particulars. 
+ 
+32. 
+The first proviso to Regulations 5A(2) of the Combination Regulations provides that 
+where the Commission finds that the combination does not fall under Schedule III and/or 
+the declaration filed pursuant to sub-regulation (1) is incorrect, the notice given and the 
+approval granted under this regulation shall be void ab initio and the Commission shall 
+deal with the combination in accordance with the provisions contained in the Act. 
+Accordingly, the Notice and deemed approval, under Section 31(1) of the Act read with 
+Regulation 5A of the Combination Regulations, for UPL SAS Acquisition is found to be 
+void ab initio. As the UPL SAS Acquisition has already been consummated, the Acquirers 
+are liable for penalty under Section 43A of the Act. 
+ 
+ 
+10 Civil Appeal No. 5040 of 2014, Shivashakti Sugars Ltd vs Shree Renuka Sugar Ltd. & Ors. 
+11 UPLC 
+
+ 
+Page 13 of 15 
+ 
+33. 
+The Commission further observes that as the Acquirers made statements in the Notice, 
+including Notice Declaration, and Green Channel Declaration which are false in material 
+particulars, the Acquirers are liable for penalty under Section 44 of the Act. 
+ 
+34. 
+With regard to levy of penalty, the Acquirers have mainly submitted that they notified the 
+transaction and consummated the same based on the legitimate expectation and a bona 
+fide belief that the transaction qualified for a green channel notification. It has been further 
+submitted that the Notice was guided by: (a) decisional practices; (b) Arysta India 
+primarily undertakes only captive sales; (c) UPL SAS and Arysta India are not competing 
+entities; and (d) gradual cessation of sales of FCCPs by Arysta India to third parties. The 
+Acquirers had no intention to not file the transaction or to conceal anything. The Acquirers 
+provided all facts and information on a bona fide belief that the transaction qualified for 
+green channel. It has also been pointed out that the Commission has, in the past, imposed 
+penalties under Section 44 of the Competition Act only when the parties had provided 
+incomplete and false information to the Commission. It has been further submitted that 
+given Arysta India’s insignificant third-party sales, the overlap is negligible and the 
+market facing information of the third-party sales was not material since it would have no 
+effect on the competition in any relevant market. 
+ 
+35. 
+The Commission has perused the submissions of the Acquirers and the material on record. 
+At the outset, it is observed that Section 43A of the Act empowers the Commission to 
+impose a penalty which may extend to 1% of the total turnover or the assets, whichever 
+is higher, of such a combination. Further, Section 44 of the Act empowers the 
+Commission to determine the appropriate amount of penalty in a matter, not less than INR 
+fifty lakh, if any person, being a party to a combination inter alia makes a statement which 
+is false in any material particular, or knowing it to be false.  
+ 
+36. 
+Considering the facts and circumstances of the case, the Commission considers it 
+appropriate to impose a penalty of Rs. 5,00,000 (INR Five Lakh) under Section 43A of 
+the Act, and of INR 50,00,000 (INR Fifty Lakh) under Section 44 of the Act, on the 
+Acquirers. The Acquirers shall be jointly and severally liable to pay the amount of penalty. 
+ 
+37. 
+The Acquirers shall pay total penalty of INR 55,00,000 (i.e. INR 5,00,000 under Section 
+43A of the Act plus INR 50,00,000 under Section 44 of the Act) within 60 days from the 
+date of receipt of this order. 
+ 
+38. 
+The Commission, at this stage deems it appropriate to highlight that Green Channel 
+dispensation providing for deemed approval of certain categories of combinations, was 
+conceived and designed to facilitate faster clearance of the combinations which had no 
+Horizontal Overlap, Vertical Interface or Complementarity, as specified under Schedule 
+III of the Combination Regulations. The criteria for the Green Channel facility are specific 
+and objective. Under Green Channel, a combination is deemed to have been approved 
+
+ 
+Page 14 of 15 
+ 
+under Section 31(1) of the Act upon filing of a notice under Section 6(2) of the Act and 
+acknowledgement thereof, and does not envisage assessment of likely effect of the 
+Combination by the Commission. By its very nature, the Green Channel approval facility 
+is a trust-based mechanism based on self-assessment and correct declaration. Thus, it is 
+incumbent upon the person choosing to avail the Green Channel approval facility to 
+observe uberrima fides (utmost good faith) in availing the same and should subject only 
+the eligible combinations for this Channel. Subjecting ineligible combinations for the 
+Green Channel approval facility would erode and strike at the very basis of this trust based 
+regulatory mechanism and undermine the sanctity of its framework. 
+ 
+39. 
+However, it is made clear that the penalty imposed by the Commission upon the Acquirers 
+has been determined in the background and totality of the present case. Going forward, 
+any disregard to the conditions for availing Green Channel would be dealt with seriously 
+with attendant consequences in accordance with law based on the specificities of the case.  
+ 
+40. 
+Now, the Commission proceeds to deal with other submissions advanced by Acquirers. 
+The Acquirers have submitted that they should not be directed to give notice under 
+Regulation 8(2) of the Combination Regulations. 
+ 
+41. 
+From the details furnished by the Acquirers vide the Written Submissions, activities of 
+Arysta India and UPL SAS/SWAL exhibit overlaps in relation to: 
+ 
+- 
+Adjuvants [POLY-MODI811.6EC]; 
+- 
+Fungicides - for apple, cherry, grapes, tomato and potato (for scab, brownrot, 
+downey, early and late blight) [CAPTAN500WP]; 
+- 
+Fungicide for wheat, soybean, cotton, groundnut, pigeon pea, potato (for loosemut) 
+[CARBOXIN200+THIRAM200FS + CARBOXIN375+THIRAM375WS]: (i) for 
+wheat (for loosemut), and (ii) wheat, soyabean, cotton, groundnut, pigeon pea, 
+potato (for loosesmut, collar rot, seed rot, stem rot, fusarium wilt); 
+- 
+Insecticides to control termites [CHLORPYRI200EC]; 
+- 
+Insecticides for vector control (mosquitoes/ houesefly) [DIFLUBENZ250WP]; 
+- 
+Bio-Stimulants or all crops (plant growth promoters) [ASCOP-CMS1029SL, 
+FOLCISTEI3.78+MICRO-NTR0.999+PRMNT-NPK80.5+SNT-CaMgS0.128SL, 
+and CORNSTPLQ80+FOLCISTEI1.75+GAEM-SIMP742+HYD-CORN63SL]; 
+- 
+Bio-Stimulants for Mango, Pineapple, Coffee, Tomato and Rubber (plant growth 
+regulators) [ETHEPHON390SL]. 
+ 
+42. 
+From the Written Submissions, the Commission observes that market shares of Arysta 
+India and UPL SAS/SWAL in relation to the aforesaid activities are not significant 
+enough to raise a competition concern. 
+ 
+
+ 
+Page 15 of 15 
+ 
+43. 
+It has also been submitted that both Arysta India and UPL SAS made some B2B sales of 
+certain FCPPs. For Arysta India, B2B sale is an ad hoc business and there are no long-
+term contracts with any B2B customer. In FY 2021-22, both Arysta India and UPL SAS 
+made sales of herbicide Glufosinate. In this regard, based on the information furnished in 
+the Written Submissions, the Commission observes that the market share of UPL SAS 
+and Arysta India are not significant to raise any competition concern. 
+ 
+44. 
+Considering the materials available on record, the Commission is of the opinion that the 
+UPL SAS Acquisition is not likely to have any appreciable adverse effect on competition 
+in India, and therefore, the Commission hereby approves the UPL SAS Acquisition under 
+Section 31(1) of the Act. 
+ 
+45. 
+It is made clear that nothing contained in this order shall be deemed to be confidential, as 
+the same has been used for the purposes of the Act in terms of the provisions contained 
+in Section 57 of the Act. 
+ 
+46. 
+The Secretary is directed to communicate this order to the Acquirers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,689 @@
+     
+ 
+ 
+ 
+ 
+                                                                                                            Page 1 of 18 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+17th May 2022 
+ 
+Proceedings against Veolia Environnement S.A. under Section 43A of the Competition 
+Act, 2002 
+ 
+CORAM:  
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi  
+Member 
+Appearances during the hearing 
+For Veolia Environnement S.A:     Ms. Nisha Kaur Uberoi, Arguing Counsel & Authorised 
+Legal Representative, Advocate along with Mr. Gautam 
+Chawla, Ms. Harshita Parmar and Ms. Shambhvi Sinha 
+Authorised Legal Representatives and Advocates. 
+Order under Section 43A of the Competition Act, 2002 
+1. This Order shall dispose of the proceedings under Section 43A of the Competition 
+Act, 2002 (Act) initiated against Veolia Environnement S.A (Veolia) in relation to 
+part-consummation of proposed takeover of the Suez S.A. (Suez).  
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 18 
+ 
+2. Veolia is a listed company headquartered in France and listed on the Euronext Stock 
+Exchange in Paris. Veolia is stated to be active in optimized resource management 
+and provides water, waste, and energy management solutions to both industrial and 
+municipal clients. Through its three business activities, Veolia helps develop access 
+to resources, preserve available resources, and replenish them. In India, Veolia 
+operates through its subsidiary, Veolia India Private Limited (Veolia India). It offers 
+the entire range of water solutions, including engineering and construction services, 
+operations and maintenance services, performance contracts, and major maintenance 
+and refurbishment tailored to the specific needs of municipality and industry across 
+India and, more widely, South Asia.   
+3. Suez is a company headquartered in France and is listed on the Euronext Stock 
+Exchange in Paris. It is stated to provide water and waste management solutions to 
+industrial and municipal clients. It is stated that Suez has been active in India for 
+over 30 years and has been helping local authorities and industry develop resource 
+management solutions, particularly through contracts to build and operate facilities 
+and improve drinking water distribution services, and developing alternative 
+resources, such as by reusing wastewater.  
+Background  
+4. On 17th September 2020, the Competition Commission of India (CCI/Commission) 
+received an application from Suez under Section 20(1) and Section 33 of the Act in 
+relation to the proposed takeover of Suez by Veolia (Suez Application). In the said 
+application, Suez had stated that, based on the press release and public presentation 
+prepared by Veolia, Veolia proposed to carry out the proposed takeover in two steps: 
+(i) Veolia acquiring 29.9% shareholding in Suez from an existing shareholder, viz., 
+Engie S.A (Engie/Seller) [Engie Block Transaction/Relevant Transaction] and 
+(ii) Veolia launching a public bid for the remaining Suez shares [Public Offer] 
+(Proposed Takeover). 
+5. Suez had also submitted in its application that the Proposed Takeover is a 
+combination notifiable to the Commission. It was submitted that, while the Proposed 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 18 
+ 
+Takeover is happening in France, there will be an indirect acquisition of control over 
+thirteen (13) Suez India entities by Veolia pursuant to the Proposed Takeover. Based 
+on the value of Indian turnover and assets of Suez for the FY ending 31st March 
+2019, Suez submitted that the Proposed Takeover will not be able to avail the 
+exemption set out in Notification No. S.O. 988(E) dated 27th March 2017 issued by 
+the Ministry of Corporate Affairs (MCA), Government of India (Target 
+Exemption), as the turnover and assets exceeded the 1000 crore and 350 crore 
+thresholds, respectively. With respect to the value of assets and turnover for FY 
+ending 31st March 2020, it was submitted that the audited figures for Suez (through 
+Suez India entities) were currently unavailable; however, both value of assets and 
+turnover for FY ending 31st March 2020 will exceed the figures provided for FY 
+ending 31st March 2019.  Further, the combined value of assets of Suez and Veolia 
+alone exceed the jurisdictional thresholds set out on Section 5 of the Act. 
+6. Suez submitted that the Proposed Takeover warrants close scrutiny to address likely 
+post-combination concerns that may arise in Engineering Procurement and 
+Construction (EPC) and Operations and Management (O&M) for the construction of 
+water and wastewater management facilities. Additionally, Suez submitted that part-
+consummation of the Proposed Takeover would lead to (i) combination of two 
+significant competitors, resulting in heavy market concentration and (ii) substantial 
+lessening of competitive constraints in the markets where Veolia and Suez operate in 
+India.  
+7. On 22nd September 2020, the Commission considered the application of Suez and 
+directed it to file relevant material to support the said claims. Suez provided 
+additional/requisite information via its submissions dated 23rd, 24th, and 28th 
+September 2020 (Suez’s Submissions). On 29th September 2020, the Commission 
+forwarded Suez‟s Submissions, including Suez Application, to Veolia and directed 
+that a response be filed by 13th October 2020. 
+8. On 13th October 2020, Veolia submitted the response and also filed an additional 
+submission on 16th October 2020 (Veolia’s submissions). In its response, Veolia 
+submitted that the worldwide asset threshold set out in Section 5(a) of the Act was 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 18 
+ 
+exceeded by the value of assets of Veolia alone (worldwide and in India). However, 
+based on publicly available information and Veolia‟s knowledge and best estimates, 
+Veolia understands that the Target Exemption was available for the Engie Block 
+Transaction, and, accordingly, this transaction did not require the approval of the 
+Commission prior to completion.  
+9. By way of background, Veolia submitted that, on 31st July 2020, Engie had 
+announced its intention to review its strategic orientation and consider divestments of 
+non-core businesses and minority stakes (including its stake in Suez). Following this, 
+on 30th August 2020, Veolia made a firm offer for the acquisition of 29.9% of the 
+equity shares of Suez from Engie. Pursuant to Engie‟s acceptance of Veolia‟s offer, 
+Veolia and Engie entered into a Share Purchase Agreement (SPA) for the purchase 
+of Suez shares from Engie on 5th October 2020, and on 6th October 2020, Veolia 
+completed the Relevant Transaction. Further, Veolia confirmed its intention to file 
+the voluntary public takeover bid for the remaining share capital of Suez.  
+10. With respect to the methodology employed by Veolia to estimate Suez‟s revenue in 
+India for ascertaining the applicability of Target Exemption to the Relevant 
+Transaction, Veolia submitted that, since this transaction was negotiated and 
+completed without the involvement of Suez, it had relied on publicly available 
+financial statements and information in respect of Suez in its Universal Registration 
+Document for 2019 filed with Autorite Des Marches Financiers on 9th April 2020 
+under Regulation (EU) 2017/1129 (Suez Registration Document) and applied 
+reasonable assumptions based on its knowledge and experience thereon to conclude 
+that the revenue generated in India by SUEZ would be less than INR 1,000 crore.  
+11. In its response, Veolia clarified that, in the Suez Registration Document,  the 
+revenues generated by the Suez group from the Indian subcontinent (including India, 
+Sri Lanka, and Bangladesh) for the previous financial year, i.e., the financial year 
+ending 31st December 2019, were stated to be EUR 132 million (INR 1,117 crores), 
+and based  on knowledge of  its own joint venture with Suez in Bangladesh and the 
+information available in the public domain for Sri Lanka, Veolia made reasonable 
+assumptions and calculations that Suez‟s revenue in Bangladesh would be EUR 18.2 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 18 
+ 
+million (approx. INR 154 crores) and in Sri Lanka would be EUR 35 million 
+(approx. INR 296 crores). Accordingly, deducting the revenues estimated to be 
+generated by Suez in Sri Lanka and in Bangladesh from the total revenue generated 
+in the Indian subcontinent by Suez, Veolia arrived at the best estimates of Suez‟s 
+revenue in India for the previous financial year as EUR 78.8 million, i.e., approx. 
+INR 667 crores, which was below Target Exemption thresholds.  
+12. Further, Veolia submitted that, according to the group structure chart for Suez, as 
+provided in the Suez Registration Document, Suez had a single subsidiary in India, 
+i.e., Suez India Private Limited (SIPL). Therefore, Veolia examined the annual audited 
+consolidated financial statements of SIPL, for the financial year ending 31st  March 
+2019 [Financial Year (FY) 2018 – 19], as available on the database maintained by 
+MCA. The financial statements of SIPL for FY 2018 – 19 showed that the revenue 
+generated by SIPL on a consolidated basis was INR 389.8 crore. Accordingly, Veolia 
+inferred that the revenue of SIPL for FY 2019 – 20 would also be below the turnover 
+threshold of INR 1,000 crores (even if Suez‟s Indian turnover was to be estimated on 
+this basis), and therefore, benefitted from the Target Exemption. Veolia also 
+submitted that, in any event, should the Commission conclude that the Relevant 
+Transaction was notifiable in India, it would file a merger notification without any 
+delay. 
+13. Furthermore, Veolia contended in its response that the value of Suez‟s Indian 
+turnover, as stated in Suez‟s letter to the Commission, was not in line with the 
+definition of turnover accepted by the Commission, as it included „other income‟ and 
+„revenue generated from intra group sales‟.  
+14. On 10th November 2020, the Commission forwarded Veolia‟s submissions to Suez 
+and sought additional information/clarifications from Suez in light of Veolia‟s 
+submissions, including the details of assets and turnover of Suez in India in terms of 
+provisions of Section 5 of the Act, breakup of the enterprise level turnover for each 
+of Suez India Entities in terms of intra group/non-intra group/other turnover, and 
+comments on the submission filed by Veolia on 13th October 2020.  
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 18 
+ 
+15. On 18th December 2020, Suez submitted its response to the Commission‟s letter. In 
+its response, Suez provided the combined asset and turnover of Suez India entities 
+for FY ending 31st March 2020 as well as breakup of the enterprise level turnover for 
+each of Suez India Entities in terms of intra group/non-intra group/other turnover for 
+FY 2018 – 19 as well as FY 2019 – 20 showing that the Target Exemption was not 
+applicable to the Proposed Takeover in either financial year. Further, Suez submitted 
+that Veolia did not conduct proper due diligence to identify the proper indirect 
+presence of Suez in India. In doing so, Veolia failed to arrive at a reasonable 
+estimation of Suez‟s indirect turnover in India. 
+Initiation of Proceedings under Section 20(1) and Section 43A of the Act 
+16. On 11th January 2021, the Commission considered the various submissions and the 
+material placed on record by Suez and Veolia and, upon due consideration of the 
+same, was of the opinion that the Target Exemption was not applicable to the 
+Proposed Takeover. Further, the asset turnover threshold criteria for the purpose of 
+Section 5 of the Act was also satisfied. Therefore, the Proposed Takeover was 
+squarely covered as a combination under Section 5 of the Act, and Veolia was 
+required to seek approval from the Commission under Section 6(2) of the Act before 
+completing the purchase of Suez shares from Engie.  
+17. Based on aforesaid, the Commission was of the opinion that the Proposed Takeover 
+was notifiable to the Commission, and by partially consummating the same before 
+notifying the Commission, Veolia had contravened the provisions of Section 6(2) 
+and 6(2A) of the Act. Consequently, the Commission decided to initiate proceedings 
+under Section 43A of the Act read with Regulation 48 of General Regulations of the 
+Competition Commission of India (General) Regulations, 2009 (General 
+Regulations) against Veolia and issued a Show Cause Notice (SCN) to Veolia dated 
+3rd February 2021.  
+18. Further, the Commission decided to initiate an inquiry in terms of Section 20(1) of 
+the Act read with Regulation 8 of the Competition Commission of India (Procedure 
+in regard to the transaction of business relating to Combinations) Regulations, 2011 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 18 
+ 
+(Combination Regulations) and directed Veolia to file a notice in Form II within 30 
+days from the date of receipt of communication from the Commission. 
+19. On 5th March 2021, Veolia filed a notice with the Commission in Form II (Merger 
+Notification). Subsequently, on 31st March 2021, the Commission, vide its letter 
+issued in terms of Regulation 14 of the Combination Regulation (RFI), directed 
+Veolia to furnish certain information/clarification(s) in relation to the notice by 7th 
+April 2021. Veolia, after seeking extension of time, submitted its response to the RFI 
+on 8th June 2021. In its response, Veolia, inter alia, submitted that, on 12th April 
+2021, the respective boards of directors of Suez and Veolia had reached an 
+agreement in principle on the key terms and conditions to revise the contours of the 
+proposed transaction. On 14th May 2021, pursuant to the agreement, in principle:  
+a. 
+Veolia and Suez, following approval by their respective boards of directors, 
+concluded the Combination Agreement, confirming their intention to merge, 
+clarifying the conditions of the merger, and structuring the next steps of the 
+transaction;  
+b. Veolia, Suez, and a consortium of investors (Consortium) composed of 
+Meridiam, Global Infrastructure Partner (GIP), and Caisse des Dépôts et 
+Consignations Group (including CNP Assurances) (CDC), signed a Memorandum 
+of Understanding (MoU) for the creation of New  Suez, which will combine a 
+wide range of activities and services currently provided by Suez (Revised 
+Agreement)1. 
+20. Based on the submissions of Veolia, the Commission, in its meeting held on 24th 
+June 2021, noted that the nature of transaction and the scope of the business of Suez 
+being acquired by Veolia had changed pursuant to the Revised Agreement. 
+Therefore, it was observed that the Merger Notification was not complete and in 
+conformity with the Combination Regulations.  Consequently, the notice was 
+invalidated and Veolia was directed to submit a fresh notice in Form II. On 15th July 
+                                                          
+1 On 19th May 2021, as a result of the agreement, Suez withdrew all legal actions before competition authorities 
+around the world, including before the Hon‟ble Commission. 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 18 
+ 
+2021, Veolia submitted the fresh merger notification in Form I. However, since the 
+Commission had directed Veolia to file the notice in Form II and also allowed for the 
+adjustment of fees already paid, and as Veolia, on its own, had filed the notice in 
+Form I, the Commission directed Veolia to file fresh filing fees. The same was filed 
+on 4th August 2021. The Commission approved the proposed transaction mentioned 
+in the above notice on 23rd November 2021. However, the said approval was without 
+prejudice to proceedings under Section 43A. 
+21. In relation to the proceedings under Section 43A, Veolia, earlier, on 9th June 2021, 
+had submitted a response to SCN  issued under Section 43A of the Act (Response 
+dated 9th June 2021) after seeking extensions of time. In that response, Veolia had 
+also requested for an oral hearing before the Commission. The Commission, in its 
+meeting held on 24th June 2021, considered the said response and directed Veolia to 
+appear before the Commission on 15th July 2021. Subsequently, Veolia, vide its letter 
+dated 7th July 2021, inter alia, requested the Commission to allow it to submit a 
+revised and updated response to the notice under Section 43A of the Act in view of 
+the changes in the nature of the transaction and also requested postponement of oral 
+hearing to a date after the filing of the revised and updated response. Thereafter, on 
+4th August 2021, Veolia submitted a revised response (Response dated 4th August 
+2021) to SCN. Veolia also reiterated its request for an oral hearing, which was 
+allowed by the Commission.  The Commission heard Veolia at length on 11th 
+January 2022. The Commission also allowed Veolia to file written submissions, 
+which were filed on 18th January 2022.  
+Submissions of Veolia 
+22. In response to SCN, Veolia, inter alia, submitted that the reason for not notifying the 
+Engie Block Transaction to the Commission was that it was under a bona fide belief 
+that the acquisition of the Engie Block was not a notifiable „combination‟ under the 
+Act. Veolia submitted that, as a first step, it had to undertake the assessment of the 
+applicability of the Target Exemption to the Engie Block and the Proposed 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 18 
+ 
+Transaction2; however, there were constraints on Veolia from procuring such 
+financial data/statements directly from Suez due to the adversarial, unsolicited, and 
+hostile nature of the acquisition and the consequent lack of Suez‟s co-operation. 
+Thus, Veolia had no option but to rely on the publicly available information and 
+documents of Suez, namely, (i) Suez Registration Document and (ii) Suez‟s 
+information available on the database maintained by the MCA, to undertake an 
+assessment of the thresholds under the Act and the relevant notification, and make 
+reasonable assumptions from the same. 
+23. Veolia submitted that it did not have access to the detailed financial information of 
+Suez provided by Suez to the Commission, which appears to significantly differ from 
+the financial information of Suez available in the public domain and which led to the 
+conclusion that the Target Exemption is not applicable. The Suez Submission of 18th 
+December 2020 which was communicated to Veolia also redacted the financial 
+details of relevant Suez entities in India, considering them confidential vis-à-vis 
+Veolia. Suez itself expressly stated in its submission that: “This information is not 
+available in the public domain and is only known to the Parties and their advisors.” 
+Thus, the redactions clearly demonstrated that Veolia could not have had access to 
+this financial information prior to the Engie Block Transaction. Accordingly, Veolia 
+in no manner can be said to be in contravention of Section 43A of the Act as, based 
+on Suez‟s own submission, it can be demonstrated that Veolia could not have had 
+access to the financial information prior to (or even after) the acquisition of the Engie 
+Block. Thereby, given the limited information available to Veolia, the acquisition of 
+the Engie Block (and the Proposed Transaction) availed of the Target Exemption, as 
+such, did not trigger any notification requirement under the Act.  
+24. Veolia submitted that it has always acted in a bona fide manner throughout the 
+proceedings and sought to co-operate to the fullest extent with the Commission. Prior 
+to the Merger Notification, Veolia set out its various submissions in a bona fide and 
+transparent manner and duly disclosed all the relevant documents/information to the 
+                                                          
+2 The proposed acquisition of at least 50% + 1 of the share capital of Suez by Veolia through a voluntary public 
+takeover bid, i.e., Public Offer under Section 6(2) of the Act (Proposed Transaction).  
+ 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 18 
+ 
+Commission in its submissions given on 13th October 2022 and 16th October 2020, 
+voluntary PFC request on 18th December 2020, and draft notification on 29th January 
+2021. Subsequently, after filing the Merger Notification, when the nature of the 
+Proposed Transaction was undergoing a change from a hostile takeover to the current 
+construct pertaining to the formation of New Suez, Veolia duly disclosed the same to 
+the Commission, providing details of the in-principle agreement between the parties 
+and intended aim of entering into a definitive merger agreement by 14th May 2021.  
+25. Further, on 15th July 2021, pursuant to the directions of the Commission, Veolia 
+submitted a fresh merger notification well within the 30 day period provided by the 
+Commission for such filing. The fresh merger notification was submitted in Form I, 
+as the combined market shares of the Parties pursuant to the Revised Agreement 
+were below 5%. Also, the Suez WTS Business being acquired by Veolia as well as 
+the New Suez Business, i.e., the business of Suez being transferred to New Suez 
+being acquired by the Consortium, in which Veolia has no shareholding, benefitted 
+from Target Exemption. However, without prejudice to the above and in the interest 
+of full and complete disclosure and cooperation with the Commission, given that the 
+consolidated value of assets and turnover of Suez as a whole in India exceeded the 
+thresholds for Target Exemption, the fresh merger notification was submitted to the 
+Commission in accordance with the Commission‟s direction to re-notify. 
+26. Veolia submitted that the Proposed Transaction, in any case, will not have any 
+Appreciable Adverse Effect on Competition (AAEC) in any market in India, since 
+the activities in relation to (i) the markets for drinking water management services 
+and wastewater management services in India, and (ii) the overall market for waste 
+management services in India (i.e., recycling of ferrous and non-ferrous metals (from 
+scrap) in India) would be simultaneously (or very shortly thereafter) transferred to 
+New Suez, in which Veolia will have no direct or indirect shareholding by the end of 
+2021, and in the water technologies solutions (WTS) market in India, (i) Suez‟s 
+presence is insignificant and limited to industrial customers only, (ii) Veolia has no 
+presence in this market and has no industrial customers in India, and (iii) this market 
+is characterized by the presence of several large established players. Moreover, 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 18 
+ 
+Veolia and New Suez would continue (i) to remain competitors post the Proposed 
+Transaction in the markets for provision of drinking water management services in 
+India and wastewater management services in India, and (ii) to operate in different 
+segments of the overall market for waste management services in India. Moreover, 
+Suez has failed to demonstrate any prejudice/injury caused to Suez or competition in 
+India by Veolia‟s alleged failure to notify the acquisition of the Engie Block 
+Transaction.  
+27. Further, Veolia submitted that competition regulators in other jurisdictions, such as 
+Europe or Canada, where Suez had claimed similar gun-jumping issues, appreciated 
+the bona fide intentions of Veolia and have either (i) rejected the gun-jumping claim 
+by Suez or (ii) have found it appropriate not to initiate any gun-jumping proceedings 
+against Veolia for the acquisition of the Engie Block or impose any penalty on 
+Veolia.  Further, in India, the report of the Competition Law Review Committee 
+(CLRC Report) recommended that standstill obligations under the Act be modified 
+to allow parties to complete on-market purchases, including unsolicited acquisitions. 
+Veolia submitted that the proposed conditions of the Draft Regulation and the 
+Amendment Bill are met in the present case  
+28. Veolia stated that it had no intention to avoid the jurisdiction or escape the 
+Commission‟s merger review. In fact, Veolia acts in compliance with all the laws of 
+the country, including the Act, and has put in place a Competition Law Compliance 
+Policy as a responsible corporate entity. Further, it has never been in contravention of 
+the provisions of the Act, and thus, a lenient view may be taken by the Commission 
+with respect to the acquisition of the Engie Block Transaction. 
+Commission’s Analysis and Finding 
+29.  The Commission has considered the submissions of Veolia as well as heard the 
+arguments advanced by the learned counsel. It is observed that, as per the provisions 
+of the Act, when Veolia made a firm offer for the acquisition of 29.9% of the share 
+capital of Suez and voting rights from Engie on 30th August 2020, there was an 
+obligation upon Veolia to file a notice under Section 6(2) of the Act. However, it 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 18 
+ 
+completed the purchase of shares from Engie without filing any notice with the 
+Commission. Therefore, the issue for determination in relation to the SCN issued to 
+Veolia is “Whether Veolia, by partially consummating the Proposed Takeover i.e., 
+completing the Engie Block Transaction without filing a notice under Section 6(2) of 
+the Act, has contravened the provisions of Section 6(2A) of the Act and is, hence, 
+liable for penalty under section 43 A of the Act.” 
+30. As stated earlier, Veolia has contended that it was under a bona fide belief that the 
+Engie Block transaction benefitted from the Target Exemption. Since it was a case of 
+hostile takeover accurate values of assets and turnover of Suez in India was not 
+available, therefore, reasonable assumptions were made based on publicly available 
+information.  
+31. However, Suez, in its response dated 18th December 2020, contended that Veolia had 
+not adhered to the very minimum standards of due diligence while identifying the 
+Indian presence of Suez and assessing the Indian assets and turnover of Suez for 
+ascertaining the notifiability of the Proposed Takeover. Suez in its response referred 
+to multiple publicly available sources that would have shown that SIPL is not the 
+only subsidiary/indirect presence of Suez in India. For instance, Suez submitted that:  
+a. Veolia failed to consider Suez‟s subsidiaries, namely, (i) Driplex Water 
+Engineering Private Limited and (ii) Driplex Water Engineering International 
+Private Limited (jointly Driplex) even though the website of Suez India 
+mentioned that Suez had acquired stakes in Driplex in 2016 and further in 2017. 
+This information was also available in its press release dated 22nd January 2016. 
+Further, the Suez Registration Document relied on by Veolia also mentions the 
+majority stake acquisition of Driplex by Suez. While this information was 
+available widely, Veolia failed to consider Driplex as a subsidiary of Suez while 
+calculating the “best estimate” turnover.  
+b. Similarly, Veolia also failed to consider Suez‟s subsidiary, namely, Suez Water 
+Technology & Solutions (India) Private Limited. As available on the website for 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 18 
+ 
+Suez Water Technologies and Solutions, Suez acquired GE Water in 2017. The 
+same is also available in the form of a press release dated 2nd October 2017.  
+c. Veolia also failed to consider Suez‟s subsidiary Suez Projects Private Limited, 
+even though it was mentioned in a news article dated 13th December 2019 that 
+the Suez group, through Suez Projects Private Limited, had entered into a 
+contract for the rehabilitation and operation of drinking water distribution in 
+Mangalore, India.  
+d. Further, Veolia failed to consider Suez‟s joint venture with SMPL in India, when 
+Suez, on its website, had clarified that it formed a joint venture with SMPL in 
+India to develop the water distribution facility in Delhi. 
+32. Having considered submissions received from Veolia and Suez, it appears that, while 
+Veolia has asserted that it acted in a bona fide manner and made all reasonable 
+attempts to ascertain the assets and turnover of Suez in India for the purposes of 
+assessing the applicability of Target Exemption, the conduct indicates to the 
+contrary. For instance, Veolia has contended that the actual asset and turnover 
+figures of the Target in India were not available with it at the time of acquisition of 
+Engie Block and it believed that Suez had only one (01) India entity, i.e., SIPL. 
+However, based on the sequence of events, it appears that, at least a week before the 
+Engie Block Transaction, the Commission had forwarded to Veolia Suez Application 
+and other Suez submissions, which identified thirteen (13) Suez India entities as well 
+as provided the value of Indian turnover and assets of Suez for the FY ending 31st 
+March 2019 (from select eight (08) Suez India Entities). As such, the communication 
+from the Commission ought to have raised doubts about the assumptions made by 
+Veolia, and it could have approached the Commission to seek clarification about the 
+applicability of Target Exemption to the Proposed Takeover prior to completion of 
+the Engie Block Transaction. Instead, Veolia consummated the Engie Block 
+Transaction on 6th October 2020. Further, Veolia has submitted that it voluntarily 
+approached the Commission by way of a pre-filing consultation (PFC) on 18th 
+December 2020, in relation to the Merger Notification. However, the Commission is 
+constrained to note that Veolia approached for such PFC in respect of the Proposed 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 18 
+ 
+Transaction long after the completion of the Engie Block Transaction.  In any case, 
+PFC facility is non-binding in nature and provided only to assist the parties to 
+comply with the requirements of the Act.  
+33. Notwithstanding whether the conduct of Veolia was bona fide or not, the values of 
+asset and turnover for Suez India entities for the year FY 2018 – 19 as well as FY 
+2019 – 20 establish that the Proposed Takeover did not benefit from Target 
+Exemption. Hence, as per the provisions of the Act, Veolia was required to file a 
+notice with the Commission under Section 6(2) of the Act, prior to completion of the 
+Engie Block Transaction, and by not doing so, it breached the provisions of Section 
+6(2A) of the Act. The position that Section 43A would be attracted in case of such 
+breach irrespective of  intent has been laid down by the Hon‟ble Supreme Court in 
+Competition Commission of India v. Thomas Cook (India) Limited3, wherein the 
+Hon‟ble Supreme Court observed as under: 
+ “.... For the imposition of penalty under section 43A, the action may not be mala 
+fide in case there is a breach of the statutory provisions of the civil law, penalty is 
+attracted simpliciter on its violation.” 
+ Further, it was observed that:  
+“There was no requirement of mens rea under section 43A or intentional breach as 
+an essential element for levy of penalty. Section 43A of the Act does not use the 
+expression "the failure has to be willful or mala fide" for the purpose of imposition of 
+penalty. The breach of the provision is punishable and considering the nature of the 
+breach, it is open to impose the penalty.”  
+Similar observations were made by the Supreme Court in SCM Solifert Limited & 
+Anr v. Competition Commission of India4 also. 
+34. It is to be noted that the merger control regime in India is mandatory and suspensory 
+in nature. Section 5 provides the assets and turnover criteria to determine which 
+                                                          
+3 Civil Appeal No.13578 of 2015 
+4 Civil Appeal No. 10678 of 2016 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 18 
+ 
+acquisitions of control/shares/voting rights/assets or mergers and amalgamations will 
+amount to combination under the Act. Section 6(2) of the Act mandates parties to 
+give notice in respect of the proposed combination. In case of acquisitions, the 
+trigger for notifying the transaction to the Commission is the execution of any 
+agreement or other document for the acquisition of control/shares/voting rights/assets 
+referred to in Section 5(a) or acquiring of control referred to in Section 5(b) of the 
+Act. Section 6(2A) of the Act provides that a combination notified to the 
+Commission shall not come into effect for a period of 210 days from the date of 
+notification or earlier approval by the Commission. The provisions in effect imply 
+that the merger and acquisitions that can be considered combinations in terms of 
+Section 5 of the Act are mandatorily notifiable to the Commission, and therefore, 
+cannot be consummated, either entirely or in part, without approval from the 
+Commission, unless they are exempted by Government of India notification or are 
+combinations that fall under Schedule 1 of Combination Regulation, in respect of 
+which, a notice need not normally be filed. As noted above, the Engie Block 
+Transaction was not exempted by any Government of India notification. Also, it was 
+not covered under Schedule 1 of Combination Regulations and was required to be 
+notified to the Commission prior to consummation. Such statutory obligation of 
+Veolia was independent of any action that may have been initiated by Suez with the 
+Commission.  
+35. Also, it is pertinent to note that the mandatory regime for notifying a proposed 
+combination to the Commission is applicable irrespective of whether the 
+combination causes any AAEC in India or not. In this regard, the Commission, in its 
+order relating to penalty proceedings under Section 43A of the Act against Intellect 
+Design Arena Limited, has already observed: “…. the Act clearly provides, 
+irrespective of whether there is any appreciable adverse effect on Competition in 
+India or not, there is mandatory regime for notifying a combination to the 
+Commission.”  
+36. Further, the approval of the combination by the Commission also does not imply that 
+penalty under Section 43A of the Act will not be attracted for failure to file notice 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 16 of 18 
+ 
+with the Commission under Section 6(2) of the Act. This position has been clearly 
+laid down by the  Hon‟ble Supreme Court in SCM Solifert Limited & Anr v. 
+Competition Commission of India5, as under:  
+“The factum of the approval of the combination subsequently by the Commission is 
+not going to provide an insulation when the provisions of the Act have been 
+violated and prior notice had not been given under section 6(2). It was open to 
+impose a penalty under section 43A. Merely by grant of approval by the 
+Commission violation of provisions does not become condonable ipso facto” 
+37. With respect to the contentions of Veolia regarding the decisions taken by other 
+competition authorities in relation to gun jumping issues, it is observed that the 
+decisions of other competition authorities are specific to their regulatory 
+requirements. The same may not be applicable to the Indian framework. The method 
+of evaluating transactions and the waiting/compliance timelines required to be 
+adhered to by the Parties might be different for foreign competition authorities. 
+Therefore, reliance cannot be placed on the decisions of other competition authorities 
+to assess contravention under the provisions of the Act.  
+38. Further, the reliance placed by Veolia on the exemption which may be provided by a 
+proposed legislation is also misplaced, as the proposed amendment is not notified or 
+approved by the Parliament as yet. The contravention needs to be assessed on the 
+basis of existing laws and not on prospective laws in the pipeline. Further, Veolia has 
+highlighted the structural changes made to the transaction; however, such structural 
+changes were made subsequent to the contravention by Veolia, i.e., post the 
+acquisition of Engie Block. In any case, the emergence of a structural change/remedy 
+does not absolve the Party of contravention/breach of the provision of the Act.  
+39. Thus, in light of the above, the Commission finds that Veolia, by acquisition of 
+Engie Block without filing a notice with the Commission in terms of Section 6(2) of 
+the Act prior to acquisition, has contravened the provisions of Section 6(2A) of the 
+                                                          
+5 Civil Appeal No. 10678 of 2016 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 17 of 18 
+ 
+Act and hence, is liable for penalty under Section 43A of the Act, which reads as 
+under: 
+“If any person or enterprise fails to give notice under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may 
+extend to one per cent of the total turnover or the assets, whichever is higher, of 
+such a combination” 
+40. It is to be noted that Section 43A of the Act prescribes the extent of penalty that can 
+be levied for failure to file notice; however, the Commission has sufficient discretion 
+to consider the conduct of the parties and circumstances of the case to arrive at an 
+appropriate penalty. 
+41. Veolia, in its response to SCN, has submitted that, in the event that Veolia is 
+considered to have acted in contravention of Section 43A of the Act, the Commission 
+should consider factors such as no mala fide intention on the part of Veolia to evade 
+compliance of the provisions of the Act, proposed amendment in recognition of the 
+lacuna in the law relating to public market purchases, no previous violations of the 
+Act by Veolia, bona fide and transparent disclosure of requisite information, 
+continuous co-operation with the Commission‟s inquiry under Section 20(1) of the 
+Act, no prejudice to competition and no AAEC in the Indian market regardless of the 
+transaction undertaken, and non-initiation gun-jumping proceedings against Veolia 
+for the Engie Block by other jurisdictions as mitigating factors and impose no 
+penalty on Veolia.  
+42. The Commission finds that none of the above factors absolve Veolia of its obligation 
+to file a notice prior to the consummation of the Engie Block Transaction. Further, 
+the fact that Veolia failed to approach the Commission before the consummation of 
+the Engie Block Transaction on 6th October 2020, even though it had received the 
+communication of the Commission along with the Suez application and other Suez 
+submissions on 29th September 2020, which clearly indicated non-applicability of the 
+Target Exemption to the Proposed takeover, runs counter to the contention of Veolia 
+that there was no intent on its part to evade compliance of the provisions of the Act. 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 18 of 18 
+ 
+However, considering that Veolia extended cooperation during the inquiry and 
+supplied requisite material/documents in response to the information requirement of 
+the Commission can be considered mitigating factors. Thus, while the Commission 
+acknowledges that Veolia has been cooperative through the course of the 
+proceedings; however, it cannot be exculpated of the statutory obligation to file a 
+notice with the Commission prior to the consummation of the proposed combination.  
+43. Thus, considering the facts and circumstances of the case and the conduct of Veolia, 
+the Commission decides to impose a penalty of INR 1,00,00,000/- (Rupees One 
+Crore Only) on Veolia. Veolia shall pay the penalty within 60 days from the date of 
+receipt of this order. 
+44. Further, it is made clear that nothing used in this order shall be deemed to be 
+confidential or deemed to have been granted confidentiality, as the same have been 
+used for the purposes of the Act in terms of the provisions contained in Section 57 
+thereof. 
+45. The Secretary is directed to inform Veolia accordingly. 

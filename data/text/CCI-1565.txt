@@ -1,0 +1,855 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 22 
+ 
+COMPETITION COMMISSION OF INDIA 
+Combination Registration No. C-2024/04/1139 
+ 
+07th March 2025 
+Proceedings under section 43A of the Competition Act, 2002 (Act) in relation to notice 
+filed under sub-section (2) of section 6 of the Act by Matrix Pharma Private Limited, 
+Mudhra Labs Private Limited, Mudhra Lifesciences Private Limited, Mudhra 
+Pharmacorp LLP, Kotak Strategic Situations India Fund II - a fund managed by Kotak 
+Alternate Asset Managers Limited, and Kingsman Wealth Fund PCC Aurisse Special 
+Opportunities Fund 
+ 
+ 
+CORAM:  
+ 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Mr. Anil Agrawal  
+Member 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Appearances: Mr. Abhik Ghosh, Advocate 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+A. 
+BACKGROUND 
+1. 
+The Competition Commission of India (Commission) in its meeting held on 28th May 
+2024 had considered the notice dated 23rd April 2024 (Notice) received under sub-
+section (2) of Section 6 of the Competition Act, 2002 (Act) filed by Matrix Pharma 
+Private Limited (Acquirer), Mudhra Labs Private Limited (Mudhra Labs), Mudhra 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 22 
+ 
+Lifesciences Private Limited (Mudhra Lifesciences), Mudhra Pharmacorp LLP 
+(Mudhra Pharmacorp), Kotak Strategic Situations India Fund II (KSSIF/ Investor 1), 
+Kotak Alternate Asset Managers Limited (KAAML/ Investor 2), and Kingsman Wealth 
+Fund PCC Aurisse Special Opportunities Fund (Kingsman)  [hereinafter, Mudhra Labs, 
+Mudhra Lifesciences, and Mudhra Pharmacorp are collectively referred to as the 
+Acquirer Holding Entities; Investor 1 and Investor 2 are collectively referred to as the 
+Investors; and, the Acquirer, Acquirer Holding Entities, Investors, and Kingsman are 
+collectively referred to as Acquirers/ Notifying Parties] and passed an order under sub-
+section (1) of Section 31 of the Act approving the Proposed Combination (as defined 
+below), without prejudice to any proceeding under Section 43A of the Act (Order).  
+Description of the Parties 
+2. 
+Acquirer: The Acquirer is a private limited company incorporated in India in 2022 for 
+the purpose of acquisition of the Tianish Laboratories Private Limited (Target). It does 
+not have any subsidiaries or affiliates and does not presently carry out any business 
+activity either in India or outside India [hereinafter, the Acquirers and the Target are 
+together referred to as Parties]. 
+3. 
+Acquirer Holding Entities: Mudhra Lifesciences and Mudhra Pharmacorp are the 
+shareholders of Mudhra Labs, which is the direct holding company of the Acquirer. In 
+other terms, Mudhra Labs is a subsidiary of Mudhra Lifesciences and an affiliate of 
+Mudhra Pharmacorp, and the Acquirer is a subsidiary of Mudhra Labs. Mudhra 
+Lifesciences and Mudhra Pharmacorp are controlled by Mr. Venkata Pranav Reddy 
+Gunupati (Pranav) who is also the majority owner in both entities. Accordingly, Pranav 
+is the ultimate beneficial owner and person in control of the Acquirer and the Acquirer 
+Holding Entities, which are all part of the same group.  
+4. 
+Acquirer Group: Pranav together with certain of his family members, also holds direct 
+and indirect investments in several other companies, several of which have been made 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 22 
+ 
+through IQuest, which is also a party to the SPA. Accordingly, the entities over which 
+Pranav (including his family members) has: (a) direct or indirect shareholding of 10% or 
+more; or (b) a right or ability to exercise any right not available to ordinary shareholders 
+(including any advantage of a commercial nature); or (c) a right or ability to nominate a 
+director or observer, have been considered as the ‘Acquirer Group’. 
+5. 
+Investor 1: Investor 1 is a scheme of Kotak Strategic Situations Trust, a trust set up 
+under the Indian Trust Act, 1882 and registered with Securities and Exchange Board of 
+India (SEBI) as a Category-II Alternate Investment Fund.  
+6. 
+Investor 2: KAAML is the settlor and manager of Investor 1. Kotak Mahindra Bank 
+Limited holds, directly and indirectly, 100% of its shareholding. It acts as an investment 
+manager, engaged in the business of managing and advising funds across various asset 
+classes. 
+7. 
+Kingsman: Kingsman is incorporated as a protected cell public company limited by 
+shares in Mauritius and holds a Global Business License issued by the Financial Services 
+Commission (FSC), Mauritius. It is regulated by the FSC as an open-ended fund 
+classifying as a self-managed expert fund for the purposes of the Securities Act, 2005 
+and the Securities (Collective Investment Schemes and Closed-End Funds) Regulations, 
+2008. It is also registered as a foreign portfolio investor with SEBI.  
+8. 
+Target: The Target is a private limited company incorporated in India in 2023. It is a 
+wholly owned subsidiary of Mylan India, which in turn is an indirect subsidiary of Viatris 
+Inc. (Viatris), the ultimate parent company of the Viatris group (Viatris Group). The 
+Target does not have any subsidiaries or affiliates. The Target has taken over the active 
+pharmaceutical ingredients (API) manufacturing business (API Business) of Mylan 
+Laboratories Limited (Mylan India) and is engaged in the manufacture of APIs in India, 
+which business was formerly carried out by Mylan India and transferred to the Target 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 4 of 22 
+ 
+pursuant to a scheme of demerger which was made effective from 1st March 2024. 
+Currently, the API Business of the Target comprises 290 APIs in its portfolio. 
+Transaction 
+9. 
+The Notice was filed with the Commission for approval of the following Combination: 
+i. 
+Purchase of equity shares of the Target by the Acquirer, constituting 100% of the 
+issued and paid-up share capital of the Target on a fully diluted basis (Proposed 
+Acquisition);  
+ii. 
+Proposed subscription to optionally convertible debentures of Mudhra Labs by 
+Investors (Proposed KSSIF/KAAML Investment);  
+iii. 
+Subscription to compulsorily convertible preference shares of Mudhra 
+Lifesciences by Kingsman (Kingsman Funding). 
+Since the Acquirer was receiving funding pursuant to the Proposed KSSIF/KAAML 
+Investment and Kingsman Funding, both were considered as inter-connected with the 
+Proposed Acquisition [together, the Combination]. 
+10. 
+In addition to above, it was submitted in the Notice that in order to ensure funding for 
+the Acquirer to undertake the Proposed Acquisition, the Acquirer Holding Entities had 
+partly funded the Acquirer by way of investments from: (i) Mudhra Lifesciences by way 
+of subscription to equity shares and compulsorily convertible preference shares (CCPS) 
+in Mudhra Labs and (ii) Mudhra Pharmacorp by way of subscription to equity shares in 
+Mudhra Labs. Mudhra Labs in turn invested the proceeds of these investments received 
+by it in the Acquirer by way of subscription to equity shares, to be utilized by the 
+Acquirer for its acquisition of the Target in the Proposed Acquisition. The investments 
+by Mudhra Lifesciences and Mudhra Pharmacorp in Mudhra Labs and by Mudhra Labs 
+in the Acquirer are collectively referred to as the ‘Acquirer Funding’. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 22 
+ 
+11. 
+Regarding entities investing in Mudhra Lifesciences, it was mentioned that other than 
+Kingsman, Mudhra Lifesciences had received equity investment from Pranav, who is the 
+ultimate beneficial owner and person in control of Mudhra Lifesciences.  
+12. 
+Regarding entities investing in Mudhra Pharmacorp, it was stated that the minority 
+partners of Mudhra Pharmacorp are Govipri Infra LLP and Sujatha Ravuri, who had 
+contributed capital to Mudhra Pharmacorp in accordance with the Amended and Restated 
+Limited Liability Partnership Agreement dated 5th April 2024 entered into between 
+Pranav, Govipri Infra LLP and Sujatha Ravuri. Govipri Infra LLP is wholly owned by 
+family members of Mr. Pranav Reddy. Other than the above, Mudhra Pharmacorp LLP 
+had not received investments from any other person or entity. 
+13. 
+Regarding investment by Investors in Mudhra Labs through Optionally Convertible 
+Debentures (OCDs), it was submitted that the amount to be invested by the Investors 
+towards subscription of the OCDs was not yet remitted to Mudhra Labs and accordingly, 
+OCDs were yet to be issued by Mudhra Labs. It was stated that the investment amount 
+will be remitted and the OCDs will be issued only after all the conditions precedent to 
+the closing of the proposed investment by the Investors had been satisfied, including 
+obtaining the approval of the Commission. Upon receipt of the investment from the 
+Investors towards subscription of the OCDs, this amount would be further invested by 
+Mudhra Labs in the Acquirer, towards subscription of Compulsorily Convertible 
+Debentures. Further, it was clarified that the Investors’ knowledge of the Proposed 
+Acquisition was only limited to its own investment in Mudhra Labs which had not been 
+completed. 
+14. 
+The Parties confirmed that certain considerations relating to Acquirer Funding had been 
+paid prior to the filing of the Notice, as set out below: 
+i. 
+Kingsman Funding: On 5th April 2024, the investment by Kingsman in Mudhra 
+Lifesciences by way of subscription to CCPS was completed after being deemed to 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 22 
+ 
+have been approved by the Commission pursuant to the submission of a notice in 
+Form I (bearing registration no. C-2024/04/1130) under the green channel (Green 
+Channel Notice) which was acknowledged by the Commission on 4th April 2024. 
+ii. 
+Acquirer Funding 
+a. Investment by Mudhra Lifesciences in Mudhra Labs: It was stated that the 
+entire investment that was proposed to be made by Mudhra Lifesciences in 
+Mudhra Labs by way of subscription/ purchase of 44.23% equity shareholding 
+of Mudhra Labs (on a fully diluted basis) and by way of subscription to CCPS 
+(constituting 30.33% equity shareholding of Mudhra Labs on a fully diluted 
+basis) was completed by 6th April 2024. Further, other than the rights available 
+to it as an equity shareholder of Mudhra Labs and in terms of the CCPS, there 
+were no other rights available to Mudhra Lifesciences with respect to Mudhra 
+Labs.  
+b. Investment by Mudhra Pharmacorp in equity shares of Mudhra Labs: It 
+was stated that the entire investment that was proposed to be made by Mudhra 
+Pharmacorp in Mudhra Labs by way of subscription to 25.44% equity 
+shareholding of Mudhra Labs was completed by 6th April 2024. Further, other 
+than the rights available to it as an equity shareholder of Mudhra Labs, there 
+were no other rights available to Mudhra Pharmacorp with respect to Mudhra 
+Labs.  
+c. Investment by Mudhra Labs in equity shares of the Acquirer: Regarding 
+investment by Mudhra Labs in equity shares of the Acquirer, it was submitted 
+that on 1st March 2024 the consideration was paid for secondary purchase from 
+original shareholders of the Acquirer and on 16th April 2024 the consideration 
+was paid and allotment was completed on the same date. The percentage of 
+equity shareholding held by Mudhra Labs in Acquirer was 100%. 
+iii. 
+Investment by Pranav in Mudra Lifesciences: It was stated that the investment 
+by Pranav in Mudhra Lifesciences was made towards subscription of 54,79,99,999 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 7 of 22 
+ 
+equity shares (out of which 1,00,09,999 equity shares were fully paid-up). Further, 
+a portion of the investment by Mudhra Lifesciences in Mudhra Labs had been 
+funded through debt, where Mudhra Lifesciences had borrowed by issuing unlisted, 
+secured, redeemable, non-convertible debentures to institutional investors. 
+However, this was a pure debt transaction and none of the institutional investors 
+had any voting rights, control or any special rights over Mudhra Lifesciences. 
+Regarding the pre and post shareholding in Mudhra Lifesciences, it was stated that 
+while Pranav held 100% of the outstanding equity share capital and Kingsman only 
+held CCPS, upon conversion of the CCPS Kingsman would receive equity shares 
+amounting to 42.75% of the post-conversion equity share capital on a fully diluted 
+basis, whereas Pranav’ equity shareholding would be diluted to 57.25%.  
+iv. 
+Capital Contribution in Mudhra Pharmacorp by the partners of Mudhra 
+Pharmacorp: It was stated that the following partners of Mudhra Pharmacorp had 
+contributed the capital: (i) Mr. Pranav Reddy, (ii) Govipri Infra LLP, and (iii) Ms. 
+Sujatha Ravuri. It was submitted that notwithstanding the capital contribution ratio, 
+the partners of Mudhra Pharmacorp had agreed that Pranav has the right to control 
+and manage the affairs and assets/investments of Mudhra Pharmacorp and other 
+than their respective partnership interest, neither Govipri Infra LLP nor Sujatha 
+Ravuri enjoy any rights or control in Mudhra Pharmacorp.  
+15. 
+Pertinently, the Acquirer and the Investors had earlier submitted a notice in Form I 
+(bearing Registration No. C- 2024/01/1100 (Original Notice)) seeking approval from 
+the Commission for the Acquirer’s acquisition of the Target and investment by the 
+Investors in the Acquirer to fund such acquisition. The Commission granted approval for 
+this transaction by way of an order dated 13th February 2024. However, subsequent to 
+the receipt of the said approval the structure of the transaction underwent a change.  
+16. 
+The Acquirer submitted that such change was pursuant to commercial discussions 
+between the Acquirer and the Investors. It was submitted that further to the Acquirer’s 
+efforts to secure funding for the acquisition, in particular, the Kingsman Funding and 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 8 of 22 
+ 
+Acquirer Funding (as described above) became necessary to capitalise the Acquirer 
+sufficiently to complete the Proposed Acquisition, whereas the subscription of OCDs by 
+the Investors had to take place at the Mudhra Labs level rather than the Acquirer level 
+(as was envisaged in the Original Notice) as per the requirements of the lenders to the 
+Acquirer. 
+B. 
+ISSUE OF SHOW CAUSE NOTICE (SCN) 
+17. 
+The Commission considered the matter in its meeting held on 28th May 2024 and 
+observed that subsequent to the approval by the Commission of the Original Notice, the 
+structure of the transaction had undergone a considerable change.  
+18. 
+The Commission noted that pursuant to the change though the direct acquiring entity of 
+the Target continued to be Matrix Pharma, the shareholding and control structure of 
+Matrix Pharma had changed. As per the Original Notice, Matrix Pharma was directly 
+owned and controlled by Pranav and his wife Mrs. Swati Reddy Gunupati, who 
+collectively held 99.26% of the shareholding of the Acquirer. However, as per the instant 
+Notice, Mrs. Swati Reddy Gunupati had ceased to hold any shareholding in Matrix 
+Pharma and Pranav held only indirect shareholding. Direct 100% equity shareholding in 
+Matrix Pharma was now held by Mudhra Labs, in which Mudhra Lifesciences held 
+74.56% (on a fully diluted basis) and remaining was held by Mudhra Pharmacorp. In 
+Mudhra Lifesciences, Pranav held 100% equity shareholding and Kingsman held CCPS 
+(amounting to 42.75% of the post-conversion equity share capital on a fully diluted basis) 
+and in Mudhra Pharmacorp, Govipri Infra LLP and Sujatha Ravuri were partners along 
+with Pranav. It was noted that the change in structure of Transaction and Acquirer 
+Funding had been carried out and completed without notifying to the Commission. 
+19. 
+Considering that the purpose of the Acquirer Funding was to ensure funding for the 
+Acquirer to undertake the Proposed Acquisition, it was observed that the transactions 
+forming part of the Acquirer Funding were interconnected to the Proposed Acquisition 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9 of 22 
+ 
+and hence to the Proposed Combination in terms of Regulation 9(4) and 9(5) of the 
+Competition Commission of India (Procedure in regard to transaction of business 
+relating to combinations) Regulations, 2011 (Combination Regulations). Likewise, 
+Kingsman Funding, investment by Pranav in Mudhra Lifesciences and capital 
+contribution in Mudhra Pharmacorp by the partners of Mudhra Pharmacorp i.e., (i) 
+Pranav, (ii) Govipri Infra LLP and (iii) Ms. Sujatha Ravuri and Proposed 
+KSSIF/KAAML Investment by the Investors were also interconnected with the Proposed 
+Combination. Accordingly, a single notice covering all these interconnected transactions 
+ought to have been given to the Commission prior to consummation. However, the 
+Acquirers had failed to do so. 
+20. 
+Thus, considering the above, the Commission was of the prima facie opinion that there 
+was a contravention of the provisions of sub-section (2) of Section 6 and sub-section 
+(2A) of Section 6 of the Act in the matter. Accordingly, the Commission decided to issue 
+SCN to the Acquirers under Section 43A of the Act read with Regulation 48 of the 
+Competition Commission of India (General) Regulations, 2009. 
+21. 
+Accordingly, an Order dated 28th May 2024 (SCN Order) was passed by the 
+Commission directing the Acquirers to show cause in writing within 15 days of receipt 
+of the SCN Order as to why: (i) they should not be found in contravention of the 
+provisions of the Act and (ii) no penalty in terms of Section 43A of the Act should be 
+imposed upon them. The SCN Order was communicated to the Acquirers vide letter 
+dated 12th July 2024 and the Acquirers submitted their response on 29th July 2024 (SCN 
+Response). 
+C. 
+RESPONSE TO SCN  
+22. 
+It is stated in the SCN Response that the change in the structure of the transaction for the 
+purposes of acquisition of the Target was not anticipated at the time of filing of the 
+Original Notice. Besides, despite the inclusion of Acquirer Holding Entities which were 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 10 of 22 
+ 
+not previously part of the Acquirer’s holding structure, the only material change in 
+ownership is on account of the investment by Kingsman, being an unrelated third-party 
+investor, as the other changes in the transaction structure as disclosed in the Notice did 
+not lead to any change in the competitive assessment as undertaken by the Commission 
+for the Original Notice. 
+23. 
+Though Swati was disclosed as a shareholder of the Acquirer in the Original Notice, she 
+is no longer a shareholder either in the Acquirer or the Acquirer Holding Entities as 
+disclosed in the Notice. However, this is not a material change as the investments by 
+Swati have been considered for the purposes of the competitive assessment analysis in 
+both the Original Notice and the instant Notice.  
+24. 
+Thus, notwithstanding the change in the transaction structure compared to the structure 
+described in the Original Notice, there is no material change in the ultimate ownership 
+of the Acquirer and there is a change only in the layers of ownership and the level at 
+which the Investors would be making their investment, while the basic objective of the 
+transaction i.e., acquisition of the Target, remains the same. 
+(i) 
+Submissions with respect to Acquirer Holding Entities: 
+25. 
+It is submitted that as originally envisaged and disclosed in the Original Notice, the 
+Acquirer was wholly owned by Pranav and his wife Swati, and would receive investment 
+from the Investors in order to fund the acquisition of the Target. However, as per the 
+requirements of the lenders to the Acquirer, the Acquirer could not issue OCDs to the 
+Investors and therefore, it became necessary to create an additional holding entity above 
+the Acquirer that would issue such OCDs to the Investors i.e., Mudhra Labs. 
+26. 
+Further, in order to secure sufficient funding for the Proposed Acquisition, it became 
+necessary to raise equity from alternate sources. Accordingly, a commercial decision was 
+taken for Kingsman to invest in Mudhra Life sciences, which would become the holding 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 11 of 22 
+ 
+company of Mudhra Labs. Pranav was also able to secure investments from certain 
+family and friends i.e., Govipri Infra LLP (wholly owned by family members of Pranav) 
+and Sujatha Ravuri in Mudhra Pharmacorp, which also became a minority shareholder 
+in Mudhra Labs. 
+27. 
+However, notwithstanding the inclusion of additional persons not envisaged in the 
+Original Notice approved by the Commission, the only material change in ownership 
+was on account of the investment by Kingsman. This is on account of Pranav retaining 
+the majority ownership and control over Mudhra Lifesciences (and thus indirectly over 
+Mudhra Labs and the Acquirer). Even in Mudhra Pharmacorp, while Govipri Infra LLP 
+and Sujatha Ravuri have their respective partnership interests, neither Govipri Infra LLP 
+nor Sujatha Ravuri enjoy any rights or control in Mudhra Pharmacorp, and have 
+specifically agreed in the Amended and Restated Limited Liability Partnership 
+Agreement dated 5th April 2024 (LLP Agreement) that Pranav has the right to control 
+and manage Mudhra Pharmacorp, its affairs and its assets /investments. 
+28. 
+Nevertheless, despite Govipri Infra LLP and Sujatha Ravuri not having any control or 
+influence over the Acquirer or Target by virtue of their being partners in Mudhra 
+Pharmacorp, an overlap assessment of their respective investments has been undertaken 
+and it is confirmed that neither Govipri Infra LLP and Sujatha Ravuri have any portfolio 
+investments that cross the Materiality Threshold, and therefore do not impact the 
+competitive assessment of the Proposed Combination. 
+(ii) 
+Submissions with respect to Kingsman: 
+29. 
+The changes in the Acquirer structure did not lead to any material changes in the ultimate 
+ownership and control over the Acquirer, which remained with Pranav, except on 
+account of the investment by Kingsman, which is an unrelated third-party investor.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 12 of 22 
+ 
+30. 
+Therefore, after the Original Notice received approval from the Commission and the 
+necessity for additional investment from Kingsman was identified, a notice in Form I 
+was filed by Kingsman with the Commission prior to completion of the investment by 
+Kingsman in Mudhra Lifesciences. This notice disclosed that the ultimate purpose of 
+Kingsman’s investment was for the Acquirer’s acquisition of the Target, and was 
+submitted under the green channel and hence deemed to be approved by the Commission 
+upon submission. The investment by Kingsman was only completed after receipt of such 
+deemed approval from the Commission. Further, given that Kingsman does not have any 
+investments that overlap with the Target’s activities, even the introduction of Kingsman 
+did not impact the overlap analysis set out in the Original Notice. 
+(iii) 
+Submissions with respect to Inter-connected Transactions: 
+31. 
+The Acquirer Funding and the Kingsman Funding were necessary for the Acquirer to 
+complete its acquisition of the Target. However, the Acquirers have been fully 
+transparent with the Commission as to the transactions being undertaken, including 
+clarifying where certain steps had been carried out prior to filing of the Notice. 
+32. 
+It is submitted that certain steps were carried out prior to the filing of the Notice on 
+account of the commercial imperatives to complete the acquisition of the Target as 
+quickly as possible once the demerger of the API Business from Mylan India to the 
+Target became effective from 1st March 2024. As communicated by Viatris Inc., Mylan 
+India’s parent company, once the demerger became effective there came about an urgent 
+necessity and exigency to ensure the prompt closure of the Transaction and for the 
+Acquirer to take control over the business operations of the Target and to bring in the 
+necessary efficiencies in the operations of the Target as well as fund the operations of 
+the Target on a continual basis. Since the Target manufactures antiretroviral drugs which 
+are extremely important in the global (and India’s) fight against AIDS, it became 
+imperative that the Acquirer complete the acquisition of the Target at the earliest and 
+take control over the API Business to ensure that the supply of such critical drugs is not 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 13 of 22 
+ 
+disrupted given the impacted permits, licenses and stakeholder expectations on supply 
+from the Acquirer.  
+33. 
+It was in the above context that the Acquirer Funding and Kingsman Funding were 
+completed prior to the filing of the Notice in good faith and with the best of intentions, 
+under the bona fide impression that the Proposed Acquisition and the investment by the 
+Investors having already been notified to the Commission by way of the Original Notice, 
+and approved unconditionally by way of an order dated 13th February 2024, the 
+subsequent changes in the Acquirer’s structure were not material given that there was no 
+material change in the ultimate ownership of the Acquirer. Furthermore, while the 
+Kingsman Funding involved an unrelated third-party investor at the Mudhra Lifesciences 
+level, the same was only completed after receiving the deemed approval of the 
+Commission. 
+(iv) 
+Mitigating Circumstances  
+34. 
+It is submitted that while the Acquirer Funding and the Kingsman Funding were 
+completed prior to the filing of the Notice, the following mitigating circumstances be 
+considered: 
+a. There has not been any intention on the part of the Notifying Parties to omit any 
+material facts from the Commission, and the changes in the structure of the 
+transaction have only arisen subsequent to receipt of approval for the Original 
+Notice. Rather, the Acquirer Holding Entities and Kingsman had disclosed the status 
+of the Acquirer Funding and the Kingsman Funding in the Notice, acting in good 
+faith and in the interests of complete disclosure to the Commission.  
+ 
+b. The Notifying Parties have sought to comply with the spirit of the Act by ensuring 
+that notwithstanding the changes in the structure of the transaction as originally 
+envisaged in the Original Notice, the person in ultimate control of the Acquirer i.e., 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 14 of 22 
+ 
+Pranav, remained the same, and furthermore by assessing potential overlaps with the 
+Target on account of investments of Kingsman, Govipri Infra LLP and Sujatha 
+Ravuri. It may be noted that no additional potential overlaps have been identified in 
+the Notice pursuant to the revised structure than what had been disclosed in the 
+Original Notice and already approved by the Commission. 
+ 
+c. The Acquirer Funding was completed prior to the filing of the Notice in good faith 
+and with the best of intentions, under the bona fide impression that the Proposed 
+Acquisition and the investment by the Investors having already been notified to the  
+Commission by way of the Original Notice and approved unconditionally by way of 
+an order dated 13th February 2024, the subsequent changes in the Acquirer’s 
+structure were not material given that there was no material change in the ultimate 
+ownership of the Acquirer.  
+ 
+d. The completion of Acquirer Funding was also necessitated due to commercial 
+considerations for the transactions, and potential impact for the Target’s business in 
+the event that the time period between the demerger of the API Business into the 
+Target and acquisition by the Acquirer became extended. 
+ 
+e. Given that the revised structure saw the addition of Kingsman as an investor, a notice 
+in Form I (bearing Registration No. C-2024/04/1130) was filed by Kingsman under 
+the green channel, and only after receipt of deemed approval of the Commission for 
+this filing was the Kingsman Funding completed. 
+ 
+f. With respect to the Investors, no steps were taken towards consummating 
+investments whether in the Acquirer or in Mudhra Labs, until the receipt of approval 
+of the Commission pursuant to the Notice. Further, as clarified in the Notice, the 
+Investors were not aware of, nor did they have any knowledge, visibility nor hold 
+any responsibility with respect to, the completion of the Acquirer Funding and the 
+Kingsman Funding. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 15 of 22 
+ 
+ 
+g. The Notifying Parties have a track record of compliance with the provisions of the 
+Act, as evidenced by the notifications by way of the Original Notice as well as with 
+respect to the Kingsman Funding. Further, the Notifying Parties had pre-filing 
+consultations to apprise the Commission of the changes in the transaction structure, 
+thus demonstrating an intention to show full transparency before the Commission 
+and to comply with the spirit of the Act. Further, this is the first instance of alleged 
+violation of the provisions of the Act by the Notifying Parties, and that the Notifying 
+Parties are not repeat offenders and that there has been no mala fide intention on the 
+part of the Notifying Parties to evade compliance with the provisions of the Act, 
+rather the Notifying Parties have proactively disclosed to the Commission all 
+pertinent facts and circumstances. 
+ 
+h. The ultimate objective of the transactions described in the Original Notice and the 
+Notice remained the same i.e., acquisition of the Target by the Acquirer. Any steps 
+undertaken in furtherance of the Acquirer Funding and the Kingsman Funding prior 
+to filing of the Notice were only taken after receipt of approval from the Commission 
+(a) unconditionally for the transactions described in the Notice; and (b) under the 
+green channel for the Kingsman Funding. 
+ 
+i. Accordingly, the Notifying Parties have sought to ensure at all times that 
+notwithstanding the changes in the structure, the basis of the transaction that was 
+initially approved unconditionally by the Commission pursuant to the Original 
+Notice remained the same.  
+ 
+(v) 
+Prayer 
+35. 
+The Commission is requested, to take a lenient view considering the conduct of the 
+Notifying Parties and in light of the circumstances of the transaction, prays that no 
+penalty in terms of Section 43A of the Act be imposed upon any of the Notifying Parties. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 16 of 22 
+ 
+Furthermore, if the Commission decides to impose a penalty in terms of Section 43A of 
+the Act, it is prayed that in light of the conduct of the parties and other mitigating 
+circumstances as described above, a minimal or nominal penalty be imposed.  
+D. 
+Observations of the Commission 
+36. 
+The Commission has considered the material on record and heard the arguments of the 
+learned counsel in the matter on 7th January 2025. Given the submissions made in the 
+Notice, the response to the SCN and arguments presented before the Commission, the 
+observations of the Commission on the issue of contravention of the provisions of 
+Section 43A read with Section 6(2) and Section 6(2A) of the Act in the instant matter 
+are set forth in following paras. 
+I. 
+Investment by Pranav in Mudra Lifesciences/ capital contribution in Mudhra 
+Pharmacorp by the partners of Mudhra Pharmacorp/ Acquirer Funding for 
+the purposes of Proposed Acquisition 
+37. 
+Based on the submissions in the notice and response to SCN, it is apparent that 
+subsequent to order of the Commission dated 13th February 2024 whereby the Proposed 
+Combination notified vide Original Notice was approved, the structure of the transaction 
+underwent change. The pre-filing consultations in relation to the changes in the 
+transaction structure were sought only subsequent to completion of the Acquirer Funding 
+and Kingsman Funding. Although the Acquirers filed a fresh notice on 23rd April 2024, 
+certain steps had already been completed prior to the filing of the Notice. The learned 
+counsel has not denied the same but has explained the circumstances and cited the 
+commercial exigencies for consummation of such steps without filing notice with the 
+Commission.  
+38. 
+During the hearing as well as in the response to the SCN, it is submitted that the 
+subsequent changes in the transaction structure were not significant as there was no 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 17 of 22 
+ 
+material change in the ultimate ownership of the Acquirer as Pranav continued to retain 
+ownership in the Acquirer and the only change was the change in layers of ownership. 
+Given the facts of the case, it is apparent that while Pranav has continued to have ultimate 
+ownership interest in the Acquirer after the change in transaction structure, there are 
+other entities such as Kingsman, Govipri Infra LLP and Sujatha Ravuri which have also 
+acquired ultimate ownership interest therein, in place of Swati. As per the Original 
+Notice, ownership interest in the Acquirer i.e., Matrix Pharma was held by only two 
+individuals, namely, Pranav and Swathi; however,  as per the instant Notice, the Acquirer 
+is directly held by Mudhra Labs, which in turn is held by Mudhra Lifesciences (where 
+Pranav currently holds 100% and Kingsman holds CCPS) and Mudhra Pharmacorp 
+(where Pranav is a partner alongwith Govipri Infra LLP and Sujatha Ravuri ). Materially, 
+in terms of ownership interest in the Acquirer there are two significant changes, first, 
+there are new entities that have acquired ownership interest in the Acquirer and second, 
+Swathi has ceased to hold any ownership interest in the Acquirer. Considering that the 
+entities holding ownership interest in the Acquirer are no longer the same as in the 
+Original Notice, the Commission finds that the transaction structure has materially 
+changed from what was approved by the Commission in Original Notice. 
+39. 
+Further, it is noted that though Pranav holds 100% shareholding in Mudhra Lifesciences, 
+Kingsman also has an ownership interest therein along with Pranav. As stated earlier, 
+upon conversion of CCPS, Kingsman would receive equity shares amounting to 42.75% 
+of the post-conversion equity share capital on a fully diluted basis, whereas Pranav’s 
+shareholding would be diluted to 57.25%. Likewise, in Mudhra Pharmacorp, while 
+Govipri Infra LLP and Sujatha Ravuri have specifically agreed that Pranav has the right 
+to control and manage the LLP, its affairs and its assets/investment; it cannot be said that 
+Govipri Infra LLP and Sujatha Ravuri would not have any rights in Mudhra Pharmacorp.  
+As partners who have contributed capital to Mudhra Pharmacorp, Govipri Infra LLP and 
+Sujatha Ravuri have certain ownership interest. Further, they would also have certain 
+information rights, such as, rights to access the books of account and records of the LLP, 
+etc. as well as other rights and duties under the Limited Liability Partnership Act, 2008  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 18 of 22 
+ 
+and Rules made thereunder. Thus,  it cannot be said that the change in transaction 
+structure is not material. In the instant Notice, in addition to Pranav, other entities, such 
+as, Kingsman, Govipri Infra LLP and Sujatha Ravuri have also acquired ownership 
+interest in the Acquirer through Mudra Lifesciences, Mudhra Pharmacorp and Mudhra 
+Labs, for which the competition assessment was not provided in the Original Notice. 
+40. 
+Further, the learned counsel has argued before the Commission that no additional  
+overlaps have been identified between the Parties pursuant to the revised structure. While 
+this may be so,  it is also to be borne in mind that mere absence of overlaps does not 
+obviate the fact that the transaction structure that was notified to the Commission in the 
+Original Notice underwent a change subsequent to the approval.  The change in 
+transaction structure ought to have been notified to the Commission as a proposed 
+combination, instead at the time the Notice was given to the Combination, certain steps 
+of the Combination had already been consummated.  
+41. 
+It is pertinent to note that the merger control regime in India is mandatory and suspensory 
+in nature. This means that combinations are notifiable unless they can avail any 
+exemptions and cannot be consummated, either entirely or in part, before an approval 
+from the Commission has been obtained. Section 5 of the Competition Act provides the 
+assets and turnover criteria for acquisitions of control, shares, voting rights or assets as 
+well as mergers and amalgamations that amount to a combination. Section 6(2) of the 
+Competition Act requires/ mandates parties to give notice in respect of their proposed 
+combination. Section 6(2A) of the Act provides that a combination notified to the 
+Commission shall not come into effect for a period of 210 days  from the date of 
+notification or approval by the Commission, whichever is earlier. 
+42. 
+It is clear from the submissions in the Notice that the Combination was a notifiable 
+transaction and was neither exempted by any Government of India notification nor 
+covered under Schedule I of Combination Regulations. Thus, it was incumbent upon the 
+Acquirers to be in conformity with all relevant provisions of the Act and applicable 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 19 of 22 
+ 
+Regulations. However, there was a part-consummation of the combination as certain 
+steps interconnected with the Combination i.e., Acquirer Funding, investment by Pranav 
+in Mudra Lifesciences and capital contribution in Mudhra Pharmacorp by the partners of 
+Mudhra Pharmacorp, were consummated prior to filing notice with the Commission.   
+43. 
+It is also pertinent to mention here that the mandatory regime for notifying a proposed 
+combination to the Commission is applicable, irrespective of whether the combination 
+causes appreciable adverse effect on competition in India or not. The Commission, in its 
+order relating to penalty proceedings under Section 43A of the Act against Intellect 
+Design Arena Limited, has already observed: “…. the Act clearly provides, irrespective 
+of whether there is any appreciable adverse effect on competition in India or not, there 
+is mandatory regime for notifying a combination to the Commission.” 
+II. 
+Kingsman Funding 
+44. 
+With respect to the Kingsman Funding, which involved a third-party investor at the 
+Mudhra Lifesciences level, the Parties have submitted that the same was notified vide 
+Green Channel Notice by Kingsman and deemed to be approved by the Commission by 
+way of acknowledgment issued on 4th April 2024. After the green channel approval, the 
+Kingsman Funding was completed on 5th April 2024.  
+45. 
+It appears from the submissions in the Notice that the Acquirers were aware that the 
+Kingsman Funding was inter-connected to the Combination. In such a case, in 
+accordance with the provisions of Regulation 9(4) of the Combination Regulations, a  
+single notice covering all transactions including Acquirer Funding, investment by Pranav 
+in Mudra Lifesciences and capital contribution in Mudhra Pharmacorp by the partners of 
+Mudhra Pharmacorp, which were in contemplation at the same time as Kingsman 
+Funding, ought to have been filed with the Commission.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 22 
+ 
+46. 
+However, in light of the facts and circumstances of the case and keeping in view of the 
+fact that a Green Channel Notice was filed with the Commission by Kingsman with 
+respect to the Kingsman Funding and the same was consummated only after the deemed 
+approval of the Commission, the Commission does not find Kingsman Funding to be in 
+contravention of any of the provisions of the Act. 
+III. 
+Proposed KSSIF/KAAML Investment  
+47. 
+Regarding the Proposed KSSSIF/KAAML Investment by the Investors proposed to be 
+made in Matrix Pharma in Original Notice and in Mudhra Labs in the instant Notice,  it 
+is noted that no steps were taken towards consummating the investment and the same was 
+yet to be completed subject to the approval of the Commission. The Investors have 
+submitted in the notice as well as response to SCN that they were not aware of, nor did 
+they have any knowledge, visibility with respect to, the completion of the Acquirer 
+Funding and the Kingsman Funding. Therefore, the Commission finds that the Investors 
+are not in violation of the provisions of the Act. 
+IV. 
+Contravention and Penalty 
+48. 
+In view of the foregoing, the Commission is of the opinion that there is contravention of 
+the provisions of sub-section (2) of Section 6 and sub-section (2A) of Section 6 of the 
+Act as a result of the part-consummation of the combination prior to filing Notice with 
+the Commission. 
+49. 
+It is to be noted that failure to give notice in accordance with sub-section (2) of Section 
+6 of the Act attracts penalty under Section 43A of the Act. Section 43A of the Act states:  
+“Power to impose penalty for non-furnishing of information on combinations 
+43A. If any person or enterprise who fails to give notice to the Commission under 
+sub- section (2) of section 6, the Commission shall impose on such person or 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 22 
+ 
+enterprise a penalty which may extend to one percent, of the total turnover or 
+the assets, whichever is higher, of such a combination.” 
+50. 
+The Hon’ble Supreme Court in ‘Competition Commission of India v Thomas Cook 
+(India) Ltd. & Anr.’
+1 has held that: “For   the   imposition   of 
+penalty under section 43A, the action may not be mala fide in case there is a breach of 
+the statutory provisions of the civil law, penalty is attracted simpliciter on its violation.” 
+In terms of Section 43A of the Competition Act, a maximum penalty of one per cent of 
+the combined value of turnover of the Parties in India can be imposed.  
+51. 
+It is to be noted that Section 43A of the Act prescribes the maximum extent of penalty 
+that can be levied for failure to file notice; however, the Commission can consider the 
+conduct of the parties and circumstances of the case to arrive at an appropriate amount 
+of penalty. 
+52. 
+In the instant matter, the part-consummation of the Combination without filing a notice 
+contravened the provisions of Section 43A read with Section 6(2) and Section 6(2A) of 
+the Act and Combination Regulations. Therefore, the contravening parties cannot be 
+exculpated of their statutory obligation thereunder. However, the Commission has 
+considered the mitigating factors mentioned in para 34 above and the conduct of the 
+parties whereby they disclosed the change in transaction structure voluntarily and 
+extended cooperation and provided the material/documents as sought by the 
+Commission.  
+53. Thus, considering the facts and circumstances of the case and the conduct of the parties 
+in the matter, the Commission decides to take a lenient view and impose a nominal 
+penalty of INR 5,00,000 (INR Five Lakh only) in the matter. The penalty shall be paid 
+within 60 days from the date of receipt of this order. 
+                                                          
+1 Civil Appeal No.13578 OF 2015 (17 April 2018) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 22 
+ 
+54. 
+It is made clear that nothing used in this order shall be deemed to be confidential or 
+deemed to have been granted confidentiality, as the same has been used for the purposes 
+of the Act in terms of the provisions contained in Section 57 thereof. 
+55. 
+The Secretary is directed to communicate to the Acquirers, accordingly. 

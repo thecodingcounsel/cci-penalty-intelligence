@@ -1,0 +1,17 @@
+order_id,stage,issue
+CCI-1307,discovery,combination_registration_no not found in listing data
+CCI-1293,discovery,combination_registration_no not found in listing data
+CCI-1202,discovery,combination_registration_no not found in listing data
+CCI-1193,discovery,combination_registration_no not found in listing data
+CCI-1147,discovery,combination_registration_no not found in listing data
+CCI-1146,discovery,combination_registration_no not found in listing data
+CCI-1140,discovery,combination_registration_no not found in listing data
+CCI-1137,discovery,combination_registration_no not found in listing data
+CCI-1121,discovery,combination_registration_no not found in listing data
+CCI-1136,discovery,combination_registration_no not found in listing data
+CCI-1137,penalty_extraction,provision listed as '43A and 44' is compound and the order text does not explicitly attribute a penalty figure to a single section - left blank for manual review
+CCI-994,penalty_extraction,"no 'penalty of INR/Rs. ...' figure (numeral or word-form) and no explicit 'decides not to impose any penalty' statement found - could not determine the penalty outcome, left blank for manual review"
+CCI-1104,text_extraction,"extraction_failed: little/no extractable text, possibly scanned"
+CCI-1104,penalty_extraction,"no 'penalty of INR/Rs. ...' figure (numeral or word-form) and no explicit 'decides not to impose any penalty' statement found - could not determine the penalty outcome, left blank for manual review"
+CCI-1091,text_extraction,"extraction_failed: little/no extractable text, possibly scanned"
+CCI-1091,penalty_extraction,"no 'penalty of INR/Rs. ...' figure (numeral or word-form) and no explicit 'decides not to impose any penalty' statement found - could not determine the penalty outcome, left blank for manual review"

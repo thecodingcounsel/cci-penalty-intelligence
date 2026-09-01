@@ -1,0 +1,677 @@
+ 
+                                                   
+ 
+COMPETITION COMMISSION OF INDIA 
+                         Combination Registration No. C-2023/10/1066 
+26th June 2025 
+ 
+Notice under Section 6(2) of the Competition Act, 2002 jointly filed by CA Plume Investments 
+and Bequest Inc. 
+ 
+CORAM: 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Mr. Anil Agarwal 
+Member 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearance:  Mr. Amit Jain, Managing Director and India Head, Carlyle; Mr. Ankit Jajodia, 
+Director, Carlyle; Mr. Samyak Daga, Vice President, Carlyle; Ms. Sravya Paturi, 
+Vice President, Global Legal Investments, Carlyle; Mr. Rakesh Dubey, Director, 
+Government Affairs, Carlyle; Ms. Gauri Chhabra, Partner, Trilegal; Ms. Gargi 
+Yadav, Counsel, Trilegal; and Ms. Eesha Sheth, Senior Associate, Trilegal.  
+ 
+Order under Section 43A of the Competition Act, 2002 
+1. 
+On 23rd October 2023 the Competition Commission of India (Commission) received a 
+notice (Notice) jointly given by CA Plume Investments (CA Plume/ Acquirer I) and 
+Bequest Inc. (Bequest/ Acquirer II), under Section 6(2) of the Competition Act, 2002 (Act) 
+ 
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+read with Regulation 5A and Schedule III of the Competition Commission of India 
+(Procedure in regard to the transactions of business relating to combinations) Regulations, 
+2011 (Combination Regulations), for the acquisition of up to 23.6% equity stake in Quest 
+Global Services Pte. Ltd. (Quest Global/ Target) by the Acquirer I, approx. 9.17% equity 
+stake in the Target by Acquirer II and buy-back (Combination) [Hereinafter, Acquirer I and 
+Acquirer II are collectively referred to as the ‘Acquirers’]. 
+Description of the Parties 
+2. 
+Acquirer I is an investment vehicle established in Mauritius whose ultimate parent entity is 
+the ‘Carlyle Group Inc.’. The Carlyle Group Inc. including the investment funds advised by 
+the affiliates and portfolio entities of the Carlyle Group Inc., are collectively referred to as 
+the ‘Acquirer Group/ Carlyle’. Acquirer I is indirectly controlled by funds managed by 
+affiliates of Carlyle.  
+ 
+3. 
+Carlyle is a global investment firm, incorporated under the laws of Delaware, headquartered 
+in the USA. It is a global asset manager, which manages funds that invest globally across 3 
+investment disciplines: (i) global private equity (including corporate private equity, real 
+estate, and natural resources funds); (ii) global credit (including liquid credit, illiquid credit, 
+and real assets credit); and (iii) investment solutions (private equity fund of funds program, 
+which include primary fund, secondary and related co-investment activities). With particular 
+reference to private equity, the investment funds advised by Carlyle invest in companies 
+with the main objective of supporting their growth, increasing their profitability and value 
+and have demonstrated extensive experience in a wide range of industries ranging from 
+aerospace and defence to retail, from financial services to technology and business services. 
+ 
+4. 
+It has been submitted that based on the Materiality Thresholds as set out in the Notes to Form 
+I, the Acquirer Group has sixty-five (65) investee entities that are present in India (as of 9th 
+October 2023) (Portfolio Entities) and an Indian subsidiary i.e., Carlyle India Advisors 
+Private Limited. 
+ 
+    
+ 
+Page 2 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+5. 
+Bequest, incorporated in the Cayman Islands, is a holding entity of Target’s co-founder, 
+Chairman and Chief Executive Officer, and existing controlling shareholder, Mr. Ajit 
+Aravind Prabhu. Bequest does not have any business activities in India or worldwide and its 
+sole purpose is to hold shares of the Target. By virtue of its equity stake in Target, Bequest 
+holds an indirect economic interest in six (6) Indian subsidiaries of Target. However, Mr. 
+Ajit Aravind Prabhu, directly or indirectly, does not have investment in any entity above the 
+Materiality Thresholds in India, other than the Target. 
+ 
+6. 
+Target is a company incorporated in Singapore engaged in the provision of engineering and 
+research & development (ER&D) services to design and develop products such as aircraft, 
+aircraft engines, automotive cars, gas turbines, X-ray machines, etc. Its major customers 
+include Airbus, Rolls Royce, Schneider, Hitachi, Alstom, Daimler, BMW, Renault Ford etc. 
+  
+7. 
+Target’s business falls within the ER&D services segment, and its primary focus is to 
+provide engineering services for products and services across the product lifecycle to its 
+customers. Target’s focus is on helping its customers develop new products, sustenance and 
+maintenance of existing products, re-engineer products, extend the life of legacy products 
+through localization and globalization initiatives, and product deployment and post-
+deployment support. The services provided by Target, worldwide and in India, encompass 
+technologies ranging from mechanical engineering, silicon engineering, embedded systems 
+engineering, platform and application engineering, data engineering and analytics, and 
+digital and cloud applications using next-generation technologies. Target primarily provides 
+the following ER&D services: 
+ 
+(a) 
+Embedded & software engineering: Target’s embedded and software engineering 
+services help clients create innovative connected devices, smart edge systems, and 
+solutions at a quicker pace and lower costs. 
+(b) 
+Mechanical engineering: Target’s mechanical engineering services support new 
+product development. 
+    
+ 
+Page 3 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+(c) 
+Silicon engineering: Target partners with semiconductor/system companies to deliver 
+hardware and software design services and solutions in an efficient manner through its 
+silicon engineering services. 
+(d) 
+Digital engineering: Target helps original equipment manufacturers (OEMs) integrate 
+and automate design systems for seamless data exchange across product development 
+lifecycles through its digital engineering offerings. The digital engineering services 
+provided by Target relate to the engineering of products and are intended to make 
+machines smarter and more efficient. It involves the usage of digital technology to 
+design, create, and operate physical systems and products. 
+(e) 
+Operations and supply management: Target develops innovative supply chain 
+solutions, fusing global networks and depth of expertise with pioneering digital 
+innovations through its operations and supply chain services. 
+ 
+8. 
+The Acquirers submitted that the Combination will not result in any overlaps between the 
+Acquirers on the one hand and the Target on the other. As such, there are no horizontal, 
+vertical, or complementary overlaps between the activities undertaken by the Acquirers 
+(including their portfolio entities) and the Target (including their portfolio entities). 
+Accordingly, the Combination falls under the category of combinations mentioned in 
+Schedule III of the Combination Regulations and is eligible for deemed approval under the 
+Green Channel Route. In this regard, as per Notice, the Target also confirmed that there are 
+no overlapping products or services offered by the Acquirers (including their Portfolio 
+Entities) in India vis-à-vis the Target. Therefore, the Combination will not cause any 
+foreclosure effects in any market in India. 
+ 
+Issue of Letter for Clarifications 
+9. 
+The Commission in its meeting held on 19th March 2024, considered the submissions of the 
+Acquirers as provided in the Notice and inter alia observed the following regarding the 
+Combination: 
+ 
+    
+ 
+Page 4 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+(i) 
+The activities of certain affiliates of the Acquirer I appear to be exhibiting horizontal 
+overlaps with the activities of the Target;  
+(ii) 
+Information in relation to vertical linkages/ overlaps provided in the Notice is not 
+complete in order to negate the possibility that there is no vertical linkage/ overlap. 
+ 
+10. 
+Accordingly, the Commission vide its letter dated 26th March 2024 had sought the 
+clarifications from the Acquirers. The Acquirers vide submission dated 5th April 2024 
+furnished their response (Response to Clarifications). 
+ 
+Response to Clarifications 
+11. 
+Based on the submissions of Acquirers, it appeared that there are no horizontal overlaps 
+between products/ services of the Acquirers including their affiliates and those of Target 
+including its affiliates. However, from the description of products/ services as provided 
+through aforementioned response, it appeared that the products/ services of the Acquirers 
+including their affiliates and those of the Target and its affiliates may have vertical or 
+complementary interface/overlaps. 
+ 
+Issue of SCN 
+12. 
+The Commission considered the matter in its meeting held on 30th April 2024 and prima 
+facie observed that the activities of Acquirers including their affiliates and those of the 
+Target and its affiliates exhibited certain vertical or complementary interface/ overlaps. 
+Thereby, the Combination did not appear to fall under Schedule III of the Combination 
+Regulations. 
+ 
+ 
+13. 
+Accordingly, the Commission passed an order dated 30th April 2024 (SCN) directing the 
+Acquirers to show cause in writing within 15 days of receipt of the notice as to why: (i) the 
+notice should not be found void ab initio in terms of first proviso to Regulation 5A (2) of 
+the Combination Regulations and the Acquirers should not be held in contravention of the 
+    
+ 
+Page 5 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+provisions of Section 43A of the Act; (ii) the Acquirers should not be held liable for 
+contravening the provisions of Section 44 of the Act for making statements in the Notice, 
+including Notice Declaration and Green Channel Declaration which are false in material 
+particular; and (iii) make their submissions on the quantum of penalty which may be levied 
+by the Commission in the event that the Acquirers are held to be in contravention of the 
+provisions of Sections 43A and/ or 44 of the Act. 
+ 
+14. 
+The SCN was communicated to the Acquirer vide letter dated 30th May 2024. 
+ 
+15. 
+In the SCN, on the basis of the Response to Clarifications, the Commission observed that 
+customers of the affiliates of the Acquirers and Target for some of their products/ services, 
+appeared to be same. Thus, the affiliates of the Acquirers and Target may offer products/ 
+services as a package or bundle. Accordingly, the Commission was of the prima facie view 
+that the products/services of affiliates of the Acquirers and Target appeared to be 
+complementary. 
+ 
+16. 
+With regards to the vertical linkages/ overlaps, the Commission noted the submission of the 
+Acquirers that: 
+ 
+(a) 
+The nature of the service provided by Target i.e., product engineering, is not a business 
+activity which must be availed by an industry player in order to conduct its business. 
+For instance, an aircraft OEM (such as Boeing) does not necessarily require the ER&D 
+services of Target to conduct its business activities of manufacturing and selling 
+aircraft. 
+ 
+(b) 
+Accordingly, if the aircraft OEM is looking for product engineering services to assist 
+the OEM’s in-house team in developing a new (and ancillary) component of the 
+aircraft, it may choose to reach out to the Target for such services. If engaged, Target 
+will assist in product engineering and designing. 
+ 
+    
+ 
+Page 6 of 18 
+ 
+   
+
+Combination Registration No. C-2023/10/1066 
+ 
+(c) 
+Therefore, the services provided by Target are not ‘essential’ for the customers of 
+Target. 
+ 
+17. 
+The Commission noted the statement made by Acquirers in the Response to Clarifications 
+that “the Target operates and caters to customers in different sectors, none of the inputs 
+provided by the Target can be considered as a vertical input which is required or necessary 
+for the Portfolio Entities of the Acquirer Group to carry out their core business activities, 
+from which the respective Portfolio Entities of the Acquirer Group derive revenue. Thus, 
+ER&D services provided by Target are not essential, important, or must-have for the 
+Portfolio Entities of the Acquirer Group to provide their products or services. In the present 
+case, Quest Global’s services are not indispensable components required by its customers 
+to provide their core services. Consequently, there is no inherent vertical linkage between 
+Quest Global and its customers based on the nature of ER&D services.” 
+ 
+18. 
+It is further submitted that, unlike traditional tangible goods markets, ER&D services are 
+characterized by a high degree of specialization and customization tailored to the specific 
+needs of customers in various sectors. The key characteristics of ER&D services are; (i) 
+these services not being essential for the customers to provide its core services, and (ii) the 
+specialised and customised nature of these services to specific customer requirements and 
+preferences, resultantly implies that these services are not considered for traditional vertical 
+overlaps analysis and are in the ordinary course of business.  
+ 
+19. 
+The Commission noted the reasons and justifications provided in the Response to 
+Clarifications pertaining to vertical linkages/ overlaps and observed that the same does not 
+negate the possibility of vertical linkage(s)/ overlap(s) between products/ services of the 
+affiliates of the Acquirers and Target as the products/ services of the Target are used or 
+potentially may be used by the affiliates of the Acquirer. 
+ 
+Response to SCN 
+    
+ 
+Page 7 of 18 
+ 
+   
+
+Combination Registration No. C-2023/10/1066 
+ 
+20. 
+Acquirers sought extensions of time to submit a response to SCN. Acquirers submitted a 
+partial response on 5th September 2024 (Response 1) and a final and complete response on 
+15th October 2024 (Response 2) [Response 1 and Response 2 are collectively referred to as 
+‘Responses to SCN’]. Summarily, the responses of the Acquirers to the SCN are brought 
+out below. 
+ 
+21. 
+The Acquirers submitted that based on the (a) extensive due diligence undertaken in the 
+ordinary course of business, with the assistance of various external advisors, and (b) 
+engagement with the officials of the Target, and after conducting due diligence and a detailed 
+overlaps assessment, it is of bona fide belief that Acquirers including their affiliates and 
+those of the Target and its affiliates exhibited certain vertical or complementary interface/ 
+overlaps and the Combination could not be filed under the Green Channel Route. 
+Accordingly, the Acquirers submitted the following: 
+ 
+i. 
+There is no failure to give notice under Section 6(2) of the Act. Further, there are no 
+false statements or misrepresentations of any facts to the best of Acquirers’ knowledge, 
+and there is no failure on the part of the Acquirers to disclose information despite 
+knowing it to be material. 
+ 
+ii. 
+The transaction did not unduly benefit from the Green Channel filing, since the 
+Combination was only closed after three (3) months of getting the deemed approval.  
+ 
+iii. 
+Acquirer I has a flawless track record of complying with the provisions of the Act and 
+has, to date, filed more than thirteen (13) notices [(of which nine (9) were Form I 
+filings, one (1) was a Form II filing, and three (3) filings availed the Green Channel)], 
+and has obtained unconditional approvals for the same. 
+ 
+iv. 
+After issuing the SCN, there was a change in the authorised representatives of the 
+Acquirers, and a detailed assessment was undertaken again to determine if there exist 
+any overlaps between the Target and the portfolio entities of the Acquirers and during 
+this assessment, the Acquirers discovered that there were certain inadvertent lapses in 
+    
+ 
+Page 8 of 18 
+ 
+  
+ 
+
+
+
+Combination Registration No. C-2023/10/1066 
+ 
+penalty. Therefore, even the legislature recognises that an incorrect filing is merely an 
+irregularity and not an illegality that warrants penalties.  
+  
+v. 
+Notwithstanding the above and without prejudice to the submissions, if the 
+Commission is of the view that the notice should have been filed in Form I, the 
+Acquirers most sincerely apologizes for its inadvertent error and is willing to rectify 
+the same by re-filing the notice with the applicable filing fee. This is in line with the 
+legislative intent introduced by way of the Competition (Amendment) Act, 2023, 
+wherein a proviso to Section 43A of the Act is added, which now allows the parties to 
+re-file the notice [in case a wrong filing is made in Green Channel i.e., under Section 
+6(4) of the Act] within 30 days of the order of the Commission, without imposition of 
+any penalty. 
+ 
+22. 
+In light of the above submissions, the Acquirers have inter alia prayed that the Commission 
+may: 
+  
+(a) 
+acknowledge and take on record the submissions made by the Acquirers in their 
+Responses to SCN; 
+(b) 
+direct the Acquirers to re-file in Form I with the applicable fees, if required; 
+(c) 
+close the inquiry without imposition of any penalties or imposition of any adverse 
+directions; and  
+(d) 
+conclude that the Acquirers did not violate any provision of the Act. 
+ 
+Hearing by the Commission 
+23. 
+On 15th April 2025, the Commission heard the Acquirers at length on their Responses to the 
+SCN. The Acquirers reiterated the submissions made in the aforesaid response, and admitted 
+the inadvertent error in the identification of overlaps and again tendered unconditional 
+apology for the same. 
+ 
+    
+ Page 11 of 18  
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+Observations of the Commission 
+24. 
+The Commission noted that Acquirers have submitted that there are certain overlaps in the 
+nature of vertical/ complementarity found between the products/ services of some of the 
+portfolio entities of Acquirers and those of the Target, after a detailed assessment of the 
+same. The Acquirers have admitted the inadvertent error in the identification of the overlaps 
+and tendered unconditional apologies for the same. Accordingly, there is no merit in 
+discussing those vertical/ complementary overlaps. 
+ 
+25. 
+The Commission observed that the Notice has been given under Section 6(2) of the Act read 
+with Regulation 5A of the Combination Regulations, i.e., Green Channel. Under the Green 
+Channel approval facility, a proposed combination is deemed to have been approved by the 
+Commission under Section 31(1) of the Act upon filing of a notice and acknowledgment 
+thereof. 
+ 
+26. 
+Section 6(2) of the Act reads as under: 
+ 
+Subject to the provisions contained in sub-section (1), any person or enterprise, who 
+or which proposes to enter into a combination, shall give notice to the Commission, 
+in the form as may be specified, and the fee which may be determined, by regulations, 
+disclosing the details of the proposed combination, within thirty days1 of— 
+ 
+(a) 
+…; 
+ 
+                                                          
+1 In exercise of the powers conferred by clause (a) of section 54 of the Act, the Central Government, vide notification 
+no. S.O. 2039(E) dated 29th June 2017 read with notification no. S.O. 1193(E) dated 16th March 2022 exempts every 
+person or enterprise who is a party to a combination as referred to in section 5 of the said Act from giving notice within 
+thirty days mentioned in section 6(2) of the Act, subject to the provisions of section 6(2A) and section 43A of the Act, 
+for ten years from the date of publication of this notification in the Official Gazette. 
+ 
+    
+ 
+Page 12 of 18 
+ 
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+(b) execution of any agreement or other document for acquisition referred 
+to in clause (a) of section 5 or acquiring of control referred to in clause 
+(b) of that section. 
+(emphasis supplied) 
+ 
+27. 
+Regulation 5A of the Combination Regulations reads as under: 
+ 
+(1) 
+For the category of combination mentioned in Schedule III, the 
+parties to such combination may, at their option, give notice in Form I 
+pursuant to regulation 5 along with the declaration specified in Schedule IV 
+(Green Channel Declaration). 
+ 
+(2) 
+Upon filing of a notice under sub-regulation (1) and 
+acknowledgement thereof, the proposed combination shall be deemed to 
+have been approved by the Commission under sub-section (1) of section 31 
+of the Act: 
+ 
+Provided that where the Commission finds that the combination does not 
+fall under Schedule III and/or the declaration filed pursuant to sub-
+regulation (1) is incorrect, the notice given and the approval granted under 
+this regulation shall be void ab initio and the Commission shall deal with 
+the combination in accordance with the provisions contained in the Act: 
+ 
+Provided further that the Commission shall give to the parties to the 
+combination an opportunity of being heard before arriving at a finding that 
+the combination does not fall under Schedule III and/or the declaration filed 
+pursuant to sub-regulation (1) is incorrect. 
+(emphasis supplied) 
+ 
+    
+ 
+Page 13 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+28. 
+Schedule III of the Combination Regulations reads as under: 
+ 
+Considering all plausible alternative market definitions, the parties to the 
+combination, their respective group entities and/or any entity in which they, 
+directly or indirectly, hold shares and/or control: - 
+(a) 
+do not produce/provide similar or identical or substitutable 
+product(s) or service(s) (Horizontal Overlap); 
+(b) 
+are not engaged in any activity relating to production, supply, 
+distribution, storage, sale and service or trade-in product(s) or provision of 
+service(s) which are at different stages or level of the production chain 
+(Vertical Interface); and 
+(c) 
+are not engaged in any activity relating to production, supply, 
+distribution, storage, sale, and service or trade-in product(s) or provision 
+of service(s) which are complementary to each other (Complementarity). 
+ 
+29. 
+The enterprise or person availing the Green Channel approval facility is required to furnish 
+the Green Channel Declaration along with the notice. The contents of the Green Channel 
+Declaration are reproduced as under: 
+ 
+1. 
+The notifying party confirms that it has furnished all the information 
+and documents as required in Form I, as specified in Schedule II. 
+ 
+2. 
+The notifying party confirms that the proposed combination falls 
+under Schedule III and is not likely to cause adverse effect on competition. 
+ 
+3. 
+The notifying party confirms that it has not made any statement 
+which is false in any material particular or knowing it to be false; or omitted 
+to state any material particular knowing it to be material. 
+ 
+30. 
+From the provisions of Regulation 5A(1) read with Schedule III of the Combination 
+Regulations, it is observed that the parties to the combination can avail the benefit of the 
+    
+ 
+Page 14 of 18 
+ 
+   
+
+Combination Registration No. C-2023/10/1066 
+ 
+Green Channel approval facility only if the parties to the combination, their respective group 
+entities and/or any entity in which they, directly or indirectly, hold shares and/ or control 
+which neither exhibit any Horizontal Overlap nor any Vertical Interface nor any 
+Complementarity. Further, the person or enterprise giving notice to the Commission is 
+required to furnish the Green Channel Declaration, inter alia, to the effect that the transaction 
+satisfies the criteria prescribed for the Green Channel approval facility. 
+ 
+31. 
+In light of admission as well as furnishing of such details by the Acquirers that there existed 
+certain vertical/ complementary interface(s)/ overlap(s) between the products/ services of 
+the affiliates of the Acquirers and Target on the day of filing of the Notice, the criteria of 
+Green Channel prescribed under Schedule III of the Combination Regulations was not met 
+and the Combination did not qualify for the Green Channel prescribed under Regulation 5A 
+of the Combination Regulations. Considering the facts and the circumstances of the instant 
+matter, the Commission is of the view that Acquirers ought to have filed Notice in Form I 
+without availing the benefit of Green Channel. Accordingly, the Acquirers have contravened 
+the provisions of Sections 43A and 44 of the Act and the same attracts penalties under these 
+sections. 
+ 
+32. 
+With regard to the submissions of the Acquirers that after amendment of the Act in 2023, 
+the provisions relating to Green Channel are provided in Sections 6(4) and 6(5) of the Act 
+and Competition (Criteria of Combination) Rules, 2024 and as per the amended provisions, 
+if a notice is given within a period of thirty days of the order of the Commission under 
+Section 6(6) of the Act, no action under Section 43A shall be taken by the Commission till 
+the expiry of such period of thirty days. The Commission observed that the present Notice 
+under Green Channel was filed under Section 6(2) of the Act read with Regulation 5A of the 
+Combination Regulations (Old framework) and not under Sections 6(4) and 6(5) of the Act 
+and Competition (Criteria of Combination) Rules, 2024 (New framework). Accordingly, 
+the same is required to be considered and dealt with under the Old framework only. In this 
+regard, the proviso to Regulation 33 of the Competition Commission of India 
+(Combinations) Regulations, 2024, is relevant and the same reads as under:  
+    
+ 
+Page 15 of 18  
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+ 
+“(1) The Competition Commission of India (Procedure in regard to the transactions of 
+business relating to combinations) Regulations, 2011 stands repealed from the date on 
+which these regulations come into force:  
+ 
+Provided that the provisions of the Competition Commission of India (Procedure in regard 
+to the transactions of business relating to combinations) Regulations, 2011, as they stood 
+on the date immediately before these regulations come into force, shall continue to apply to 
+the notice(s) given under sub-section (2) of section 6 of the Act before these regulations 
+come into force.  
+ 
+(2) Notwithstanding such repeal, —  
+ 
+(a) anything done or any action taken or purported to have been done or taken 
+including fees collected, any proceedings or decision, inquiry or investigation 
+commenced or show-cause notice issued under the repealed regulations, prior to 
+such repeal, shall remain unaffected as if the repealed regulations have never 
+been repealed; 
+  
+(b) the operation of the repealed regulations or anything duly done or suffered 
+thereunder, any right, privilege, obligation or liability acquired, accrued or 
+incurred under the repealed regulations, or any investigation, legal proceeding 
+or remedy shall remain unaffected as if the repealed regulations have never been 
+repealed.” 
+ 
+33. 
+It is to be noted that the first proviso to sub-regulation (2) of Regulation 5A of the 
+Combination Regulations provides as under:  
+ 
+“Provided that where the Commission finds that the combination does not fall under 
+Schedule III and/or the declaration filed pursuant to sub-regulation (1) is incorrect, the 
+    
+ 
+Page 16 of 18 
+ 
+ 
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+notice given and the approval granted under this regulation shall be void ab initio and the 
+Commission shall deal with the combination in accordance with the provisions contained in 
+the Act”. 
+ 
+34. 
+Thus, in light of the above, the Commission finds that, the notice and deemed approval, 
+under Section 31(1) of the Act read with Regulation 5A of the Combination Regulations, 
+granted to Combination is void ab initio. As the Combination has already been 
+consummated, the Acquirers are liable for penalty under Section 43A of the Act, which reads 
+as under:  
+ 
+“If any person or enterprise fails to give notice under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may extend to one 
+per cent of the total turnover or the assets, whichever is higher, of such a combination” 
+ 
+35. 
+It is to be noted that Section 43A of the Act prescribes the extent of penalty that can be levied 
+for failure to file notice. However, the Commission has discretion to consider the conduct of 
+the parties and circumstances of the case to arrive at an appropriate penalty. 
+ 
+36. 
+The Acquirers, in Responses to SCN as well as during the hearing, have inter alia submitted 
+that they have admitted inadvertent error and tendered unconditional apology, proactively 
+identified more overlaps, extended cooperation through the course of proceedings and 
+supplied requisite material/ documents. While all these can be considered as mitigating 
+factors, it is evident that the Combination did not meet the criteria of Green Channel 
+prescribed under Schedule III of the Combination Regulations. 
+ 
+37. 
+Thus, considering the facts and circumstances of the case and the conduct of the Acquirers, 
+the Commission decides to impose a penalty of INR 4,00,000 (Rupees Four Lakhs Only) on 
+the Acquirers under Section 43A of the Act and not to impose penalty under Section 44 of 
+the Act. The Acquirers shall pay the penalty within 60 days from the date of receipt of this 
+order. Further, the Acquirers are directed to file a fresh notice under Regulation 8 of the 
+    
+ 
+Page 17 of 18 
+ 
+  
+ 
+
+Combination Registration No. C-2023/10/1066 
+ 
+Combination Regulations providing complete information as required under the applicable 
+form within 30 days from the date of receipt of this order. 
+ 
+38. 
+It is made clear that nothing used in this order shall be deemed to be confidential or deemed 
+to have been granted confidentiality, as the same has been used for the purposes of the Act 
+in terms of the provisions contained in Section 57 thereof. 
+ 
+39. 
+The Secretary is directed to communicate this order to the Acquirers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+Page 18 of 18 
+ 
+  
+ 

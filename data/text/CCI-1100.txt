@@ -1,0 +1,525 @@
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+                                                               Page 1 of 12 
+ 
+ COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2015/01/241) 
+ 
+16.02.2016 
+ 
+Order under Section 43A of the Competition Act, 2002 (“Act”) in relation to inquiry 
+initiated under sub-section (1) of Section 20 of the Act against General Electric 
+Company (“GE”), GE Industrial France SAS (“GEIF”) and GE Energy Europe B.V. 
+ 
+Introduction 
+1. 
+The Competition Commission of India (“Commission”), in its meeting held on 
+20.10.2014, took suo motu cognizance of two public announcements (“PAs”) made by GE 
+Energy Europe B.V., GE and GEIF (hereinafter, GE Energy Europe B.V., GE and GEIF 
+are collectively referred to as the “Acquirers”) on 05.05.2014. The PAs were issued in 
+terms of the relevant provisions of the Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (“Takeover 
+Regulations”) for acquisition of up to 26 per cent of the total paid-up equity share capital 
+of the Alstom India Limited (“Target 1”) and acquisition of up to 25 per cent of the total 
+paid-up equity share capital of Alstom T&D India Limited (“Target 2”) from their 
+respective public shareholders. Target 1 and Target 2 are hereinafter referred to as 
+“Targets”. 
+ 
+2. 
+It was observed from the PAs and a press release dated 26.06.2014 issued by Alstom S.A. 
+that on 30.04.2014, GE made a binding offer to acquire the thermal power, renewable 
+power and grid businesses of Alstom S.A. (the parent company of Target 1 and Target 2). 
+As part of the transaction, GE would also indirectly acquire 68.56 per cent of equity share 
+capital of Target 1 and up to 75 per cent of equity share capital of Target 2. 
+ 
+3. 
+The Commission noted that GE together with Target 1 and Target 2 meet the thresholds 
+specified in Section 5 of the Act and the aforementioned PAs fall within the purview of 
+“other document” as contained in clause (b) of sub-section (2) of Section 6 of the Act read 
+with sub-regulation (8) of Regulation 5 of the Competition Commission of India 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 2 of 12 
+ 
+(Procedure in regard to the transaction of business relating to combinations) Regulations, 
+2011 (“Combination Regulations”), as applicable at the time of issuance of PAs. 
+Accordingly, in terms of the above provisions, it appeared that prima facie the Acquirers 
+were required to give a notice to the Commission under sub-section (2) of Section 6 of the 
+Act regarding the proposed combination within thirty days of the PAs i.e., by 04.06.2014. 
+ 
+4. 
+In view of the above, vide letter dated 28.10.2014, in terms of Regulation 8 of the 
+Combination Regulations, the Acquirers were directed to notify the said transactions in 
+Form II, within 30 days of the receipt of the communication in this regard.  
+ 
+5. 
+On 24.11.2014, the Commission received a notice bearing registration no. C-2014/11/225 
+given by GE, GEIF, ALSTOM and ALSTOM Holdings (hereinafter GE, GEIF, 
+ALSTOM, ALSTOM HOLDINGS are collectively referred to as “Parties”) in relation to 
+the proposed combination comprising of (i) the acquisition of Alstom‟s thermal power, 
+renewable power and grid businesses by GE and its group companies (“Primary 
+Acquisition”), (ii) the formation of joint ventures (JVs) i.e.  the Grid and Digital Energy 
+JV, the Renewables JV and the Global Nuclear and French Steam JV, between GE and 
+Alstom in which Alstom will hold a minority shareholding, and (iii) the acquisition of the 
+signalling business of GE by Alstom (“Signalling Transaction”). It was also submitted 
+that the Parties reserve their right to file separate submissions in response to the issues 
+raised in the letter of the Commission dated 28.10.2014. 
+ 
+6. 
+For the purpose of the proposed combination, the parties to the combination entered into 
+the (i) Master Agreement with respect to the Primary Acquisition, (ii) Formation 
+Agreement with respect to the Grid and Digital Energy JV, (iii) Formation Agreement 
+with respect to the Renewables JV (iv) Formation Agreement with respect to the Global 
+Nuclear and French Steam JV, and (v) Master Purchase Agreement in relation to the 
+Signalling Transaction. All these agreements were executed on 04.11.2014.  
+ 
+7. 
+The Commission, in its meeting held on 12.12.2014, decided that the notice filed by the 
+Parties on 24.11.2014 is not in conformity with the Combination Regulations and 
+therefore, not valid in terms of Regulation 14 of the Combination Regulations. The 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 3 of 12 
+ 
+Commission directed that the Parties be required to file a fresh notice in Form II. In 
+compliance with the said directions of the Commission, the Parties filed fresh notice bearing 
+registration no. C-2015/01/241 on 14.01.2015.  
+ 
+8. 
+GE, through their authorized representative, also submitted its reply to the Commission‟s 
+letter dated 28.10.2014, on 15.01.2015. 
+ 
+9. 
+The Commission, in its meeting held on 05.05.2015, considered the proposed combination 
+and approved the same under sub-section (1) of Section 31 of the Act. The Commission 
+also considered the response of GE submitted on 15.01.2015 and decided to initiate 
+proceedings, against the Acquirers, under Section 43A of the Act. 
+ 
+Proceedings under Section 43A of the Act 
+10. 
+In view of the above, a show cause notice (“SCN”) was issued to the Acquirers under 
+Section 43A of the Act read with Regulation 48 of the Competition Commission of India 
+(General) Regulations, 2009 (“General Regulations”) on 18.05.2015, requiring them to 
+show cause, in writing, within 15 days of receipt of the same, as to why penalty, in terms 
+of Section 43A of the Act, should not be imposed on them for failure to file the notice for 
+the said transaction in accordance with sub-section (2) of Section 6 of the Act. The 
+Acquirers filed their reply to the SCN on 25.06.2015 (“Response to SCN”) after seeking 
+extension of time. In the said reply, the Acquirers also requested for a personal hearing in 
+terms of Regulation 48 of the General Regulations. 
+ 
+11. 
+The Commission, in its meeting held on 30.12.2015, considered the Response to SCN and 
+granted a personal hearing to the Acquirers, as requested. The authorized representatives 
+of the Acquirers were heard by the Commission in its meeting held on 16.02.2016. The 
+Commission noted that vide their written and oral submissions, the Acquirers made, inter 
+alia, the following submissions: 
+ 
+11.1 
+The initial offer for Alstom‟s power and grid business was a unilateral offer made by 
+GE and the terms of the transaction were not yet crystallized at the time of making the 
+PAs. There was no certainty as to the manner in which the transaction would take 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 4 of 12 
+ 
+place, scope of the assets being acquired, the identity of the acquirer, the key 
+commercial arrangements, etc. A valid trigger for merger notification ought to be a 
+“binding agreement or other document for acquisition” and not a mere unilateral 
+communication of intention to acquire. A PA made on the basis of a mere unilateral 
+bid is to arrive at the open offer price as on the date of PA, can be withdrawn, and 
+without any definitive documents, should not be construed as a “binding document”.   
+ 
+11.2 
+Under the Takeover Regulations, a PA, in case of an indirect acquisition, is a 
+simplified disclosure and can be made even before finalising the structure of the 
+acquisition or deal specifics. In respect of indirect acquisitions, a PA is issued in 
+procedural compliance of the Takeover Regulations to provide benefit to the Acquirer 
+to freeze the offer price as on the date of the PA and to prevent the offer price being 
+revised pursuant a price run on the shares of the target. A merger notification at the 
+stage of such PA (made on the basis of a mere unilateral bid and without any 
+definitive documents), at best, is premature and would not provide a transaction 
+description, the key commercial terms thereof and no assurance with regards to deal 
+certainty. 
+ 
+11.3 
+A provision contained in subordinate legislation, such as Combination Regulations 
+needs to be read in accordance with the purpose envisaged under the parent statute. 
+Further, a proviso creates an exception to the main provision and cannot expand the 
+scope of the main provision itself. The doctrine of nociter a soscia suggests that the 
+two words “agreement” and “other document” used in clause (b) of sub-section (2) of 
+Section 6 of the Act, take colour from the word “acquisition”. In both situations, what 
+is contemplated is either a binding agreement or the terms of any document described, 
+of whatever name, which remains binding on the parties. If read literally, the second 
+proviso to sub-regulation (8) of Regulation 5 of Combination Regulations does not 
+create an exception, but rather, expands the scope of the provision itself by clarifying 
+what will be considered as the date of execution of a binding document, and this is 
+contrary to set principles of statutory interpretation. Accordingly, from a statutory as 
+well as a practical perspective, a PA does not satisfy the requirements of an "other 
+document". The Acquirers were justified in interpreting the PAs as not being valid 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 5 of 12 
+ 
+triggers for merger notifications under the Act and in notifying the proposed 
+combination only after a binding agreement for acquisition was executed. 
+ 
+11.4 
+On a legitimate and purposive interpretation of the provisions of the Act and the 
+Combination Regulations, the requirement to notify the Commission arose only upon 
+the execution of a binding agreement, i.e. the Master Agreement, and not a mere 
+communication of intent to acquire on the basis of a unilateral offer for the indirect 
+acquisition. Section 43A of the Act empowers the Commission to impose a penalty if 
+parties fail to give a notice in terms of sub-section (2) of Section 6 of the Act. As 
+such, GE complied with sub-section (2) of Section 6 of the Act and it would not be 
+appropriate to subject GE to a penalty under Section 43A of the Act. 
+ 
+11.5 
+A PA is not a communication made to SEBI as it does not require SEBI to take any 
+action on the basis of the communication. Moreover, the Takeover Regulations do not 
+require PAs to be addressed to SEBI. SEBI is not required to approve, or even 
+acknowledge receipt of the PA. The purpose of a PA is merely to inform the public at 
+large of an impending proposed deal, the specifics of which are yet to be formalized. 
+A copy of the PA is sent to SEBI for information or record purposes only. Merely 
+sending a copy to any person, for information and/or record purposes only, without 
+requiring such person to act in any manner, cannot be considered to be 
+“communication” as intended by the Act and the Combination Regulations. 
+ 
+11.6 
+The Acquirers acted in good faith and proactively engaged with the Commission from 
+the date of making the PAs until filing of the notice, keeping the Commission updated 
+on the developments regarding the transaction. 
+ 
+12. 
+The Commission observes that sub-regulation (8) of Regulation 5 of the Combination 
+Regulations, as applicable on the date of PAs, provides that the reference to the “other 
+document” in clause (b) of sub-section (2) of section 6 of the Act shall mean any binding 
+document, by whatever name called, conveying an agreement or decision to acquire 
+control, shares, voting rights or assets. Further, second proviso to sub-regulation (8) of 
+Regulation 5 of the Combination Regulations provides that where such a document has 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 6 of 12 
+ 
+not been executed but the intention to acquire is communicated to the Central Government 
+or State Government or a Statutory Authority, the date of such communication shall be 
+deemed to be the date of execution of the other document for acquisition.  
+ 
+13. 
+In the present case, in order to establish that the Acquirers failed to give notice regarding 
+the proposed combination to the Commission in accordance with sub-section (2) of 
+Section 6 of the Act, the following three facts are required to be established: 
+ 
+i. The Acquirers had an intent to acquire shares in the Targets; 
+ 
+ii. The Acquirers communicated such intent to a Statutory Authority / Central Govt. / 
+State Govt (in the present case, Securities and Exchange Board of India (“SEBI”)). 
+ 
+iii. The Acquirers failed to give notice to the Commission within thirty days of 
+communication of such intent to SEBI. 
+ 
+14. 
+In the present case, the binding offer made by the Acquirers qualifies as intent to acquire. 
+Further, GE communicated this intent to acquire to SEBI, which is a statutory authority 
+incorporated under Securities and Exchange Board of India Act, 1992, in form of the 
+public announcement made on 05.05.2014. This fulfils the requirement of second proviso 
+of sub-regulation (8) of Regulation 5 of the Combination Regulations and thus constitutes 
+a valid trigger for filing a notification with the Commission under sub-section (2) of 
+Section 6 of the Act. Thus, in accordance with the timelines provided in sub-section (2) of 
+Section 6, the notice should have been given to the Commission by 04.06.2014.  
+ 
+15. 
+With respect to the submissions of the Acquirers, as mentioned above, the Commission 
+observes that: 
+ 
+15.1 
+With regard to the submission by the Acquirers that “a valid trigger for merger 
+notification ought to be a “binding agreement or other document for acquisition” 
+and not a mere unilateral communication of intention to acquire”, the Commission 
+notes that the term “other document” used in sub-section (2) of Section 6 of the Act 
+subsumes documents which convey an intent of the acquirers to consummate the 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 7 of 12 
+ 
+transaction and would include inter alia unilateral communication such as a public 
+announcement made under Takeover Regulations and/or unilateral board resolutions 
+such as in case of hostile acquisitions. Therefore, the argument put forth by the 
+Acquirers regarding unilateral communication not constituting valid trigger cannot 
+be accepted. In relation to the contention of the Acquirers that public announcement 
+is not a communication to SEBI, it is observed that as per Black‟s Law Dictionary, 
+„communication‟ is “(1.) the expression or exchange of information by speech, 
+writing, gestures, or conduct; the process of bringing an idea to another’s 
+perception. (2.) the information so expressed or exchanged”. Thus, the definition of 
+the word communication includes both one way and two way expression of 
+information. Thus, even if the argument of the Acquirer were to be accepted that 
+SEBI is not required to take any action on the basis of public announcement, then 
+sending a copy to SEBI will constitute a “communication” under the provisions of 
+sub-regulation (8) of Regulation 5 of Combination Regulations. 
+                                                               
+15.2 
+Further, the Commission observes that the argument that the words “other 
+document” should be read in conjunction with the word “agreement” is misplaced. 
+Such narrow interpretation of “other document” would defeat the purpose of 
+regulation of combinations as according to the said interpretation, all acquisitions 
+wherein there is no agreement executed between the target and the acquirers would 
+not be notifiable to the Commission. The purpose of regulation of combinations is to 
+inquire into whether the proposed combination which meets the jurisdictional 
+thresholds is likely to have an appreciable adverse effect on competition in relevant 
+markets in India. Whether such combination was entered into by way of an 
+agreement or through market purchase or through a unilateral decision is immaterial 
+to the said inquiry.  
+ 
+15.3 
+The interpretation of the words “other document” in light of the preceding word 
+“agreement” would be contrary to the established legal principles which provide 
+that the interpretation of noscitur a sociis cannot be applied where the wider words 
+are intentionally used by the legislature in order to make the scope of the defined 
+word correspondingly wider. The Commission observes that the words “other 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 8 of 12 
+ 
+document” cannot be construed ejusdem generis and notes that in Jagdish Chander 
+Gupta Vs. Kajaria Traders (India) Ltd. AIR1964SC1882, the Hon‟ble Supreme 
+Court has observed that “[w]hen in a statute particular classes are mentioned by 
+name and then are followed by general words, the general words are sometimes 
+construed ejusdem generis, i.e., limited to the same category or genus 
+comprehended by the particular words. But it is not necessary that this rule must 
+always apply. The nature of the special words and the general words must be 
+considered before the rule is applied. In Allen v. Emerson [1944] 1 K.B. 362., 
+Asquith J. gave interesting examples of particular words followed by general words 
+where the principle of ejusdem generis might or might not apply. We think that the 
+following illustration will clear any difficulty. In the expression "books, pamphlets, 
+newspapers and other documents" private letters may not be held included if 'other 
+documents' be interpreted ejusdem generis with what goes before. But in a provision 
+which reads "newspapers or other document likely to convey secrets to the enemy", 
+the words 'other documents' would include document of any kind and would not take 
+their color from 'newspapers'. It follows, therefore, that interpretation ejusdem 
+generis or noscitur a sociis need not always be made when words showing 
+particular classes are followed by general words. Before the general words can be 
+so interpreted there must be a genus constituted or a category disclosed with 
+reference to which the general words can and are intended to be restricted.” Since 
+the word “agreement” does not constitute a genus in sub-section (2) of section 6, the 
+term “other document” which follows the word “agreement” cannot be interpreted 
+ejusdem generis and noscitur a sociis does not apply regarding interpretation of the 
+said word. Therefore, the Commission has the power to explain the scope of the 
+term “other document” by way of its regulations and orders. Nevertheless, in the 
+present case, the deeming provision under second proviso to sub-regulation (8) of 
+Regulation 5 of the Combination Regulations is not with respect to “other 
+document” but the date on which the other document is deemed to be executed.  
+ 
+15.4 
+The contention of the Acquirers that terms of initial offer were not crystallized at the 
+time of the PAs is also not relevant as a public announcement typically contains 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 9 of 12 
+ 
+basic details of the proposed acquisition including details of number of 
+shares/voting rights to be acquired and the entities involved in the transaction. 
+ 
+15.5 
+Further, in the event the initial understanding between the parties undergoes a 
+change, then the Combination Regulations provide for the situations where the 
+parties to the combination can inform the Commission about changes in the 
+proposed combination. Regulation 16 of the Combination Regulations provide for 
+the procedure to intimate changes in the information provided in the notice. 
+Similarly, Regulation 17 of the Combination Regulations provide that the 
+proceedings under the Act, relating to the combinations, shall be terminated upon 
+receiving an intimation from the person(s) or enterprise(s) who filed the notice to 
+the effect that the proposed combination will not take effect. These provisions are of 
+relevance to suggest that the Combination Regulations, in fact, perceives the 
+possibility of a notified combination undergoing subsequent changes even to the 
+extent of rescinding the very transaction. However, these provisions are of no 
+relevance to determine the obligation of the parties to a combination to give 
+notification to Commission under sub-section (2) of Section 6 of the Act. 
+ 
+15.6 
+A public announcement gains significance as the trigger for filing notification as it 
+is not necessary that such public announcement for acquisition of shares of a listed 
+company would be followed or preceded by an agreement; for example, such 
+acquisition can take place through allotment or market purchases also.  
+ 
+15.7 
+It is further observed that the ability to withdraw a PA (made under the Takeover 
+Regulations) is of no consequence to determine whether the same falls within the 
+scope of the term “other document” and accordingly, whether notification under 
+sub-section (2) of Section 6 of the Act is required to be given to the Commission. It 
+is noted that most of the regulations such as Takeover Regulations (issued under 
+SEBI Act) and Combination Regulations (issued under the Act) provide for 
+withdrawal, termination, notification of change in the transaction(s) etc. These 
+flexibilities relate to procedural aspects of respective compliance requirements and 
+the same cannot be cited or interpreted to evade compliance of other regulations. If 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 10 of 12 
+ 
+one were to agree with the arguments of the Acquirers that the PA could be 
+withdrawn and therefore, it is not a binding commitment; then several acquisitions 
+pursuant to a public announcement, under the Takeover Regulations, would not be 
+notifiable to the Commission. This, in effect, is likely to evade the 
+scrutiny/assessment of the Commission in respect of certain combinations that may 
+have adverse competition concern only because there is no agreement between the 
+parties. Moreover, the binding nature of PA is not important in the present case as 
+the second proviso to sub-regulation (8) of Regulation 5 of the Combination 
+Regulations does not require a binding document to be executed. On the contrary, it 
+provides that if the “other document” (which is a binding document) is not executed, 
+but the intention to acquire has been communicated to a statutory authority, the date 
+of such communication shall be deemed to be the date of execution of other 
+document. 
+ 
+15.8 
+Further, the distinction between direct and indirect acquisition (under the Takeover 
+Regulations) is of no relevance for the purpose of determining the notification 
+requirement under the Act read with Combination Regulations. Unlike the Takeover 
+Regulations, the provisions of the Act and the Combination Regulations do not 
+distinguish between direct and indirect acquisitions. Clause (a) of Section 2 of the 
+Act defines the term “acquisition” as directly or indirectly acquiring the subject 
+matters specified therein. Therefore, no distinction could be made in the compliance 
+requirements depending on the agreement or other document providing for either 
+direct or indirect acquisition.  
+ 
+15.9 
+The Commission notes that the public announcement made by the Acquirers 
+provided that an agreement would be executed at a later date. However, as provided 
+above, the timelines for filing notice commences from the date of public 
+announcement. The Commission further observes that in the event the Acquirers 
+required any guidance regarding which document would be the trigger document for 
+notification purposes, they could have approached the Commission under a pre-
+filing consultation procedure before the expiry of 30 days from the issue of public 
+announcement. The Commission observes that the Acquirers, being large 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 11 of 12 
+ 
+corporations, are deemed to be aware of the applicable regulations in India or to be 
+able to obtain adequate assistance regarding the notification process in India, 
+including but not limited to notification triggers under the Indian law. In the present 
+case, the Acquirers are deemed to have knowledge of existence of second proviso to 
+sub-regulation (8) of Regulation 5 of the Combination Regulations and thus, ought 
+to have filed the notice within 30 days of communication of their intent to acquire 
+the Targets to SEBI.  
+ 
+15.10 The Commission notes that post expiry of the timelines provided in sub-section (2) 
+of Section 6 of the Act, the Acquirers informally sought clarification regarding the 
+applicable trigger though they could have sought clarification under the pre filing 
+consultation procedure. Such conduct shows that the Acquirers were aware of 
+second proviso to sub-regulation (8) of Regulation 5 of the Combination 
+Regulations and yet chose not to file the notice within 30 days of the public 
+announcement. However, the conduct also shows the bona fide of the Acquirers 
+regarding their intent to file the notice and the same has been taken as a mitigating 
+factor for imposition of penalty.  
+ 
+16. 
+Thus, in view of the foregoing, the Commission is of the view that the Acquirers failed to 
+give notice to the Commission within 30 days of the PAs, in accordance with sub-section 
+(2) of Section 6 of the Act read with sub-regulation (8) of Regulation 5 of the 
+Combination Regulations, which attracts penalty under Section 43A of the Act. Section 
+43A of the Act reads as under: 
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub-section 
+(2) of section 6, the Commission shall impose on such person or enterprise a penalty 
+which may extend to one per cent of the total turnover or the assets, whichever is higher, 
+of such a combination.” 
+ 
+17. 
+As per the details provided by the Parties, the value of their worldwide assets and turnover 
+are as follows:  
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+                                                                                                                     Fair Competition  
+For Greater Good 
+C-2015/01/241                                                                                                                    Page 12 of 12 
+ 
+Figures in USD Million 
+Enterprise 
+Assets 
+Turnover 
+GE 
+(For the year ending 31.12.2013) 
+656,560.00 
+146,045.00 
+ALSTOM 
+(For the year ending 31.03.2014) 
+38,783.71 
+27,313.40 
+Total 
+6,95,343.71 
+1,73,358.40 
+ 
+18. 
+Accordingly, in terms of Section 43A of the Act, the Commission can levy a maximum 
+penalty of one per cent of the combined value of worldwide assets of the Parties i.e. USD 
+6,953 million (approximately INR 46,000 crore). While determining the quantum of 
+penalty, the Commission considered (a) the bona fide conduct of the Acquirers as regards 
+the intent to file the notice, albeit after the expiry of statutory timelines; and (b) the fact 
+that the combination was not consummated by the Acquirers without the approval of the 
+Commission. In view of the foregoing, the Commission considered it appropriate to 
+impose a penalty of INR 5,00,00,000/- (INR five crore only) on the Acquirers, which is 
+approximately 0.0001 per cent of the combined value of worldwide assets of the Parties. 
+The Acquirers shall pay the penalty within sixty (60) days from the date of receipt of this 
+order. 
+ 
+19. 
+The Secretary is directed to communicate to the Acquirers accordingly. 
+ 
+ 

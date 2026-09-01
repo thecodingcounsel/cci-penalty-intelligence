@@ -1,0 +1,1175 @@
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 1 of 28 
+ 
+Fair Competition  
+For Greater Good 
+11.05.2018 
+ 
+Notice given by Reliance Jio Infocomm Limited pursuant to an inquiry under Section 20(1) 
+of the Competition Act, 2002 
+ 
+CORAM: 
+ 
+Mr. Devender Kumar Sikri 
+Chairperson 
+ 
+Mr. Sudhir Mital 
+Member 
+ 
+Mr. Augustine Peter 
+Member 
+ 
+Mr. U. C. Nahta 
+Member 
+ 
+Mr. G. P. Mittal 
+Member 
+ 
+Appearances during Oral hearing on 30.01.2018 for Reliance Jio Infocomm Limited: 
+Mr. Amit Sibal, Sr. Advocate, Mr P. Ram Kumar, Advocate, Ms. Dinoo Muthappa, Advocate, Mr. 
+Dhruv Rajan, Advocate, Mr. Aditya Gupta, Advocate, Mr. R. Venkatkrisnan, General Counsel, 
+Reliance Jio Infocomm Limited, Ms. Shelly Saluja, Senior Manager, Reliance Jio Infocomm 
+Limited 
+ 
+Order under Section 43A of the Competition Act, 2002  
+ 
+A. Section 20(1) Proceedings and filing of notice 
+ 
+1. 
+The Competition Commission of India (“Commission”), in its meeting held on 20.06.2016, 
+took suo motu cognizance of transaction involving acquisition of right to use of spectrum by 
+Reliance Jio Infocomm Limited (“RJIO”/ “Acquirer”) from Reliance Communications 
+Limited (“RCOM”) pursuant to guidelines for trading of access spectrum (“Spectrum 
+Trading Guidelines”) issued by the Department of Telecommunication (“DoT”), 
+Government of India and decided to initiate an inquiry under Section 20(1) of the 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 2 of 28 
+ 
+Fair Competition  
+For Greater Good 
+Competition Act, 2002 (“Act”) in the above-said transaction. Vide letter dated 30.06.2016, 
+RJIO was directed to provide, inter alia, copy(ies) of definitive agreement(s) entered 
+between the parties to the transaction, details of assets/turnover of the parties etc. 
+ 
+2. 
+RJIO submitted the requisite information/document(s) on 12.08.2016 and made certain 
+additional voluntary submissions on 19.09.2016 and 24.11.2016. The Commission 
+considered the response filed by RJIO and noted that based on the combined assets and 
+turnover of RJIO and RCOM, the notification thresholds under Section 5(a) of the Act are 
+met. Further, the Commission noted that acquisition of spectrum: (i) is an “acquisition” 
+within the meaning of the Act; and (ii) does not fall under any item under Schedule I to the 
+Competition Commission of India (Procedure in regard to the transaction of business relating 
+to combinations) Regulations, 2011 (“Combination Regulations”). Accordingly, vide letter 
+dated 12.04.2017, the Commission directed RJIO to file notice in Form I for the above-said 
+transaction in terms of Section 20(1) of the Act read with Regulation 8 of the  Combination 
+Regulations (“Section 20(1) Directions”).  
+ 
+3. 
+Pursuant to the Section 20(1) Directions, on 07.06.2017, RJIO filed a notice for acquisition, 
+in 800 MHz frequency band, of (i) right to use of certain spectrum; and (ii) option to acquire 
+right to use of certain spectrum, from RCOM and Reliance Telecom Limited (“RTL”). For 
+the purpose of the transaction, following agreements have been entered into by RJIO: 
+ 
+i. Spectrum Trading Agreement dated 18.01.2016 with RCOM (“Trading Agreement”) 
+for acquisition of (i) 3.75 MHz spectrum each in telecom circles of Andhra Pradesh, 
+Delhi, Gujarat, Maharashtra, Punjab, and West Bengal; (ii) 5 MHz spectrum each in 
+telecom circles of Kolkata and Uttar Pradesh (West); and (iii) 1.25 MHz spectrum in 
+Uttar Pradesh (East);  
+ii. Option Agreement dated 18.01.2016 with RCOM (“RCOM Option Agreement”) for 
+acquisition of: […]; and  
+iii. Option Agreement dated 18.01.2016 with RTL (“RTL Option Agreement”) for 
+acquisition of […].  
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 3 of 28 
+ 
+Fair Competition  
+For Greater Good 
+(The transactions contemplated under the Trading Agreement, RCOM Option Agreement 
+and RTL Option Agreement are together referred to as the “Spectrum Transaction”) 
+ 
+4. 
+The right to use spectrum, being subject matter of the Trading Agreement, was transferred 
+with effect from 17.05.2016 pursuant to the approval of the DoT. On 23.05.2016, RJIO 
+exercised its option to acquire the right to use a part of spectrum being subject matter of 
+RCOM Option Agreement (i.e. 3.75 MHz in Karnataka, Kerala and Tamil Nadu and 2.50 
+MHz in Rajasthan). On 06.07.2016, the DoT changed the allotment of the right to use this 
+spectrum from RCOM to RJIO.  
+B. Approval of the Combination and Section 43A proceedings 
+ 
+5. 
+The Commission, in its meeting held on 08.08.2017, approved the Spectrum Transaction by 
+passing an order under Section 31(1) of the Act dated 03.10.2017 (“Order”) without 
+prejudice to any penalty proceedings under Section 43A of the Act. In terms of Section 43A 
+of the Act read with Regulation 48 of the Competition Commission of India (General) 
+Regulations, 2009 (“General Regulations”), a show cause notice (“SCN”) dated 
+02.11.2017 was issued to RJIO to show cause, in writing, within 15 days of the receipt of 
+SCN as to why penalty, in terms of Section 43A of the Act should not be imposed on it for 
+failure to file notice for the Spectrum Transaction within the stipulated time under the 
+provisions of the Act and consummating the Spectrum Transaction before expiry of timelines 
+as provided in Section 6(2A) of the Act. The Acquirer filed its response to the SCN 
+(“Response”) on 21.11.2017 along with a request for oral hearing, in terms of Regulation 
+48 of the General Regulations.  
+ 
+6. 
+The Commission, in its meeting held on 22.01.2018, considered the Response and granted a 
+personal hearing to the Acquirer on 30.01.2018. Accordingly, the Acquirer presented its case 
+before the Commission on 30.01.2018. Pursuant to the personal hearing, the Acquirer filed 
+further written submissions on 05.02.2018 (“Additional Submissions”). 
+ 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 4 of 28 
+ 
+Fair Competition  
+For Greater Good 
+C. Submissions of the Acquirer 
+ 
+7. 
+In the Response to SCN, oral hearing and the Additional Submissions, RJIO has, inter-alia, 
+made the following submissions: 
+Spectrum Transaction does not amount to an “acquisition” 
+7.1 
+That the intention behind requiring the notification of acquisition of assets is to ensure that 
+acquisitions of businesses/divisions/units/portions of an enterprise, which by themselves do 
+not constitute an “enterprise” are reviewed by the Commission when such acquisitions have 
+an effect on the market. In this case, if RJIO acquired subscribers, suppliers, towers etc., of 
+RCOM/RTL, the acquisition of such assets as a going concern, would require notification to 
+the Commission. The transfer of a mere right to use spectrum from one enterprise to another, 
+however, does not envisage acquisition of assets as a going concern. 
+ 
+7.2 
+That in addition, the cases involving acquisition of intangible assets such as 
+trademarks/intellectual property rights may merit merger control review where transfer of 
+goodwill is also involved as the overall effect of such acquisitions would facilitate an 
+inevitable transfer of business to the acquirer. In this case, spectrum has no goodwill or 
+customer loyalty and therefore transfer of spectrum with no other interests of RCOM/RTL 
+should not be considered as an asset acquisition falling under scope of Section 5 of the Act. 
+ 
+7.3 
+That the other jurisdictions also assess whether assets can constitute a business/have market 
+facing presence or turnover for determining whether such asset acquisitions constitute a 
+notifiable transaction for merger review. Absent any acquisition of customers, contracts, 
+subscriptions or other essentials of a telecom business, the acquisition of spectrum would 
+not constitute business having market presence or market turnover. 
+ 
+7.4 
+That RJIO has not acquired any ownership of assets or title to spectrum from RCOM/RTL. 
+The Government of India continues to retain ownership of spectrum and therefore the 
+transfer of right to use (as opposed to transfer of ownership) cannot amount to “acquisition”. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 5 of 28 
+ 
+Fair Competition  
+For Greater Good 
+A licence does not create in the licensee’s favour any estate or interest in the property and is 
+revocable at the instance of the licensor.   
+ 
+7.5 
+That spectrum has been routinely allocated through auctions conducted by the Government 
+of India and if the Commission were to take the view that acquisition of right to use spectrum 
+amounts to a combination under the Act, every instance of such auction of spectrum to each 
+telecom service provider (“TSP”) in India would amount to a notifiable combination. To the 
+best of RJIO’s knowledge, there has not been a single instance of auction that has been held 
+to be a combination and notified to the Commission. Accordingly, if there was no 
+requirement to file a notice under the Act at the time of allocation of spectrum through 
+auction, the transfer of right to use between TSPs for the same spectrum would also not be 
+required to be notified under the Act.  
+ 
+7.6 
+Based on the aforesaid, the Spectrum Transaction, does not amount to acquisition of assets 
+under Section 5, and accordingly does not fall under the jurisdiction of the Commission.    
+Jurisdiction of the Commission 
+7.7 
+That without prejudice to the argument that Spectrum Transaction does not amount to an 
+asset acquisition under the Act, the acquisition of right to use spectrum being regulated by 
+sectoral authorities having exercised regulatory review over such acquisitions, would imply 
+the ouster of jurisdiction of the Commission. 
+ 
+7.8 
+That the telecom sector is regulated by the DoT and Telecom Regulatory Authority of India 
+(“TRAI”). The Government of India regulates the allotment and use of spectrum through its 
+licensing and other norms. The sectoral regulator i.e. TRAI makes recommendations with 
+respect to the use and allocation of spectrum to the Government of India/DoT. On 
+12.10.2015, the DoT issued the Spectrum Trading Guidelines to permit and regulate trading 
+of spectrum to enable optimum use of spectrum. The TRAI along with the DoT regulates 
+and controls the various terms of price and conditions of sale of spectrum in this sector and 
+on various occasions intervenes by way of consultation and framing regulations and issuing 
+clarifications from time to time. As a result of the regulatory framework, the TSPs are 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 6 of 28 
+ 
+Fair Competition  
+For Greater Good 
+subjected to regulations governing various aspects of their functioning including applying 
+the spectrum, pricing and market share caps. Any acquisition or trading of spectrum, mergers 
+of various TSPs are also regulated by the DoT and cannot be closed without prior approval 
+of the DoT. The maximum quantum of spectrum holding in a particular band and across all 
+bands for any TSP is also regulated by the DoT. The Spectrum Trading Guidelines require 
+TSPs to ensure that their spectrum holding does not exceed: (i) a cap of 25% of all spectrum 
+in a licensed service area; and (ii) 50% of spectrum in a particular band in a licensed service 
+area (“Spectrum Caps”). 
+ 
+7.9 
+That the Spectrum Trading Guidelines already contain safeguards for protection of 
+competition by imposing restrictions on concentration of spectrum held by TSPs. That the 
+ex ante competition review of spectrum acquisition (by imposing Spectrum Caps) would 
+amount to implied exclusion of the Commission’s jurisdiction. 
+ 
+7.10 That the allocation/buying/selling/sharing of spectrum as a result of this framework is the 
+exclusive domain of the TRAI and the DoT. To the extent that until the Spectrum Trading 
+and Spectrum Sharing guidelines were not introduced the TSPs could not have entered into 
+the agreements to trade or share the spectrums at all. 
+ 
+7.11 That the TRAI and DoT in their wisdom and ongoing regulatory oversight have permitted 
+TSPs to carry out trading and sharing of spectrum as long as the TSP does not breach the 
+specified caps i.e. the TSPs can consummate such transfers within the specified caps without 
+any intervention/examination on the merits of the transaction from the sector regulators. For 
+clarity, for any round of trading and/or sharing, the TSP need to intimate the DoT by a formal 
+communication including a cover letter, along with the details of the frequency to be traded 
+(quantum/band), band of spectrum, circle/ LSA, price/value, details of other spectrum 
+holding in the same band/circle. DoT takes up to 45 calendar days to take the transaction on 
+record. This process is only limited to extent that the details of the spectrum are changed in 
+the records of the DoT and does not entail a scrutiny of the transaction. 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 7 of 28 
+ 
+Fair Competition  
+For Greater Good 
+7.12 Based on the aforesaid, the examination of the Spectrum Transaction by the Commission 
+results in a complete conflict qua spectrum between the Commission and the TRAI and the 
+DoT.  
+ 
+7.13 That it concedes and submits to the jurisdiction of the Commission to inquire into and 
+prohibit anti-competitive practices and regulate mergers and acquisitions in the telecom 
+market (along with TRAI and DoT). However, in relation to acquisition/trading and 
+consequent concentration or market power in spectrum holding, there would be a limited and 
+implied ouster of the Commission’s jurisdiction as the regulation and governance of this area 
+is occupied by TRAI and DoT. In Credit Suisse Securities (USA) LLC v. Glen Billing LLC 
+(551 U.S. 264), the US Supreme Court set out the following test to determine whether there 
+is a conflict between the exercise of antitrust jurisdiction and sectoral regulation: 
+i. 
+Existence of regulatory authority under the sectoral regime to supervise the activities 
+in question: In India, the acquisition of spectrum is regulated by DoT in accordance 
+with the Spectrum Trading Guidelines; 
+ii. 
+Evidence that the responsible regulatory authorities exercise that authority: The 
+acquirer of spectrum must mandatorily obtain DoT approval for transfer of allotment 
+of spectrum; 
+iii. 
+Resulting risk that sectoral and antitrust regime will, if both applicable, produce 
+conflicting guidance and requirements: The jurisdiction of the Commission may lead 
+to a clear conflict and incompatibility between competition law and telecom 
+laws/regulations in India. In cases of risk of conflicting guidance, it would also be 
+difficult for antitrust authorities to evaluate highly technical issues which fall within 
+the purview of sector regulators; and 
+iv. 
+Whether the issue involves an area falling squarely within the heartland of sectoral 
+regulation: The Spectrum Trading Guidelines provide for ex ante competition review 
+of spectrum acquisition by imposing Spectrum Caps and are aimed at utilizing 
+under/unutilized spectrum ensuring greater competition, providing incentives for 
+innovation etc. Thus, competition in spectrum acquisitions would lie squarely within 
+activity that the Spectrum Trading Guidelines seek to regulate. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 8 of 28 
+ 
+Fair Competition  
+For Greater Good 
+ 
+7.14 That the Spectrum Trading Guidelines set out a self-contained comprehensive framework 
+vesting the DoT to ex ante regulate competition in the market for spectrum. Since the 
+legislature has specifically made the DoT responsible to address competition in spectrum 
+holding, it has implicitly endorsed deference to the Spectrum Trading Guidelines. 
+Accordingly, there is an implied immunity from the Act and an exclusion of merger review 
+jurisdiction of the Commission in the matters of spectrum trading. 
+Spectrum Transaction was covered under Item 3 of Schedule I of the Combination 
+Regulations and exempt from notification 
+7.15 That the Commission should not have taken cognizance of the Spectrum Transaction under 
+the provisions of the Act given the exemption granted under Schedule I, Item 3 read with 
+Regulation 4 of the Combination Regulations. 
+ 
+7.16 Item 3 of Schedule I of the Combination Regulations, reads thus: 
+ 
+“An acquisition of assets, referred to in sub- clause (i) or sub-clause (ii) of clause (a) of 
+section 5 of the Act, not directly related to the business activity of the party acquiring the 
+asset or made solely as an investment or in the ordinary course of business, not leading to 
+control of the enterprise whose assets are being acquired except where the assets being 
+acquired represent substantial business operations in a particular location or for a 
+particular product or service of the enterprise, of which assets are being acquired, 
+irrespective of whether such assets are organized as a separate legal entity or not.”  
+ 
+Spectrum acquired by RJIO is in ordinary course of business 
+ 
+7.17 That Spectrum is a basic and essential ingredient required for providing wireless 
+telecommunication services and every TSP must obtain the right to use spectrum from time 
+to time with addition of subscribers to its customer base to be able to provide 
+telecommunication services and maintain continuity of its business and services. The right 
+to use spectrum can be acquired either from the Government which auctions this right to use 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 9 of 28 
+ 
+Fair Competition  
+For Greater Good 
+spectrum from time to time (since 2010) or from another TSP (since October 2015) when 
+the DoT permitted and issued guidelines for trading of spectrum between TSPs.  
+ 
+7.18 Most TSPs have participated in all the auctions for right to use spectrum conducted by the 
+Government of India. Further, as per media reports, 3 acquisitions of right to use spectrum 
+through the trading route have been undertaken in the past such as the acquisition of spectrum 
+by Bharti Airtel Limited from Aircel Limited, Telenor and Videocon Limited. Further, the 
+acquisition of spectrum by Bharti from Aircel took place around the same time as the 
+Spectrum Transaction and to the best of our knowledge, some of these transactions were not 
+notified within the 30 calendar days of execution of the binding agreements. This highlights 
+the belief of the TSPs that transactions of this nature related to spectrum form part of the 
+“ordinary course of business” of a TSP. 
+ 
+7.19 That RJIO itself has acquired the right to use spectrum from time to time. It acquired right 
+to use spectrum in the auctions conducted by the DoT in 2010, 2014, 2015 and 2016, in 
+addition to entering into the Spectrum Transaction. If the Commission deems every such 
+acquisition of the right to use spectrum as a notifiable transaction, then it implies that all 
+TSPs are required to notify the Commission at the time of acquiring spectrum during each 
+auction of spectrum by the Government of India as well. 
+ 
+7.20 That the Memorandum of Association of RJIO, inter alia, provide that mobile telephony 
+services using spectrum to provide such services is part of RJIO’s main objects. 
+ 
+7.21 That for the above reasons, trading of spectrum is an activity in the normal course of business 
+for all TSPs as permitted by the DoT. The Government recognizes spectrum as an intangible 
+asset and provides flexibility to TSPs to trade and share spectrum during the ordinary course 
+of business. 
+ 
+7.22 That Courts in India have relied on factors such as historical practices of the entity, common 
+industry practices and whether the transaction relates to the main purpose of business such 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 10 of 28 
+ 
+Fair Competition  
+For Greater Good 
+as those listed in the company’s charter documents to decide on what constitutes “ordinary 
+course of business”. Considering that: (i) RJIO has participated in auctions for spectrum in 
+2014 and 2016; (ii) other TSPs have routinely bid for spectrum in auctions and have also 
+traded spectrum; and (iii) the acquisition of spectrum is directly related to the provision of 
+telecom services, the Spectrum Transaction is in ordinary course of business of RJIO.  
+ 
+Acquired spectrum under the Spectrum Transaction does not represent “substantial business 
+operations” of either RCOM or RTL 
+ 
+7.23 The business operations of a TSP consist of numerous components including, licenses, 
+infrastructure (cables, fiber, towers, equipment, spectrum, office space etc.) and contracts 
+relating to the same, personnel and manpower etc. Pursuant to the Spectrum Transaction, 
+RJIO acquired only the bare right to use certain portion of the spectrum that was available 
+with RCOM / RTL and RJIO has not acquired any part of the business operations of RCOM 
+or RTL. Importantly, spectrum by itself cannot provide telecom services and it is one of the 
+many essential ingredients required for provision of telecom services. Accordingly, 
+spectrum itself cannot amount to “business operations” of RCOM. Further, acquisition of 
+mere spectrum cannot be said to constitute a “substantial” portion of business operations of 
+RCOM/RTL.  
+ 
+7.24 Notwithstanding the above, if spectrum alone were held to amount to “business operations”, 
+the quantum of spectrum acquired would not amount to substantial business operations. The 
+spectrum in respect of which the right to use has been transferred to RJIO represents only 
+approx. 18% of the total spectrum holding of RCOM/RTL. Even on a circle wise basis, RJIO 
+has not acquired spectrum which represents substantial business operations of RCOM/RTL 
+in any circle. 
+ 
+7.25 That RJIO has not acquired any customers or contracts whatsoever of RCOM/RTL pursuant 
+to the Spectrum Transaction. There is no provision whatsoever for customers of RCOM or 
+RTL to be transferred to RJIO under the Spectrum Transaction documents. In fact, RJIO and 
+RCOM/RTL actively compete as far as business operations are concerned. In fact, RCOM’s 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 11 of 28 
+ 
+Fair Competition  
+For Greater Good 
+CDMA customers could not have been acquired by RJIO as at the time of the Spectrum 
+Transaction closing and at the time RCOM ceased its CDMA operations, RJIO was yet to 
+commence its telecommunications operations. The customers of RCOM/RTL continued to 
+remain RCOM’s/RTL’s customers even if RCOM/RTL shared the spectrum used to service 
+them with RJIO. Such sharing agreements are similar to roaming agreements between TSPs 
+whereby a TSP without network in a particular area enters into an agreement with another 
+TSP who possesses network in that area which would allow its customers to roam on the 
+others’ network in that area while remaining customers of the original service provider. Also, 
+subsequent to the Spectrum Transaction, RCOM continued to hold spectrum in 800 MHz 
+band in 22 circles in India and continued to service such customers. The spectrum remaining 
+with RCOM/RTL was more than adequate to serve their customers. Thus, there was no 
+acquisition of any portion, leave alone a substantial portion, of RCOM/RTL’s business 
+operations. 
+ 
+Transaction does not lead to acquisition control of RCOM or RTL (the enterprises whose 
+assets were acquired) 
+ 
+7.26 That RJIO acquired no rights in either the management or affairs of RCOM or RTL, pursuant 
+to the Spectrum Transaction. At the time of Spectrum Transaction and thereafter, RJIO and 
+RCOM/RTL continued to operate as independent entities. 
+ 
+Narrow interpretation of the Item 3 exemption would make several small spectrum trading 
+deals notifiable 
+ 
+7.27 The Spectrum Trading Guidelines provide for spectrum trading deals even for small volumes 
+such as 0.2 MHz and thus, if the Commission finds that the exemption would not apply to 
+facts of the present transaction, then all spectrum trading deals irrespective of their size 
+would end up requiring notification to the Commission unnecessarily flooding the 
+Commission with notifications regarding routine transactions that have no impact on 
+competition. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 12 of 28 
+ 
+Fair Competition  
+For Greater Good 
+ 
+Section 43A does not envisage a penalty for failure to comply with Section 6(2A) 
+ 
+7.28 That the omission of any reference to Section 6(2A) under Section 43A of the Act must be 
+interpreted to imply that there is no specific, explicit or express provision for penalty 
+provision for violation of Section 6(2A) of the Act.  
+ 
+7.29 That the legislature, in its wisdom, did not intend to impose a penalty once Section 6(2) was 
+complied with. Instead, the protection offered by the Act to violations of Section 6(2A) 
+where parties consummate the combination, is that combinations causing or likely to cause 
+AAEC may be held as void and unscrambled by the Commission, under Section 6(1) read 
+with Section 31(2) of the Act. The purpose of Section 6(2)(a) is to ensure that a notification 
+is made for the scrutiny of the Commission – where non-compliance with Section 6(2)(a) 
+occurs, penalty under Section 43A may be imposed. However, once a notice has been filed 
+and Section 6(2)(a) is complied with, the penalty provision under Section 43A cannot be 
+invoked to cover violations of Section 6(2A) of the Act. Importantly, penalizing provision 
+i.e. Section 43A of the Act was brought under the Competition (Amendment) Act, 2007, 
+which also introduced the standstill obligations under Section 6(2A). The deliberate 
+omission of an explicit and specific reference to Section 6(2A) under Section 43A of the Act 
+implies the specific exclusion of the Commission’s powers to impose penalties for violations 
+of Section 6(2A) of the Act.  
+ 
+Mitigating factors 
+ 
+7.30 
+That without prejudice to the above, in the event the Commission were to find RJIO in 
+violation of the Act, the Spectrum Transaction is a fit case for no imposition of penalty 
+considering, inter alia: 
+i. 
+Uncertain question of law: Spectrum trading was introduced in India only in 2015 
+and the Spectrum Transaction was one of the first instances of spectrum trading 
+in India. Unlike other cases of acquisition of intangible assets on a stand-alone 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 13 of 28 
+ 
+Fair Competition  
+For Greater Good 
+basis notified to the Commission, there is no acquisition of ownership of assets or 
+transfer of any business presence in this case. Accordingly, there was significant 
+uncertainty as regards notification requirement under the Act (and RJIO had 
+obtained due and adequate legal advice in this regard). That the present 
+proceedings involve a novel question of law. Given further uncertainty as to 
+whether right to use of spectrum would qualify for exemption under Item 3 of 
+Schedule I, the Commission may take a lenient view; 
+ii. 
+No mala fide intention to evade law: That the failure to notify was unintentional 
+as RJIO was under the bona fide belief that the Spectrum Transaction was not 
+notifiable. RJIO obtained legal advice from two retired Hon’ble Judges of the 
+Supreme Court of India prior to consummation of the Spectrum Transaction.  Both 
+the Hon’ble Judges were of the view that the Spectrum Transaction is covered 
+under Item 3 of Schedule I and is exempt; 
+iii. 
+Spectrum Transaction would not be notifiable under applicable merger control 
+today: If the Spectrum Transaction were to take place today, the value of turnover 
+derived from RCOM’s ideal spectrum would be de-minimis i.e., no revenue can 
+be ascribed to the acquired spectrum as it represents a surplus and unutilized asset 
+for RCOM/RTL; 
+iv. 
+No deterrent effect required in this case: That given the change in regulatory 
+position, uncertainty of law, lack of mala fides, there is no requirement for 
+deterrent effect; 
+v. 
+No previous violation of the Act by RJIO: Reliance Industries Limited, the parent 
+of RJIO has a comprehensive competition compliance policy in place and 
+endeavours to be in compliance with the Competition Act at all times. Therefore, 
+penalizing RJIO for a delay in filing the notice would be unfair and excessive. 
+Any penalty would cause severe damage to RJIO’s reputation, which as a new 
+entrant to the market has brought huge pro-competitive benefits to the telecom 
+sector and the consumers; 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 14 of 28 
+ 
+Fair Competition  
+For Greater Good 
+vi. 
+The parties did not try to conceal the arrangement. On the contrary, they notified 
+the Spectrum Transaction to the DoT and the details of the same were available in 
+the public forums; 
+vii. 
+The transaction did not raise competition issues in India. The Commission’s 
+unconditional approval, of course, is not a defence to a filing requirement. But it 
+is further evidence that any failure to notify this innocuous Spectrum Transaction 
+was inadvertent and without mala fides and that punitive fines should be reserved 
+for companies who try to shield transactions from competition scrutiny, to the 
+potential detriment of consumers and the market; 
+viii. 
+That RJIO actively cooperated with the Commission throughout this proceeding. 
+In response to the Commission’s letter of 30.06.2016 asking why it did not file the 
+transaction, RJIO provided a full explanation by letter dated 11.08.2016. Upon 
+learning that the Commission continued to have questions or concerns and further 
+to the letter dated 12.04.2017, RJIO notified the transaction in a Form I on 
+07.06.2017 in a spirit of cooperation and to provide the underlying facts showing 
+the absence of any competition concerns; and 
+ix. 
+That the Ministry of Corporate Affairs has also notified a significant amendment 
+on 29.06.2017 regarding the time-period within which a transaction is to be 
+notified to the Commission and the parties to a combination are now exempt from 
+filing a notification within 30 days of the execution of the relevant trigger 
+document the Commission. Accordingly, no penalty be levied on RJIO given the 
+change in the regulatory framework. 
+Submissions on principle of natural justice 
+7.31 That the Commission, without hearing it, passed the non-speaking order dated 12.04.2017 
+and directed RJIO to file a Form I notice in relation to the Spectrum Transaction. RJIO was 
+not granted a hearing to confirm whether the Spectrum Transaction is covered under 
+Schedule I, Item 3 of the Combination Regulations or not and that this is in violation of the 
+settled principles of natural justice and subjected RJIO to a regulatory requirement that was 
+clearly inapplicable.  
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 15 of 28 
+ 
+Fair Competition  
+For Greater Good 
+D. Analysis and Findings of the Commission 
+ 
+8. 
+The Commission has noted the submissions of the Acquirer and on consideration of the 
+aforesaid, the following issues arise for determination in the present matter: 
+i. Whether the fact that the Spectrum Transaction is pursuant to Spectrum Trading 
+Guidelines ousts the jurisdiction of the Commission? 
+ 
+ii. Whether the Spectrum Transaction amounts to “acquisition of assets” within the 
+meaning of the term under Section 5 of the Act? and 
+ 
+iii. If the Spectrum Transaction amounts to “acquisition”, whether the transaction is 
+covered under Item 3 of Schedule I of the Combination Regulations? 
+ 
+Issue No. 1: Whether the fact that the transaction is pursuant to Spectrum Trading 
+Guidelines ousts the jurisdiction of the Commission? 
+9. 
+As regards the submissions of the Acquirer regarding regulation of telecom sector by TRAI 
+and DoT and that the examination of the Spectrum Transaction by the Commission results 
+in a complete conflict qua spectrum between the Commission and the TRAI and DoT, it 
+may be noted that the guidelines for transfer/merger of service licences on compromises, 
+arrangement and amalgamation of companies, issued by Ministry of Communications and 
+Information Technology, Government of India in 2014 (“DoT Merger Guidelines”) 
+prescribe certain caps on market shares and spectrum holdings. As per the DoT Merger 
+Guidelines, in case of merger or acquisition or amalgamation proposals that result in market 
+share in any service area exceeding 50 percent, the resultant entity should reduce its market 
+shares to 50 percent within a period of one year from the date of approval of merger or 
+acquisition or amalgamation (“Market Share Caps”). As regards holding of spectrum by 
+a TSP, the Commission noted that the spectrum holding in a licensed service area is subject 
+to Spectrum Caps as stated above.  
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 16 of 28 
+ 
+Fair Competition  
+For Greater Good 
+10. 
+In this regard, it may be noted that merely the fact that the sectoral regulator allows an 
+activity and prescribes conditions as regards the functioning of the same, it does not mean 
+or imply that the competition law would not apply to the concerned sector. The Act requires 
+all instances of acquisition of assets, shares, control, voting rights or instances of mergers 
+or amalgamations to be notified to the Commission which meet the jurisdictional thresholds 
+prescribed under Section 5 of the Act. The Act does not contain or envisage any exemption 
+to sectors wherein the sectoral regulator guidelines contain any provision which may relate 
+to the competitiveness of the sector. 
+ 
+It may be further relevant to note that the said guidelines are in the nature of subordinate 
+legislation and thus repugnancy, if any, is not a case of conflict between legislations enacted 
+by the Parliament. Nevertheless, considering the situation on an overall basis, it seems 
+appropriate to conclude that the guidelines issued by a sectoral regulator are in furtherance 
+of the protection of market competition and not replace the assessment mandated to be 
+carried out by the Commission. The clauses included in Spectrum Trading Guidelines 
+primarily relate to market share of the parties in terms of spectrum holding. Market share of 
+the parties is just one of the several factors, as contained in Section 20(4) of the Act, for 
+assessing likelihood of a proposed combination leading to AAEC. Further, even the market 
+shares cannot be considered in accordance with the pre-determined safe harbours as the 
+efficacy of market shares can vary from sector to sector and even from case to case 
+depending on other factors. Accordingly, the Commission has noted in its orders relating to 
+telecom sector that the assessment of a proposed combination needs to be based, 
+independently of such guidelines, on factors as contained in Section 20(4) of the Act. Thus, 
+it may be concluded that the submissions of the Acquirer in this regard are not tenable and 
+cannot be acceded to. Further, the Acquirer has contradicted itself by stating that it concedes 
+to the jurisdiction of the Commission as regards the mergers and acquisitions and anti-
+competitive practices. Considering that the DoT has issued DoT Merger Guidelines and 
+prescribed Market Share Caps, going by the logic given by the Acquirer, even the M&As 
+involving TSPs would be outside the ambit of competition law. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 17 of 28 
+ 
+Fair Competition  
+For Greater Good 
+Issue No. 2: Whether the Spectrum Transaction amounts to “acquisition of assets” within 
+the meaning of the term under Section 5 of the Act? 
+ 
+11. 
+At the outset, it would be appropriate to understand the rationale behind requiring 
+notification of instances of acquisition of assets. The key consideration in requiring mergers 
+and acquisitions to be reviewed is that the M&As may lead to conferring economic 
+advantages to the parties involved giving them an ability to influence the competition 
+dynamics of a market. The companies may get these economic benefits by acquiring shares, 
+voting rights or control of an enterprise or by acquiring assets of an enterprise. Thus, there 
+is no distinction between acquisition of shares, voting rights, control and acquisition of assets 
+in so far as it leads to economic advantages. Accordingly, acquisition of assets is required to 
+be notified just like acquisition of shares, voting rights and control.  
+ 
+12. 
+The aspect of potential economic benefits of assets is also captured in the definition of an 
+asset as given under Indian Accounting Standard (Ind AS) 38. The Ind AS 38 defines asset 
+as -  
+ 
+“… a resource: (a) controlled by an entity as a result of past events; and (b) from which 
+future economic benefits are expected to flow to the entity.” 
+ 
+13. 
+However, it is also true that all assets may not have significant economic significance to 
+merit a merger review and accordingly, all instances of acquisition of assets are not required 
+to be notified and different jurisdictions use different approaches to distinguish between 
+cases of acquisition of assets falling under the merger review process and otherwise. The 
+Combination Regulations provide for two instances of acquisition of assets which do not 
+normally require notification –  
+ 
+Item 3 of Schedule I – 
+“An acquisition of assets, referred to in sub- clause (i) or sub-clause (ii) of clause (a) of 
+section 5 of the Act, not directly related to the business activity of the party acquiring the 
+asset or made solely as an investment or in the ordinary course of business, not leading to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 18 of 28 
+ 
+Fair Competition  
+For Greater Good 
+control of the enterprise whose assets are being acquired except where the assets being 
+acquired represent substantial business operations in a particular location or for a 
+particular product or service of the enterprise, of which assets are being acquired, 
+irrespective of whether such assets are organized as a separate legal entity or not.” 
+ 
+Item 5 of Schedule I – 
+“An acquisition of stock-in-trade, raw materials, stores and spares, trade receivables and 
+other similar current assets in the ordinary course of business.” 
+ 
+14. 
+Apart from the specific instances of acquisition of assets identified in Schedule I, the 
+Commission has also considered international best practices as regards the determination of 
+an acquisition of assets falling under the merger review process. It is observed that the 
+international best practices are based on broad principle of considering the economic 
+significance or competitive significance of the assets involved.  
+ 
+15. 
+In this regard, it is observed that the Acquirer has also submitted that the intention behind 
+requiring the mandatory notification of asset acquisitions is to ensure that acquisitions of 
+businesses/divisions/units/portions of an enterprise, which by themselves do not constitute 
+an “enterprise” are reviewed by the Commission when such acquisitions have an effect on 
+the market. The submissions of the Acquirer also indicate that the economic significance or 
+competitive significance is the primary consideration behind requiring asset acquisitions to 
+be notified for merger review purposes. 
+ 
+16. 
+In this backdrop, the Commission examined the submissions of the Acquirer as regards 
+Spectrum Transaction not amounting to acquisition of assets under the Act.  
+ 
+17. 
+The first aspect to be considered in determination of instances of acquisition of assets falling 
+under the merger review process is the economic significance. From the submissions of the 
+Parties, it is quite clear that spectrum is a resource which is “must have” for a TSP. The 
+Acquirer has itself highlighted that spectrum is a basic and essential ingredient required for 
+providing wireless telecommunication services and that every TSP must obtain the right to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 19 of 28 
+ 
+Fair Competition  
+For Greater Good 
+use spectrum from time to time with addition of subscribers to its customer base to be able 
+to provide telecommunication services and maintain continuity of its business and services. 
+These submissions of the Acquirer clearly bring out the fact that spectrum is integral to the 
+operations of a TSP and therefore has significant economic and competitive significance. 
+Also, the fact that Spectrum Trading Guidelines contain competition consideration and 
+regulate the maximum amount of spectrum that a TSP can hold accentuates the economic 
+and competitive significance of the spectrum. 
+ 
+18. 
+The second aspect to be considered in determination of instances of acquisition of assets 
+falling under the merger review process is whether the concerned asset constitutes a business 
+or whether market turnover can be attributed to it. The Acquirer has submitted that the 
+spectrum in the instant case does not constitute market presence as the Spectrum 
+Transaction:  (i) does not envisage acquisition of assets as a going concern; (ii) does not 
+envisage transfer of goodwill/customer loyalty; and (iii) does not involve any acquisition of 
+customers, contracts, subscriptions or other essentials of a telecom business. In this regard, 
+it may be noted that the phrase “constituting business” or “attribution of market turnover” 
+are to be seen in context of “potential” of generating turnover and constituting business. Only 
+in these terms, the concept of “assets constituting a business” would be in sync with the basic 
+principle behind requiring instances of acquisition of assets to notify i.e., the principle of 
+“economic significance”. Going by the view taken by the Acquirer, any enterprise would be 
+entitled to transfer any asset without notifying the same to the Commission if it is viewed as 
+a surplus given the transferor’s scale/scope of operations. The requirements indicated by the 
+Acquirer for an asset to be considered as constituting business may add to the economic 
+significance of concerned asset but their absence does not diminish the economic 
+significance of the asset on a standalone basis. It is clear that acquisition of spectrum 
+increases the ability of a TSP to cater to a broader subscriber base and generate additional 
+turnover and correspondingly reduces such abilities of a TSP that has sold the right to use of 
+spectrum. Further, as noted above, spectrum is integral to the operations of a TSP which also 
+highlights its economic significance. On the basis of the aforesaid economic significance of 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 20 of 28 
+ 
+Fair Competition  
+For Greater Good 
+spectrum in terms of potential of generating turnover, it may be inferred that spectrum 
+constitutes business and that market turnover can be attributed to it.  
+ 
+19. 
+The Acquirer has submitted that the ownership of spectrum remains with the Government of 
+India and that the transfer of right to use of spectrum from Government of India to licensee 
+is revocable. The key rationale which emerges from submissions of RJIO in this regard is 
+that the licensee cannot be regarded as “controlling” the spectrum held by it for use. In this 
+regard, it is noted that spectrum is a natural resource which is critical to the provision of 
+mobile telephony services and accordingly, the allocation and use of spectrum is regulated 
+by government authorities and the DoT grants licenses and allocates and regulates the right 
+to use spectrum, while retaining ownership over the resource. However, in context of 
+competition law, as regards instances of acquisition of assets, “control” represents the right 
+to economic benefits that would flow from the resource and not the perpetual ownership of 
+a resource. In that context, right to use of spectrum or any other natural resource does 
+constitute an asset. This position is buttressed by the representation of right to use of 
+spectrum as an intangible asset by the Acquirer in its financial statements. 
+ 
+20. 
+As regards the submissions of the Acquirer that if the Commission were to take the view that 
+acquisition of right to use spectrum amounts to a combination under the Act, every instance 
+of such auction of spectrum to each TSP in India would amount to a notifiable combination, 
+the Commission observed that there is fundamental distinction between acquiring spectrum 
+by participating in auctions and acquiring spectrum from other TSPs. While acquisition of 
+spectrum by participating in auctions amounts to organic growth, the acquisition of spectrum 
+from other TSPs amounts to inorganic growth. The merger review processes focus on 
+examination of inorganic growth only and consequently the acquisition of spectrum by 
+participating in auctions would not attract scrutiny under the merger review process. 
+ 
+21. 
+In view of the above, the Commission is of the opinion that acquisition of right to use of 
+spectrum constitutes an acquisition of assets for the purpose of the Act. 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 21 of 28 
+ 
+Fair Competition  
+For Greater Good 
+Issue No. 3: Whether the Spectrum Transaction is covered under Item 3 of Schedule I of 
+the Combination Regulations? 
+ 
+22. 
+The essential conditions of Item 3 of Schedule I are: (i) acquisition of assets not directly 
+related to the business activity of the acquirer; or (ii) acquisition of assets made solely as an 
+investment or in ordinary course of business. Considering the fact that RJIO is also a TSP, 
+the first essential condition cannot be fulfilled as the asset in question i.e., spectrum is 
+directly related to the business of the Acquirer. 
+ 
+23. 
+The next aspect for determination is whether the acquisition of spectrum can be considered 
+to be in ordinary course of business or solely as an investment. In this regard, it would be 
+appropriate to first consider what is meant by “business” and based on that to examine what 
+constitutes activities in ordinary course of business. 
+ 
+24. 
+The word “business” implies regular occupation, profession or trade. Based on this 
+definition, the business activities can be considered as the activities relating to the regular 
+occupation, profession or trade. After noting the scope of business activities, the next 
+question to be examined is whether all the business activities can be said to be in ordinary 
+course. For this purpose, the business activities/transactions need to be further classified into 
+two broad categories, viz., (i) revenue transaction; (ii) capital transactions. 
+ 
+25. 
+Revenue transactions may simply be defined as those transactions which are short term and 
+constitute income and expenditure and are accordingly reflected in profit and loss account 
+or income statement of the enterprise. Capital transactions on the other hand are those which 
+affect non-current items such as fixed assets, long term debt etc. and affect the position 
+statement of an enterprise. In other words, capital transactions impact the ability of a business 
+to carry out revenue transactions. For example, an installation of a new production unit 
+(capital expenditure) would be expected to lead to increase in production which in turn would 
+be expected to lead to greater sales revenue. On the other hand, revenue transactions only 
+impact the existing state of operations and do not change the operating potential. Another 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 22 of 28 
+ 
+Fair Competition  
+For Greater Good 
+difference between the two may be the frequency of occurrence. Revenue transactions are 
+frequent while capital transactions are relatively infrequent. 
+ 
+26. 
+Considering the aforesaid differences between capital and revenue transactions, capital 
+transactions are considered to be strategic i.e., having economic or competitive significance 
+and the revenue transactions are considered to be routine and usual in nature. The term 
+“ordinary course of business” also is meant to refer to transactions which are frequent, 
+routine and usual and therefore it may be said that the term “ordinary course of business” 
+corresponds to revenue transactions for the competition law purposes. 
+ 
+27. 
+However, it is also important to note that what constitutes revenue and capital transactions 
+vary from business to business i.e., a capital transaction for one business may be a revenue 
+transaction for the other. For example, for a seller of plant and machinery, sale of plant and 
+machinery may be an activity in ordinary course of business as the same constitutes its 
+regular trade while for any player who was using a machine to produce goods for sale, sale 
+of such machine would be a capital transaction. In fact, a same item may also have different 
+classification. For example, furniture held for sale by a furniture seller would be a current 
+asset and the sale proceeds of the same would be revenue receipts but for the same business, 
+the stock of furniture held for use in office furnishings etc. would be a non-current asset and 
+the expenditure incurred on purchasing the same would be capital expenditure and receipts 
+from sale of such furniture would be a capital receipt. In other words, the activities for which 
+business is established would be the activities in ordinary course and the activities which are 
+meant to help the business carry on its ordinary activities efficiently would be the strategic 
+capital transactions. In this backdrop, the specific facts of the instant case can be examined. 
+ 
+28. 
+As regards the nature of activities of a TSP, it is noted that the main revenue activities of a 
+TSP are activities relating to provision of mobile telephony services. These activities 
+constitute the “business” of a TSP, i.e., these activities are in ordinary course of business for 
+a TSP and the activities relating to acquisition/transfer of resources such as spectrum which 
+are used to render such services are strategic capital transactions and cannot be equated to 
+ordinary revenue activities. The Acquirer has stated that spectrum is basic and essential to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 23 of 28 
+ 
+Fair Competition  
+For Greater Good 
+the activities of a TSP and therefore acquisition of the same should be considered to be in 
+ordinary course of business. It may be noted that all assets are basic and essential to the end 
+business revenue activities and if the logic given by the Acquirer is accepted, it would imply 
+that acquisition of any or all assets by an entity would be in ordinary course of business and 
+eligible to get benefit of exemption under Item 3 of Schedule I of the Combination 
+Regulations. The implication of such logic would be that none of the instances of acquisition 
+of assets would be covered under merger review process which would be inconsistent with 
+the provisions of the Act relating to regulation of combinations.  
+ 
+29. 
+The aforesaid findings are bolstered by considering the accounting treatment of spectrum in 
+the financial statements prepared by the Acquirer and other TSPs. While preparing the 
+financial statements, the results of ordinary activities of a business are depicted in profit and 
+loss account while the position of assets and liabilities is contained in balance sheet. The 
+Acquirer has duly recognized spectrum as an intangible asset i.e., a non-current asset in its 
+balance sheet and not as asset held for sale which would have been reflected as a current 
+asset. Thus, on one hand, representing spectrum as a non-current asset in financial 
+statements, to make a claim that spectrum is held in ordinary course of business is not correct. 
+ 
+30. 
+The Commission further observes that the aforesaid analysis is not impacted by the fact that 
+the “trading” of spectrum has now been allowed with issuance of Spectrum Trading 
+Guidelines and transaction was pursuant to the same. Spectrum was earlier subjected to 
+restrictions as regards sale/transfer but there are other assets of TSPs which are equally 
+significant to carry on the business of provision of telecommunication services and those 
+never had such restrictions and could have been sold/transferred at their will. Going by the 
+rationale given by the Acquirer, sale/transfer of all such assets would also be considered to 
+be in ordinary course of business. The Spectrum Trading Guidelines allow the TSPs to 
+sell/transfer surplus resources and promotes efficiency in operations but does not and cannot 
+alter the nature of a transaction. Spectrum was always a non-current asset whose sale was 
+previously not allowed and now the same has been allowed and this change does not make 
+spectrum trading as an activity in ordinary course of business for a TSP. The conditions for 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 24 of 28 
+ 
+Fair Competition  
+For Greater Good 
+spectrum trading requiring inter alia, intimation to DoT before proposed effective date of 
+trading, compliance of spectrum caps, trading permissible only after two years of acquisition 
+of spectrum through auction, requirement of buyer to fulfil roll-out obligations in the event 
+of acquisition of entire spectrum holding etc., clearly imply that the spectrum transactions 
+are not similar to activities in ordinary course of business which are not subjected to such 
+conditions. 
+ 
+31. 
+The Acquirer has also submitted that the spectrum acquired does not represent substantial 
+business operations. In this regard, it may be noted that the necessary condition to avail 
+exemption under Item 3 of Schedule I is that the acquisition of asset should be in ordinary 
+course of business and in view of the aforesaid discussions where it is observed that spectrum 
+transaction is not in ordinary course of business, the issue of it constituting “substantial 
+business operations” or otherwise becomes otiose. 
+ 
+32. 
+RJIO has stated that narrow interpretation of the Item 3 exemption would make several small 
+spectrum trading deals notifiable and the same would unnecessarily flood the Commission 
+with notifications regarding routine transactions that have no impact on competition. It has 
+already been stated that spectrum is an asset having significant economic/competitive 
+significance and in view of the same, the submissions of RJIO in this regard are not 
+considered as tenable. 
+ 
+33. 
+Apart from the aforesaid key issues, RJIO has made certain submissions on scope of Section 
+43A of the Act, mitigating factors etc. The same have been examined as under. 
+ 
+34. 
+The Acquirer has submitted that Section 43A only provides for imposition of penalty for 
+violations of Section 6(2)(a) and not for violation of Section 6(2A) of the Act. It has been 
+further stated that where the parties have filed a notice under Section 6(2)(a) of the Act and 
+have submitted to the jurisdiction of the Commission, then a penalty cannot be levied under 
+Section 43A of the Act for violation of Section 6(2A) of the Act. 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 25 of 28 
+ 
+Fair Competition  
+For Greater Good 
+35. 
+In this regard, at the outset, it may be noted that in terms of extant Section 6(2) of the Act, 
+the notice should have been filed within 30 days of execution of agreement for acquisition 
+of spectrum. In the instant case, the notice has been filed on the directions of the Commission 
+under Section 20(1) of the Act and at that time the period of 30 days as prescribed under 
+extant Section 6(2) of the Act had already expired and the transaction was already 
+consummated thus implying that RJIO was already in contravention of provisions of Section 
+6(2) of the Act at the time of issue of Section 20(1) Directions. The same fact cannot change 
+by reason of RJIO filing a notice pursuant to Section 20(1) Directions. Thus, considering 
+that RJIO is found to be in violation of Section 6(2) and 6(2A) of the Act,  the submissions 
+that Section 43A only provides for imposition of penalty for violations of Section 6(2)(a) 
+and not for violation of Section 6(2A) of the Act are not considered as relevant. 
+ 
+36. 
+Notwithstanding the aforesaid findings, for the sake of completion, it may be noted that the 
+issue of imposition of penalty for violation of provisions of Section 6(2A) has been examined 
+and settled by the Commission in its earlier decisions in Baxalta Incorporated C-2015-07-
+297 (Order dated 08.03.2016) wherein it has been observed that, 
+ 
+“…the words “proposes” and “proposed” used in sub-section (2) of Section 6 have to be 
+read in the context of sub-section (2A) of Section 6 (which suspends the consummation of 
+the proposed combination for the period stated therein). Accordingly, till the expiry of the 
+210 days from the date of filing of the notice or the Commission has passed an order under 
+Section 31 of the Act, whichever is earlier, a combination should remain a proposed 
+combination and parties to the combination should not give effect to the combination. If the 
+parties to the combination are allowed to give effect to the proposed combination either 
+before filing of the notice with the Commission or after filing of the notice but before the 
+expiry of the period given in sub-section (2A) of Section 6 of the Act, then it will 
+tantamount to violation of sub-section (2) of Section 6 of the Act.” (emphasis added) 
+ 
+37. 
+Further, the erstwhile Hon’ble Competition Appellate Tribunal (“CompAT”), while 
+adjudicating the issue relating to ex-ante nature of notification in the case of SCM Soilfert 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 26 of 28 
+ 
+Fair Competition  
+For Greater Good 
+Limited and Others v. Competition Commission of India, (2016) Comp. L.R. 1111 (“SCM 
+Case”), observed that:  
+ 
+“The ex-ante nature of notification under Section 6(2) is buttressed by a reading of sec. 6(2A) 
+which deliberately used the phrase “no combination shall come into effect” until 210 days from 
+date of notice, or passing of order under Sec. 31.” 
+ 
+38. 
+The principles enshrined in Baxalta Incorporated and SCM Case have been applied by the 
+Commission in certain other cases as well. In view of the aforesaid, the submissions of RJIO are 
+not considered as tenable.   
+ 
+39. 
+The Commission noted the submissions of RJIO that if the Spectrum Transaction were to 
+take place today, the value of turnover derived from RCOM’s ideal spectrum would be de-
+minimis i.e., no revenue can be ascribed to the acquired spectrum as it represents a surplus 
+and unutilized asset for RCOM/RTL. The Commission observed that as the aforesaid issue 
+is not a subject matter of the present proceedings, any determinative findings in this regard 
+are not required and the same may be left open at this stage. 
+ 
+40. 
+The Commission also noted the submissions of RJIO that the parties to a combination are 
+now exempt from filing a notification within 30 days of the execution of the relevant trigger 
+document the Commission. Accordingly, no penalty be levied on RJIO given the change in 
+the regulatory framework. The aforesaid submissions of RJIO are not considered as tenable 
+considering that (i) the regulatory framework applicable at the time of Spectrum Transaction 
+required RJIO to file notice within 30 days of execution of agreements for acquisition of 
+spectrum; and (ii) the Spectrum Transaction has not been notified voluntarily by RJIO but 
+only on the directions of the Commission; and (iii) even the present regulatory framework 
+requires the parties to a combination to file a notice before consummation of a transaction 
+whereas the Spectrum Transaction was consummated before filing of notice.  
+ 
+41. 
+The Commission noted the submissions of RJIO as regards violation of settled principles of 
+natural justice by passing a non-speaking order requiring RJIO to file a notice and not 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 27 of 28 
+ 
+Fair Competition  
+For Greater Good 
+granting RJIO an opportunity for personal hearing. The Commission observed that Section 
+20(1) Directions were based on considering submissions of RJIO dated 12.08.2016 and 
+additional voluntary submissions dated 19.09.2016 and 24.11.2016. Section 20(1) Directions 
+were properly reasoned as regards why the Spectrum Transaction required notification with 
+the Commission. Section 20(1) Directions clearly stated that based on the combined assets 
+and turnover of RJIO and RCOM, the notification thresholds under Section 5(a) of the Act 
+are met and that acquisition of spectrum: (i) is an “acquisition” within the meaning of the 
+Act; and (ii) does not fall under any item under Schedule I to the Combination Regulations. 
+Considering the facts and circumstances of the case and given that RJIO had filed all the 
+information and even made additional submissions, personal hearing was not considered 
+required at that stage. In course of Section 43A proceedings, RJIO was granted personal 
+hearing in accordance with the General Regulations. Thus, there is no violation of natural 
+justice and submissions of RJIO in this regard are not considered as tenable.   
+ 
+42. 
+Based on the aforesaid, it is evident that the Acquirers’ act of acquiring right to use of 
+spectrum of RCOM/RTL without filing a notice with the Commission amounts to 
+contravention of provisions of Section 6(2) of the Act and accordingly attracts penalty under 
+Section 43A of the Act, which reads as under:  
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub section(2) 
+of section 6, the Commission shall impose on such person or enterprise a penalty which may 
+extend to one percent of the total turnover or the assets, whichever is higher, of such a 
+combination.”  
+ 
+43. 
+In terms of Section 43A of the Act, the Commission can levy a maximum penalty of one per 
+cent of the combined value of the worldwide turnover of the Parties. However, the 
+Commission has sufficient discretion to consider the conduct of the Parties and the 
+circumstances of the case to arrive at the appropriate amount of penalty. As regards the 
+instant case, the Commission notes that the Spectrum Transaction was one of the first 
+instances of spectrum trading in India and there was significant uncertainty as regards 
+notification requirement under the Act. In view of the foregoing, the Commission considers 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/06/516) 
+ 
+ 
+Page 28 of 28 
+ 
+Fair Competition  
+For Greater Good 
+it appropriate to impose a nominal penalty of INR 5,00,000/- (INR Five Lakhs only) on the 
+Acquirer. 
+ 
+44. 
+The Acquirer shall pay the penalty within sixty (60) days from the date of receipt of this 
+order. 
+ 
+45. 
+The Secretary is directed to communicate to RJIO accordingly. 
+ 
+ 
+ 
+ 

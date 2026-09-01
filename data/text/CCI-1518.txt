@@ -1,0 +1,485 @@
+ 
+Page 1 of 13 
+ 
+ 
+COMPETITION COMMISSION OF INDIA  
+Ref. No.: M&A/10/2020/01/CD   
+14th January 2025 
+In re: Proceedings against Goldman Sachs (India) Alternative Investment Management 
+Private Limited under Section 43A of the Competition Act, 2002 
+  
+CORAM:   
+ 
+Ms. Ravneet Kaur  
+Chairperson 
+ 
+Mr. Anil Agrawal 
+Member 
+ 
+Ms. Sweta Kakkad 
+Member  
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearances: Mr. Rajshekhar Rao, Senior Advocate; Mr. Harman Singh Sandhu, Mr. Mithun 
+V. Thanks, Ms. Shraddha Suryavanshi, Ms. Raveena Kumari Sethia, Mr. Abhishek Hazari, Ms. 
+Aashna Chawla and Mr. Wamic Wasim Nargal, Advocates; and Mr. Greg Flyn, Mr. Shaswata 
+Dutta, representative of Goldman Sachs.  
+ 
+Order under Section 43A of the Competition Act, 2002  
+ 
+1. This order shall dispose of the proceedings against Goldman Sachs (India) Alternative 
+Investment Management Private Limited (GS AIMPL), the investment manager of Goldman 
+Sachs AIF Scheme-1 (GS AIF) [collectively ‘GS’], under Section 43A of the Competition 
+Act, 2002 (Act) in relation to subscription by GS AIF, acting through GS AIMPL, to 
+optionally convertible debentures (OCDs) issued by Biocon Biologics Limited (Biocon) 
+which, if calculated on the date of the investment, would have converted to 3.81 percent of 
+the entire shareholding of Biocon (on a fully diluted basis) [Transaction].  
+
+  
+                                         
+  
+                                                                                                             Page 2 of 13  
+  
+  
+I. 
+Background 
+ 
+2. The Transaction was given effect pursuant to the execution of a Securities Subscription 
+Agreement and a Shareholders Agreement (SHA) on 7th November 2020 and was closed on 
+9th December 2020.  Pursuant to the Transaction, GS AIF gained certain rights in relation to 
+reserved matters (Reserved Matter Rights) under the SHA and some of such rights were to 
+be exercised with the prior written consent of the Investor Majority (as defined in the SHA) 
+and some of such other rights were to be exercised with the prior written consent of all the 
+Investors (as defined in the SHA). Further, GS AIF gained certain information rights 
+(Information Rights) and access rights (Access Rights) under the SHA. The Information 
+Rights allow GS AIF access to: (a) certified true copies of minutes of 
+board/committee/shareholder meetings with related records after such a meeting has 
+occurred (Minutes Right), and (b) information relating to any direct change in certain 
+shareholdings, access to certified true copies of the latest capitalization table of Biocon, etc. 
+The Access Rights allow GS AIF to access the premises and personnel of Biocon during 
+normal business hours, upon providing a reasonable prior written notice. 
+ 
+3. GS AIF is an investment scheme under the Goldman Sachs India Alternative Investment 
+Trust registered with the Securities and Exchange Board of India (SEBI) under the SEBI 
+(Alternative Investment Funds) Regulations, 2012 (AIF Regulations). As stated, the primary 
+objective of GS AIF is to carry out investment activities which are permissible for a Category 
+II AIF under the AIF Regulations.  
+ 
+4. Biocon is a subsidiary of Biocon Limited. It has research and development centres in 
+Bengaluru and Chennai, with manufacturing facilities in Bengaluru and Malaysia for 
+monoclonal antibodies, recombinant proteins, and insulins.  
+ 
+5. The Commission observed that the Transaction was not notified and was consummated prior 
+to the approval of the Commission. Subsequently, in this regard, a letter dated 4th February 
+2022 was issued under Section 36(4) of the Act to GS for furnishing of information and 
+
+  
+                                         
+  
+                                                                                                             Page 3 of 13  
+  
+  
+documents relating to the Transaction in order to assess whether further proceeding is 
+required under Section 20(1) and/or Section 43A of the Act (First Letter).  
+ 
+6. GS filed its response to the First Letter on 24th February 2022 (First Response). As the 
+information provided in the First Response was incomplete in certain aspects, another letter 
+dated 29th June 2022 was issued to GS (Second Letter) to provide complete information. 
+The response to the Second Letter was filed by GS on 16th August 2022 (Second Response). 
+In addition, GS provided certain additional clarifications regarding the Second Response on 
+21st September 2022 (Clarification) [hereinafter, First Response, Second Response, and 
+Clarification are collectively referred to as the ‘Response’). 
+ 
+II. 
+Initiation of proceedings under Section 43A of the Act 
+ 
+7. In its meeting held on 18th May 2023, the Commission considered the Response and observed 
+that the Minutes Right is a right which is not available to an ordinary shareholder. The 
+Commission noted that such an arrangement in substance may enable the provision of 
+confidential and commercially sensitive information and strategic information of Biocon to 
+GS. The Commission further noted that other rights viz., the Access Rights and Reserved 
+Matter Rights appear to indicate that the Transaction is strategic in nature and not in the 
+ordinary course of business or made solely as an investment. Considering the same, the 
+Commission observed that the Transaction may not be covered under Item 1 of Schedule 1 
+(Item 1 Provision) of the Competition Commission of India (Procedure in regard to the 
+transaction of business relating to combinations) Regulation, 2011 (Combination 
+Regulations) and ought to have been notified in terms of Section 6(2) of the Act. 
+ 
+8. Therefore, the Commission was of the prima facie view that the Transaction was given effect 
+without giving notice to the Commission, thereby leading to contravention of Section 6(2) of 
+the Act. Accordingly, the Commission issued a Show Cause Notice (SCN) under Regulation 
+48 of the Competition Commission of India (General) Regulations, 2009 read with Section 
+43A of the Act to GS on 25th May 2023 directing GS to show cause, in writing, as to why 
+
+  
+                                         
+  
+                                                                                                             Page 4 of 13  
+  
+  
+penalty should not be imposed upon it, in terms of Section 43A of the Act for failure to file 
+notice under Section 6(2) of the Act.  
+ 
+9. GS filed the response to the SCN on 29th June 2023 after seeking an extension of time, along 
+with a request for an oral hearing in the matter (Response to SCN). 
+ 
+10. The Commission heard GS at length on 23rd July 2024 and, after considering the request of 
+GS, granted liberty to GS to furnish written arguments/ submissions latest by 30th July 2024. 
+Accordingly, GS submitted written arguments on 30th July 2024.  
+ 
+III. 
+Submissions of GS 
+ 
+Transaction was solely as an investment 
+ 
+11. Transaction was solely for investment purposes and in GS AIF’s ordinary course of business, 
+with the objective of obtaining a return on its investment without any underlying strategic 
+intent towards participating in the affairs and management of Biocon Biologics and therefore, 
+it benefitted from Item 1 Provision.  
+ 
+12.  Item 1 Provision provides an exemption for minority acquisitions, if all the following 
+conditions are satisfied:  
+ 
+Condition 1: The acquisition does not entitle the acquirer to hold 25% or more of the total 
+shares (on a fully diluted basis) or voting rights of the target enterprise, whether directly or 
+indirectly (Shareholding Condition); and  
+Condition 2: The acquisition does not lead to an acquisition of control (including negative or 
+joint control), voting arrangements, de facto control, or otherwise (Control Condition); and  
+Condition 3: The acquisition is solely as an investment (SIP Condition) or in the ordinary 
+course of business of the acquirer (OCB Condition). 
+ 
+
+  
+                                         
+  
+                                                                                                             Page 5 of 13  
+  
+  
+13. Further, it was stated that the explanation to the Item 1 Provision clarifies that the acquisition 
+of less than 10% of total shares/voting rights shall be treated as being “solely as an 
+investment” if the acquirer: (a) has the ability to exercise only such rights that are exercisable 
+by the ordinary shareholders of the enterprise whose shares or voting rights are being 
+acquired to the extent of their respective shareholding (Rights Condition), (b) is not a 
+member of the board of directors of the target nor has the right to nominate such members in 
+future (Board Condition), and (c) does not intend to participate in the management or affairs 
+of the target (Participation Condition) [collectively, the Explanation].  
+ 
+14. In this backdrop, it was stated that: 
+ 
+i. 
+the Transaction satisfied the Shareholding Condition as the shareholding underlying 
+the OCDs amount to less than 10 percent of the share capital of Biocon. 
+ii. 
+the Transaction satisfied the Control Condition as the limited rights acquired by GS 
+AIF, as a shareholder, under the SHA, do not confer any “control” or “material 
+influence” on the day-to-day management, or affairs, of Biocon and that the rights 
+held by GS AIF are merely in the nature of minority shareholder investment 
+protection rights. 
+iii. 
+the Transaction satisfied the SIP Condition in terms of the Explanation. As submitted, 
+GS AIF acquired less than 10% of Biocon and the acquisition did not involve any 
+right to appoint (or any right to nominate in the future) a member/observer on the 
+board of directors of Biocon Biologics. Further, GS AIF had no intention to 
+participate, and has not participated in the management or affairs of Biocon 
+Biologics. Therefore, the Board Condition and the Participation Condition have been 
+met. As regards the Rights Condition, further submissions were made as detailed 
+hereunder. 
+ 
+15. The Rights Condition states that acquisition is deemed as solely as an investment if the 
+acquirer “has ability to exercise only such rights that are exercisable by the ordinary 
+shareholders of the enterprise whose shares or voting rights are being acquired to the extent 
+of their respective shareholding”. In this regard, it is stated that these rights have to be viewed 
+
+  
+                                         
+  
+                                                                                                             Page 6 of 13  
+  
+  
+in the context of existing rights in the relevant enterprise i.e., the target under consideration, 
+and cannot be equated with rights available to ordinary shareholders in a listed company. 
+With this perspective, it has been submitted that at the time of the Transaction, there were 
+only three types of shareholders/stakeholders in Biocon viz., promoters, Investors, and 
+individuals. Accordingly, Biocon did not have any ‘ordinary’ shareholders per se as 
+understood in the context of say, a public listed company. Further, it has been stated that the 
+Minutes Right and the Access Right are available to all of the Investors in Biocon Biologics 
+and not just to GS AIF and that these rights existed for  other investors in Biocon Biologics 
+prior to the Transaction and continued to exist post the Transaction and these were granted 
+to GS AIF simply as a result of these rights being available to the other investors. 
+ 
+Broader Item 1 Provision applies to the Transaction 
+ 
+16. As submitted, if the Explanation is not available, the broader Item 1 Provision would still 
+apply to the facts at hand. In this regard, a reference was also made to the Frequently Asked 
+Questions (FAQs) published by the Commission in September 2022 which note: 
+“Explanation to Item 1 provides that the acquisition of less than 10% of the total shares or 
+voting rights of an enterprise shall be treated solely as an investment if certain conditions 
+are satisfied. However, it does not presume the opposite, i.e., the explanation does not 
+presume that acquisition in excess of 10% of share capital of any target cannot qualify solely 
+as an investment…” (emphasis added). 
+ 
+Existence of minority investor protection rights cannot affect the availability of the benefit of 
+Item 1 Provision 
+ 
+17. As submitted, the availability of minority investment protection rights cannot take away the 
+benefit of the Item 1 Exemption. As stated, limiting the benefit of Item 1 Provision would 
+lead to drastic results and be antithetical to the established practice of the Commission and 
+its jurisprudence. The same would be onerous and contrary to the ease of doing business as 
+a shareholder/investor who is investing hundreds and is simply getting rights which allow it 
+to protect its minority investment (without any control or material influence on the day-to-
+
+  
+                                         
+  
+                                                                                                             Page 7 of 13  
+  
+  
+day or material functioning of the target) has to notify and seek a prior approval. The same 
+would be against the intention of the Commission in framing the Combination Regulations 
+as the statutory rights are the baseline of rights which could be available to a shareholder, 
+and it follows that a minority investor investing a certain high quantum of money would 
+naturally have certain proportionate rights to protect any value depletion. Further, as stated, 
+given the suspensory nature of the merger control regime in India, it will add significantly to 
+the administrative costs of transactions (including but not limited to costs of the filing, legal 
+and financing costs involved and time cost of obtaining approvals) without any strong 
+economic rationale or theory of harm being explained or guidance provided.  
+ 
+Decisional Practice 
+ 
+18. GS has made a reference to the Commission’s decisional practice and stated that the 
+Commission had not penalised any investor for investing via OCDs with such rights (where 
+the right to appoint a board member/observer has also not been granted) and that the 
+Commission has interpreted “solely as an investment”, as a passive investment where the 
+investor does not intend to be involved in the formulation or determination of the day-to-day 
+business decisions of the target. 
+ 
+Safeguards to prevent exchange of confidential information 
+ 
+19. It has been stated that any investor/lender will need access to certain commercially sensitive 
+information to evaluate whether funds being invested in a company are being utilized as per 
+the agreed upon commercial purposes and to ensure their invested capital is otherwise 
+protected. Therefore, like every other Investor, GS AIF would also need access to certain 
+financial information of Biocon to periodically assess the valuation of the debt/investment as 
+well as the proposed utilization of the funds being provided by GS AIF to Biocon. However, 
+in this regard, it has been stated that GS AIF is in the business of investing in accordance 
+with a defined investment policy for the benefit of its investors and in addition to the general 
+confidentiality obligations applicable to GS AIF under the AIF Regulations by virtue of being 
+a registered AIF, GS AIF is also bound by confidentiality provisions under the SHA.  
+
+  
+                                         
+  
+                                                                                                             Page 8 of 13  
+  
+  
+20. Further reference has been made to the arrangement agreed as per the SHA. As submitted, 
+the SHA specifically states that during the term of the SHA and for a period of three years 
+thereafter, recipients of the information may not use confidential information for a purpose 
+other than the performance of its obligations under the agreement or another transaction 
+document, may not disclose confidential information to a person (except with prior written 
+consent) and must make every reasonable effort to prevent the misuse or unauthorized 
+disclosure of confidential information.  
+ 
+21. It has been stated that the intent of the Commission is to address the issue of common 
+minority shareholdings in competing enterprises or vertical enterprises primarily due to 
+concerns of information sharing and the likelihood of collusion between such enterprises. 
+However, in the current fact pattern, while an Investor is allowed to disclose confidential 
+information to its affiliates, the definition of affiliates (as per the SHA) specifically excludes 
+any portfolio company or entity in which the said Investor holds an investment. In this 
+backdrop, it has been stated that GS AIF is specifically barred from sharing any confidential 
+information of Biocon with its other portfolio companies. Further, it has been clarified that 
+at the time of the closing of the Transaction, GS AIF did not directly or indirectly have 
+investments in any company in India that was engaged in the same or a similar line of 
+business as Biocon.  
+ 
+Transaction is made in ordinary course of business 
+ 
+22. Apart from submissions on the Transaction being solely as an investment, it has been stated 
+that the Transaction also satisfies the test of being in ordinary course of business. Referring 
+to the Commission’s practice and FAQs, it has been stated that the term “ordinary course of 
+business” is meant to refer to transactions which are “frequent, routine and usual”. In the 
+context of the Transaction, it has been stated that: (a) GS AIF routinely provides funding to 
+numerous companies in India; (b) making investments where a good opportunity to generate 
+return arises, is in the ordinary course of business for GS AIF; (c) such arrangements are 
+frequent and repetitive for GS AIF; (d) the activities undertaken by Biocon do not correlate 
+with the core business operations or activities of GS AIF; and (e) Biocon Biologics has raised 
+
+  
+                                         
+  
+                                                                                                             Page 9 of 13  
+  
+  
+money from several similarly situated lenders/investors, each of whom has a similar set of 
+rights as GS AIF, seeing an opportunity to generate a return from their investment in the 
+company. Accordingly, it has been submitted that the Transaction qualifies for being an 
+ordinary course of business transaction as well. 
+ 
+23. Notwithstanding the aforesaid submissions, GS submitted that if the Commission still 
+considers that in order to alleviate its concerns and for it to close the present case without 
+penalty, it would need GS AIF to undertake to give up and not exercise the Minutes Right 
+and Access Right of the SHA, then GS AIF gives such an undertaking. 
+ 
+IV. 
+Observations and Findings of the Commission 
+ 
+24. First and foremost, it may be noted that the Act defines shares as, “…shares in the share 
+capital of a company carrying voting rights and includes— (i) any security which entitles the 
+holder to receive shares with voting rights; (ii) stock except where a distinction between 
+stock and share is expressed or implied;” Thus, the convertible securities constitute shares 
+and are treated accordingly. Thus, before going into the specific submissions of GS on the 
+aspect of notification of Transaction, it is clarified that there is no separate framework for 
+OCDs and thus the fact that GS has acquired OCDs is irrelevant to assessment. 
+ 
+25. The issue of whether the Transaction was required to be notified or not is primarily the 
+subject matter of Item 1 Provision. As stated above, the applicability of Item I Provision 
+requires a transaction to satisfy the Shareholding Condition and Control Condition and SIP 
+Condition or OCB Condition. In this regard, given the information on record and 
+observations in the SCN, the Transaction satisfies the Shareholding Condition and Control 
+Condition and those aspects do not require any assessment or findings. The key aspect 
+relevant for determining the notification requirement of the Transaction is the SIP Condition 
+and OCB Condition and thus, the Transaction has been assessed accordingly. 
+ 
+ 
+ 
+
+  
+                                         
+  
+                                                                                                             Page 10 of 13  
+  
+  
+Whether the Transaction satisfies the SIP Condition? 
+ 
+ 
+ 
+26. In this regard, GS has firstly made submissions on the construct of Transaction in terms of 
+various conditions provided in the Explanation and on applicability of Item 1 Provision even 
+if the Explanation is not available.  
+ 
+27. In this regard, the Commission observed that Item 1 Provision is always applied holistically. 
+If the Explanation were to be considered disjointed with the broader Item 1 Provision, then 
+there was no need for any analysis to conclude that the Transaction does not satisfy SIP 
+Condition. The rights forming part of the subject matter definitely go beyond the rights of 
+ordinary shareholders and therefore the very fact that these rights are being examined for 
+being consistent with the SIP Condition exemplifies that the Commission considers Item 1 
+Provision holistically. The nature of rights acquired is indeed relevant to determination of 
+need for a transaction to be notified or not and this assessment of nature of right harmonises 
+the overall Item 1 Provision including the Explanation as the focus is the assessment of any 
+transaction being strategic or not.  
+ 
+28. Another issue which has been raised by GS is that the Rights Condition needs to be applied 
+in the context of existing rights of investors in the relevant enterprise i.e., the target under 
+consideration and cannot be equated with rights available to ordinary shareholders in a listed 
+company. The interpretation of Rights Condition as given by GS is not tenable as the same 
+potentially implies that if any enterprise grants control conferring rights/strategic rights to a 
+class or classes of investors, the same should be considered as ordinary rights not considering 
+the nature of rights but only because these rights have been granted to all investors or a sub-
+set of investors. Item 1 Provision is premised on ensuring assessment of transactions where 
+an investor acquires rights which can potentially have impact on competition or operational 
+dynamics of the target and therefore the only relevant aspect is the nature or substance of the 
+underlying ‘right’. In this backdrop of overall Item 1 Provision including the Explanation 
+and the relevant yardstick for evaluation of rights of ordinary shareholders, the Transaction 
+has been assessed for its compliance with Item 1 Provision. 
+ 
+
+  
+                                         
+  
+                                                                                                             Page 11 of 13  
+  
+  
+29. The Commission observed that Minutes Right and Access Right goes beyond the rights of 
+ordinary shareholders both in terms of form and substance. With access to Minutes Right, 
+GS AIF gains privileged access to all commercially sensitive information discussed and 
+deliberated upon during the Board meetings of Biocon. This information could include 
+strategic plans, financial data, proprietary technology, business forecasts, and other 
+confidential matters crucial to the competitive advantage and market position of the entities 
+involved. In form, such access is not allowed to the ‘ordinary shareholders’ and in substance, 
+such access is indicative of GS considering the Transaction as strategic. Further, while GS 
+has made a reference to the Commission’s decisional practice and stated that the Commission 
+had not penalised any investor for investing with such rights (where the right to appoint a 
+board member/observer has also not been granted), it is important to note that Minutes Right 
+also confers potential access to commercially sensitive information which, inter alia, is the 
+substantive underlying concern of Item 1 Provision.  
+ 
+30. The Commission also considered submissions of GS AIF on the safeguards to prevent the 
+exchange of any confidential information obtained with regard to both the AIF Regulations 
+in general and the SHA. In this regard, it is important to note that the key issue here is the 
+notifiability of a transaction, and notifiability criteria have to be objective and cannot be 
+applied considering the specificities of the legal framework applicable to a set of firms or 
+their inter se arrangements. Such specificities may be relevant to the assessment of a 
+transaction but not the notifiability and therefore the submissions on safeguards are not 
+relevant to the proceedings. 
+ 
+Whether the Transaction satisfies the OCB Condition? 
+ 
+31. GS has submitted that the Transaction also satisfies the test of being in ordinary course of 
+business considering that the activities of GS AIF of providing funding, making investments 
+etc. are “frequent, routine and usual”. In this regard, it may be noted that in context of 
+transactions involving shares, the real test for determination of the activity being “frequent, 
+routine and usual” is whether a transaction has been done solely with the intent to get 
+
+  
+                                         
+  
+                                                                                                             Page 12 of 13  
+  
+  
+benefited from short term price movement of securities. All these issues need to be 
+considered in light of the facts of a transaction.  
+ 
+32. Considering the facts of the impugned Transaction, the Commission observed that GS 
+acquired OCDs in 2020 and the final maturity date was fixed as 9th January 2026 which 
+implies a significant holding period. Further, GS AIF had a right to convert the OCDs into 
+equity shares at any time prior to the final maturity date (Conversion Right). The acquisition 
+of Conversion Right allows GS to weigh whether to exit the Target on final maturity date or 
+to convert the debentures into shares and stay invested. Furthermore, GS acquired certain 
+Reserved Matter Rights, Information Rights, etc. All these aspects of the Transaction point 
+to the fact that the Transaction has not been made with an intent of benefiting from short 
+term price movements. The “frequent, routine and usual” test for the ordinary course of 
+business transactions is not limited to the execution of transactions but also weighs the 
+intended span or time period of investment and the agreed role as an investor. The ordinary 
+course of business transactions are the transactions where the intended/actual span of 
+investment is short, and the role of an investor is limited to that of an ordinary shareholder 
+and the investor shall have no rights at all apart from beneficial rights attached to shares and 
+voting rights. Any transaction which is made with the intent of remaining invested for a 
+relatively longer period and involves the acquisition of any additional rights (compared to 
+the rights of an ordinary shareholder) cannot be considered as in ordinary course of business. 
+The competition dynamics are influenced by the substance of arrangements between the 
+parties and not the form of their organization. The regulatory framework is agnostic to the 
+form of an organization and therefore the same is applicable to all enterprises in equal 
+measure.  
+  
+33. Basis the aforesaid, the Commission is of the opinion that the Transaction was notifiable and 
+by consummating the same without filing a notice under Section 6(2) of the Act, GS is liable 
+to penalty under Section 43A of the Act. Section 43A of the Act provides that if any person 
+or enterprise fails to give notice to the Commission under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may extend to 1% of 
+the total turnover or the assets, whichever is higher, of such a combination. Thus, Section 
+
+  
+                                         
+  
+                                                                                                             Page 13 of 13  
+  
+  
+43A of the Act empowers the Commission to determine the appropriate amount of penalty 
+in a matter, subject to the maximum of 1% of the total turnover or the assets, whichever is 
+higher.  
+ 
+34. Considering the facts and circumstances of the instant matter, the conduct of GS during the 
+proceedings, the Commission considers it appropriate to impose a penalty of INR 40,00,000 
+(Rupees Forty Lakhs Only) on GS, which is directed to pay the penalty within 60 days from 
+the date of receipt of this order.  
+ 
+35. It is made clear that nothing used in this order shall be deemed to be confidential or deemed 
+to have been granted confidentiality, as the same has been used for the purposes of the Act 
+in terms of the provisions contained in Section 57 thereof. 
+ 
+36. The Secretary is directed to communicate to GS accordingly.  
+ 
+ 
+ 

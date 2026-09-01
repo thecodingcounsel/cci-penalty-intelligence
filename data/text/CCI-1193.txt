@@ -1,0 +1,613 @@
+ 
+ Page 1 of 15 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+15th July 2022 
+ 
+Proceedings against SABIC International Holdings B.V. under Section 43A of the 
+Competition Act, 2002 
+ 
+CORAM:  
+ 
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing  
+For SABIC International 
+Holdings B.V.: 
+Mr. Rajshekhar Rao, Senior Advocate with Ms. Yamini 
+Mookherjee, Mr. Rahul Rai, Mr. Gaurav Bansal, Mr. 
+Nitin Nair, Ms. Shruthi Rao, Advocates along with Mr. 
+Paolo Vacca, representative of SABIC International 
+Holdings B.V. 
+ 
+ 
+ORDER UNDER SECTION 43A OF THE COMPETITION ACT, 2002 
+ 
+This Order shall govern the disposal of the proceedings initiated against SABIC 
+International Holdings B.V. (‘SABIC B.V.’/‘Acquirer’) under Section 43A of the 
+Competition Act, 2002 (‘Act’) in relation to its acquisition of equity stake amounting to 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 15 
+ 
+24.99% in Clariant AG (‘Clariant’/‘Target’) (‘First Acquisition’/‘Share Purchase 
+Transaction’). 
+ 
+2. 
+On 29th May 2020, the Competition Commission of India (‘Commission’) received a 
+Notice under Section 6(2) of the Competition Act, 2002 (‘Act’), in Form I of Schedule II 
+of the Competition Commission of India (Procedure in regard to the transaction of 
+business relating to combinations) Regulation, 2011 (‘Combination Regulations’), given 
+by SABIC B.V., a wholly owned affiliate of Saudi Basic Industries Corporation 
+(‘SABIC’), [Hereinafter, SABIC and SABIC B.V. are used interchangeably]. The Notice 
+was given pursuant to a board resolution passed by the Acquirer for acquisition of an 
+additional 6.51% shareholding of the Target, through a series of open market purchases 
+on the SIX Swiss Exchange and via electronic trading platforms (‘Combination’/‘Second 
+Acquisition’). As per the information provided in the Notice, it was observed that the 
+Combination was preceded by the First Acquisition, which was not notified to the 
+Commission under Section 6(2) of the Act.  
+ 
+A. Background 
+ 
+3. 
+The First Acquisition was given effect pursuant to the execution of a Share Purchase 
+Agreement (‘SPA’) between the Acquirer and White Tale Holdings (‘Seller’) in January 
+2018. The First Acquisition was closed and brought into effect on 17th September 2018. 
+In the Notice filed in case of Second Acquisition, the Acquirer had submitted that it 
+currently held a 24.99% stake in Clariant. 
+ 
+4. 
+The Acquirer executed a Governance Agreement (‘GA’) with the Target on 17th 
+September 2018, wherein it was vested, inter alia, with the right to nominate up to four 
+persons for election as directors on the board of the Target. 
+ 
+5. 
+SABIC B.V. notified the First Acquisition in a number of international jurisdictions (such 
+as Austria, Brazil, Canada, Germany, Japan, Mexico, Pakistan and South Korea). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 15 
+ 
+6. 
+In terms of Regulation 14 of the Combination Regulations, two letters dated 22nd June 
+2020 and 5th August 2020 were issued to the Acquirer (‘RFIs’) wherein it was inter alia 
+asked to clarify when the First Acquisition took place and the rationale for not notifying 
+the same in India. In this regard, the Acquirer, vide responses to the RFIs dated 17th July 
+2020, 14th August 2020 and 21st August 2020, along with voluntary submissions dated 
+17th June 2020 and 22nd June 2020, inter alia, submitted that the First Acquisition did not 
+require notification to the Commission as it satisfied Item 1 of Schedule I of the 
+Combination Regulations (‘Item 1 Provision’). 
+ 
+7. 
+The Commission approved the Second Acquisition vide its order passed under Section 
+31(1) of the Act on 2nd September 2020 (‘Order’), upon competition assessment of the 
+business activities of the parties and after arriving at the opinion that the Combination is 
+not likely to cause any appreciable adverse effect on competition (‘AAEC’) in India, 
+without prejudice to the proceedings under Section 43A of the Act. 
+ 
+B.  Initiation of proceedings under Section 43A of the Act 
+ 
+8. 
+The Commission, in its meeting held on 4th August 2020, considered the issue of 
+consummation of the First Acquisition without filing a notice to the Commission. The 
+Commission considered the terms of the SPA, the timelines of the First Acquisition and 
+the timelines and terms of the GA and the press release issued by SABIC. Based on the 
+information on record, the Commission, inter alia, observed that the First Acquisition was 
+made by the Acquirer with a strategic intent and purpose to participate in the management 
+and affairs of the Target and it could not be considered ‘Solely as an Investment’ or 
+‘Ordinary Course of Business’. Accordingly, the First Acquisition was not covered under 
+Item 1 Provision. Considering the foregoing, the Commission was of the prima facie 
+opinion that First Acquisition was in contravention of sub-section (2) and (2A) of Section 
+6 of the Act as the same was given effect to without giving notice to the Commission. 
+Accordingly, the Commission issued show cause notice (‘SCN’) under Regulation 48 of 
+the Competition Commission of India (General Regulations), 2009 read with Section 43A 
+of the Act on 18th August 2020. The Acquirer filed its response to the SCN on 14th October 
+2020, after seeking an extension of time (‘Response to SCN’). 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 15 
+ 
+ 
+9. 
+In its meeting held on 10th January 2022, the Commission considered the Response to 
+SCN and decided to grant an oral hearing to the Acquirer on 1st February 2022. However, 
+vide communication dated 24th January 2022, the Acquirer requested to reschedule the 
+date of the oral hearing. The Commission accepted the request and postponed the date of 
+hearing to 22nd February 2022. Subsequently, through applications dated 9th February 
+2022 and 21st February 2022, the Acquirer sought further adjournment of the oral hearing. 
+On 22nd February 2022, the Learned Counsel for SABIC appeared before the Commission 
+and pressed for adjournment of the hearing to 24th February 2022. Accordingly, the 
+Acquirer was heard on 24th February 2022.  
+ 
+C. Submissions of the Acquirer 
+ 
+10. 
+In the Response to the SCN, the Acquirer contended the following: 
+ 
+I. 
+Inapplicability of jurisdiction under Section 32 of the Act in issuing the SCN 
+ 
+11. 
+The Commission did not have the jurisdiction to issue SCN, as the First Acquisition was 
+entered into between two offshore parties, i.e., SABIC B.V., incorporated in the 
+Netherlands, and White Tale Holdings (including all its consortium members), 
+incorporated in the USA and, separately, the GA was also executed between two offshore 
+parties, i.e., SABIC B.V. and Clariant. In terms of Section 32 of the Act, while the 
+Commission is empowered to examine offshore transactions, this can be done only if such 
+a combination has or is likely to have an AAEC in the relevant market in India. 
+ 
+12. 
+The Acquirer submitted that a combined reading of Sections 5 and 6 together with Section 
+32 of the Act suggests that a transaction between two or more offshore enterprises which 
+takes place outside of India should (i) meet the prescribed asset and turnover value 
+thresholds under Section 5 of the Competition Act and (ii) the Commission is empowered 
+to apply the scheme of Act to a purely offshore transaction if such combination has or is 
+likely to cause AAEC in any relevant market in India.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 15 
+ 
+13. 
+Thus, the Commission is required to apply the provisions of the Act to offshore 
+combinations by taking into consideration: (i) jurisdictional thresholds prescribed under 
+Section 5 (i.e., does the combination meet the statutory thresholds) and; (ii) the scheme 
+of Section 32 (i.e., whether an offshore transaction would potentially cause AAEC in any 
+relevant market in India), as any other interpretation would render Section 32 of the Act, 
+which specifically extends to combinations taking place outside India, redundant. 
+ 
+II. 
+No evidence adduced for proving the Acquirer’s control over Clariant as a result 
+of either of the two transactions 
+ 
+14. 
+The Acquirer submitted that the First Acquisition did not result in acquisition of control 
+by Acquirer over Clariant. A minority shareholding of 24.99% does not confer on the 
+Acquirer, under the applicable Swiss laws, any voting rights that could lead to control 
+over the management and affairs of the target, either by way of positive control or negative 
+control (including by way of the ability to block a special resolution).  
+ 
+15. 
+Further, the GA does not give the Acquirer the ability to influence the strategic matters of 
+Clariant or indeed Clariant’s Indian subsidiaries. Both Clariant and one of its Indian 
+subsidiary, namely, Clariant Chemicals India Limited, are listed entities in their respective 
+jurisdictions and therefore, bound to be governed by the applicable corporate governance 
+regulations. 
+ 
+III. 
+Incorrectly conflated the First Acquisition and the GA 
+ 
+16. 
+The Acquirer submitted that there was a lack of simultaneity as the SPA for the First 
+Acquisition was executed between the Acquirer and the Seller in January 2018, while the 
+GA was executed in September 2018. Further, the First Acquisition was not conditional 
+upon the execution of the GA. In fact, the SPA was negotiated and entered into between 
+SABIC B.V. and the Seller, whereas the GA was entered into between SABIC B.V. and 
+Clariant. The negotiation of the SPA was independent of the GA and was carried out 
+between a completely different set of parties. At the time of executing the SPA for the 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 15 
+ 
+First Acquisition, SABIC B.V. had no certainty on whether the GA would materialize 
+with Clariant. 
+ 
+IV. 
+Applying the wrong legal test to assess whether the Minority Acquisition Exemption 
+(‘MAE’) applies 
+ 
+17. 
+As per the Commission’s decisional practice on the treatment of control, invariably, the 
+following factors have been considered: the entire bundle of rights, including veto rights, 
+secured by the Acquirer, and their bearing on the strategic commercial decisions of the 
+target enterprise; or, in case of standalone right to appoint directors without any veto 
+rights, the Commission has assessed whether such investment was coupled with a strategic 
+commercial agreement that allowed the nominee directors to undertake strategic 
+commercial decision. In other words, the standalone right to nominate a director without 
+any corresponding veto rights or a strategic commercial agreement, has not been 
+considered by the Commission as resulting in acquisition of control. 
+ 
+18. 
+That in the absence of any veto rights or other contractual rights, such a minority 
+representation on the board in and of itself would not make the transaction strategic, as it 
+does not confer SABIC with the right to make any operational or management decisions 
+of Clariant. Such a minority representation on the board was always intended to allow 
+SABIC to raise its concerns as a minority shareholder in an appropriate and constructive 
+manner if Clariant’s management or Board were to take any decision which could have 
+eroded the value of investment made by SABIC. 
+ 
+19. 
+The Acquirer has also submitted that, in arriving at its conclusion, the SCN has relied on 
+the Press Release rather than the legally binding agreements that crystallize the 
+commercial understanding and intent between SABIC and Clariant. In doing so, the SCN 
+has failed to appreciate that the Parties’ intent, absent any allegations of collusion or fraud, 
+can be appropriately gauged only through binding agreements between them and not 
+through post-agreement press releases intended for other commercial purposes. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 15 
+ 
+20. 
+In addition, the Acquirer has submitted that the SCN prima facie appears to be arbitrary 
+since it does not: (i) examine the background to the First Acquisition; (ii) examine the 
+definitive documents (such as the SPA) to the 2018 First Acquisition or the separately 
+executed GA before coming to its erroneous conclusion; (iii) follow the Commission’s 
+own decisional practice; and (iv) apply the applicable provisions of the Competition Act 
+read with the Combination Regulations to the First Acquisition. Instead, the SCN cherry-
+picks certain facts to fit its conclusion that the First Acquisition and the GA together 
+required a notification to the Commission under the Act. 
+ 
+D. Analysis of the submissions of the Acquirer 
+ 
+21. 
+The core issue in the instant case is whether the First Acquisition was covered under the 
+Item 1 Provision and accordingly, was eligible for not filing the notice under sub-section 
+(2) of Section 6 of the Act normally. In the subsequent section, the Commission has 
+considered and determined on all the submissions of the Acquirer, including those on the 
+core issue and other submissions of the Acquirer. 
+ 
+I. 
+Jurisdiction under Section 32 of the Act 
+ 
+22. 
+The Acquirer has contended that the First Acquisition was a purely offshore transaction 
+and was therefore not required to be notified in India, as per the provisions of the Act. In 
+this regard, it would be appropriate to first understand how the merger review regime 
+functions under competition law in India. As per the Act, the regulatory regime for 
+notification of combinations in India is mandatory. The mergers and acquisition (‘M&A’) 
+transactions which are required to be notified cover instances of acquisition of shares, 
+voting rights, control or assets. Further, the Act prescribes thresholds in terms of values 
+of assets and turnover in India under Section 5, and the transactions which meet the same 
+are considered combinations for the purposes of the Act.  
+ 
+23. 
+The aforesaid thresholds contained in Section 5 of the Act thus determines those 
+transactions which are to be notified as combination, and the Commission has the power 
+to inquire if such combination has caused or is likely cause AAEC in the relevant market 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 15 
+ 
+in India which, in turn, is a result of an assessment undertaken by the Commission, and 
+the same can be done only once the transaction is notified, i.e., AAEC is not a pre-
+condition for notification. If any transaction is an acquisition in terms of Section 5 of the 
+Act, which is not eligible for any benefit either under Section 54 of the Act or Schedule I 
+of the Combination Regulations, it is notifiable to the Commission under Sector 6(2) of 
+the Act, irrespective of its likely effects on competition in India.  
+ 
+24. 
+In this context, the submissions of the Acquirer that for offshore transactions, meeting of 
+thresholds is not enough and likelihood of AAEC should be first seen for applying the 
+scheme of the Act, is circular in nature. The entire regulatory framework of the 
+Competition Act, 2002 relating to combinations contained under Sections 6, 20 and 32 
+also refer to combinations in terms of causing AAEC or likelihood of AAEC in context 
+of assessment of such combinations, but what constitutes a combination is defined only 
+in Section 5 of the Act and applied in a uniform manner to all instances of combinations. 
+Therefore, once the thresholds prescribed under Section 5 are met, the Commission in 
+terms of Section 32 of the Act can inquire into combinations taking place outside India, 
+which will or are likely to cause AAEC in India, with the residential status of the parties 
+to the combination being immaterial. Thus, in the instant case, the fact that the country of 
+incorporation of the parties to the SPA and GA, i.e., the Acquirer, Seller and Target, was 
+outside India does not preclude the Commission from inquiring and then issuing an SCN 
+for ascertaining the likelihood of AAEC in India. Moreover, this contention of the 
+Acquirer is self-contradictory as it has itself notified the Second Acquisition to the 
+Commission even though the residential status of the parties to the combination has 
+remained unchanged. Based on the aforesaid, the submissions of the Acquirer on the effect 
+of Section 32 of the Act are not considered tenable.  
+ 
+II. 
+Whether the First Acquisition is covered under Item 1 Provision  
+ 
+25. 
+The Item 1 Provision reads as follows: 
+ 
+“An acquisition of shares or voting rights, referred to in sub-clause (i) or sub-clause 
+(ii) of clause (a) of section 5 of the Act, solely as an investment or in the ordinary 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 15 
+ 
+course of business in so far as the total shares or voting rights held by the acquirer 
+directly or indirectly, [does not entitle the acquirer to hold twenty five per cent 
+(25%) or more] of the total shares or voting rights of the company, of which shares 
+or voting rights are being acquired, directly or indirectly or in accordance with the 
+execution of any document including a shareholders agreement or articles of 
+association, not leading to acquisition of control of the enterprise whose shares or 
+voting rights are being acquired.  
+ 
+[Explanation:- The acquisition of less than ten per cent of the total shares or voting 
+rights of an enterprise shall be treated as solely as an investment: Provided that in 
+relation to the said acquisition,- 
+ 
+(A) the Acquirer has ability to exercise only such rights that are exercisable by the 
+ordinary shareholders of the enterprise whose shares or voting rights are being 
+acquired to the extent of their respective shareholding; and 
+ 
+(B) the Acquirer is not a member of the board of directors of the enterprise whose 
+shares or voting rights are being acquired and does not have a right or intention to 
+nominate a director on the board of directors of the enterprise whose shares or 
+voting rights are being acquired and does not intend to participate in the affairs or 
+management of the enterprise whose shares or voting rights are being acquired.]” 
+ 
+26. 
+Further, as per Regulation 4 of the Combination Regulations,  
+ 
+“…categories of combinations mentioned in Schedule I are ordinarily not likely to 
+cause an appreciable adverse effect on competition in India, notice under sub-
+section (2) of section 6 of the Act need not normally be filed”.  
+ 
+27. 
+From the reading of the Item 1 Provision, it is clear that this provision is not applicable to 
+instances where there has been an acquisition of control, as the same categorically applies 
+to instances of acquisition of shares or voting rights not leading to acquisition of control. 
+The benefit of Item 1 Provision has been normally provided to the acquisition of 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 15 
+ 
+shareholding or voting rights less than 25% and which are in the ‘ordinary course of 
+business’ or ‘solely as an investment’. The objective of this provision is to distinguish 
+between instances of ordinary shareholding and strategic shareholding, falling short of 
+position of acquisition of control.  
+ 
+28. 
+Thus, even though the SCN raises the issue of acquisition of control, the primary issue 
+relevant for determination of notifiability of the First Acquisition is whether the First 
+Acquisition was in ‘ordinary course of business’ or ‘solely as an investment’ or not. 
+Hence, the issue of notifiability of First Acquisition is settled in terms of applicability of 
+Item 1 Provision in this case. Even if one of the three conditions prescribed under this 
+item is not satisfied, the benefit of Item 1 Provision is not available. Accordingly, the 
+Commission observed that the question of acquisition of control is irrelevant to the 
+primary issue. 
+ 
+29. 
+SABIC on its part has submitted that, in the absence of any veto rights or other contractual 
+rights, such a minority representation on the board in and of itself would not make the 
+transaction strategic, as it does not confer SABIC with the right to make any operational 
+or management decisions of Clariant, and that such a minority representation on the board 
+was always intended to allow SABIC to raise its concerns as a minority shareholder in an 
+appropriate and constructive manner if Clariant’s management or board were to take any 
+decision which could have eroded the value of investment made by SABIC.  
+ 
+30. 
+In this regard, it would be appropriate to highlight that, often, the competitive dynamics 
+are not influenced only by active decisions; rather, a broad understanding or awareness of 
+the competitively sensitive information is sufficient to lead to coordinated outcomes, 
+frustrating the process of competition. Therefore, it will be contextual to consider the 
+conditions prescribed by way of provisos to the explanation of Item 1 Provision, which 
+are aimed to allow the Commission to assess the minority acquisitions that are likely to 
+cause any harm to competition. 
+ 
+31. 
+Firstly, considering proviso (B) to explanation of Item 1 Provision, it is noted that the first 
+condition prescribes therein that there be no representation of the acquirer on the board of 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 15 
+ 
+directors of the enterprise whose shares or voting rights are being acquired. This is meant 
+to ensure that an acquirer with the minority shareholding does not become privy to the 
+competitively sensitive information, access or awareness of which may be sufficient to 
+lead to coordinated outcomes.  
+ 
+32. 
+The second condition of the same proviso requires there shouldn’t be a right or intention 
+to nominate a director on the board of directors of the enterprise whose shares or voting 
+rights are being acquired and there shouldn’t be any intention on the part of the acquirer 
+to participate in the affairs or management of the enterprise whose shares or voting rights 
+are being acquired. The reference to ‘right’, i.e., an existing right captured in the 
+transaction documents, and ‘intention’, i.e., a futuristic right or position, is meant to ensure 
+that the regulatory framework is consistent with the core principle of ‘substance over 
+form’. There could be a situation where the parties can first acquire only shares and 
+subsequently negotiate or agree for board representation or participation in management. 
+There could also be a situation where the board seat or management participation may be 
+a subsequent unrelated development. In cases when there is an intention to participate in 
+management or to have board representation, the notice is required to be filed ex-ante, 
+while in cases where such developments are subsequent and unrelated, the party should 
+file the notice before giving effect to such subsequent arrangements or developments. It 
+goes without saying that the onus to prove that the developments were subsequent to the 
+acquisition of shares or voting rights will be on the acquirer. 
+ 
+33. 
+Another condition prescribed in proviso (A) to explanation of Item 1 Provision is that the 
+acquirer, if it wants to benefit from the application of this item, should only have the 
+ability to exercise rights that are exercisable by the ordinary shareholder of the enterprise 
+whose shares or voting rights are being acquired to the extent of their respective 
+shareholding. The Item 1 Provision covers the transactions not amounting to acquisition 
+of control and accordingly, does not differentiate between various rights, viz., investor 
+protection rights, informational rights, etc. 
+ 
+34. 
+When the facts of the instant case are examined in the above backdrop, it is observed that: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 15 
+ 
+a. 
+SABIC closed the First Acquisition on 17th September 2018 and executed the GA 
+on the same date. This agreement granted certain rights to the Acquirer, including 
+the right to nominate members on the board of the Target. Such rights are not 
+available to ordinary shareholders; 
+ 
+b. 
+As regards reading into the timelines, the Acquirer has contended that there has been 
+conflation of the First Acquisition and the GA. In this regard, the parties have 
+submitted that: (i) the entities involved in both the binding documents were 
+different, (ii) the First Acquisition was not conditional upon the execution of the 
+GA, and (iii) there was a lack of simultaneity. However, the timing and the terms of 
+the GA are indicative of there always being an ‘intention’ on the part of SABIC to 
+participate in the management of the Target. In fact, as any agreement is preceded 
+by a negotiation, diligence and drafting phases, it may not be incorrect to state that 
+moving beyond just the intention, there appears to be a proper understanding in the 
+form of GA in this regard in the instant case; and 
+ 
+c. 
+Further, the press release issued in context of the First Acquisition stated that “the 
+acquisition of this approximately 24.99% stake in Clariant AG will make SABIC the 
+largest Clariant AG shareholder and represents another key milestone in SABIC's 
+growth and diversification strategy to become the preferred world leader in 
+chemicals”. If the statement in this press release is read in due context of sequence 
+of events and timelines, under the circumstances, it is fully reflective of the intent 
+of SABIC as regards the First Acquisition.  
+ 
+d. 
+Since the Acquirer has not contested the correctness of the facts contained in the 
+press releases, the facts therein are undisputed and will remain relevant. In this 
+regard, the submission of the Acquirer that Parties’ intent can be appropriately 
+gauged only through binding agreements between them and not through post-
+agreement press releases intended for other commercial purposes is not considered 
+tenable.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 15 
+ 
+35. 
+Based on the aforesaid, it is clear that the Acquirer intended to participate in the affairs 
+and management of the Target without ruling out the possibility that there may have been 
+an understanding with the Target in that regard. However, even if the Acquirer’s 
+contentions were to be believed, that there was no such intention or understanding, it was 
+incumbent on the Acquirer to approach the Commission before the implementation of the 
+GA, which allowed the Acquirer to participate in the management or affairs of the Target.  
+ 
+36. 
+SABIC had submitted that the SCN cherry-picks certain facts to fit its conclusion that the 
+First Acquisition and the GA together required a notification to the Commission under the 
+Act. In this regard, it may be noted that SCN is not a final determination by the 
+Commission but only lays down the charges of contravention along with the basis and 
+calls for response on the alleged contraveners. SCN itself is an opportunity to the Acquirer 
+to present its case before final determination of the issues by the Commission. Apart from 
+the written response, the Commission has also heard the Acquirer at length. Thus, the 
+Commission sees no merit on the issue of violation of the principles of natural justice. 
+ 
+37. 
+Thus, based on the analysis of the response of the Acquirer, the Commission is of the 
+opinion that, in consummating the First Acquisition without the approval of the same by 
+the Commission, the Acquirer has failed to file a notice for the First Acquisition in 
+accordance with Section 6(2) of the Act, which reads as under: 
+ 
+“Subject to the provisions contained in sub-section (1), any person or enterprise, 
+who or which proposes to enter into a combination, [shall] give notice to the 
+Commission, in the form as may be specified, and the fee which may be determined, 
+by regulations, disclosing the details of the proposed combination, within [thirty 
+days] of— 
+ 
+(a) approval of the proposal relating to merger or amalgamation, referred to in 
+clause (c) of section 5, by the board of directors of the enterprises concerned with 
+such merger or amalgamation, as the case may be; 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 15 
+ 
+(b) execution of any agreement or other document for acquisition referred to in 
+clause (a) of section 5 or acquiring of control referred to in clause (b) of that 
+section.” 
+ 
+ 
+Further, Section 6 (2A) of the Act reads as follows: 
+ 
+         “No combination shall come into effect until two hundred and ten days have passed 
+from the day on which the notice has been given to the Commission under sub-
+section (2) or the Commission has passed orders under section 31, whichever is 
+earlier.” 
+ 
+Accordingly, the First Acquisition attracts a penalty under Section 43A of the Act, which 
+reads as under: 
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub 
+section (2) of section 6, the Commission shall impose on such person or enterprise 
+a penalty which may extend to one percent of the total turnover or the assets, 
+whichever is higher, of such a combination.” 
+ 
+38. 
+Accordingly, in terms of Section 43A of the Act, the Commission can levy a maximum 
+penalty of one per cent of the total turnover or the assets, whichever is higher, of such a 
+combination. While determining the quantum of penalty, the Commission considered the 
+following mitigating factors: (a) that there was no malafide intention to evade compliance 
+of the provisions of the Act; (b) that there have been no previous instances where the 
+Commission has found the Acquirer to be in violation of the provisions of the Act or the 
+Combination Regulations; and (c) that the Acquirer has continued to co-operate with the 
+Commission. However, the Acquirer has consummated the combination, which may be 
+considered as an aggravating factor. In view of the foregoing, the Commission considered 
+it appropriate to impose a penalty of INR 40,00,000 (Indian Rupees Forty Lakh only) on 
+the Acquirer. The Acquirer is directed to pay the penalty within sixty days from the date 
+of receipt of this order.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 15 
+ 
+39. 
+The Secretary is directed to communicate to the Acquirer accordingly. 
+ 
+ 
+ 
+ 

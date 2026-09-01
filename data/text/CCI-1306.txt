@@ -1,0 +1,318 @@
+ 
+ Page 1 of 8 
+ 
+COMPETITION COMMISSION OF INDIA 
+Ref. No. M&A – 2021/01/810 
+ 
+7th August 2023 
+ 
+In re: Proceedings under Section 43A of the Competition Act, 2002 against 
+Massachusetts Mutual Life Insurance Company 
+ 
+CORAM:  
+ 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing  
+ 
+For Massachusetts Mutual 
+Life Insurance Company: 
+ 
+Mr. 
+Rohan 
+Batra 
+and 
+Mr. 
+Padmanabh 
+Sethunath, Advocates 
+ 
+ORDER UNDER SECTION 43A OF THE COMPETITION ACT, 2002 
+ 
+1. This Order shall dispose of the proceedings against Massachusetts Mutual Life Insurance 
+Company (‘MassMutual’/ ‘Acquirer’) under Section 43A of the Competition Act, 2002 
+(‘Act’) in relation to its acquisition of approximately 16% shareholding in Invesco Limited 
+(‘Invesco’/ ‘Target’) [‘Transaction’].  
+ 
+ 
+Background 
+ 
+2. The Transaction was given effect pursuant to the execution of an Agreement and Plan of 
+Merger, executed, inter alios, amongst MM Asset Management Holding LLC (a wholly 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 8 
+ 
+owned indirect subsidiary of MassMutual) and Invesco on 17th October 2018 (‘Agreement 
+1’) and a Shareholder Agreement between MassMutual and Invesco on 24th May 2019 
+(‘Agreement 2’) [Hereinafter, Agreement 1 and Agreement 2 are collectively referred to as 
+‘Transaction Documents’]. The Transaction was consummated in May 2019. 
+ 
+3. As per the information available in the public domain, MassMutual belongs to the 
+MassMutual Financial Group and is incorporated in Massachusetts, the United States of 
+America (‘USA’). It operates as an insurance firm and offers individual and group life 
+insurance, disability insurance, individual and group annuities and guaranteed interest 
+contracts to individual and institutional customers in the USA and Puerto Rico.  
+ 
+4. As submitted by MassMutual, the Target is a company incorporated in Bermuda with its 
+corporate headquarters in Atlanta, USA, and listed on the New York Stock Exchange. As 
+per the information available in the public domain, Target is present in more than 26 
+countries and manages approximately USD 1.5 trillion in assets for investors around the 
+world.  
+ 
+5. MassMutual submitted that at present, Invesco has four subsidiaries incorporated in India 
+viz. Invesco Asset Management (India) Private Limited (‘IAMPL’), Invesco Trustee 
+Private Limited (‘ITPL’), Invesco (India) Private Limited (‘IPL’) [Hereinafter, IAMPL, 
+ITPL and IPL are collectively referred to as ‘Invesco India Subsidiaries’] and Redblack 
+Software Private Limited (‘Redblack Software’). That, Redblack Software was acquired 
+by Invesco in December 2019 i.e., post the consummation of the Transaction. Further, at 
+the time of the Transaction, Invesco’s main presence in India was through an asset 
+management company (‘AMC’) i.e., IAMPL, that managed a mutual fund registered in 
+accordance with the Securities and Exchange Board of India (Mutual Fund) Regulations, 
+1996 (‘MF Regulations’) namely, Invesco Mutual Fund. 
+ 
+6. It is provided in the Transaction Documents that Invesco shall elect any individual 
+designated by MassMutual as a member of its Board. This right was duly exercised by 
+MassMutual. Further, Invesco expanded its Board from 9 to 12 directors on 5th November 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 8 
+ 
+2020. Subsequently, the Chairman and CEO of a wholly owned subsidiary of MassMutual 
+joined Invesco’s Board.  
+ 
+7. Further, Invesco’s FY2020 Annual Report, presented vide Form 10-K filings before the 
+United States Securities and Exchange Commission, inter alia, states the following:  
+  
+“…We are not permitted to take certain actions without the prior written 
+approval of MassMutual, including making certain changes in our capital 
+structure or our organizational documents, adopting a shareholder rights plan 
+or effectuating certain business combination transactions. MassMutual’s level of 
+ownership and influence may make some transactions (such as those involving 
+mergers, material share issuances or changes in control) more difficult or 
+impossible without the support of MassMutual…”  
+ 
+ 
+Initiation of Proceedings under Section 43A of the Act 
+ 
+8. Section 5 of the Act states that acquisition of one or more enterprises by one or more 
+person or merger or amalgamation of enterprises, which exceeds the threshold prescribed 
+therein shall be a combination for the purposes of the Act. The thresholds are specified in 
+the Act in terms of assets or turnover in India and abroad. Further, Section 6(2) of the Act 
+provides that the parties proposing to enter into a combination shall give a notice to the 
+Commission and, as per Section 6(2A) of the Act, no combination shall come into effect 
+until 210 days have passed from the day on which the notice has been given to the 
+Commission under Section 6(2) or the Commission has passed orders under Section 31 of 
+the Act, whichever is earlier. 
+ 
+9. The Central Government, in exercise of the powers conferred by clause (a) of Section 54 of 
+the Act, in public interest, has exempted combinations from giving notice to the 
+Commission under Section 6(2) of the Act, where the value of assets being acquired, taken 
+control of, merged or amalgamated is not more than INR 350 crore in India or turnover is 
+not more than INR 1,000 crore in India. This ‘de minimis’ exemption was issued by the 
+Ministry of Corporate Affairs vide Notification No. S.O. 989(E) dated 27th March 2017.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 8 
+ 
+ 
+10. Based on the information available in public domain, it is observed that MassMutual 
+consummated the Transaction in May 2019 without giving notice to the Commission in 
+terms of Section 6(2) of the Act. The Commission, in its meeting held on 20th December 
+2021, considered the issue of consummation of the Transaction without filing a notice 
+before the Commission. The Commission observed that the Transaction was strategic in 
+nature and was accompanied with the right to nominate a director on the board of Invesco. 
+The intention of MassMutual appeared to be that of participating in the affairs of 
+management of Invesco. Further, it appeared that the appointment of another representative 
+of MassMutual on Invesco’s board as well its substituent committees may have also led to 
+the possibility of material influence/control of MassMutual over the affairs and 
+management of Invesco. In view of the foregoing, the Commission was of the prima facie 
+view that the Transaction cannot be categorised as or given the colour of ‘Solely for 
+Investment’ / ‘Ordinary Course of Business’, and therefore, it cannot benefit from Item 1 
+under Schedule I of the Competition Commission of India (Procedure in regard to the 
+transaction of business relating to combinations) Regulations, 2011 [‘Combination 
+Regulations’]. 
+ 
+11. Therefore, the Commission was of the prima facie view that the Transaction was given 
+effect to without giving notice to the Commission, leading to contravention of sub-section 
+(2) and (2A) of Section 6 of the Act.  Accordingly, the Commission issued a Show Cause 
+Notice (‘SCN’) to MassMutual, under Regulation 48 of the Competition Commission of 
+India (General) Regulations, 2009, read with Section 43A of the Act on 17th January 2022. 
+MassMutual submitted its response to the SCN dated 12th March 2022 along with a request 
+for oral hearing in the matter (‘First Response to SCN’). Thereafter, MassMutual 
+submitted an additional response dated 9th May 2022 (‘Second Response to SCN’) 
+[Hereinafter, First Response to SCN and Second Response to SCN are collectively referred 
+to as ‘Responses to SCN’].  MassMutual also submitted a note on arguments to be 
+advanced during the oral hearing on 6th June 2023. The Commission heard MassMutual at 
+length on 13th June 2023. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 8 
+ 
+Submissions of MassMutual 
+ 
+12. The broad contentions of MassMutual, as submitted in  Responses to SCN and during the 
+oral hearing, are as under: 
+ 
+i. MassMutual was not required to notify the Transaction to the Commission under 
+Section 6(2) of the Act, as it qualified for the de minimis exemption. It was submitted 
+that while assets of Target in India exceeded INR 350 crore, its turnover stood at INR 
+374 crore in FY 2017-18.  
+ 
+ii. MassMutual considered the turnover recorded in the financial statements of Invesco 
+India Subsidiaries. Invesco Mutual Fund maintains separate Annual Reports in respect 
+of the mutual fund schemes. It would be incorrect to consider revenue/turnover 
+generated on account of buying/selling of the securities through mutual funds, that is 
+held in trust for unitholders i.e., persons who hold the unit in a scheme of a mutual fund, 
+for arriving at the turnover of Invesco in India. Akin to any mutual fund, the underlying 
+securities are held in trust for the benefit of the unitholders. Therefore, revenue/turnover 
+generated on account of buying/selling of the securities is only held in trust for the unit 
+holders. This characteristic of a fund has already been recognised by the Commission in 
+the Investcorp Decision1. Accordingly, it would be incorrect to consider 
+turnover/revenue/income of the mutual fund for arriving at turnover of Invesco in India.  
+ 
+iii. MassMutual acquired only beneficial ownership in Invesco and did not acquire a 
+business in India. At the time of Transaction, there were no portfolio entities over which 
+Invesco could be said to have control, such that their turnover is required to be added to 
+the turnover of Invesco, either through its mutual fund business or otherwise. Further, it 
+was submitted that the financial statements of Invesco India Subsidiaries do not disclose 
+any entity over which such companies had control, either through shareholding, voting 
+ 
+1 Order under Section 43A of the Act dated 17th December 2021 in relation to Investcorp India Asset 
+Managers Private Limited’s acquisition of real estate fund management and private equity fund 
+management businesses of IDFC Alternatives Limited  
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 8 
+ 
+rights or otherwise. Accordingly, the Investcorp Decision did not apply to the present 
+case. 
+ 
+Observations and Findings of the Commission 
+ 
+13. The core issue in the instant case is whether the transaction was eligible for de minimis 
+exemption and accordingly, was not required to file a notice under Section 6(2) of the Act. 
+ 
+14. The Commission observes that mutual fund is a mechanism for pooling money by issuing 
+units to the investors and investing investors funds in securities. Investors of mutual funds 
+are known as unitholders. The trustees of the mutual fund hold its property for the benefit 
+of the unitholders and the AMC manages the funds by making investments in various types 
+of securities. An acquisition of mutual fund business is given effect by acquiring the AMC 
+and the trustee of the mutual fund. As submitted by MassMutual in the Responses to SCN, 
+Invesco is engaged in the mutual fund business in India. Invesco’s two Indian subsidiaries 
+namely IAMPL and ITPL are the AMC and trustee of the mutual fund, respectively.  
+ 
+15. Further, it is observed that in combinations pertaining to mutual fund businesses, the value 
+of assets, in accordance with the jurisdictional thresholds provided under Section 5 of the 
+Act, is the aggregate of (i) assets of the AMC of the mutual fund, (ii) assets of the trustee of 
+the mutual fund, if it is also subject to the acquisition and, (iii) assets under management 
+(‘AUM’) of the mutual funds. Hence, in the instant case, the correct methodology for 
+computing the total assets would include AUM of the Invesco Mutual Fund and the assets 
+of the Invesco India Subsidiaries, as per their financial statements. Based on the 
+information available on Invesco’s website, the value of AUM of the Invesco Mutual Fund 
+for March 2018 was more than INR 20,000 crore. In the Responses to SCN, MassMutual 
+has only considered the aggregate value of assets of Invesco India Subsidiaries based on 
+their financial statements, which totals to approximately INR 450 crore in FY 2017-18. 
+This itself exceeds the threshold of assets as provided in the de minimis exemption, i.e., 
+INR 350 crore. Therefore, the Commission observes that the computation of value of assets 
+is irrelevant in the instant case as the de minimis thresholds are breached in both the 
+scenarios.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 8 
+ 
+ 
+16. The issue remaining henceforth is the methodology for computation of turnover. The value 
+of turnover, in accordance with the jurisdictional thresholds provided under Section 5 of 
+the Act, is the aggregate of (i) turnover/revenue from operations of the AMC of the mutual 
+fund, (ii) turnover/revenue from operations of the trustee of the mutual fund, if it is also 
+subject to the acquisition, and (iii) turnover of the mutual funds are to be considered. 
+Turnover of mutual funds are aggregate of: (i) gross value of sale and redemption of 
+securities and (ii) income such as dividend, interests, etc. Accordingly, any income 
+generated from the securities held by a mutual fund company is considered as turnover, 
+irrespective of whether holding of those securities confer control to mutual fund company 
+or not. 
+ 
+17. MassMutual has computed the turnover of Invesco India Subsidiaries at INR 374 crore for 
+FY 2017-18, failing to account for turnover generated by Invesco Mutual Fund in India. 
+While this figure was not provided in the Responses to SCN, MassMutual during the oral 
+hearing submitted that the gross revenue generated from the sale of securities would be in 
+excess of the de minimis threshold for turnover, i.e., INR 1,000 crore.   
+ 
+18. In order to determine the notifiability under Section 5 of the Act in terms of assets and 
+turnover and availability of de minimis exemption, if any, the assets and turnover of the 
+controlled portfolio entities are also relevant. However, MassMutual in its submission has 
+submitted that “at the time of the impugned transaction, there were no “portfolio entities” 
+over which Invesco could be said to have “control” such that their turnover is required to 
+be added to the “Turnover” of the Target i.e., Invesco, either through its mutual fund 
+business or otherwise.” Accordingly, based on these submissions of MassMutual, assets 
+and turnover of any investee entity of Invesco need not be considered and only the business 
+of Invesco in India is considered.  
+ 
+19. Based on the foregoing paragraphs, it is observed that the arguments of MassMutual that 
+the Transaction could avail de minimis exemption is not tenable as MassMutual has failed 
+to account for the presence of the Invesco Mutual Fund business in India. The Commission 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 8 
+ 
+concludes that de minimis exemption was not available to the Transaction and thus, 
+MassMutual failed to give notice to the Commission in terms of Section 6(2) of the Act.  
+ 
+20. Section 43A of the Act provides that if any person or enterprise fails to give notice to the 
+Commission under Section 6(2) of the Act, the Commission shall impose on such person or 
+enterprise a penalty which may extend to 1% of the total turnover or the assets, whichever 
+is higher, of such a combination. Thus, Section 43A of the Act empowers the Commission 
+to determine the appropriate amount of penalty in a matter, subject to the maximum of 1% 
+of the total turnover or the assets, whichever is higher. Considering the circumstances of 
+the instant matter and the conduct of MassMutual, the Commission considers it appropriate 
+to impose a penalty of INR 5,00,000 (Indian Rupees Five Lakh only) on MassMutual, 
+which is directed to pay the penalty within 60 days from the date of receipt of this order.  
+ 
+21. The Secretary is directed to communicate this order to MassMutual. 
+ 
+ 
+ 
+ 

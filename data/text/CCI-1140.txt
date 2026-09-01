@@ -1,0 +1,412 @@
+ 
+Page 1 of 10 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+17th December 2021 
+ 
+Proceedings against Investcorp India Asset Managers Private Limited under Section 
+43A of the Competition Act, 2002 
+ 
+CORAM: 
+ 
+Mr. Ashok Kumar Gupta  
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+ 
+Appearances during the hearing 
+ 
+For Investcorp India 
+Asset Managers 
+Private Limited 
+:
+Mr. Rajshekhar Rao, Senior Advocate with Mr. Gaurav Desai, 
+Ms. Mansi Sood, Mr. Ruchir Sinha and Ms. Shruti Bhat, 
+Advocates alongwith Ms. Anjana Sinha, representative of 
+Investcorp India 
+ 
+ 
+ORDER UNDER SECTIONS 43A OF THE COMPETITION ACT, 2002 
+ 
+ 
+ 
+This Order shall dispose of the proceedings under Section 43A of the Competition 
+Act, 2002 (Act) against Investcorp India Asset Managers Private Limited (Investcorp 
+India) in relation to its acquisition of the private equity and real estate investment 
+management businesses of IDFC Alternatives Limited (IDFC Alternatives). 
+ 
+Impugned Transaction and the parties  
+ 
+2. 
+The Impugned Transaction comprised the acquisition of real estate fund 
+management and private equity fund management businesses of IDFC Alternatives 
+by Investcorp India on a slump sale basis for a lump sum consideration. The 
+binding documents regarding the Impugned Transaction were entered into between 
+26th July 2018 and 30th January 2019, and the transaction was consummated on 1st 
+
+ 
+Page 2 of 10 
+ 
+February 2019. The details of the fund which are part of the Impugned 
+Transactions are as under:  
+ 
+2.1. 
+Investcorp Infrastructure Fund 11: A fund registered as a venture capital 
+fund under the Securities and Exchange Board of India (Venture Capital 
+Funds) Regulations, 1996; 
+ 
+2.2. 
+Investcorp Private Equity Fund II2: A fund registered as an alternative 
+investment fund under the Securities and Exchange Board of India 
+(Alternative Investment Fund) Regulations, 2012 (AIF Regulations); 
+ 
+2.3. 
+Investcorp Real Estate Yield Fund3: A fund registered as an alternative 
+investment fund under the AIF Regulations; and 
+ 
+2.4. 
+Investcorp SCORE Fund4: A fund registered as an alternative investment 
+fund under the AIF Regulations.  
+ 
+3. 
+IDFC Alternatives was engaged in investment management. It offered portfolio 
+and risk management, investment banking and advisory services. 
+ 
+4. 
+The primary business activities of Investcorp India were the provision of 
+investment management services and management, operation and supervision of 
+the investment vehicles including but not limited to the alternate investment funds, 
+venture capital funds, etc. 
+ 
+Initiation of proceedings under Sections 20(1) and/or 43A of the Act 
+ 
+5. 
+The Commission, in its meeting held on 14th January 2020, decided to inquire into 
+the Impugned Transaction to assess whether further proceeding is required under 
+Section 20(1) and/or Section 43A, as the case may be. In pursuance thereof, a letter 
+dated 17th January 2020 was sent to Investcorp India requiring it to furnish 
+                                                            
+1Formally known as IDFC Infrastructure Fund 3 
+2Formally known as IDFC Private Equity Fund IV 
+3Formally known as IDFC Real Estate Yield Fund 
+4Formally known as IDFC Score Fund 
+
+ 
+Page 3 of 10 
+ 
+necessary details about the Impugned Transaction. In response, Investcorp India 
+filed its submission on 25th February 2020. Upon perusing the response of 
+Investcorp India, it was considered necessary to obtain further information from it. 
+Accordingly, another letter dated 30th September 2020 was issued to Investcorp 
+India requiring it to furnish additional information. In response, Investcorp India 
+filed its submission dated 21st October 2020.  
+ 
+6. 
+The Commission, in its meeting held on 27th November 2020, was prima facie 
+satisfied that Investcorp India ought to have given a notice under Section 6(2) of 
+the Act regarding the Impugned Transaction. However, it did not give any notice to 
+the Commission. Therefore, the Commission decided to issue a notice under 
+Sections 20(1) and 43A of the Act read with Regulation 48 of the Competition 
+Commission of India (General) Regulations, 2009 to Investcorp India to show 
+cause as to why penalty in terms of the said provision of the Act shall not be 
+imposed on Investcorp India and why it shall not be required to given notice in 
+respect of the Impugned Transaction, in terms of Regulation 8 of the Competition 
+Commission of India (Procedure in regard to the transaction of business relating to 
+combinations) Regulations, 2011 (Combination Regulations). Accordingly, a 
+notice dated 21st December 2020 was issued to Investcorp India (SCN). The SCN 
+observed as under:  
+ 
+… 
+ 
+5. 
+As regards the notifiability of the impugned transactions, Investcorp 
+India has submitted that the investments made by Investcorp Infrastructure 
+Fund 1 were made under the VCF Regulations and were exempt from the 
+requirement of obtaining an approval of the Commission under Section 6(4) of 
+the Act. Therefore, when Investcorp India acquired the fund management 
+business of Investcorp Infrastructure Fund 1 from IDFC Alternatives, it [i.e. 
+Investcorp India] believes that such change of investment manager of the VCF 
+Funds should also be eligible for the same exemption as Investcorp 
+Infrastructure Fund 1 continues to retain its status as a venture capital fund 
+governed by VCF Regulations. It has been further submitted that the value of 
+assets or turnover of all of the portfolio entities of Investcorp Private Equity 
+Fund II fall below the thresholds prescribed under notification S.O. 988(E) 
+dated 27th March, 2017 (de minimis exemption). 
+ 
+
+ 
+Page 4 of 10 
+ 
+6. 
+At the outset, the impugned transactions are a group of inter-
+connected steps constituting one composite combination and thus, a particular 
+step cannot be seen in isolation for the purpose of any exemption including de 
+minimis. This position has also been clarified by the Hon’ble Supreme Court 
+in CCI v. Thomas Cook & Anr. (2018). 
+ 
+7. 
+As regard the argument on applicability of Section 6(4) to acquisition 
+of Investcorp Infrastructure Fund 1, it is observed that Section 6(2) requires 
+Parties to combination to give notice to the Commission in respect of their 
+Proposed Combination. However, Section 6(4) of the Act provides that … 
+provisions of this section shall not apply to share subscription or financing 
+facility or any acquisition, by a public financial institution, foreign 
+institutional investor, bank or venture capital fund, pursuant to any 
+covenant of a loan agreement or investment agreement [emphasis added]. In 
+the instant matter, the impugned acquisitions are not a case of acquisition by a 
+venture capital fund but contemplate acquisition of a venture capital fund.  
+ 
+8. 
+As regards the applicability of de minimis exemption only to rest of the 
+Acquired Funds, it is observed that when the other part of the transaction is a 
+notifiable combination, these inter-connected steps shall also be notified to the 
+Commission in terms of Section 5 of the Act read with regulations 9(4) and 
+9(5) of the Combination Regulations.  
+ 
+9. 
+In view of the above, the Commission is of the prima facie view that the 
+impugned acquisitions are combination(s) not covered under Section 6(4) of 
+the Act and notification of the same is not dispensed by any exemption. Thus, 
+Investcorp India ought to have given notice to the Commission in terms of 
+Section 6(2) of the Act read with Regulation 5 of the Combination 
+Regulations. However, Investcorp India failed to comply with such 
+requirement... 
+ 
+7. 
+Investcorp India submitted its reply dated 1st February 2021 to the SCN along with 
+a request for personal hearing in the matter (Reply). The Commission acceded to 
+the request and heard Investcorp India at length on 8th September 2021. The 
+Commission further allowed Investcorp India to file written submissions, which 
+were filed on 24th September 2021. 
+ 
+Issues for determination 
+ 
+8. 
+The Commission has considered the written and oral submissions of Investcorp 
+India. The primary contention of Investcorp India is that the value of assets and 
+turnover of portfolio entities of funds whose management were acquired by 
+
+ 
+Page 5 of 10 
+ 
+Investcorp India pursuant to the Impugned Transaction cannot be considered for 
+the purpose of testing the financial threshold under Section 5 of the Act as well as 
+the de minimis exemption5. The contentions and arguments of Investcorp India 
+could be broadly summarised as under:  
+ 
+8.1. 
+There has been no acquisition of control over the investee/portfolio 
+companies of the venture capital fund (VCF) and the alternative 
+investment funds (AIFs), which were only managed by IDFC alternatives; 
+8.2. 
+The Impugned Transaction benefits from de minimis exemption; 
+8.3. 
+Indian Accounting Standard 110 does not require an investment manager 
+to consolidate the financials of investee/portfolio companies of funds 
+managed by an investment manager; and 
+8.4. 
+Only a share in the financials of the underlying investee/portfolio 
+companies proportionate to the shareholding and control of the Acquirer 
+should be considered for the purpose of Section 5 of the Act. In such a 
+case, the aggregate of such turnover is within the prescribed limit for de 
+minimis exemption.  
+ 
+9. 
+The determinations of the Commission in relation to the above are as under:   
+ 
+(i) 
+Acquisition of control over portfolio entities  
+ 
+10. 
+Investcorp India has argued that the Trustee has legal and beneficial ownership 
+over the assets of the funds, and the beneficial interest in these assets lies with the 
+unitholders. The assets of the funds are separate from the assets of the investment 
+manager. The investment manager does not enjoy ownership or controlling rights 
+over the assets of any of the funds. Decisions taken by the investment manager in 
+the discharge of their functions are for the funds and their unitholders, and not for 
+itself. Thus, it would not be appropriate to consider as if the portfolio entities of the 
+concerned funds are owned by Investcorp India.  
+                                                            
+5 Exemption vide Notification No. S.O. 989(E) dated 27th March 2017 issued by Ministry of Corporate Affairs, 
+Government of India 
+
+ 
+Page 6 of 10 
+ 
+ 
+11. 
+In this regard, the Commission notes that, pursuant to the Impugned Transaction, 
+Investcorp India has acquired the real estate and private equity fund management 
+businesses of IDFC Alternatives. Resultantly, Investcorp India has become the 
+manager of the concerned VCF and AIFs. While the terms of subscription may 
+vary in different pooled investment schemes, generally, these investment structures 
+envisage demutualisation of investment management and ownership, wherein 
+subscribers give authority to the investment managers to conduct the operations of 
+the fund. Under this demutualised mechanism, the investment manager enjoys 
+control over the management of the fund. Though the beneficial ownership of these 
+categories of funds lies with unitholders, the control over the operations and 
+management of the fund is entrusted to the investment manager.  
+ 
+12. 
+Funds have varying degrees of interest, such as sole control, joint control, mere 
+financial interest, etc. in their portfolio entities. The degree of interest would 
+depend on the shareholding and contractual rights of the fund with respect to the 
+given portfolio entity. The investment manager of the fund, being the authority to 
+exercise and protect such interest, would invariably enjoy control over the portfolio 
+entity where the shareholding and/or contractual rights of the fund is such as to 
+enable material influence or higher degree of control over the given portfolio 
+entity. Needless to say, when the fund management business of such a fund is 
+acquired, the acquirer would also gain control over such portfolio entities of the 
+fund. The Commission notes that acquisition of control is one of the forms of 
+combination under Section 5 of the Act, and accordingly, the acquirer needs to give 
+notice in terms of Section 6(2) of the Act read with the relevant provisions of the 
+Combination Regulations. The said requirement of law is not dispensed with only 
+on account of the beneficial interest being vested in person(s) other than the 
+acquirer.  
+ 
+13. 
+It has been argued that, in similar earlier cases notified to the Commission, the 
+asset management company along with the concerned trustee were acquired. The 
+trustee being the legal owner of the assets of the fund, it was appropriate to take 
+
+ 
+Page 7 of 10 
+ 
+into consideration the financials of the portfolio companies. However, in the instant 
+matter, Investcorp India has only acquired investment management business and 
+therefore, it cannot be said to have acquired the portfolio entities of the target fund 
+in the absence of the acquisition of the trustee. In this regard, the Commission 
+notes that, while the structure of an acquisition may vary from transaction to 
+transaction, the requirement of notification does not presuppose the combined 
+acquisition of both the investment management and trustee of the fund. As long as 
+the investment manager is responsible for decision making relating to the 
+operational management of the fund, it would enjoy control over the fund. This 
+factual aspect would be the same, irrespective of whether the trustee is being 
+acquired as part of the combination. Accordingly, a notice under Section 6(2) of 
+the Act would have to be given as long as control over the operations of a fund is 
+acquired. Therefore, it cannot be said that the said earlier transactions were notified 
+only on the basis suggested by the Acquirer.   
+ 
+14. 
+Investcorp India has submitted that its role as an investment manager is subject to 
+the overall supervision, control and direction of the Trustee. Further, the services of 
+the investment manager can be terminated by the Trustee. In this regard, the 
+Commission observes that the investment manager enjoys operational control over 
+the fund, although the overall supervision of certain aspects may lie with the 
+trustee. As per the details provided in the Reply, the investment manager may be 
+terminated by ******************************************************* 
+******************************************************************
+******************************************************************
+******************************************************************
+*********. The Commission observes that mere ability and/or possibility of the 
+trustee to terminate the investment manager, that too only after obtaining specified 
+approval from unitholders, does not negate the fact of operational control of the 
+Acquirer over the operations of the target business. It may be the case that the 
+subscription of the given fund is subject to the joint control, de facto or de jure, of 
+the investment manager, trustee and/or the unitholder. However, mere existence of 
+
+ 
+Page 8 of 10 
+ 
+joint control of the trustee or the unitholder is not a factor to conclude that the 
+investment manager does not have control of the fund.  
+ 
+(ii) 
+de minimis exemption 
+ 
+15. 
+As a corollary of the above contention including that Investcorp India does not 
+enjoy ownership over the assets of the funds managed by IDFC Alternatives and 
+acquired by it, Investcorp India has argued that the value of assets and turnover of 
+the target investment management business of IDFC Alternatives alone is relevant 
+for the purpose of de minimis exemption. The value of asset and turnover of the 
+acquired fund management business (disregarding the financials of the portfolio 
+entities) are lower than the de minimis threshold. 
+ 
+16. 
+One may claim that the Impugned Transaction is eligible for de minimis 
+exemption. Such contention may look appropriate only when the financials of the 
+acquired fund management business alone is taken into consideration. However, as 
+noted earlier, pooled investment schemes generally envisage demutualisation of 
+investment management and ownership, wherein the subscribers give authority to 
+the investment managers to conduct the operations of the fund. Accordingly, in 
+case of the acquisition of any investment management businesses, the value of 
+assets and turnover of the controlled portfolio entities would also be relevant for 
+the purpose of computing threshold under Section 5 of the Act as well as the de 
+minimis threshold. In the instant matter, only two portfolio entities of the Acquirer 
+i.e. GMR Energy Limited and Star Agri warehousing and Collateral Management 
+Limited are sufficient to meet the threshold under Section 5 of the Act and breach 
+the de minimis exemption threshold. 
+ 
+(iii) Accounting standard 110  
+ 
+17. 
+Investcorp India has claimed that Indian Accounting Standard 110 does not require 
+an investment manager to consolidate the financials of the investee/portfolio 
+companies of the funds managed by it. The Commission notes that such position of 
+
+ 
+Page 9 of 10 
+ 
+the Accounting Standards is not relevant for the purpose of testing the thresholds 
+prescribed under Section 5 of the Act. In this regard, the Commission notes that, in 
+a fund management arrangement, where the ultimate beneficiaries have given 
+authority to the investment manager to enjoy control over management of the fund, 
+the assets and turnover of the fund would be attributable to the financials of the 
+investment manager for the purpose of Section 5 of the Act as well the de minimis 
+exemption. 
+ 
+(iv) At best, only a proportionate share in the financials of the underlying 
+investee/portfolio companies to be considered 
+ 
+18. 
+Lastly, the Acquirer has contended that even if assets and turnover of the investee 
+companies are taken into consideration, they should be considered only on a 
+proportionate basis, i.e. to the extent of shareholding and control over the give 
+target entity. In such a case, the aggregate of such turnover is within the prescribed 
+limit specified for de minimis exemption. In this regard, the Commission observes 
+that Section 5 does not operate on the basis of proportionality contended by the 
+Acquirer. Even if an enterprise acquires material influence (which is the starting 
+threshold of control) over another entity, the whole of the financials of the target 
+enterprise would be taken into consideration for the purpose of Section 5 of the 
+Act. Thus, if control is established, the complete financials of the fund/target would 
+be attributed to the fund manager for the purpose of Section 5 of the Act. 
+ 
+19. 
+In view of the above, the Commission concludes that the acquisition of real estate 
+fund management and private equity fund management businesses of IDFC 
+Alternatives by Investcorp India was a combination in terms of Section 5 of the 
+Act and de minimis exemption was not available in relation to the same. 
+Accordingly, Investcorp India, being acquirers, failed to give notice to the 
+Commission in terms of Section 6(2) of the Act. 
+ 
+20. 
+In terms of Section 43A of the Act, if any person or enterprise fails to give notice 
+under Section 6(2) of the Act, the Commission shall impose on such person or 
+
+ 
+Page 10 of 10 
+ 
+enterprise a penalty which may extend to one percent of the total turnover or the 
+assets, whichever is higher, of such a combination. Though the penalty under 
+Section 43A of the Act can be to the said extent mentioned therein, the 
+Commission has sufficient discretion to consider the conduct of the parties and 
+circumstances of the case to arrive at an appropriate amount of penalty.  
+ 
+21. 
+In the instant case, Investcorp India has extended cooperation in the inquiry and 
+supplied requisite material/documents in response to the information requirement 
+of the Commission. Such material/documents formed the basis of the above 
+findings of contravention. Keeping these in mind, the Commission considers it 
+appropriate to impose a penalty of INR Twenty Lakh on Investcorp India. 
+Investcorp India shall pay the penalty within 60 days from the date of receipt of 
+this order. 
+ 
+22. 
+The Secretary is directed to inform Investcorp India, accordingly. 

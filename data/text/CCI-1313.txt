@@ -1,0 +1,611 @@
+ 
+ Page 1 of 16 
+ 
+COMPETITION COMMISSION OF INDIA 
+Ref. No. M&A/03/2021/03/CD 
+ 
+23rd August 2023 
+ 
+In re: Proceedings against Bharti Airtel Limited and Lion Meadow Investment 
+Limited under Section 43A of the Competition Act, 2002 
+ 
+CORAM:  
+ 
+Ms. Ravneet Kaur  
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing  
+For Bharti Airtel Limited:  
+ 
+ 
+ 
+ 
+ 
+For Lion Meadow Investment 
+Limited: 
+Mr. Rajshekhar Rao, Senior Advocate with Ms. 
+Hemangini Dadwal, Mr. Nitin Nair, Ms. Ruchi 
+Khanna, Ms. Shivangi Pradhan, Mr. Areeb 
+Amanullah, Advocates along with Ms. Shraddha Jha, 
+representative of Bharti Airtel Limited 
+ 
+Mr. Arun Kathpalia, Senior Advocate with Mr. 
+Aditya Dhupar, Mr. Gaurav Bansal, Mr. Shivam Jha, 
+Mr. Varun Thakur, Mr. Deepanshu Poddar, 
+Advocates 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 16 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+1. This order shall dispose of the proceedings against Bharti Airtel Limited (‘BAL’) and Lion 
+Meadow Investment Limited (‘LMIL’) under Section 43A of the Competition Act, 2002 
+(‘Act’) in relation to acquisition of 20% shareholding in Bharti Telemedia Limited 
+(‘BTL’/‘Target’) by BAL from LMIL (‘Step 1’) and acquisition of 0.664% shares in BAL 
+by LMIL (‘Step 2’) (Hereinafter, Step 1 and Step 2 are collectively referred to as the 
+‘Transaction’ and BAL and LMIL are collectively referred to as ‘Parties’). 
+ 
+Background 
+ 
+2. The Transaction was given effect pursuant to the execution of an Investment Agreement 
+dated 17th February 2021 between LMIL, BAL and BTL. It was consummated on 22nd 
+March 2021. 
+ 
+3. BAL is a public listed company incorporated under the laws of India and engaged in the 
+business of providing telecommunication services. BTL is a public unlisted company 
+incorporated under the laws of India and a subsidiary of BAL. BTL is engaged in the 
+business of distributing multi-channel television programs directly to subscriber premises 
+by using satellite systems in India. The principal activities of BTL consist of setting up, 
+operating and maintaining Direct-to-Home (‘DTH’) Cable through digital and other modes 
+of broadcasting service and includes broadcasting of interactive and personalised content 
+within India. 
+ 
+4. LMIL is a private limited company incorporated under the laws of Mauritius and is 
+primarily engaged in investment holding activities. LMIL is an affiliate of Warburg Pincus 
+LLC (‘Warburg Pincus’). Warburg Pincus is a member-owned private equity firm 
+headquartered in New York, United States of America and acts as a manager to certain 
+private equity funds. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 16 
+ 
+5. The Commission observed that the Transaction was not notified and was consummated 
+prior to the approval of the Commission. Subsequently, a letter dated 3rd March 2022 was 
+issued under Section 36(4) of the Act to BAL and Warburg Pincus (‘First Letter’) directing 
+them to furnish information and documents regarding the Transaction in order to assess 
+whether further proceeding is required under Section 20(1) and/or Section 43A of the Act.  
+ 
+6. BAL filed its response to the First Letter dated 30th March 2022 and LMIL filed its response 
+to the First Letter dated 31st March 2022 (Hereinafter, both responses are collectively 
+referred to as ‘First Responses’). As the information provided in the First Responses was 
+incomplete in certain aspects, another letter dated 5th May 2022 was issued to BAL and 
+LMIL (‘Second Letter’) to provide complete information. The responses to the Second 
+Letter were filed by both BAL and LMIL on 19th May 2022 (Hereinafter, both responses 
+are collectively referred to as ‘Second Responses’) [Hereinafter, First Letter and Second 
+Letter are collectively referred to as ‘Letters’, and First Responses and Second Responses 
+are collectively referred to as ‘Responses to the Letters’]. 
+ 
+Initiation of proceedings under Section 43A of the Act 
+ 
+7. In its meeting held on 25th July 2022, the Commission considered the Responses to the 
+Letters. The Commission, inter alia, observed that BAL held 80% shareholding of BTL 
+and LMIL held the remaining 20% shareholding in BTL along with various rights in BTL. 
+Considering the rights available to LMIL in the Target prior to the Transaction, it appeared 
+that BAL did not have sole control prior to the Transaction and therefore, benefit under 
+Item 2 of Schedule 1 (‘Item 2 Provision’) of the Competition Commission of India 
+(Procedure in regard to the transaction of business relating to combinations) Regulation, 
+2011 (‘Combination Regulations’) was not available to Step 1 of the Transaction. Step 2 
+of the Transaction was part consideration paid for Step 1 and hence, LMIL was required to 
+notify under Regulation 9(4) of the Combination Regulations. In view of the foregoing, the 
+Commission was of the prima facie view that Step 1 of the Transaction could not avail 
+benefit under Item 2 Provision and Step 2 of the Transaction being interconnected to Step 
+1, ought to have been notified along with Step 1 as a composite notice and thus, cannot, 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 16 
+ 
+avail the benefit under Item 1 of Schedule 1 of Combination Regulations (‘Item 1 
+Provision’).  
+ 
+8. Therefore, the Commission was of the prima facie view that the Transaction was given 
+effect without giving notice to the Commission, thereby leading to contravention of sub-
+section (2) and (2A) of Section 6 of the Act. Accordingly, the Commission issued a Show 
+Cause Notice (‘SCN’) under Regulation 48 of the Competition Commission of India 
+(General) Regulations, 2009 read with Section 43A of the Act on 4th August 2022. 
+ 
+9. LMIL and BAL filed response to the SCN dated 16th September 2022 and 20th September 
+2022, respectively, after seeking extension of time, along with a request for oral hearing in 
+the matter. (Hereinafter, both aforementioned responses, are collectively referred to as 
+‘Responses to SCN’). 
+ 
+10. The Commission heard BAL and LMIL at length on 11th July 2023 and after considering  
+request of the Parties, the Commission granted liberty to the Parties to furnish their written 
+arguments/ submissions latest by 25th July 2023. Accordingly, BAL and LMIL submitted 
+their written arguments on 25th July 2023. 
+ 
+Submissions of BAL 
+ 
+I. Step 1 of the Transaction benefitted from Item 2 Provision 
+ 
+11. Benefit under Item 2 Provision: BAL submitted that it had a majority shareholding of 80% 
+in BTL prior to the Transaction and therefore, the Transaction meets the first test of the 
+benefit under Item 2 Provision. Further, the exception to the benefit under Item 2 Provision 
+does not apply to the Transaction as there is no transfer from joint to sole control. As per 
+the submissions of BAL, the rights acquired by LMIL in BTL do not qualify as ‘material 
+influence’, let alone joint control. Accordingly, the acquisition of shares by LMIL in BTL 
+did not and cannot be said to have resulted in acquisition of joint control at the time of the 
+Transaction as there was no transfer from joint to sole control by BAL in BTL. 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 16 
+ 
+ 
+12. The test for benefit under Item 2 is that of joint control, not material influence: LMIL 
+could have ‘joint control’ with BAL, only when it had rights similar to BAL, that enabled 
+it to jointly control the affairs and management of BTL. In the present case, LMIL did not 
+have any rights that empowered it to materially influence, in any manner, the affairs, 
+management or operations of BTL.  
+ 
+13. The term ‘control’ has been defined under the Explanation (a) to Section 5 of the 
+Competition Act to include: controlling the affairs or management by (i) one or more 
+enterprises or groups over another enterprise or group; or (ii) one or more groups, either 
+jointly or solely, over another group or enterprise. In other words, an entity must acquire 
+those rights that enable it to exercise control, which at the lowest level includes material 
+influence, over the management and affairs, i.e., operations of the business. Moreover, joint 
+control suggests that not just one entity but two or more entities together, exercise the same 
+or, at least, a similar set of rights over the target. It is not sufficient, for joint control to exist, 
+for an investor to merely hold necessary rights to protect its investment over a few items. 
+The rights must enable it to jointly control the operations, affairs and management of the 
+business. 
+ 
+14. Joint control is a significantly higher threshold than material influence: It has been 
+submitted that the Commission has identified three categories of control:  
+a) De jure control: De jure control or controlling interest means a shareholding conferring 
+more than 50% of the voting rights of an enterprise. LMIL did not have de jure control 
+over BTL, as it did not have more than 50% of the voting rights of BTL, either directly 
+or indirectly, through its group entities.  
+b) De facto control: De facto control implies a situation where an enterprise holds less than 
+the majority of the voting rights, but in practice, controls more than half of the votes 
+actually cast at a meeting. LMIL did not have any de facto control over BTL. 
+c) Material influence: Material influence is the lowest level of control. Even here, it is 
+imperative, that the rights confer material influence over the day-to-day operations and 
+management of the business under explanation (c) to Section 5 of the Competition Act.  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 16 
+ 
+ 
+15. At the outset, it is clarified that the test of material influence is inapplicable to the Item 2 
+Provision. In order for the Item 2 Provision to be inapplicable, the shareholding and rights 
+held by LMIL would need to have conferred upon it ‘joint control’ with BAL over BTL – 
+which is not the case here. LMIL did not exercise even material influence over BTL. The 
+test of joint control has a higher threshold as compared to that of material influence. 
+ 
+16. No ‘transfer’ from joint to sole control; BAL was in sole control before the Transaction 
+and remains in sole control of BTL after the Transaction: The Transaction did not change, 
+in any manner, the management of BTL or operations whether strategic or day-to-day or 
+governance or decision-making of BTL. All decision-making power in relation to BTL 
+remained with BAL before and after the Transaction. Accordingly, as per the statutory 
+framework of the Act and the Commission’s own decisional practice, LMIL cannot be said 
+to have exercised joint control over BTL. Therefore, the Transaction qualifies for Item 2 
+and/or Item 8 provisions. The Transaction involves the exit of a financial investor, upon 
+recouping its investment, with the only other existing shareholder acquiring the minority 
+shares of the existing investor. It does not result in any change in the business operations 
+of BTL. 
+ 
+II. Rights of LMIL in BTL prior to the Transaction 
+ 
+17. LMIL’s Rights in BTL are investor protection rights and do not confer any degree of 
+material influence, much less joint control: Prior to the Transaction, LMIL had only a 
+very limited set of investor protection rights, which did not allow LMIL to participate in 
+the management and affairs of BTL. Investor protection rights pertain to matters that may 
+substantially affect the underlying value of the investment made by LMIL. None of the 
+LMIL’s investor protection rights relate to any activities of the Target undertaken in its 
+day-to-day management or business operations or the policy making process. Further, 
+wherever necessary, appropriate monetary thresholds have also been provided to ensure 
+that ordinary commercial operations and decisions of the Target are not subject to LMIL’s 
+rights. 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 16 
+ 
+ 
+18. BAL had the right to appoint 5 out of 6 directors on the Board of BTL. In addition, BAL 
+had the ability to pass ordinary and special resolutions, enjoyed affirmative voting rights 
+and by virtue of these rights, BAL controlled all the affairs of BTL since it was in a position 
+to pass all special resolutions. The directors appointed by BAL could pass resolutions 
+relating to day-to-day operations and management of the business of the Target, even 
+without the participation of, and irrespective of any dissent from the director appointed by 
+LMIL before the Transaction. 
+ 
+19. Entire bouquet of rights to be examined to determine control: It has been submitted that 
+the Commission has examined the rights in a target company and their bearing on the 
+strategic commercial decisions of the target enterprise, while ascertaining whether an 
+enterprise/ group has acquired control over another enterprise/ group. Certain rights that 
+have been considered as conferring control by the Commission include the right to appoint 
+directors on the board of target coupled with veto rights over key strategic items: (i) 
+approval of the business plan; (ii) approval of budget; (iii) discontinuation of an existing 
+line or commencement of a new line of business (iv) appointment or removal of key 
+managerial personnel (‘KMP’) and senior management etc. (collectively referred to as 
+‘Strategic Rights’). In its decisional practice, the CCI has not considered a bundle of rights 
+as control conferring unless one or more of such rights is/are Strategic Rights. Such rights 
+allow an investor to participate in day-to-day management and affairs of the business.  
+ 
+20. The Commission has also assessed other veto rights (along with a right to appoint a director) 
+such as (a) right to amend to charter documents; (b) right to change the capital structure of 
+the company; (c) reorganization of business; (d) right to amend dividend policy; and (e) 
+right to appoint auditors, to confer control only when accompanied by the control 
+conferring rights. Investor protection rights on their own cannot be said to be control 
+conferring. Such rights are those that any investor acquires to be able to protect the value 
+of their investment such as information rights, anti-dilution rights and veto over charter 
+documents and change in capital structure that may adversely impact their financial 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 16 
+ 
+investment. Such rights are necessary to protect the sizable investments made by such 
+investors.  
+ 
+21. LMIL’s investment in BTL was merely in the nature of a pure financial investment: The 
+underlying intent of this Transaction is not strategic in nature or to gain control of BTL. 
+The rights that LMIL ceded on its exit of its investment in BAL was only for the limited 
+purpose of protecting its investment. Where an investor has significant investment of this 
+nature, then having basic access to key performance indicators of the company in addition 
+to financial statements are critical for an investor to be assured of the protection of its 
+investment – particularly when the sole purpose of the investment is to be profitable on 
+exit. This cannot be said to confer material influence over a company, much less joint 
+control.  
+ 
+Submissions of LMIL 
+ 
+I. Step 2 of the Transaction benefitted from the Item 1 Provision 
+ 
+22. It is submitted that, in accordance with the Item 1 Provision and its Explanation, there are 
+three essential conditions for availing its benefit: (a) the acquisition does not entitle the 
+acquirer to hold 25% or more of the total shares or voting rights of the target enterprise; (b) 
+the acquisition is made in the ordinary course of business or solely as an investment; and 
+(c) the acquisition does not lead to an acquisition of control.  
+ 
+23. Further, an acquisition is deemed as being made solely as an investment if (a) the 
+acquisition is of less than 10% of the total shares or voting rights of the target enterprise; 
+(b) the acquirer has the ability to exercise only such rights that are exercisable by the 
+ordinary shareholders of the target enterprise to the extent of their respective shareholding; 
+(c) the acquirer is not a member of the board of directors of the target enterprise and does 
+not have the right or intention to nominate one; and (d) the acquirer does not intend to 
+participate in the affairs and management of the target enterprise and does not have the 
+right or intention to nominate one.  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 16 
+ 
+ 
+24. It is submitted that Step 2 of the Transaction satisfied each of the above-mentioned 
+conditions of the Explanation to the Item 1 Provision as LMIL acquired less than 25% 
+shares in BAL and did not secure any rights over and above those conferred upon ordinary 
+shareholders.  
+ 
+II. Step 1 of the Transaction benefitted from Item 2 Provision 
+ 
+25. BAL exercised sole control over BTL prior to the BAL Acquisition: The test of joint 
+control is significantly different from the test of a ‘lower degree of control’, which the 
+Commission considers to be a part of ‘material influence’ and has applied in the SCN. In 
+this regard, it is submitted that for Item 2 Provision not to apply, the acquirer should move 
+from ‘joint’ control to ‘sole’ control. It is submitted that LMIL did not exercise ‘joint 
+control’ and in fact, did not exercise even material influence over BTL. It was BAL which 
+was in sole control of BTL prior to, as well as post the Transaction.  
+ 
+26. LMIL has also mentioned that the Commission has considered the following three 
+categories of control: de jure control, de facto control and material influence, similar to the 
+arguments advanced by BAL. It is submitted that private equity or financial investors 
+typically secure contractual rights to be able to protect the value of their investment (such 
+as exit rights, information rights, anti-dilution rights and veto over matters that may 
+adversely impact their financial investment). Such rights are necessary to protect the sizable 
+investments made by such investors. While interpreting control exercised by financial 
+investors, the Commission has in its decisional practice carefully evaluated (a) investor 
+protection rights not amounting to control; and (b) rights that would allow a private equity 
+player the ability to participate in the strategic matters of the company.  
+ 
+27. LMIL never exercised any control over the management and affairs of BTL. To the 
+contrary, BAL was in sole control over the business affairs of BTL prior to and post the 
+BAL acquisition. BAL had the right to and had in fact appointed the majority of the board 
+of BTL. Accordingly, only BAL had the ability to approve or reject any strategic 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 16 
+ 
+commercial decision of BTL, irrespective of the view of LIML’s director. LMIL’s right to 
+appoint one non-executive director must not be considered as LMIL exercising any degree 
+of control and especially, joint control over BTL. It has been submitted that BAL had the 
+sole power to approve ordinary as well as special resolutions of BTL. Therefore, every 
+major business decision of BTL that would typically be taken through passing of 
+ordinary/special resolutions was undertaken by BAL and would not have required consent 
+of LMIL.  
+ 
+28. In light of the above submissions, it is submitted that LMIL never exercised any control 
+over the management and affairs of BTL. To the contrary, BAL was in sole control over 
+the business affairs of BTL prior to and post the BAL Acquisition. The intention behind 
+LMIL’s investment in BTL was for LMIL to make financial gains on its investment and 
+thereafter exit BTL and not exercise any control over BTL. 
+ 
+III. Obligation to notify the Transaction 
+ 
+29. Given that the Step 2 of the Transaction benefitted from the minority acquisition exemption 
+(i.e., Item 1 Provision) and given that Step 1 of the Transaction benefitted from the Item 2 
+Provision, a composite merger filing covering the Step 1 and Step 2 of the Transaction was 
+not required.  
+ 
+Observations and Findings of the Commission 
+ 
+30. Section 5 of the Act states that acquisition of one or more enterprises by one or more person 
+or merger or amalgamation of enterprises, which exceeds the threshold prescribed therein 
+shall be a combination for the purposes of the Act. The thresholds are specified in the Act 
+in terms of assets or turnover in India and abroad. Further, Section 6(2) of the Act provides 
+that the parties proposing to enter into a combination shall give a notice to the Commission 
+and, as per Section 6(2A) of the Act, no combination shall come into effect until 210 days 
+have passed from the day on which the notice has been given to the Commission under 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 16 
+ 
+Section 6(2) or the Commission has passed orders under Section 31 of the Act, whichever 
+is earlier. 
+ 
+31. The Combination Regulations provides the benefit of normally not filing a notice under 
+Section 6(2) of the Act to certain categories of combinations (as defined under Section 5 of 
+the Act) that are ordinarily not likely to cause an appreciable adverse effect on competition 
+in India. Such categories are provided under Schedule I of the Combination Regulations.  
+ 
+32. The Commission notes the Item 2 Provision of Schedule I, which reads as follows:  
+ 
+“An acquisition of shares or voting rights, referred to in sub-clause (i) or sub-clause (ii) of 
+clause (a) of Section 5 of the Act, where the acquirer, prior to the acquisition, has 50% or 
+more shares or voting rights in the enterprise whose shares or voting rights are being 
+acquired, except in the cases where the transaction results in transfer from joint control to 
+sole control”. 
+ 
+33. From the plain reading of the Item 2 Provision, it is clear that the benefit of this provision 
+is not available in instances where the transaction results in a transfer from joint control to 
+sole control. The objective of this provision is to distinguish and not to provide the benefit 
+to transactions involving change in control from joint to sole, where the acquirer, prior to 
+the acquisition, has 50% or more shares or voting rights in the enterprise whose shares or 
+voting rights are being acquired. 
+ 
+34. The core issue for determination in the instant case is whether the Transaction resulted in 
+transfer from joint control to sole control of BTL. 
+ 
+35. The Commission in its past order of UltraTech Cement Limited 1 has observed that all 
+degrees and forms of control nonetheless constitute control. The international jurisprudence 
+considers ‘material influence’ as the lowest form of control with other higher forms such 
+ 
+1 Order under Section 44 of the Act pertaining to Combination Registration No. C-2015/02/246 dated 12th March 
+2018  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 16 
+ 
+as de facto control and controlling interest (de jure control) in that order. Material influence, 
+the lowest level of control, implies presence of factors which give an enterprise ability to 
+influence affairs and management of the other enterprise including factors such as 
+shareholding, special rights, status and expertise of an enterprise or person, Board 
+representation, structural/financial arrangements etc. 
+ 
+36. Acquisition of shares in a company is coupled with certain statutory rights and may have 
+certain rights provided in its charter documents or by way of mutual understanding (such 
+rights are reflected in documents such as shareholder’s agreement or governance agreement 
+or investment agreement) between the stakeholders. Contractual arrangement may vary 
+from case to case depending upon the spectrum of nature of these rights and their effect on 
+behaviour/ degree of influence over the enterprise.  
+ 
+37. The rationale for any arrangement and the source of rights are not relevant for holding 
+whether a right confers ability to materially influence or not. Whether any right provides 
+material influence over the management or affairs or strategic commercial decisions or not, 
+depends upon its nexus with the likely economic behaviour of the target.  
+ 
+38. Ability to participate in board decision-making process by representative not only provides 
+access to commercially sensitive information but also provides ability to influence 
+decision-making process of the target. There may be acquisition of control including 
+material influence, even if it is not the declared intention of the parties. Control is the 
+possibility of exercising material influence rather than its actual exercise.  
+ 
+39. Extent of influence exerted by a representative on the board in decision-making depends 
+upon several factors such as extent of industry knowledge, length of experience, recognition 
+in business world, length of association with the enterprise, dependence of the target for 
+funding, technology, supply of inputs or sale of product and services, etc. Acquirer’s 
+industry expertise might lead to its advice being followed to a greater extent than its extent 
+of voting right. Further, target’s efforts to pursue certain strategies may get dampened 
+pursuant to perception of the shareholder. Minority presence on the board may enable 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 16 
+ 
+exercise of material influence over the management or affairs or strategic commercial 
+decisions of the target.  
+ 
+40. Thus, control, whether it may be in the form of sole or joint, is defined as possibility (i.e., 
+mere existence of rights and not the actual conduct in relation to these rights) of exercising 
+material influence on the enterprise on the basis of shareholding, voting rights, other rights, 
+contracts/agreements or any other means. Joint control exists when two or more persons 
+have the ability to exercise material influence over another enterprise. Joint control does 
+not require for two enterprises to have equal rights or equal degree of control in the other 
+enterprise. A constraining presence on the decision-making process or affairs or 
+management of an enterprise by a person suffices control. 
+ 
+41. BAL and LMIL have based their argument on the difference between control, joint control 
+and material influence. In this regard, based on the foregoing, the Commission observes 
+that when determining the applicability of benefit of Item 2 Provision, ‘joint control’ and 
+‘sole control’ should be read to include the ability to exercise material influence over the 
+management or affairs or strategic commercial decisions of the target. Thus, the Parties’ 
+submission that test for Item 2 Provision is that of joint control and not material influence, 
+former being a higher threshold, is not tenable.  
+ 
+42. Veto right confers control to the acquirer over the concerned matter of the target. Thus, 
+veto on the matter of economic or commercial significance to the target is always 
+considered conferring control in terms of and for the purposes of the Section 5 of the Act. 
+ 
+43. LMIL held 20% shareholding in BTL prior to the Transaction, along with a bundle of rights, 
+including, inter alia,: (a) right to appoint a non-executive director on the board of BTL and 
+nominate such director on the audit committee of BTL as long as LMIL held 7.5% stake in 
+BTL; (b) LMIL director had the right to access the books, accounts, records, properties and 
+facilities of BTL; (c) affirmative veto rights over certain reserved matters such as 
+amendment to the charter documents; amalgamation or merger or demerger or spin-off; 
+change in capital structure with certain exceptions, so long as LMIL held 7.5% stake in 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 16 
+ 
+BTL; (d) BTL could consult LMIL while appointing, removing or re-appointing of the 
+KMPs of BTL prior to taking any such decision, so long as LMIL held 7.5% stake in BTL; 
+(e) LMIL director was required for quorum in a scheduled board meeting/shareholder 
+meeting; (f) rights in subsidiaries – all the rights mentioned were available to LMIL in 
+respect of all direct and indirect subsidiaries of BTL, so long as LMIL held 7.5% stake in 
+BTL; and (g) information rights wherein BTL was required to provide management 
+information reports, quarterly audited financial statements and audited financial statements 
+to LMIL.  
+ 
+44. LMIL had 20% shareholding in BTL with corresponding voting rights as well as 
+representation on the board (albeit minority), veto rights, quorum requirements, 
+consultation rights, etc. The rights held by LMIL in BTL also extend to all subsidiaries of 
+BTL. Further, LMIL even exercised its right of appointing board member, Mr. Viraj 
+Sawhney, on the board of BTL. The ability to participate in the board decision-making 
+process provides access to commercially sensitive information in addition to the ability to 
+influence the decision-making process. Further, the quorum requirements also mandated 
+the presence of this board member of LMIL in all scheduled board meetings and 
+shareholder meetings. Only in situations that such quorum was not met in the first instance, 
+the meeting may be rescheduled after 7 days, where such quorum requirement can be 
+waived off. Even in such meetings, no decision on the reserved matters could be taken. 
+These matters, inter alia, include amendments to charter documents, proposal for 
+amalgamation, merger, demerger or spin off. The sum total of veto rights appear to be 
+related to affairs or management of BTL and hence confer material influence of LMIL over 
+BTL.  
+ 
+45. Further, the dichotomy in the submissions of BAL and LMIL is also evident from the fact 
+that while the Parties claim these veto rights as investor protection, they fail to elucidate 
+why LMIL does not require such rights in the BTL if its investment falls below 7.5%.  
+ 
+46. Prior to the transaction, where certain material influence over management or affairs or 
+strategic commercial decisions of an enterprise is subject to joint control, but one of the 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 16 
+ 
+shareholders exerting joint control loses its ability to materially influence, the other joint 
+controller gains sole control over management or affairs or strategic commercial decisions 
+of an enterprise. In such cases, benefit of Item 2 Provision would not be available. This 
+would hold good irrespective of the fact that the person that gained sole control, already 
+held more than 75% shareholding and thus, sole control over special resolutions.  
+ 
+47. Considering the rights of LMIL, the Commission concludes that the rights held by LMIL 
+in BTL prior to Transaction conferred upon it the ability to exert material influence over 
+management or affairs or strategic commercial decisions. Thereby, the Step 1 is not eligible 
+for the benefit of Item 2 Provision. 
+ 
+48. With regard to submission about eligibility of Step 2 of the Transaction for Item 1 Provision 
+the Commission observes that Step 2 being part payment for Step 1 renders the two tranches 
+interconnected within the meaning of Regulation 9(4) of the Combination Regulations. The 
+interconnectedness of the Step 1 and Step 2 places an onus to jointly notify the Transaction, 
+as per Regulation 9(4) of the Combination Regulation. Accordingly, the Commission 
+concludes that one composite notice ought to be filed to the Commission, prior to 
+consummating any step of the Transaction, jointly by both the Parties, with BAL being the 
+acquirer in Step 1 and LMIL being the acquirer in Step 2.  
+ 
+49. Section 43A of the Act provides that if any person or enterprise fails to give notice to the 
+Commission under Section 6(2) of the Act, the Commission shall impose on such person 
+or enterprise a penalty which may extend to 1% of the total turnover or the assets, whichever 
+is higher, of such a combination. Thus, Section 43A of the Act empowers the Commission 
+to determine the appropriate amount of penalty in a matter, subject to the maximum of 1% 
+of the total turnover or the assets, whichever is higher.  
+ 
+50. Considering the facts and circumstances of the instant matter, the conduct of BAL and 
+LMIL during the proceedings, and the past violations of the Act by BAL2, the Commission 
+ 
+2 Orders under Section 43A of the Act pertaining to Combination Registration Nos. C-2017/10/531, C-2017/05/510 
+and C-2017/05/509 dated 27th August 2018, 11th May 2018 and 11th May 2018, respectively 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 16 of 16 
+ 
+considers it appropriate to impose a penalty of INR 1,00,00,000 (Indian Rupees One Crore 
+only) on BAL (being the acquirer in Step 1 of the Transaction), which is directed to pay the 
+penalty within 60 days from the date of receipt of this order. 
+ 
+51. Further, under Regulation 8(2) of the Combination Regulations, the Commission hereby 
+also directs BAL and LMIL to file notice with the Commission in appropriate form, in 
+relation to the Transaction, within 60 days from the receipt of the direction of the 
+Commission.   
+ 
+52. The Secretary is directed to communicate to BAL and LMIL accordingly. 
+ 
+ 
+ 
+ 

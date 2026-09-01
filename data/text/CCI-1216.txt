@@ -1,0 +1,790 @@
+ 
+ Page 1 of 19 
+ 
+COMPETITION COMMISSION OF INDIA 
+(Ref. No. C-2021/01/810) 
+ 
+30th September 2022 
+ 
+Proceedings against Trian Partners AM Holdco, Ltd. and Trian Fund Management, 
+L.P., under Section 43A of the Competition Act, 2002 
+ 
+CORAM:  
+ 
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing  
+For Trian Partners AM 
+Holdco, Ltd. and Trian 
+Fund Management, L.P.: 
+Mr. Amit Sibal, Senior Advocate with Ms. Shweta Shroff 
+Chopra, Ms. Aparna Mehra, Advocates along with Mr. 
+Brian Schorr and Mr. Dan Max, representatives of Trian 
+Fund Management, L.P. 
+ 
+ 
+ORDER UNDER SECTION 43A OF THE COMPETITION ACT, 2002 
+ 
+This order shall govern the disposal of the proceedings initiated against Trian Partners 
+AM Holdco, Ltd. (‘Trian Holdco’) and Trian Fund Management, L.P. (‘Trian Fund’) 
+[Hereinafter, Trian Holdco and Trian Fund are collectively referred to as 
+‘Trian’/‘Acquirers’] under Section 43A of the Competition Act, 2002 (‘Act’) in relation 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 19 
+ 
+to the acquisition of shareholding amounting to 9.9% in Invesco Limited 
+(‘Invesco’/‘Target’) (‘Transaction’). The Transaction was given effect to through the 
+following steps: (a) Trian (through its affiliates) acquired 4.8% of the outstanding shares 
+of the Target, by way of open-market purchases, in June 2020 (‘First Acquisition’); and 
+(b) Trian Holdco acquiring beneficial ownership over an additional 5.1% of the 
+outstanding shares of Invesco through open-market purchases and derivative transactions 
+entered into with a third-party financial institution during the period of 22nd – 30th 
+September 2020 (‘Second Acquisition’).   
+ 
+2. 
+On 20th January 2021, the Competition Commission of India (‘Commission’) received a 
+Notice in Form I under Section 6(2) of the Act read with Regulation 5A of the Competition 
+Commission of India (Procedure in regard to Transaction of Business relating to 
+Combinations) Regulations, 2011 (‘Combination Regulations’), given by Trian Holdco, 
+whose investment activities are managed by Trian Fund. The Notice was given pursuant 
+to a board resolution passed by the Trian Holdco on 8th December 2020 for acquisition of 
+additional securities of the Target, pursuant to which, Trian Holdco would hold more than 
+10% of the outstanding shares of the Target (‘Combination’). The said Combination was 
+notified to the Commission by Trian Holdco in Combination Registration No. C-
+2021/01/810. As per the information provided in the Notice, it was observed that the 
+Combination was preceded by the Transaction, which was not notified to the Commission 
+under Section 6(2) of the Act. 
+ 
+A. Background 
+ 
+3. 
+Trian Holdco is an alternate investment vehicle incorporated under the laws of Cayman 
+Islands. Trian Fund is a global investment management firm founded in 2005 by Mr. 
+Nelson Peltz, Mr. Edward Garden and Mr. Peter May (‘Trian Founding Partners’), 
+based out of the United States of America (‘USA’). As of 1st February 2022, Trian Fund 
+has approximately USD 8.2 billion worth of assets under management, out of which 
+approximately 60% are based in the USA. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 19 
+ 
+4. 
+The Target is a public listed company incorporated under the laws of Bermuda, 
+headquartered in the USA, and is listed on the New York Stock Exchange. Invesco is 
+present in more than 20 countries and manages approximately USD 1.35 trillion in assets 
+for investors around the world. The Target has four subsidiaries incorporated in India: 
+Invesco Asset Management (India) Private Limited, Invesco Trustee Private Ltd., Invesco 
+(India) Private Limited and Redblack Software Private Limited (collectively referred to 
+as ‘Invesco India Subsidiaries’). 
+ 
+5. 
+Pursuant to the closing of the Transaction, Trian filed a statement under Schedule 13D of 
+the Securities Exchange Act of 1934 with the United States Securities Exchange 
+Commission (‘SEC’) on 2nd October 2020 (‘SEC Filing’). The SEC Filing, inter alia, 
+stated the following: 
+ 
+“The Reporting Persons have met and engaged in a constructive discussion with 
+Martin Flanagan, a director and President and Chief Executive Officer of the Issuer 
+(Invesco), and Allison Dukes, Senior Managing Director and Chief Financial 
+Officer of the Issuer.” 
+ 
+“The Reporting Persons intend to continue to engage in discussions with the Board 
+and/or management of the Issuer regarding various strategic and operational 
+initiatives that the Reporting Persons believe can generate value.  Such initiatives 
+may include recommendations relating to the Issuer’s operations, organizational 
+structure, technology, product offerings, talent development and retention 
+strategies, capital allocation and dividend policies and corporate governance (such 
+as initiatives relating to the Issuer’s executive compensation design, organizational 
+documents and changes to Board composition).” (emphasis supplied) 
+ 
+“During the meeting with Mr. Flanagan and Ms. Dukes, the Reporting Persons 
+requested that the Board be expanded to include Trian partners Nelson Peltz and 
+Ed Garden and also discussed Board refreshment.” (emphasis supplied) 
+  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 19 
+ 
+“…and may encourage the Issuer to explore, certain strategic combinations (such 
+as mergers, acquisitions, consolidations or other extraordinary corporate 
+transactions) with one or more companies in the asset management industry (which 
+may include companies in which the Reporting Persons are currently shareholders 
+or may in the future become shareholders).” 
+ 
+“The Reporting Persons may seek to participate in any such strategic combinations 
+and may initiate or participate in discussions with the board of directors and/or 
+management of the proposed or contemplated counterparties in such transactions.” 
+ 
+6. 
+On 4th November 2020, the Target decided to expand its Board from 9 to 12 directors and 
+invited 2 of Trian’s Founding Partners, namely, Mr. Nelson Peltz and Mr. Ed Garden, on 
+its Board of directors. 
+ 
+7. 
+Pursuant to its board resolution, Trian filed the Notice with the Commission on 20th 
+January 2021 only for the Combination under the Green Channel Route. The Combination 
+was deemed to have been approved upon filing the Notice, in accordance with Regulation 
+5A of the Combination Regulations, as it did not result in any overlaps between the 
+business activities of Trian Holdco/Trian Group and the Target in India. 
+ 
+8. 
+The Commission issued an inquiry letter under Section 20(1) of the Act on 12th April 2021 
+regarding the Transaction. The response to the inquiry letter was filed by Trian on 16th 
+August 2021 (‘Response to Letter’).  
+ 
+B.  Initiation of proceedings under Section 43A of the Act 
+ 
+9. 
+In terms of Section 6(2) of the Act, an enterprise which proposes to enter into a 
+combination is required to give a notice to the Commission, disclosing the details of the 
+proposed combination within 30 days of the execution of any agreement or other 
+document for acquisition. Further, as per Section 6(2A) of the Act, no combination shall 
+come into effect until 210 days have passed from the day on which the notice has been 
+given to the Commission under Section 6(2) or the Commission has passed an order under 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 19 
+ 
+Section 31 of the Act, whichever is earlier. The Central Government, in exercise of the 
+powers conferred by Clause (a) of Section 54 of the Act, in public interest, has exempted 
+every person or enterprise who is a party to a combination as referred to in Section 5 of 
+the Act from giving notice within 30 days mentioned in Section 6(2) of the Act, subject 
+to the provisions of Section 6(2A) and Section 43A of the Act.  
+ 
+10. 
+The Commission, in its meeting held on 20th December 2021, considered the issue of 
+consummation of the Transaction without filing a notice to the Commission. The 
+Commission observed that the benefit under Item I of Schedule 1 of Combination 
+Regulations (‘Item 1 Provision’) is available when an acquirer does not have the right or 
+intention to nominate a director on the board of directors of the enterprise whose shares 
+are being acquired. Thus, prima facie, even if it is accepted that Trian Holdco had no 
+intention of participating in management of the Target at the time of acquisition of shares, 
+Trian Holdco had vitiated the benefit of Item 1 Provision as soon as it initiated its pursuit 
+for obtaining Board seat(s) on the Board of the Target after the Transaction. On the 
+contrary, the Commission also observed that various disclosures made by Trian in SEC 
+filing and other material on record indicate their intention to participate in the affairs or 
+management of the Target. Thus, Trian had acquired shareholding of Invesco, which was 
+strategic in nature and was accompanied with the intention of nominating a director on 
+the Board of Invesco and which also resulted in the subsequent acquisition of Board seats. 
+Further, it appeared that Trian intended to participate in the affairs or management of 
+Invesco. In view of the foregoing, the Commission was of the prima facie view that the 
+Transaction cannot be categorised or given a colour of ‘Solely for Investment’ /‘Ordinary 
+Course of Business’ and therefore, cannot benefit from the Item 1 Provision. It was also 
+observed that the absence of any binding documents between the parties doesn’t 
+necessarily preclude the existence of strategic intent behind an acquisition. Hence, the 
+absence of a binding document executed between the parties to the combination doesn’t 
+exempt the Transaction from notification requirements.   
+ 
+11. 
+Therefore, the Commission was of the prima facie view that the Transaction was given 
+effect to without giving notice to the Commission, leading to contravention of sub-section 
+(2) and (2A) of Section 6 of the Act. Accordingly, the Commission issued SCN under 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 19 
+ 
+Section 43A of the Act on 17th January 2021. Trian filed its response to the SCN on 29th 
+March 2021 after seeking an extension of time (‘Response to SCN’). 
+ 
+12. 
+In its meeting held on 13th April 2022, the Commission considered the Response to SCN 
+and decided to grant an oral hearing to Trian on 11th May 2022. The Acquirer was heard 
+on 11th May 2022 and filed written submissions on 20th May 2022.   
+ 
+C. Submissions of the Acquirers 
+ 
+13. 
+In the Response to SCN, Trian contended the following: 
+ 
+I.  Applicability of Item 1 Provision to the Transaction 
+ 
+14. 
+The Item I Provision contains three conditions that need to be satisfied in order to avail of 
+the benefit. It may be noted that the three conditions are cumulative, and accordingly, all 
+three conditions must be satisfied. However, the second condition provides two alternative 
+scenarios, i.e., the acquisition is solely for investment purposes or is in the ordinary course 
+of business of the acquirer. Further, it may be noted that the “Explanation” provided under 
+Item I only relates to providing an explanation solely for the investment purposes 
+condition and does not apply to the ordinary course of business condition.  
+ 
+15. 
+It is submitted that the first condition of Item 1 Provision, which provides that the 
+acquisition should not entitle the acquirer to hold 25% or more of the total shares or voting 
+rights of the target, is satisfied in the present case, and this fact is not under contention. 
+ 
+16. 
+With regard to the second condition of Item 1 Provision, it is submitted that the 
+Transaction and subsequent appointment of Board members pursuant to the invitation 
+were in the ordinary course of business of Trian. In a previous case, the Commission held 
+that the term “ordinary course of business” is meant to refer to transactions which are 
+“frequent, routine and usual”1. 
+                                                          
+1 Order under Section 43A of the Act pertaining to Combination Registration No. C-2017/06/516 dated 11th May 
+2018 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 19 
+ 
+ 
+17. 
+It is also submitted that, based on various different sources/decisions (from various 
+different authorities and jurisdictions), it appears that the following factors may be 
+considered when examining whether a transaction is in the ordinary course of business of 
+an entity: the transaction should be or shall result in (a) a frequent/repetitive, routine and 
+usual form of transaction for the business, (b) in accordance with the usual customs and 
+practices of the business and in furtherance of the business in which it is habitually 
+engaged, (c) a part of the undistinguished common flow of business done and is not arising 
+out of any special or particular situation, (d) not appear anomalous or unbusiness-like, (e) 
+undertaken in a continuous and organised manner, (f) in line with the stated objective of 
+the company in its charter documents, (g) income earned from the activity should be 
+treated as business income (i.e., income from operations) in the company’s books of 
+accounts, (h) common in that particular industry, (i) evidence of historical practice of 
+conducting such activities and (j) company should be investing a sizeable portion of its 
+resources to such activities.  
+ 
+18. 
+With regard to Trian, its business model is to operate as an engaged shareholder, and it 
+typically engages with the management teams and boards of its investee companies. This 
+is to protect its minority investments and provide suggestions (similar to the right enjoyed 
+by all other shareholders) to the company to improve their operations in order to earn 
+higher ROI. Presence of Trian on the board of the investee entities assists Trian in 
+providing suggestions at the board level. It is routine for Trian to be invited to and accept 
+a (minority) board seat of its investee entity. 
+ 
+19. 
+Further, it may be noted that there is no prohibition on ordinary course of business being 
+available where an ordinary shareholder is invited to the board, unlike solely for 
+investment purposes (which is expressly not available if the transaction is accompanied 
+with a board seat/intention to appoint a board seat). 
+ 
+20. 
+With respect to the allegations pertaining to Trian discussing the dynamics of a 
+combination of Target and another entity, it has been submitted that any prudent investor 
+will undertake some amount of diligence on the target prior to investing, including 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 19 
+ 
+gathering basic information about a target’s key managerial personnel. Such an exercise 
+of assessing the impact of a hypothetical merger is typically undertaken by all companies 
+prior to undertaking an acquisition purely from the perspective of return on investment, 
+and this in itself cannot result in the transaction not being viewed as ordinary course of 
+business.  
+ 
+21. 
+Thus, based on the above, Trian has submitted that, in the present case, the Transaction 
+qualifies for the ordinary course of business limb of the Item 1 Provision.  
+ 
+22. 
+With regard to third condition of Item 1 Provision, Trian has submitted that, in its previous 
+decisional practice, the Commission interpreted control to mean “the ability to exercise 
+decisive influence over the management or affairs and strategic commercial decisions”2 
+of a target enterprise, whether such decisive influence is being exercised by way of a 
+majority shareholding, veto rights (attached to a minority shareholding) or contractual 
+covenants. In a few recent cases3, the Commission has indicated that it may rely on the 
+“material influence” standard compared to the “decisive influence” standard discussed 
+above, which is a lower standard for control. However, it may be noted that, in these 
+limited cases, the Commission has not dealt with the express question of whether a single 
+(or two) board seats, without any veto or affirmative rights, amounts to control from the 
+perspective of the Item I Provision. 
+ 
+23. 
+In the instant case, Trian has no veto rights in Invesco and its ability to make suggestions 
+cannot be equated to veto rights. Trian has never been party to any Shareholders’ 
+Agreement relating to Invesco. Trian Founding Partners were invited to occupy two out 
+of a total 12 Board seats in Invesco on a temporary basis (the Board members resigned 
+less than two years after appointment) and were not exercising any form of material 
+influence over Invesco during their term. Invesco and Trian were under a legal obligation 
+to assess whether Trian had acquired joint or sole control over Invesco, and neither Trian 
+                                                          
+2 Order under Section 31 (1) of the Act pertaining to Combination Registration No. C-2012/03/47, dated 24th 
+May 2012 
+3 Order under Section 26 (2) of the Act pertaining Case No. 25 – 28/2017, dated 20th June 2018 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 19 
+ 
+nor Invesco itself (nor the SEC) were of the view that Trian had acquired joint or sole 
+control over Invesco. 
+ 
+24. 
+The Transaction and the appointment of Trian Founding Partners on Invesco’s Board of 
+Directors pursuant to an invitation took place entirely outside India and does not have any 
+local nexus to India. Accordingly, they should not be assessed against the standards of 
+‘control’ under the Indian Competition Act. Trian has no Board seats in any of Invesco’s 
+Indian subsidiaries. India represents a minuscule portion of the business of Invesco, and 
+Trian’s presence in India is also negligible compared to its overall global presence. 
+ 
+25. 
+Based on the above, Trian cannot be held to be in control of Invesco, and thus, it is 
+submitted that all three conditions of Item I Provision are met in the present case. 
+ 
+II. Transaction and subsequent appointment of the board members pursuant to an 
+invitation were not inter-connected  
+ 
+26. 
+It is submitted that, even if the Transaction and the subsequent appointment of the Board 
+members pursuant to an invitation from Invesco are viewed as being inter-connected by 
+the Commission, both these transactions should be able to collectively avail the benefit of 
+the Item I Provision. Both transactions separately would be exempt from/not require a 
+notification to the Commission. The Transaction (in itself, independent of Board seats) 
+would satisfy the ‘solely as an investment’ limb of Item 1 Provision (in addition to the 
+Ordinary course of business limb) and board seat appointments (in itself) would not 
+trigger a notification requirement. However, it is then mentioned that these were not inter-
+connected. 
+ 
+27. 
+The Commission in the past has considered a few factors such as simultaneity in 
+negotiation, execution and consummation of the transaction documents; if the two 
+transactions stem from a single transaction document; if closing of one step of the 
+transaction is a condition precedent to closing of the other transaction; and commercial 
+feasibility of isolating the transactions. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 19 
+ 
+28. 
+The Transaction was undertaken by Trian through open market purchases and derivative 
+transactions entered into with a third-party financial institution. The Transaction was 
+made without the knowledge or consent of Invesco and without any communications with 
+Invesco. In such a scenario, there can be no question of Invesco inviting Trian onto its 
+Board at the time of the Transaction (or indicating that any such invitation will be 
+provided in the future). This demonstrates that the Transaction was not conditional or 
+dependent upon Invesco providing a Board seat to Trian. 
+ 
+29. 
+Further, Trian and Invesco engaged in discussions around the Board seat only after the 
+Transaction had already closed, and therefore, this was not a condition precedent for Trian 
+to undertake the Transactions. 
+ 
+30. 
+The appointment of the Board members took place more than four months after the First 
+Acquisition and more than a month after the Second Acquisition. Moreover, Trian had 
+not entered into any agreement/term sheet/any other document (or even had any 
+discussions) with Invesco, let alone any documents/discussions relating to the Board seats. 
+Initially, Invesco had not accepted Trian’s suggestion to invite Trian onto their Board; 
+however, this did not result in Trian selling off its shares in Invesco. Subsequently, on 1st 
+February 2022, Trian’s Board members resigned from Invesco’s Board; however, Trian 
+has not decreased its shareholdings in Invesco. This clearly evidences that both 
+transactions are not inter-connected.  
+ 
+D. Analysis of the submissions of the Acquirers 
+ 
+31. 
+The core issue in the instant case is whether the Transaction and subsequent appointment 
+of directors on the Board of the Target was covered under the Item 1 Provision and 
+accordingly, was eligible for not filing the notice under sub-section (2) of Section 6 of the 
+Act. In the subsequent section, the Commission has considered and determined on all the 
+submissions of the Acquirers, including those on the core issue and other submissions of 
+the Acquirers. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 19 
+ 
+I.  Applicability of Item 1 Provision to the Transaction 
+ 
+32. 
+The Item 1 Provision reads as follows: 
+ 
+“An acquisition of shares or voting rights, referred to in sub-clause (i) or sub-
+clause (ii) of clause (a) of section 5 of the Act, solely as an investment or in the 
+ordinary course of business in so far as the total shares or voting rights held by 
+the acquirer directly or indirectly, does not entitle the acquirer to hold twenty 
+five per cent (25%) or more of the total shares or voting rights of the company, 
+of which shares or voting rights are being acquired, directly or indirectly or in 
+accordance with the execution of any document including a shareholders 
+agreement or articles of association, not leading to acquisition of control of the 
+enterprise whose shares or voting rights are being acquired. 
+ 
+Explanation:- The acquisition of less than ten per cent of the total shares or 
+voting rights of an enterprise shall be treated as solely as an investment: 
+Provided that in relation to the said acquisition,- 
+(A) the Acquirer has ability to exercise only such rights that are exercisable by 
+the ordinary shareholders of the enterprise whose shares or voting rights are 
+being acquired to the extent of their respective shareholding; and 
+(B) the Acquirer is not a member of the board of directors of the enterprise whose 
+shares or voting rights are being acquired and does not have a right or intention 
+to nominate a director on the board of directors of the enterprise whose shares 
+or voting rights are being acquired and does not intend to participate in the 
+affairs or management of the enterprise whose shares or voting rights are being 
+acquired.” 
+ 
+33. 
+Further, Regulation 4 of the Combination Regulations states that:  
+“…categories of combinations mentioned in Schedule I are ordinarily not likely 
+to cause an appreciable adverse effect on competition in India, notice under sub-
+section (2) of section 6 of the Act need not normally be filed”. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 19 
+ 
+34. 
+From the Item 1 Provision read with Regulation 4 of the Combination Regulations, it is 
+clear that benefit of this provision is not available to instances where there has been an 
+acquisition of control. The benefit of Item 1 Provision has been normally available to the 
+acquisition of shareholding or voting rights less than 25% and which are in the ‘ordinary 
+course of business’ or ‘solely as an investment’. The objective of this provision is to 
+distinguish between instances of ordinary shareholding and strategic shareholding, falling 
+short of position of acquisition of control. 
+ 
+35. 
+The primary issue relevant for determination of notifiability of the Transaction is whether 
+it was in ‘ordinary course of business’ or ‘solely as an investment’ or not. Hence, the issue 
+of notifiability of Transaction is settled in terms of applicability of Item 1 Provision in 
+this case. Item 1 Provision comprises three conditions, i.e., acquisition of less than 25% 
+of shares or voting rights, acquisition done solely as an investment or in the ordinary 
+course of business and acquisition should not be leading to control. Even if one of the 
+three conditions prescribed under this item is not satisfied, the benefit of Item 1 Provision 
+is not available. Accordingly, the Commission observed that the question of acquisition 
+of control is irrelevant to the primary issue in the instant matter. 
+ 
+36. 
+In the Response to the Letter, it was submitted that the “Transaction was made by the 
+Acquirer solely as an investment and/ or in the ordinary course of business”, whereas in 
+the Response to SCN, it was submitted that the Transaction is in ordinary course of 
+business. Thus, though the submission of the Acquirers is fluid, the Commission has 
+considered both limbs to determine to notifiability.  
+ 
+37. 
+To begin with, the Transaction will be examined if it was in the nature of ‘solely as an 
+investment’. Trian on its part has submitted that, in the absence of any veto rights or other 
+contractual rights, such a minority representation on the Board in and of itself would not 
+make the Transaction strategic, as it does not confer Trian with the right to make any 
+operational or management decisions of Invesco, and that such a minority representation 
+on the Board was always intended to allow Trian to provide suggestions to the company 
+to improve their operations in order to earn higher ROI (viz., return on investment).  
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 19 
+ 
+38. 
+In this regard, it would be appropriate to highlight that, often, the competitive dynamics 
+are not influenced only by active decisions; rather, a broad understanding or awareness of 
+the competitively sensitive information is sufficient to lead to coordinated outcomes, 
+frustrating the process of competition. 
+ 
+39. 
+Firstly, considering proviso (B) to explanation of Item 1 Provision, it is noted that the first 
+condition prescribes therein that there be no representation of the acquirer on the board of 
+directors of the enterprise whose shares or voting rights are being acquired. This is meant 
+to ensure that an acquirer with minority shareholding does not become privy to 
+competitively sensitive information, access or awareness of which may be sufficient to 
+lead to coordinated outcomes.  
+ 
+40. 
+The second condition of the same proviso requires there shouldn’t be a right or intention 
+to nominate a director on the board of directors of the enterprise whose shares or voting 
+rights are being acquired and there shouldn’t be any intention on the part of the acquirer 
+to participate in the affairs or management of the enterprise whose shares or voting rights 
+are being acquired. The reference to ‘right’, i.e., an existing right captured in the 
+transaction documents, and ‘intention’, i.e., a futuristic right or position, is meant to ensure 
+that the regulatory framework is consistent with the core principle of ‘substance over 
+form’. There could be a situation where the parties can first acquire only shares and 
+subsequently negotiate or agree for board representation or participation in management. 
+There could also be a situation where the board seat or management participation may be 
+a subsequent unrelated development. In cases when there is an intention to participate in 
+management or to have board representation, the notice is required to be filed ex-ante, 
+while in cases where such developments are subsequent and unrelated, the party should 
+file the notice before giving effect to such subsequent arrangements or developments. It 
+goes without saying that the onus to prove that the developments were subsequent to the 
+acquisition of shares or voting rights will be on the acquirer. 
+ 
+41. 
+Another condition prescribed in proviso (A) to explanation of Item 1 Provision is that the 
+acquirer, if it wants to benefit from the application of this item, should only have the 
+ability to exercise rights that are exercisable by the ordinary shareholder of the enterprise 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 19 
+ 
+whose shares or voting rights are being acquired to the extent of their respective 
+shareholding. The Item 1 Provision covers the transactions not amounting to the 
+acquisition of control and accordingly, does not differentiate between various rights, viz., 
+investor protection rights, informational rights, etc. 
+ 
+42. 
+When the facts of the instant case are examined against the above backdrop, it is observed 
+that: 
+ 
+(a) Trian closed the Second Acquisition (and thus, the Transaction) and, on the same date, 
+negotiated for the Board seat(s) on the Target. This is evident from its own submissions 
+as well as its disclosure in SEC Filing. Thus, Trian intended to participate in the affairs 
+and management of the Target. 
+ 
+(b) Trian acquired two Board seats in a matter of less than two months from the date of 
+closing of the Transaction. Such rights are not available to ordinary shareholders.  
+ 
+Based on the aforesaid, it appears that the Acquirers clearly had the intention to participate 
+in the affairs and management of the Target. Hence, the Transaction does not satisfy the 
+conditions of the Explanation to Item 1 Provision and it cannot be solely as an investment.   
+ 
+43. 
+The Transaction is also examined if it was in the ordinary course of business. In this 
+regard, the Commission observed4 that the relevance of classification of business 
+transactions as revenue transactions and capital transactions and in that backdrop noted 
+that, “[T]he term “ordinary course of business” is meant to refer to transactions which 
+are frequent, routine and usual and therefore it may be said that the term “ordinary 
+course of business” corresponds to revenue transactions for the competition law 
+purposes.” In the same order, the Commission noted that, “Revenue transactions may 
+simply be defined as those transactions which are short term and constitute income and 
+expenditure and are accordingly reflected in profit and loss account or income statement 
+                                                          
+4 Order under Section 43A of the Act pertaining to Combination Registration No. C-2017/05/509 dated 11th May 
+2018 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 19 
+ 
+of the enterprise. Capital transactions on the other hand are those which affect non-
+current items such as fixed assets, long term debt etc. and affect the position statement of 
+an enterprise.” The aforesaid decision was given in context of a transaction involving 
+acquisition of assets, however, the basic principles underlying the same are equally 
+applicable in case of transactions involving acquisition of shares. Accordingly, while 
+examining the issue of scope of ‘ordinary course of business’ in context of acquisition of 
+shares, the Commission observed5 that, “[T]ransactions in ordinary course of sale and 
+purchase of securities are done solely with the intent to get benefited from short term price 
+movement of securities” which re-emphasises the underlying aspects of frequency, 
+duration of holding, intent etc.  
+ 
+44. 
+Thus, the first test for examining a transaction for being in ordinary course of business is 
+whether the same is a revenue transaction or a capital transaction. In this regard, the 
+submissions of Trian are noteworthy. Trian has submitted that their business model is that 
+it operates as an ‘engaged shareholder’ and the rationale stated is to ‘protect its minority 
+investments’ (emphasis added). Further, it has been stated that they provide suggestions 
+to the investee entity to improve their operations in order to earn a higher ROI. Thus, first 
+and foremost, it becomes explicitly clear that even Trian considers the Transaction as an 
+‘investment’ and that ‘investments’ are in the nature of a capital transaction and not a 
+revenue transaction. Thus, going by the same, in the context of this Transaction in 
+particular and the aforesaid business models in general, it is observed that the business 
+models which have at their core, the intent to operate as an ‘engaged shareholder’ and 
+work with the management to earn a higher ROI fulfil the characteristics of an 
+‘investment’ and cannot be considered to be in ordinary course of business for competition 
+law purposes. 
+ 
+45. 
+The aforesaid business model, if tested on the parameter of whether the parties ‘intended 
+to get benefited from short term price movement of securities’ would also yield similar 
+results. The aforesaid business model which seeks to participate and work with the 
+management for earning a higher ROI is premised on a longer time horizon of investment 
+                                                          
+5 Order under Section 31(1) of the Act in relation to Combination Registration No. C – 2022/02/905, dated 23rd 
+March 2022 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 16 of 19 
+ 
+and its intended nature of returns goes against the scope of ordinary course of business 
+activities which are intended to benefit from short term price movement of securities. This 
+premise is also reflected in the fact that Trian’s Founding Partners were on the Board of 
+the Target for more than a year, and even after their exit, Trian continues to hold its stake 
+in Target. 
+ 
+46. 
+Further, the Commission considered Trian’s submissions that transactions which are in 
+the ordinary course of business activities can be distinguished from those that are intended 
+to be solely as an investment and thus the two are completely exclusive requirements in 
+context of Item 1 Provision. Accordingly, a transaction may not qualify as a solely for 
+investment activity but may still qualify for being an ordinary course activity. In this 
+regard, it may be noted that the ‘ordinary course of business’ activities are revenue 
+transactions and therefore ‘investments’ do not come in their ambit. The moment it is 
+concluded that the activity in question is an ‘investment’, the question for determination 
+of notifiability is whether the same is ‘solely as an investment’ i.e., the nature of the 
+investment is such which is not likely to impact the competition dynamics or otherwise. 
+Going by the same, the key consideration for ‘ordinary course of business’ test is that the 
+activity in question should not even be an ‘investment’. Once the activity is held to be an 
+‘investment’, even if it does satisfy ‘solely as an investment’ test, it cannot be considered 
+to be in ‘ordinary course of business’ by implication.  
+ 
+47. 
+Based on the foregoing, it is evident that the Transaction is not in ordinary course of 
+business and cannot avail the benefit of Item 1 Provision. 
+ 
+II. Trigger for notifiability of Transaction and subsequent appointment of the board 
+members  
+ 
+48. 
+In the Response to Letter, Trian had submitted that, post the completion of the Transaction 
+and after trading hours, Mr. Nelson Peltz and Mr. Ed Garden met and engaged in a 
+constructive discussion with the Chief Executive Officer and the Chief Financial Officer 
+of the Target. During the meeting, Messrs. Peltz and Garden requested that the Target’s 
+Board be expanded to include each of Messrs. Peltz and Garden. 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 17 of 19 
+ 
+ 
+49. 
+In the Response to SCN, Trian also submitted that Trian always engages as an engaged 
+shareholder in its investee entities. Trian has also disclosed in the SEC Filing under ‘Item 
+4. Purpose of Transaction’ its various intentions to participate in the affairs and 
+management of the Target. A joint reading of these disclosures implies that the 
+appointment of the Board members succeeded the Transaction and the subsequent 
+discussions between the parties. Also, as the Transaction was a condition precedent to the 
+appointment of Board members, failing the completion of former, the latter would not 
+have occurred.  
+ 
+50. 
+Further, Trian has submitted that it did discuss the merger of Target with another investee 
+entity. Even though it may have been a hypothetical merger as contended by Trian in its 
+response, to give effect to such a merger, Trian’s representation on the Board would have 
+been required and/or any other rights which are not available to ordinary shareholders, at 
+the very least. As an ordinary shareholder of the Target, Trian would practically not stand 
+a chance to convince the Board of the Target to even consider such a proposition.  
+  
+51. 
+Despite the above submissions, Trian, in the Response to SCN, submitted that its 
+representation on the Board of the Target did not occur as a result of Mr. Nelson Peltz and 
+Mr. Ed Garden meeting with the key personnel of the Target post the completion of the 
+Transaction and after trading hours. But based on the aforesaid, it is clear that Trian 
+intended to participate in the affairs and management of the Target without ruling out the 
+possibility that there may have been an understanding with the Target in that regard. 
+However, even if Trian’s contentions were to be believed, that there was no such intention 
+or understanding, it was incumbent on Trian to approach the Commission before 
+accepting the positions on the Board, which allowed Trian to participate in the 
+management or affairs of the Target. 
+ 
+52. 
+Thus, based on the analysis of the response of Trian, the Commission is of the opinion 
+that, in consummating the Transaction without approval of the Commission, Trian has 
+failed to file a notice for the Transaction in accordance with Section 6(2) of the Act, which 
+reads as under: 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 18 of 19 
+ 
+ 
+“Subject to the provisions contained in sub-section (1), any person or enterprise, who 
+or which proposes to enter into a combination, [shall] give notice to the Commission, 
+in the form as may be specified, and the fee which may be determined, by regulations, 
+disclosing the details of the proposed combination, within [thirty days] of— 
+ 
+(a) approval of the proposal relating to merger or amalgamation, referred to in clause 
+(c) of section 5, by the board of directors of the enterprises concerned with such merger 
+or amalgamation, as the case may be; 
+ 
+(b) execution of any agreement or other document for acquisition referred to in clause 
+(a) of section 5 or acquiring of control referred to in clause (b) of that section.” 
+ 
+Further, Section 6 (2A) of the Act reads as follows: 
+ 
+“No combination shall come into effect until two hundred and ten days have passed from 
+the day on which the notice has been given to the Commission under sub-section (2) or 
+the Commission has passed orders under section 31, whichever is earlier.” 
+ 
+Accordingly, the Transaction attracts a penalty under Section 43A of the Act, which 
+reads as under: 
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub section 
+(2) of section 6, the Commission shall impose on such person or enterprise a penalty 
+which may extend to one percent of the total turnover or the assets, whichever is higher, 
+of such a combination.” 
+ 
+53. 
+Accordingly, in terms of Section 43A of the Act, the Commission can levy a maximum 
+penalty of one per cent of the total turnover or the assets, whichever is higher, of such a 
+combination. While determining the quantum of penalty, the Commission considered the 
+mitigating factors as well as the aggravating factors. In view of the foregoing, the 
+Commission considered it appropriate to impose a penalty of INR 20,00,000 (Indian 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 19 of 19 
+ 
+Rupees Twenty lakh only) on the Acquirers. The Acquirers are directed to pay the penalty 
+within 60 days from the date of receipt of this order. 
+ 
+54. 
+The Secretary is directed to communicate to the Acquirers accordingly. 
+ 
+ 
+ 
+ 
+ 
+ 

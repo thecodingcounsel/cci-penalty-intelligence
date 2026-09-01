@@ -1,0 +1,624 @@
+ 
+ Page 1 of 15 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+19th July 2022 
+ 
+Proceedings against SABIC International Holdings B.V. under Section 43A of the 
+Competition Act, 2002 
+ 
+CORAM:  
+ 
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing 
+For SABIC International 
+Holdings B.V.: 
+Mr. Rajshekhar Rao, Senior Advocate with Ms. Yamini 
+Mookherjee, Mr. Rahul Rai, Mr. Gaurav Bansal, Mr. 
+Nitin Nair, Ms. Shruthi Rao, Advocates along with Mr. 
+Paolo Vacca, representative of SABIC International 
+Holdings B.V. 
+ 
+ 
+ORDER UNDER SECTION 43A OF THE COMPETITION ACT, 2002 
+ 
+ 
+  
+This order shall govern the disposal of the proceedings initiated against SABIC 
+International Holdings B.V. (‘SABIC B.V.’/‘Acquirer’), a wholly owned affiliate of 
+Saudi Basic Industries Corporation (‘SABIC’), under Section 43A of the Competition 
+Act, 2002 (‘Act’), in relation to its acquisition of additional 6.51% shareholding of 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 15 
+ 
+Clariant AG (‘Clariant’/‘Target’) through a series of open market purchases on the SIX 
+Swiss Exchange and via electronic trading platforms (‘Combination’/‘Second 
+Acquisition’), in pursuance of the show cause notice dated 30th September 2020 (‘SCN’) 
+[Hereinafter, SABIC and SABIC B.V. are used interchangeably]. The said Combination 
+was notified to the Competition Commission of India (‘Commission’) by SABIC B.V. in 
+Combination Registration No. C-2020/05/746. The said notification (‘Notice’) was given 
+by SABIC B.V. on 29th May 2020 under Section 6(2) of the Act, in Form I of Schedule II 
+of the Competition Commission of India (Procedure in regard to the transaction of 
+business relating to combinations) Regulation, 2011 (‘Combination Regulations’).  
+ 
+A. Background 
+ 
+2. 
+The Notice was filed pursuant to the board resolution passed by SABIC B.V. on 13th 
+January 2020 (‘Board Resolution’), as per which the Acquirer envisaged the 
+Combination via escrow mechanism. Accordingly, the Acquirer executed a Share Escrow 
+and Control Agreement dated 13th January 2020 (‘Escrow and Control Agreement’) 
+with an individual acting as independent third party (‘Principal 2’) and Credit Suisse 
+(Schweiz) AG (‘CS’) (for acting in the capacity of an ‘Escrow Agent’ and a 
+‘Custodian’). 
+ 
+3. 
+Clariant’s shares were acquired on the SIX Swiss Exchange by Credit Suisse Securities 
+(Europe) Limited (‘CS Europe’) on behalf and on account of SABIC. According to the 
+terms of the Escrow and Control Agreement, any shares in Clariant that CS Europe 
+acquired in the market (‘Escrow Shares’) were required to be credited into a securities 
+account opened in the name of SABIC with the Custodian (‘Securities Account’). 
+ 
+4. 
+Accordingly, the process of acquisition of shares of the Target and placement of these in 
+the Escrow Account began on 13th January 2020 and was completed on 27th February 
+2020. The Escrow and Control Agreement provided that the Escrow Shares could only be 
+released to SABIC upon receipt of all merger clearances.  
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 15 
+ 
+5. 
+Following the completion of this acquisition of 6.51% shareholding of the Target via 
+escrow mechanism, the Acquirer filed the Notice with the Commission. It was stated in 
+the Notice that the Acquirer already held shareholding equivalent to 24.99% of the capital 
+of the Target (‘First Acquisition’) prior to the passing of the Board Resolution and the 
+execution of the Escrow and Control Agreement. Post the completion of the Second 
+Acquisition, the total shareholding of the Acquirer in the Target has increased to 31.5%.  
+ 
+6. 
+During the course of review of the Combination, the Acquirer made additional voluntary 
+submission on 17th June 2020 and 22nd June 2020, and the Commission also issued two 
+letters to the Acquirer in terms of Regulation 14 of the Combination Regulations on 22nd 
+June 2020 and 5th August 2020, wherein the Acquirer was, inter alia, required to provide 
+certain details about the escrow mechanism. The Acquirer provided its response vide 
+letters dated 17th July 2020, 14th August 2020 and 21st August 2020. 
+ 
+7. 
+The Commission approved the Combination under Section 31(1) of the Act on 2nd 
+September 2020 (‘Order’), upon competition assessment of the business activities of the 
+parties to the Combination and after arriving at the opinion that the Combination is not 
+likely to cause any appreciable adverse effect on competition in India. However, the Order 
+was passed without prejudice to any proceedings under Section 43A of the Act. 
+ 
+B. Initiation of proceedings under Section 43A of the Act 
+ 
+8. 
+In terms of Section 6(2) of the Act, an enterprise which proposes to enter into a 
+combination is required to give a notice to the Commission, disclosing the details of the 
+proposed combination, within thirty days of the execution of any agreement or other 
+document for acquisition. Further, as per Section 6(2A) of the Act, no combination shall 
+come into effect until 210 days have passed from the day on which the notice has been 
+given to the Commission under Section 6(2) or the Commission has passed an order under 
+Section 31 of the Act, whichever is earlier. The Central Government, in exercise of the 
+powers conferred by Clause (a) of Section 54 of the Act, in public interest, has exempted 
+every person or enterprise who is a party to a combination as referred to in Section 5 of 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 15 
+ 
+the Act from giving notice within thirty days mentioned in Section 6(2) of the Act, subject 
+to the provisions of Section 6(2A) and Section 43A of the Act.  
+ 
+9. 
+The Commission, in its meeting held on 2nd September 2020, noted that additional 
+acquisition of 6.51% of Clariant’s equity shares by SABIC has been made pursuant to the 
+escrow mechanism. The non-exercise of voting rights for a limited period of time with 
+respect to the acquisition of 6.51% of Clariant’s equity shares is a self-imposed 
+contractual obligation taken upon by the Acquirer. It further noted that the Act and 
+Combination Regulations do not exempt a situation wherein a buyer acquires shares but 
+decides not to exercise legal/beneficial rights in them from the purview of the provisions 
+of the Act in general and Section 43A of the Act in particular. In the light of the aforesaid, 
+the Commission observed that, prima facie, such acquisition amounts to consummation 
+of Combination prior to giving the notice in terms of Section 6(2) of the Act, thereby 
+contravening the provisions of Section 6(2) of the Act. Accordingly, the Commission 
+issued SCN under Section 43A of the Act read with Regulation 48 of the Competition 
+Commission of India (General Regulations), 2009 (‘General Regulations’) on 30th 
+September 2020. The Acquirer filed its response to the SCN on 1st December 2020 after 
+seeking an extension of time (‘Response to SCN’). 
+ 
+10. 
+In its meeting held on 10th January 2022, the Commission considered the Response to 
+SCN and decided to grant an oral hearing to the Acquirer on 1st February 2022. However, 
+vide communication dated 24th January 2022, the Acquirer requested to reschedule the 
+date of the oral hearing. The Commission accepted the request and postponed the date of 
+hearing to 22nd February 2022. Subsequently, through applications dated 9th February 
+2022 and 21st February 2022, the Acquirer sought further adjournment of the oral hearing. 
+On 22nd February 2022, the Learned Counsel for SABIC appeared before the Commission 
+and pressed for adjournment of the hearing to 24th February 2022. Accordingly, the 
+Acquirer was heard on 24th February 2022.  
+ 
+C. Submissions of the Acquirer 
+ 
+11. 
+In the Response to the SCN, the Acquirer contended the following: 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 15 
+ 
+ 
+I. The Combination was not consummated by the Acquirer without the Commission’s 
+approval in violation of Section 6(2) of the Competition Act 
+ 
+12. 
+It was submitted that, under the applicable Swiss law, the acquiring enterprise is 
+specifically required to register the shares acquired over the Swiss stock exchange with 
+the relevant listed entity for it to secure and exercise voting rights in relation to the 
+acquired shares. Unlike legal ownership in the shares, which is transferred to the acquirer 
+upon acquisition of the shares, the voting rights in the shares of a listed Swiss entity are 
+not automatically transferred to the acquirer, and an acquirer is thus not automatically able 
+to exercise such voting rights. 
+ 
+13. 
+The terms of the Escrow and Control Agreement, which were in line with the provisions 
+of Swiss Law, prohibited SABIC/Acquirer from applying for registration as a shareholder 
+with voting rights in the share ledger of Clariant with respect to the Escrow Shares until 
+all the merger clearances were obtained. Further, the Escrow Shares were irrevocably 
+locked with the Custodian. Therefore, in any event, the Acquirer could not have registered 
+the Escrow Shares with Clariant. 
+ 
+14. 
+Since the Escrow Shares purchased by the Acquirer did not carry any voting rights, the 
+transaction does not qualify as an acquisition of “shares” as defined under Section 2(v) of 
+the Act. The Acquirer’s agreement prior to purchase of any shares and placing the same 
+in the Escrow Account also demonstrates that the Acquirer acted in good faith to make 
+consummation of the Combination impossible until all merger control clearances were 
+duly obtained. Accordingly, the Acquirer ensured that the structure as well as the 
+substance of the Combination and the Escrow and Control Agreement complied with the 
+provisions of the Act. 
+ 
+15. 
+Accordingly, although the Acquirer was the legal owner of the Escrow Shares, the Escrow 
+and Control Agreement ensured that the Acquirer had no right to give any instructions to 
+the Escrow Agent concerning the Escrow Shares unless the Acquirer was able to 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 15 
+ 
+unequivocally demonstrate that it had obtained all merger clearances. Further, the 
+Custodian of the Escrow Shares also did not take instructions from the Acquirer.  
+ 
+16. 
+With respect to the dividend rights, it was submitted that the Escrow and Control 
+Agreement provided for an obligation to the Custodian to transfer any dividend paid on 
+the Escrow Shares to a blocked account (i.e., an account opened with the Custodian in the 
+name of SABIC) but was instructed not to transfer any dividend payment to the Acquirer 
+as long as the Escrow Shares were blocked on the escrow account. 
+ 
+17. 
+In the absence of the Commission’s approval, the Escrow Shares would have been 
+automatically sold in the open market by Principal 2 without any consent required from 
+SABIC or any possibility of SABIC to prevent the sale of the shares in the open market. 
+ 
+18. 
+Accordingly, in the absence of the ability to apply for registration of and exercise voting 
+rights in relation to the Escrow Shares, the acquisition of the Escrow Shares by the 
+Acquirer in and of itself did not result in any additional influence of the Acquirer on 
+Clariant. Rather, the Acquirer’s influence on Clariant remained unaffected by the 
+acquisition of the Escrow Shares. Therefore, Clariant and the Acquirer continued and will 
+continue to act independently from each other and in the ordinary course of business, prior 
+to receipt of all the merger clearances, and did not give effect to or take any steps to give 
+effect to the Combination. 
+ 
+19. 
+The Acquirer submitted that the Combination was planned to specifically ensure 
+compliance with the provisions of the Competition Act. The Acquirer was required to: (i) 
+adhere to the standstill obligations as required under Section 6(2A) of the Competition 
+Act; and (ii) not give effect to or consummate the Combination until receiving the 
+Commission’s approval. In this regard, it submitted that it did not give effect to or 
+consummate the Combination prior to the Commission’s approval order dated 2nd 
+September 2020 and adhered to the standstill obligations, which are substantively 
+reflected in the structure of the Combination and the Escrow and Control Agreement. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 15 
+ 
+II. Applicability of Swiss laws with respect to the Escrow and Control Agreement and the 
+legal test laid down by the Supreme Court in SCM Soilfert to the Combination. 
+ 
+20. 
+The Acquirer submitted that under Swiss law, even for share acquisitions over a stock 
+exchange (such as the Combination), the registration of shares with the company is 
+mandatory to exercise voting rights. For as long the relevant company (in this case, 
+Clariant) has not recognised the acquirer (i.e. SABIC) as a shareholder of the company in 
+relation to the Escrow Shares and registered the acquirer in the share ledger of the 
+company, the acquirer does not acquire and cannot exercise the voting rights in relation 
+to the shares acquired. It is also submitted that, given that registration is not mandatory 
+under Swiss law, some shareholders do not apply for such registration in the share register 
+until there is an upcoming extraordinary or annual general meeting.  
+ 
+21. 
+Therefore, contrary to the facts in SCM Soilfert, which is the basis of the SCN, the 
+Acquirer was not a recognised shareholder of the Escrow Shares and can thus not be said 
+to have consummated the Combination prior to giving notice to the Commission. 
+ 
+III. Disclosures in financial statements by the Acquirer 
+ 
+22. 
+The SCN has relied on SABIC’s financial statement disclosures (Q2 report), which stated 
+that “although the completion of the transaction is still subject to regulatory approvals, 
+as a major shareholder, SABIC has recognized this additional acquisition as part of the 
+current interest in Clariant, increasing to 31.5%”. In this regard, it was submitted by the 
+Acquirer in Response to SCN that its Q3 interim results published on 29th October 2020, 
+inter alia, clarified that the accounting treatment adopted in the Q2 report published in 
+March was a technical choice and the recognition of the additional acquisition of 6.51% 
+was disclosed on the basis of appropriate accounting standards, including the International 
+Financial Reporting Standards. 
+ 
+23. 
+Further, with respect to SCN’s interpretation of the statement on the Acquirer’s significant 
+influence over Clariant reported in the SABIC’s Q2 financials, the Acquirer submitted 
+that the said disclosure does not relate to the transaction in question, as the said disclosure 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 15 
+ 
+was made in accordance with IFRS provisions in relation to the Acquirer’s existing 
+24.99% shareholding in Clariant, prior to and unrelated to the Combination. 
+ 
+24. 
+Further, it is submitted that the SCN has failed to provide any evidence, apart from relying 
+on its decision in SCM Soilfert, to reach a prima facie conclusion that the Acquirer gave 
+effect to or consummated the Combination pending the Commission’s approval. The 
+Acquirer submits that the SCN is premeditated and also assumed the outcome of the 
+proceedings which are pending before it. The duty imposed upon the Commission by the 
+provisions of Section 36(1) of the Competition Act, lays down that “(i)n the discharge of 
+its functions, the Commission shall be guided by the principles of natural justice”. 
+ 
+D. Analysis of the submissions of the Acquirer 
+ 
+25. 
+Having considered the written and oral submissions of the Acquirer, the Commission 
+proceeds to determine whether the acquisition of the Escrow Shares prior to giving the 
+Notice, had the impact of consummating the Combination and the Acquirer has failed to 
+file a notice in terms of Section 6(2) of the Act. 
+ 
+26. 
+At the outset, the Commission considered and decided on an issue involving acquisition 
+of shares and placing the same in escrow account in its decision in SCM Soilfert Limited1 
+(‘SCM Soilfert Decision’). The same has been referred in the SCN issued by the 
+Commission and also the Response to SCN submitted by SABIC. It would be appropriate 
+to refer the same before going into an examination of each of the submissions of SABIC. 
+The Commission in SCM Soilfert Decision noted, 
+ 
+“…As already stated above, the Second Acquisition is part of the Proposed 
+Combination. The decision to keep the acquired shares in an escrow account 
+maintained with the escrow agent and to not exercise any beneficial interest, 
+including voting rights, with respect to the Second Acquisition was that of the 
+Acquirers and not due to any statutory requirement in this regard. Further, the Act 
+                                                          
+1 Order of the Commission under Section 43A of the Act dated 10th February 2015 in relation to Notice given 
+under Section 6(2) of the Act by SCM Soilfert Limited: Combination Regn. No. C-2014/05/175 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 15 
+ 
+and Combination Regulations do not exempt a situation wherein a buyer acquires 
+shares but decides not to exercise legal/beneficial rights in them, from the purview 
+of the provisions of the Act in general, and Section 43A of the Act, in particular. 
+Therefore, the Acquirers’ contention that the Second Acquisition was not 
+consummated, as the shares were kept in an escrow account and they were not 
+entitled to exercise any legal or beneficial rights over them till approvals of 
+regulatory bodies are obtained, is not tenable under the law...” (emphasis supplied). 
+ 
+27. 
+The aforesaid issues were also considered by the Hon’ble Supreme Court of India in the 
+same matter2. The appellants in the SCM Soilfert Case argued, 
+ 
+“…the equity shares purchased second time were placed in the Escrow Account. 
+The appellants could not have exercised the beneficial rights until the Commission 
+made the approval of the proposed combination. What was essential under section 
+2(e) was the voting rights and the appellants could not have exercised voting rights 
+by placing shares in the escrow account.” 
+ 
+28. 
+The Hon’ble Supreme Court observed, inter alia, 
+ 
+ “We find no merits in the submissions raised. It is apparent from section 6(2) of 
+the Act that the proposal to enter into combination is required to be notified to the 
+Commission. The legislative mandate is apparent that the notification has to be 
+made before entering into the combination.” 
+ 
+“When the transaction has been completed and acquisition has been made and the 
+latter transaction has exceeded holding more than 25% by the second purchase, 
+obviously prior permission was required, as discussed hereinabove, as its total 
+shareholding increased to 25.3%. Thus, we have no hesitation to hold that the 
+notification under section 6(2) of the Act has to be ex-ante”. 
+ 
+                                                          
+2 Civil Appeal No. 10678 of 2016 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 15 
+ 
+29. 
+In the subsequent section, the Commission has considered and determined on all the 
+submissions of the Acquirer, including those on the substantive issues raised in the SCN 
+as identified above and other submissions of the Acquirer. 
+ 
+I. Consummation of Combination resulting in violation of Section 6(2) of the Act; 
+applicability of the legal test laid down by the Supreme Court in SCM Soilfert Decision 
+and applicability of the Swiss laws with respect to the Escrow and Control Agreement 
+ 
+30. 
+The Acquirer has principally based its submissions upon the clauses of Swiss Code of 
+Obligations regarding the requirement of registration and consequent non-availability of 
+voting rights in the absence of registration to substantiate its claim that there was no 
+requirement to give a Notice to the Commission and take prior approval before the 
+acquisition of the Escrow Shares.  
+ 
+31. 
+The SCM Soilfert Decision of the Commission, which was upheld by the Competition 
+Appellate Tribunal (‘COMPAT’) and the Hon’ble Supreme Court of India have clearly 
+established the decisional practice that the acquisition of shares via escrow mechanism 
+cannot be permitted without prior approval of the Commission in an ex-ante merger 
+review regime. Based on this, the parties were asked in the SCN to respond on the SCM 
+Soilfert Decision. 
+ 
+32. 
+The Acquirer has attempted to distinguish the present transaction with the SCM Soilfert 
+transaction. 
+ 
+33. 
+Firstly, it has submitted that acquisition of shares without voting rights are not shares, and 
+hence, the transaction is not a combination. This argument of the Acquirer is not tenable 
+as it may be noted that the definition of shares as given under Section 2(v) emphasises the 
+entitlement of voting rights to differentiate shares from other securities which do not carry 
+voting rights and do not in any manner indicate that voluntary suspension of the voting 
+rights of a share which carries voting rights will cease to be considered a share. Further, 
+the same issue of essentiality of voting rights for constituting the ‘shares’ was made before 
+the Hon’ble Supreme Court of India as well, as referred in the para above, and the Hon’ble 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 15 
+ 
+Supreme Court of India had not found any merit in the same, as referred to in paragraphs 
+27 and 28 above. 
+ 
+34. 
+Secondly, the Acquirer has attempted to differentiate a situation where voting rights are 
+absent due to a provision in law as against their absence due to suspension via self-
+imposed contractual obligations.  
+ 
+35. 
+In this regard, the arguments of the Acquirer are not found to be tenable because of the 
+following: 
+ 
+(i) 
+Substantively, there is no difference between putting the shares in an escrow 
+account or not registering the same and consequently not securing voting rights. In 
+this regard, the Commission in its SCM Soilfert Decision noted that the decision to 
+keep the acquired shares in an escrow account maintained with the escrow agent 
+and not exercise any beneficial interest, including voting rights, is that of the 
+acquirer, and not due to any statutory requirement. It was clearly stated that the Act 
+and Combination Regulations do not exempt a situation wherein a buyer acquires 
+shares but decides not to exercise legal/beneficial rights in them, from the purview 
+of the provisions of the Act in general, and Section 43A of the Act in particular. 
+How the rights are suspended, whether by the escrow mechanism or by non-
+registration of shares (or both) is inconsequential to the outcome, which 
+substantively is acquisition of shares prior to filing of notification. 
+ 
+(ii) 
+The only difference which has been highlighted by the Acquirer to differentiate the 
+instant case from the SCM Soilfert case is the requirement of registration and 
+consequent non-availability of voting rights in the absence of registration. In this 
+regard, it has been observed that non-registration is a voluntary act just like the 
+escrow mechanism and does not take anything away from the fact that neither the 
+Combination Regulations nor any other statutory requirement necessitates the 
+acquiring enterprise to abstain from exercising any legal or beneficial rights accrued 
+from the acquired shares, and therefore, the distinction has no merit. In fact, in the 
+absence of the requirement of registration, the issue of essentiality of voting rights 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 15 
+ 
+has also been discussed for constituting the acquisition of shares and not found 
+relevant in the SCM Soilfert Decision. 
+ 
+(iii) The Acquirer in the present case has presented similar arguments as presented by 
+the acquirers in the SCM Soilfert case, i.e., they had entered into an escrow 
+agreement as a result of which, they were not entitled to exercise legal and beneficial 
+rights accruing to acquired shares which had been credited to the escrow account, 
+until the approval of the Commission. The Hon’ble Supreme Court of India, while 
+finding no merits in such arguments of the acquiring enterprise, also took a similar 
+view and held that the Act requires the notices to be filed under Section 6(2) of the 
+Act prior to the consummation of the combination as it envisages an ex–ante 
+analysis to be carried out by the Commission. 
+ 
+(iv) In regard to the facts of the aforementioned judgment of the Hon’ble Supreme Court 
+of India, it was also held that, as the acquisition of escrow shares would increase the 
+shareholding of the acquiring enterprise to above the 25% threshold, the notice 
+should have been filed prior to the acquisition of the shares. With the juxtaposing 
+of the ratio decidendi of this judgment to the case at hand, it becomes unambiguous 
+that the Acquirer ought to have notified the Combination to the Commission before 
+acquiring the Escrow Shares. Thus, the self-imposed obligations of the Acquirer do 
+not have any effect on the consummation of the Combination in the eyes of the Act 
+or the Combination Regulations. 
+ 
+(v) 
+Irrespective of whether the Acquirer is in a position to exercise control/rights over 
+the Escrow Shares, it is nonetheless vested with the legal and beneficial ownership 
+of the Escrow Shares, which is clear from the reading of Clause 4.2.2 of the Escrow 
+and Control Agreement, which provides that,  
+ 
+“During the effectiveness of the Escrow and Control Agreement, the ownership in 
+the Escrow Shares (legal and beneficial) is and shall remain with Principal 1.” 
+(Principal 1 being the Acquirer) 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 15 
+ 
+The above is sufficient to consider acquisition of shares as a ‘Combination’ under 
+Section 5 of the Act, hence triggering the onus on the Acquirer to notify the 
+transaction to the Commission and take approval prior to acquiring the shares via 
+escrow mechanism. 
+  
+36. 
+The observations of the Commission in SCM Soilfert Decision and the observations of 
+the COMPAT and Hon’ble Supreme Court of India elucidate the position of law in cases 
+involving acquisition of shares through the escrow mechanism in no uncertain terms. The 
+facts of the instant case are no different from the facts in the SCM Soilfert Case. The 
+Commission observed in this regard that the submissions of the Acquirer are misplaced 
+and not tenable. 
+ 
+II. Various disclosures made by the Acquirer 
+ 
+37. 
+The Acquirer has objected to the Commission relying on the statements made in the Press 
+Release and accounting statements. In this regard, it is important to note that the fact of 
+acquisition of equity shares is undisputed as well as the notification requirements are 
+undisputed, as is clear from the Acquirer filing the notice of its own volition. Considering 
+the aforesaid, the statements made in the Press Release and accounting statements have 
+been relied upon as the Commission was seized with the matter of contravention of 
+Section 6(2) of the Act both for the First Acquisition (separate issue being dealt by way 
+different proceedings) and the Second Acquisition. The limited relevance of these 
+statements was to understand the overall circumstances of acquisition of shares by the 
+Acquirer of the Target. These references are inconsequential to the instant case because 
+there is no dispute about the notifiability of the transaction via escrow mechanism. 
+ 
+38. 
+It is further observed that SCN is not a final determination by the Commission but only 
+lays down the charges of contravention along with the basis and calls for response on the 
+alleged contravention of the provisions of the Act. The SCN itself is an opportunity to the 
+Acquirer to present its case before final determination of the issues by the Commission. 
+Apart from the written response, the Commission has also heard the Acquirer at length. 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 15 
+ 
+Thus, the Commission sees no merit on the issue of violation of the principles of natural 
+justice. 
+ 
+39. 
+Albeit the Acquirer has prayed that if the Commission considers the conduct of the 
+Acquirer to be in violation of the provisions of the Act, it shall be deemed to be a technical 
+breach. Nevertheless, based on the analysis of the response of the Acquirer, the 
+Commission is of the opinion that there has been a consummation of the Combination 
+before the approval of the same by the Commission and the Acquirer has failed to file a 
+notice for the Combination in accordance with Section 6(2) of the Act, which reads as 
+following: 
+ 
+“Subject to the provisions contained in sub-section (1), any person or enterprise, 
+who or which proposes to enter into a combination, [shall] give notice to the 
+Commission, in the form as may be specified, and the fee which may be determined, 
+by regulations, disclosing the details of the proposed combination, within [thirty 
+days] of— 
+ 
+(a) approval of the proposal relating to merger or amalgamation, referred to in 
+clause (c) of section 5, by the board of directors of the enterprises concerned with 
+such merger or amalgamation, as the case may be; 
+ 
+(b) execution of any agreement or other document for acquisition referred to in 
+clause (a) of section 5 or acquiring of control referred to in clause (b) of that 
+section.”  
+ 
+Accordingly, it attracts a penalty under Section 43A of the Act, which reads as under: 
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub 
+section (2) of section 6, the Commission shall impose on such person or enterprise 
+a penalty which may extend to one percent of the total turnover or the assets, 
+whichever is higher, of such a combination.” 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 15 
+ 
+40. 
+Accordingly, in terms of Section 43A of the Act, the Commission can levy a maximum 
+penalty of one per cent of the total turnover or the assets, whichever is higher, of such a 
+combination. While determining the quantum of penalty, the Commission considered the 
+following mitigating factors: (a) that there was no mala fide intention to evade compliance 
+of the provisions of the Act; (b) parties had voluntarily given notice under Section 6(2) of 
+the Competition Act; and (c) parties had co-operated with the Commission. In view of the 
+foregoing, the Commission considered it appropriate to impose a penalty of INR 5,00,000 
+(Indian Rupees Five Lakh only) on the Acquirer, as a fine for violation of standstill 
+obligations without filing of notice under Section 6(2) of the Act. 
+ 
+41. 
+The Acquirer is directed to pay the penalty within sixty (60) days from the date of receipt 
+of this order.  
+ 
+42. 
+The Secretary is directed to communicate to the Acquirer accordingly. 
+ 
+ 
+ 

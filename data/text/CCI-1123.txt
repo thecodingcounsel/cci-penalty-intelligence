@@ -1,0 +1,315 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 1 of 7 
+ 
+COMPETITION COMMISSION OF INDIA 
+  (Combination Registration No. C-2015/09/312) 
+7th June, 2017 
+ 
+Order under Section 43A of the Competition Act, 2002 against Avago Technologies Limited 
+in relation to Combination Registration No. C-2015/09/312 
+ 
+1. On 28th September, 2015, the Competition Commission of India (“Commission”) received 
+a notice given by Avago Technologies Limited (“Avago”), pursuant to an enquiry initiated 
+under sub-section (1) of Section 20 of the Competition Act, 2002 (“Act”), for acquisition of 
+Broadcom Corporation (“Broadcom”) by Avago. For the purpose of the acquisition an 
+Agreement and Plan of Merger was executed, inter alia, between Avago and Broadcom on 
+28th May, 2015 (“Agreement”). (Hereinafter, Avago and Broadcom are collectively 
+referred to as the “Parties”).  
+ 
+Background 
+ 
+2. The Commission, based on media reports, initiated an inquiry under sub-section (1) of 
+Section 20 of the Act in the above said acquisition and vide letter dated 12th August, 2015, 
+directed Avago to provide data / information on the asset and turnover of the Parties. 
+Pending Commission’s inquiry under sub-section (1) of Section 20 of the Act, Avago filed 
+a notice of combination on 28th September, 2015 along with its response to the 
+Commission’s letter dated 12th August, 2015.  
+ 
+3. The Commission, in its meeting held on 16th December 2015, approved the said 
+combination under sub-section (1) of Section 31 of the Act without prejudice to any penalty 
+proceedings that may be initiated under Section 43A of the Act. Accordingly, vide letter 
+dated 2nd February, 2016, the Commission issued a show cause notice (“SCN”), under 
+Section 43A of the Act read with Regulation 48 of the Competition Commission of India 
+(General) Regulations, 2009 (“General Regulations”), to explain, in writing, as to why 
+penalty, in terms of Section 43A of the Act, should not be imposed on Avago for not filing 
+the notice within thirty days of execution of binding document. Avago submitted its 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 2 of 7 
+ 
+response to show cause notice on 7th March, 2016 (“Response to SCN”). Further, Avago 
+made certain submissions vide its letter dated 16th February, 2017. 
+ 
+Proceedings under Section 43A of the Act 
+  
+4. In terms of sub-section (2) of Section 6 of the Act, any person or an enterprise, who or 
+which proposes to enter into a combination, is required to give notice to the Commission, 
+disclosing the details of the combination, within thirty days of execution of any agreement 
+or other document for acquisition. Sub-section (2) of Section 6 of the Act reads as under: 
+ 
+“…… any person or enterprise, who or which proposes to enter into a combination, shall 
+give notice to the Commission………. disclosing the details of the proposed combination, 
+within thirty days of…….… execution of any agreement or other document for acquisition 
+referred to in clause (a) of section 5 or acquiring of control referred to in clause (b) of 
+that section” (emphasis added) 
+ 
+5. The Commission observed that the Agreement was signed on 28th May, 2015. Further, the 
+Parties, for the reasons set forth in subsequent paragraphs, satisfy jurisdictional threshold, 
+in terms of combined assets and turnover of the Parties, as provided in Section 5 of the Act. 
+Accordingly, in terms of sub-section (2) of Section 6 of the Act, Avago ought to have filed 
+the Notice regarding the combination with the Commission within thirty days of the 
+execution of the Agreement i.e. by about 26th May, 2015. However, the Parties filed a 
+Notice in Form I only on 28th September 2015, subsequent to initiation of an inquiry under 
+sub-section (1) of Section 20 of the Act, with a delay of approximately 123 days.  In view 
+of the above, the Commission was of the prima facie opinion that Avago failed to give 
+notice of the combination within the time stipulated under sub-section (2) of Section 6 of 
+the Act. The Commission observed that failure to give notice in accordance with sub-
+section (2) of Section 6 of the Act attracts penalty under Section 43A of the Act.  
+ 
+Submissions of Avago 
+ 
+6. Avago, vide its letters dated 28th September, 2015 and 7th March, 2016, has submitted that 
+Broadcom has two wholly owned Indian subsidiaries in India viz, Broadcom 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 3 of 7 
+ 
+Communications Technologies Pvt. Ltd. (“BCTPL”) and Broadcom Semiconductors India 
+Private Limited (“BSIPL”) and that the assets and turnover of Broadcom for financial year 
+ending 31st March, 2015 was about [….], respectively. It has further been submitted that out 
+of total revenue of approximately [….], [….] was intra-group export revenue. Therefore, 
+Broadcom had turnover of only [….] in India. Thus, Avago has contended that the said 
+transaction was exempt from any notification requirement under Government of India 
+Notification No. S.O. 482(E) dated 4th March, 2011 (as amended by the Ministry of 
+Corporate Affairs Corrigendum No. S.O. 1218(E) dated 27th May, 2011) (“Target 
+Exemption” / “De Minimis Exemption”) as combined turnover of BCTPL and BSIPL (i.e. 
+the target enterprise) in India is less than INR 750 crore for the financial year ending 31st 
+March, 2015.  
+ 
+7. The Commission, in its meeting held on 13th December, 2016, considered the Response to 
+SCN and decided to grant a personal hearing to Avago, on their request. The authorized 
+representative of Avago appeared before the Commission on 14th February, 2017. The 
+Commission noted that vide its written and oral submissions, Avago has made, inter alia, 
+the following submissions: 
+ 
+7.1 The combination was exempt from the provisions of the Act by virtue of the De Minimis 
+Exemption and Avago has not violated sub-section (2) of Section 6 of the Act by failing 
+to give notice to the Commission within 30 days of executing the binding agreement. 
+Further, Avago has stated that failure to give notice under sub-section (2) of Section 6 is a 
+prerequisite for the Commission to levy penalty under Section 43A of the Act. Since, this 
+prerequisite is absent, Section 43A is inapplicable. 
+ 
+7.2 The Commission does not have jurisdiction to consider this transaction and that this issue 
+should have been addressed prior to the Commission issuing a SCN under Section 43A of 
+the Act. 
+ 
+7.3 It has been submitted that the present transaction qualifies for the De Minimis Exemption 
+for three reasons:  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 4 of 7 
+ 
+7.3.1 
+The comprehensive assessment of the said transaction by the parties conducted prior 
+to the notification had suggested that the merger filings were required in certain 
+other countries but not in India. Acting with reasonable care in this assessment, the 
+parties concluded that the transaction is not subject to the duty of pre-notification to 
+the Commission under sub-section (2) of Section 6 of the Act. 
+ 
+7.3.2 
+The entire turnover of BCTPL and BSIPL for the financial year ended 31st  March, 
+2015, was on account of intra-group research & development and marketing support 
+services for the international Broadcom Group as a whole, and is entirely intra-
+group turnover. Under the accounting procedures followed by Broadcom namely, 
+US GAAP, intra-group sales are eliminated from revenue reporting at the group 
+level and therefore do not count as reportable revenues and should be excluded from 
+consideration. 
+ 
+7.3.3 
+In addition, the Notes to Form-II of the Combination Regulations provide that 
+“[f]or the purpose of figures in this Form the accounting standards, as notified by 
+the Government of India, from time to time, or the International Financial 
+Reporting Standards or the US Generally Accepted Accounting Principles shall be 
+followed.”  
+ 
+7.4 In support of its above said contention, Avago has claimed that the definition of an 
+“enterprise” under the Act suggests entities forming part of the same group should be 
+considered as a single economic entity. Avago has contended that in calculating the 
+applicable turnover thresholds, the Act looks at the value of sales of goods or services 
+generated by that single economic entity. Further, it is contended that nowhere does the 
+Act state or suggests that “turnover” includes the value of goods transferred within that 
+economic entity and that the Commission has not published any opinion or interpretation 
+treating intra-group revenues within a single enterprise as turnover for these purposes. 
+Furthermore, an interpretation contrary to the above would be inconsistent with Indian 
+Accounting standards, as well the accounting practices of other jurisdictions. 
+ 
+7.5 Avago has further submitted that it would be incorrect to apply such a standard when no 
+language in the Act, the published decisions and interpretations of this Commission, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 5 of 7 
+ 
+Indian accounting standard, or the accounting standards of the countries in which the 
+parties are based state that intra-group revenue should be treated as turnover. 
+ 
+7.6 Avago has also submitted that the combination was consummated only after the Parties 
+received approval of the Commission. 
+ 
+Observations of the Commission 
+ 
+8. The Commission, having examined and analysed the submissions of Avago, observed as 
+follows: 
+ 
+8.1 The said transaction is a notifiable combination (for the reasons set out in the latter 
+sections) since it does not qualify for De Minimis Exemption and accordingly, the 
+Commission proceeds under Section 43A of the Act read with Regulation 48 of the 
+General Regulations. 
+ 
+8.2 The fact that the Commission had approved the combination under sub-section (1) of 
+Section 31 of the Act, vide its order dated 16th December, 2015, confirms that the 
+Commission had ascertained its jurisdiction over the combination. An order under sub-
+section (1) of Section 31 of the Act can be passed only in case of a combination (as 
+defined under Section 5 of the Act). 
+ 
+8.3 In the present case, Avago submitted notice in Form I along with response to the 
+Commission’s communication dated 12th August, 2015, subsequent to initiation of 
+enquiry under sub-section (1) of Section 20 of the Act, with a delay of approximately 123 
+days from the date of execution of binding document. Further, the Commission observed 
+that Avago did not avail of the facility of pre-filing consultation offered by the 
+Combination Division.  
+ 
+8.4 As regards turnover, in terms of Section 2(y) of the Act, “turnover” includes “value of 
+sale of goods or services”. Thus, the statutory definition of turnover under the Act does 
+not provide that goods or services provided to group-entities are to be excluded. In this 
+regard, it is noted that in terms of explanation (c) to Section 5 of the Act,  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 6 of 7 
+ 
+“the value of assets shall be determined by taking the book value of the assets as 
+shown, in the audited books of account of the enterprise, in the financial year 
+immediately preceding the financial year in which the date of proposed merger falls, 
+as reduced by any depreciation, and the value of assets shall include the brand value, 
+value of goodwill, or value of copyright, patent, permitted use, collective mark, 
+registered proprietor, registered trade mark, registered user, homonymous 
+geographical indication, geographical indications, design or layout- design or similar 
+other commercial rights, if any, referred to in sub-section (5) of Section 3”.  
+ 
+8.5 Accordingly, value of turnover is taken as provided in the books of accounts of the 
+enterprise concerned. In the instant case, the turnover of Broadcom (comprising of 
+turnover of BCTPL and BSIPL), as appearing in their books of account, is about [….]. 
+Further, it is noted that the profit and loss statement of BCTPL and BSIPL does not 
+distinguish between the revenue generated through intra-group sales or through sales to 
+third parties.  
+ 
+8.6 Thus, based on the book value, assets and turnover of BCTPL and BSIPL, exceeds the De 
+Minims Exemption threshold applicable at that point of time and therefore the said 
+combination becomes a notifiable transaction.  
+ 
+9. In view of the foregoing, the Commission is of the considered opinion that there is a 
+contravention of the provisions of sub-section (2) of Section 6 of the Act as Avago failed to 
+notify the combination within stipulated time.  
+ 
+10. It is reiterated that the fact of approval of the combination on assessment that it does not 
+raise any appreciable adverse effect on Competition (“AAEC”) in India, based on analysis 
+of various factors does not confer any immunity to the appellants from being penalized 
+under Section 43A of the Act for failure to comply with the regulatory obligation(s) of the 
+party(ies) under the Act. Moreover, the Act clearly provides, irrespective of whether there 
+is any AAEC or not, mandatory regime for notifying a combination to the Commission. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+ 
+C-2015/09/312                                                                                                                       Page 7 of 7 
+ 
+11. The Commission observed that the Parties had not consummated the transaction before an 
+order under Section 31 of the Act was passed, which, at best, can be taken as a mitigating 
+factor to be considered while imposing monetary penalty. 
+ 
+12. In view of the foregoing, it emerges that Avago have failed to give notice to the 
+Commission in accordance with the provision of  sub-section (2) of Section 6, which 
+attracts penalty under Section 43A of the Act. Section 43A of the Act reads as under: 
+“If any person or enterprise who fails to give notice to the Commission under sub-section 
+(2) of Section 6, the Commission shall impose on such person or enterprise a penalty which 
+may extend to one per cent of the total turnover or assets, whichever is higher, of such a 
+combination” 
+ 
+13. Accordingly, in terms of Section 43A of the Act, a maximum penalty of one per cent of the 
+combined value of worldwide assets of the Parties can be imposed. However, considering 
+the totality of the facts of the case and explanation given by Avago, the Commission 
+deemed it appropriate to impose a penalty of INR 10,00,000/- lakh (INR ten lakh only) on 
+Avago. 
+ 
+14. Avago shall pay the penalty within sixty (60) days from the date of receipt of this order. 
+ 
+15. The Secretary is directed to communicate to Avago accordingly. 

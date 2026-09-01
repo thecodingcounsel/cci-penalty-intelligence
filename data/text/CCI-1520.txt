@@ -1,0 +1,1022 @@
+ 
+Page 1 of 22 
+ 
+COMPETITION COMMISSION OF INDIA 
+14th January 2025 
+Proceedings against Torrent Power Limited under Section 43A of the Competition Act, 2002 
+ 
+CORAM:  
+ 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Mr. Anil Agrawal  
+Member 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member  
+Appearances: Mr. Rajshekhar Rao, Senior Advocate; Mr. Manas K. Chaudhuri, Advocate; Mr. Soham 
+Banerjee, Advocate; Mr. Nilav Banerjee, Advocate; Mr. Pranjal Prateek, Advocate; Ms. 
+Meherunnisa Anand Jaitley, Advocate; Mr. Rahul Shah, Company Secretary, Torrent 
+Power Limited; and Mr. Sudhir Sharma, Manager (Corporate Relations), Torrent Power 
+Limited.  
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+A. Background 
+ 
+1. 
+The Competition Commission of India (Commission) in its meeting held on 18th May 2023 had 
+noted that as per information available in public domain, Torrent Power Limited (TPL/Acquirer) 
+had acquired 51% shareholding of Dadra and Nagar Haveli and Daman and Diu Power 
+Distribution Corporation Limited (Target) [TPL and the Target are collectively referred to as 
+Parties]. Accordingly, the Commission directed TPL to furnish certain information and 
+documents in relation to the said acquisition under Section 36(4) of the Competition Act, 2002 
+(Competition Act) to assess whether further proceeding is required under Section 20(1) and/or 
+Section 43A of the Competition Act. The directions of the Commission were communicated to 
+TPL vide letter dated 24th May 2023. 
+ 
+
+ 
+Page 2 of 22 
+ 
+2. 
+On 23rd June 2023, TPL submitted its response wherein it was stated that the transaction pertained 
+to the acquisition of 51% shareholding1 of the Target by TPL for a consideration of INR 555 crore. 
+The remainder of 49% shareholding in the Target was held by the Administrator of the Union 
+Territory (UT) of Dadra and Nagar Haveli and Daman and Diu (DNH-DD) (Administrator). 
+Further, it was stated that the Target was incorporated on 8th March 2022 by consolidating: (i) the 
+Electricity Department, engaged in power distribution & retail supply of electricity in Daman & 
+Diu districts of UT (Electricity Department-DD), and (ii) DNH Power Distribution Corporation 
+Limited (DNH PDCL), by way of the Dadra and Nagar Haveli and Daman and Diu Electricity 
+(Reorganisation and Reforms) Transfer Scheme, 2022 (Transfer Scheme)2 pursuant to Sections 
+131, 133 and 134 of the Electricity Act, 2003 (Electricity Act).  
+ 
+3. 
+Upon perusal of the response, it was noted that the information provided was incomplete as the 
+audited relevant assets and turnover of the business transferred to the Target was not provided. 
+Therefore, letters dated 12th July 2023 and 10th August 2023 was issued to TPL to submit the 
+complete details regarding value of relevant assets and turnover of the business transferred to it 
+(certified by the statutory auditor), in terms of the Ministry of Corporate Affairs Notification dated 
+27th March 2017 – S.O. 988(E). The response to same were received on 1st August 2023 and 22nd 
+September 2023, respectively.  
+ 
+B. Submissions of the Acquirer 
+ 
+Description of the Parties  
+4. 
+Acquirer: TPL is a public listed company incorporated in 2004 in Ahmedabad, Gujarat. It is an 
+integrated power sector player in India engaged in the business of power generation, transmission 
+and distribution. It has a thermal power generation capacity of 3092 MW with a mix of coal and 
+gas-based power plants. It also operates in the renewable energy segment with 1068 MW capacity 
+taking the aggregate installed generation capacity to 4160 MW. In relation to power transmission, 
+it is stated that TPL has set up 249 km and 105 km 400 KV double circuit transmission lines for 
+evacuating power generated at its generating plants to various off-take centres. It also has 128 km 
+220 KV double circuit extra high voltage lines from generating station to its own distribution area. 
+Further, it distributes power as licensee in following states/UT: (i) Gujarat (in the cities of 
+Ahmedabad, Surat, Gandhinagar, Dahej SEZ, Dholera SIR); (ii) UT of DNH-DD; (iii) 
+Maharashtra (in Bhiwandi, Shil, Mumbra) as franchisee and; (iv) Uttar Pradesh (in Agra). 
+ 
+                                                          
+1 This constitutes 51,000 equity shares of the Target. 
+2 Date of Gazette notification for the Transfer Scheme 9th March 2022. 
+
+ 
+Page 3 of 22 
+ 
+5. 
+Target: The Target is a 100% subsidiary of UT of DNH-DD. It has been set up to undertake the 
+business of power distribution and retail supply of electricity in UT of DNH-DD.  
+ 
+Sequence of Events  
+6. 
+By way of a background, it was inter alia submitted that: 
+a. The Transaction was undertaken as part of the larger structural reforms contemplated by the 
+Government of India in the power sector to privatise the distribution of power.  
+b. Prior to the Transaction, the distribution of electricity in the UT of DNH-DD was undertaken 
+by two distinct entities viz., the Electricity Department-DD and DNH PDCL (a wholly owned 
+entity of the UT of DNH-DD).  
+c. On 8th December 2020, the bid authority initiated a bidding process through the issuance of a 
+Request for Proposal (RFP) to consolidate the assets, liabilities, rights, functions, obligations, 
+proceedings, and personnel of the Electricity Department-DD and DNH PDCL to form the 
+Target and subsequently, sell 51% shareholding in the Target to a third party.  
+d. RFP was issued by Executive Engineer, Electricity Department-DD, Daman for selection of 
+bidder for purchase of 51% shares in Target which would be responsible for distribution and 
+retail supply of electricity and having distribution license in UT of DNH-DD. 
+e. Further to the RFP, TPL submitted its bid (comprising technical and financial proposals) on 
+3rd February 2021 along with a bid security amount of INR 30 crore. On 20th February 2021, 
+bids were opened and TPL emerged as the H1 bidder.  
+f. Subsequently, the bidding process was kept in abeyance owing to a Public Interest Litigation 
+being filed before the Hon’ble Bombay High Court. 
+g. Thereafter, on 7th February 2022, a Letter of Intent (LOI) was issued in favour of TPL by the 
+bid authority for TPL’s execution within 7 calendar days of issuance of the LOI. The issuance 
+of the LOI allowed TPL to undertake the Transaction.  
+h. Inter alia, pursuant to the execution of the LOI, as per clause 6.6.1.(c) of the RFP, TPL was 
+to submit the consideration amount of INR 555 crore to the bid authority within 30 days of the 
+issuance of the LOI and failure to do so would amount to: (i) disqualification of TPL as the 
+successful bidder and (ii) forfeiture of the bid security amount of INR 30 crore. Accordingly, 
+INR 43.65 crore of the consideration amount was paid by TPL on 25th February 2022 and 
+remaining amount of INR 511.35 crore was paid on 26th February 2022. 
+i. Post the execution of the LOI, the Government of the UT of DNH-DD, by way of the Transfer 
+Scheme dated 9th March 2022 merged the Electricity Department-DD and DNH PDCL to 
+create the Target to facilitate the Transaction.  
+
+ 
+Page 4 of 22 
+ 
+j. Subsequently, TPL, the Target and the UT Administration of DNH-DD through its Secretary 
+of Power entered into  (i) Shareholders Agreement (SHA) and  (ii) Share Purchase Agreement 
+(SPA) on 15th March 2022. 
+ 
+ 
+Relevant Assets and Turnover 
+7. 
+Initially, it was submitted that since the Target was incorporated by the Government of the UT of 
+DNH-DD pursuant to the Transfer Scheme for the purposes of the Transaction in FY 2021-22 as 
+a new entity, it had no operations in previous two years and therefore the financial statements of 
+the Target were not available.  Therefore, only the asset and turnover details of TPL (Standalone 
+and Consolidated) for FY ended 31st March 2021 were provided as below: 
+ 
+ 
+Asset and Turnover of TPL for FY 2020-21 
+Name of the 
+Parties 
+Assets 
+Turnover 
+In India  
+(INR crore) 
+Worldwide 
+In India  
+(INR 
+crore) 
+Worldwide 
+USD 
+(million) 
+INR 
+(crore) 
+USD 
+(million) 
+INR 
+(crore) 
+TPL – Acquirer 
+(Enterprise 
+level) 
+22,778.01 
+2,759.97 
+22,778.01 11,776.52 
+1,426.94 
+11,776.52 
+TPL – Acquirer 
+(Group level) 
+23,538.72 
+2,852.25 
+23,538.72 12,172.66 
+1,475 
+12,172.66 
+Target  
+Target not in existence 
+ 
+8. 
+Subsequently, in response to query regarding the relevant assets and turnover of the business 
+transferred to the Target pursuant to the Transfer Scheme, TPL submitted that prior to the 
+incorporation of the Target, the Electricity Department of UT of DNH-DD was undertaking the 
+functions of purchase, transmission, distribution, and retail supply of electricity in the Daman and 
+Diu Districts. Further, DNHPDCL was undertaking the functions of purchase, transmission, 
+distribution and retail supply of electricity in Dadra and Nagar Haveli District. However, when 
+the Ministry of Power, Government of India, vide letter dated 12th May 2020 advised for the 
+privatisation of the electricity distribution and retail supply functions undertaken by the Electricity 
+Department and DNHPDCL, a new entity i.e., the Target was incorporated on 8th March, 2022. 
+Pursuant to the Transfer Scheme, only assets/liabilities, etc. of the distribution and retail supply 
+functions were transferred to the Target, and not the remaining assets/liabilities of the Electricity 
+Department and DNHPDCL. The details of relevant assets and turnover pertaining to business 
+taken over by TPL were provided as below:  
+ 
+ 
+
+ 
+Page 5 of 22 
+ 
+ 
+Asset and Turnover of the business taken over by TPL   
+(FY 2019-20, FY2020-21 and FY2021-22) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C. Issuance of SCN 
+9. 
+The Commission in its meeting held on 9th January 2024 considered the matter and based on the 
+submissions of TPL, it was noted that TPL had acquired 51% shareholding in the Target pursuant 
+to the LOI issued in its favour by the bid authority on 7th February 2022 which was accepted on 
+09th February 2022. The consideration for the Transaction was paid by TPL on 25th and 26th 
+February 2022.  Post the execution of the LOI, the Government of the UT of DNH-DD merged 
+the Electricity Department-DD and DNH PDCL by way of the Transfer Scheme dated 9th March 
+2022 to create the Target to facilitate the Transaction.  Further, SPA and SHA were executed on 
+15th March 2022. Given the foregoing sequence of events, FY 2020-21 was considered as the 
+relevant year for determining notifiability of the Transaction under the provisions of the 
+Competition Act. It was noted that the combined assets and turnover of the Parties in FY 2020-
+21 exceeded the asset and turnover thresholds prescribed under Section 5(a) of the Competition 
+Act at enterprise level. Accordingly, the Commission noted that the Transaction was a 
+combination in terms of the provisions of the Competition Act.   
+ 
+10. 
+Regarding the applicability of de-minimis exemption3, the Commission noted from the 
+submissions of TPL that the value of relevant assets being transferred to the Target and the 
+relevant turnover therefrom exceeded the asset and turnover thresholds prescribed in de-minimis 
+exemption notification. Accordingly, the benefit of de-minimis exemption was not available to 
+TPL. Further, the Transaction also did not benefit from any item of Schedule I of the Competition 
+Commission of India (Procedure in regard to the transaction of business relating to combinations) 
+Regulations, 2011 (Combination Regulations). 
+ 
+                                                          
+3 De minimis Exemption provided vide Government of India Notification No. S.O. 988(E) dated 27th March 2017 (as 
+amended by Notification No. S.O. 1192 (E) dated 16th March 2023) 
+Name of the 
+Parties 
+Assets (INR crore) 
+Turnover (INR crore) 
+  
+FY20 
+FY21 
+FY 22 
+FY20 
+FY21 
+FY 22 
+DNH 
+586.23 
+548.83 
+608.04 
+3,388.89 
+2,880.16 
+3,549.13 
+DD 
+electricity 
+Department 
+297.37 
+N.A. 
+429.48 
+1,120.77 
+1,090.37 
+1,406.06 
+Total 
+883.60 
+N.A. 
+1,037.52 
+4,509.66 
+3,970.53 
+4,955.19 
+
+ 
+Page 6 of 22 
+ 
+11. 
+Thus, the Commission was of the prima facie view that the Transaction ought to have been 
+notified to the Commission prior to its consummation in terms of the provisions of Section 6(2) 
+of the Competition Act read with Regulation 5 of the Combination Regulations. However, as TPL 
+had failed to comply with such requirement, the Commission formed a prima facie opinion that 
+TPL had contravened the provisions of Section 6(2) and Section 6(2A) of the Competition Act.  
+ 
+12. 
+Accordingly, the Commission directed to issue a Show Cause Notice (SCN) to TPL under Section 
+43A of the Competition Act read with Regulation 48 of the Competition Commission of India 
+(General) Regulations, 2009, to explain, in writing, as to why there is no contravention of the 
+provisions of the Competition Act and why penalty should not be imposed upon it in terms of 
+Section 43A of the Competition Act for failure to file notice in terms of Section 6(2) of the 
+Competition Act by consummating the Transaction before the expiry of period specified under 
+Section 6 (2A) of the Competition Act.  
+ 
+13. 
+Pursuant to direction of the Commission the SCN was issued to TPL vide letter dated 25th January 
+2024. TPL, after seeking extension, submitted its response on 2nd March 2024 (SCN Response). 
+In the SCN response, TPL inter alia requested the Commission to grant it an opportunity for an 
+oral hearing. The Commission considered the request of the Acquirer and listed the matter for 
+hearing on 19th November 2024. 
+ 
+D. Response to SCN: 
+ 
+14. 
+In the SCN Response, TPL has submitted at the outset that the transaction is subject to the 
+exclusive jurisdiction of the appropriate commission under the Electricity Act, 2003 (Electricity 
+Act). In this regard, the following submissions have been made: 
+(i) Relevant Legislative Background: Under Section 60 of the Electricity Act4 any Combination 
+entered into by a licensee5 in the electricity sector would be regulated by the “Appropriate 
+Commission”6 if the Combination is likely to cause or causes an adverse effect on 
+                                                          
+4 Section 60 of the Electricity Act: “The Appropriate Commission may issue such directions as it considers appropriate 
+to a licensee or a generating company if such licensee or generating company enters into any agreement or abuses its 
+dominant position or enters into a combination which is likely to cause or causes an adverse effect on competition in 
+electricity industry”.  
+5 Section 2(39) of the Electricity Act: “licensee” means a person who has been granted a licence under section 14. Further, 
+section 14 of the Electricity Act provides that The Appropriate Commission may, on application made to it under section 
+15, grant any person licence to any person – (c) to distribute electricity as a distribution licensee. Accordingly, the Acquirer 
+is a licensee under the Electricity Act.  
+6 “Appropriate Commission” would include a Joint Commission constituted under Section 83 of the Electricity Act. 
+Consequently, the Joint Electricity Regulatory Commission (for the State of Goa and Union Territories)6 (JERC) which 
+also exercises jurisdiction over the UT of DNH-DD, would be the Appropriate Commission in this regard.  
+
+ 
+Page 7 of 22 
+ 
+competition within the electricity industry. A combined reading of Sections 60, 1737, 1748 
+and 1759 of the Electricity Act demonstrates that the legislative intent was to ensure that in 
+the event of a conflict between the Electricity Act and any other legislation, the Electricity 
+Act would have an overriding effect upon all other legislations, barring the Consumer 
+Protection Act, 1986, the Atomic Energy Act, 1962 and the Railways Act, 1989. The 
+exclusion of the Competition Act under Section 173 of the Electricity Act is a deliberate 
+exclusion by the legislature. The erstwhile Competition Appellate Tribunal (COMPAT) in 
+Anand Prakash Agarwal v. Dakshin Haryana Bijli Vitran Nigam Limited (Anand Prakash 
+Order) 10  had noted that: “…the Electricity Act, 2003 is admittedly a later special statute 
+and in the event of irreconcilable inconsistency between the Electricity Act and the 
+Competition Act, the former would override even though the Competition Act contained the 
+non-obstante clause in Section 60 of the Competition Act.”. Therefore, as far as the exercise 
+of jurisdiction by an Appropriate Commission under the Electricity Act over such 
+combinations is concerned, the jurisdiction of the JERC constituted under Section 83 of the 
+Electricity Act would prevail over the jurisdiction of the Commission. 
+ 
+(ii) Previous Findings of the Commission regarding Section 60 of the Electricity Act are 
+inconsistent with findings of the Hon’ble Supreme Court of India and subsequent orders 
+of the Hon’ble Delhi High Court and other sectoral/ specific legislations:  
+In this regard, TPL has submitted as follows: 
+a) The Commission in its orders passed in relation to the proceedings initiated under Section 
+43A of the Competition Act against Tata Power Company Limited (TPCL) in 2022 
+(TPCL Cases) 11,  had referred to its orders in Shri Arun Mishra and State of U.P. & 
+Ors.12, and HPCL-Mittal Pipelines Limited and Gujarat energy Transmission 
+Corporation Limited & Others13and reiterated that: (i) the ratio of the COMPAT in the 
+Anand Prakash Order pertains solely to matters in respect of electricity tariffs approved 
+                                                          
+7 Section 173 of the Electricity Act: Nothing contained in this Act or any rule or regulation made thereunder or any 
+instrument having effect by virtue of this Act, rule or regulation shall have effect in so far as it is inconsistent with any 
+other provisions of the Consumer Protection Act, 1986 or the Atomic Energy Act, 1962 or the Railways Act, 1989.  
+8 Section 174 of the Electricity Act: “Save as otherwise provided in section 173, the provisions of this Act shall have 
+effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any 
+instrument having effect by virtue of any law other than this Act”. 
+9 Section 175 of the Electricity Act: “the provisions of this Act are in addition to and not in derogation of any other law 
+for the time being in force.” 
+10 Competition Appeal No. 33 of 2016 (Order dated 16th February 2017). 
+11 Proceedings against Tata Power Company Limited under Section 43A of the Competition Act, 2002 in Combination 
+Registration No. C-2021/03/826, C-2021/03/825 and C-2021/03/824 (Orders dated 17th March 2022) 
+12 Case No. 43 of 2017 (Order dated 24th January 2018 passed under Section 26(2) of the Competition Act)  
+13 Case No. 39 of 2017 (Order dated 31st January 2018 passed under Section 26(1) of the Competition Act) 
+
+ 
+Page 8 of 22 
+ 
+by the Appropriate Commission and (ii) a harmonious reading of the Competition Act 
+and Section 60 of the Electricity Act requires that general issues pertaining to 
+competition in the market must be dealt with under the Competition Act. In the said 
+orders, the Commission had placed reliance upon the Judgment of the Ld. Single Judge 
+of the Hon’ble Delhi High Court in Telefonaktiebolaget LM Ericsson (Publ) vs. CCI and 
+others14 (First Ericsson Judgment), which held as follows: “there is no irreconcilable 
+repugnancy or conflict between the Competition Act and the Patents Act, and in the 
+absence of any irreconcilable conflict between the two legislations, the jurisdiction of 
+the Commission to entertain complaints for abuse of dominance in respect of patent 
+rights cannot be ousted”. However, a continued reliance by the Commission on this 
+decision would be misplaced as the order of the Ld. Single Judge of the Hon’ble Delhi 
+High Court passed in context of the Patents Act, 1970 (Patents Act) has now been 
+overturned by the Hon’ble Division bench of the Hon’ble Delhi High Court on 13th July 
+202315 (Second Ericsson Judgment), which in its order has noted that the Patents Act 
+being a special legislation and chapter XVI of the Patents Act being a subsequent 
+legislation vis-à-vis the Competition Act, as well as a complete code, the same would 
+prevail over the Competition Act.  
+ 
+b) Since Section 60 of the Electricity Act specifically empowers authorities i.e., JERC in 
+this case, to pass any directions/ orders if a licensee enters a combination which is likely 
+to cause or causes an adverse effect on competition in the electricity sector and Section 
+146 of the Electricity Act provides that failure to comply with such directions or orders 
+issued by the JERC is punishable with imprisonment or fine, the said provisions are pari 
+materia to provisions included under the Competition Act. This is indicative of the fact 
+that the two legislations are complete codes, with the Electricity Act being applicable to 
+the electricity sector. 
+ 
+c) Considering the Electricity Act is a special and a subsequent legislation and has an 
+express provision dealing with the anti-competitive impact of combinations in the 
+electricity sector, the Commission cannot be said to have been vested with the 
+jurisdiction to review the Transaction. The Hon’ble Supreme Court of India in Gujarat 
+Urja Vikas Nigam Ltd vs. Essar Power Limited (GUVNL Case)16, whilst determining 
+                                                          
+14 2016 (66) PTC 58 (Del). 
+15 Telefonaktiebolaget LM Ericsson (Publ) and Ors. vs. CCI & Anr, LPA 247/2016, LPA 150/2020, LPA 550/2016, LPA 
+246/2016 and WP(C) 8379/2015, Delhi High Court, dated 13th July 2023.  
+16 AIR 2008 SC 1921.  
+
+ 
+Page 9 of 22 
+ 
+whether a dispute would be arbitrated under Section 11 of the Arbitration and 
+Conciliation Act, 1996 (Arbitration Act) or under Section 86(1)(f) of the Electricity 
+Act, noted that Section 86(1)(f), being a special provision for adjudication of disputes, 
+would prevail over the general law (i.e., the Arbitration Act). The interpretation of 
+Sections 174 and 175 of the Electricity Act in the matter shows that Section 175 of the 
+Electricity Act must be read with Section 174 thereof, and not in isolation. Further, 
+Section 174 of the Electricity Act would prevail over Section 175 of the Electricity Act 
+in matters where there is any conflict, irrespective of whether the inconsistency is express 
+or implied. 
+ 
+d) Hon’ble Supreme Court of India in Anwar Hasan Khan vs. Mohammad Shafi and Ors.17 
+(Anwar Hasan Case) has observed that “the well-known principle of harmonious 
+construction is that effect should be given to all the provisions and a construction that 
+reduces one of the provisions to a “dead letter” is not harmonious construction”. 
+However, if the Competition Act is interpreted to vest the Commission with the 
+jurisdiction to regulate combinations in the electricity sector, then Section 60 of the 
+Electricity Act would be rendered a dead letter.  
+ 
+e) Hon’ble Supreme Court in Selvi J. Jayalalithaa and Ors. vs. State of Karnataka and Ors. 
+(Selvi Case)18  noted that “there is yet an uncontroverted legal principle that when the 
+statute provides for a particular procedure, the authority has to follow the same and 
+cannot be permitted to act in contravention of the same”. However, if it is interpreted 
+that the Commission has jurisdiction over combinations in the electricity sector despite 
+Section 60 of the Electricity Act, it will have the effect of holding that Section 173 of the 
+Electricity Act includes within the ambit of the Competition Act and it will: (i) in effect 
+amount to an amendment of Section 173, which cannot be done except by the Parliament 
+and (ii) be contrary to all applicable rules of interpretation. 
+ 
+f) Real Estate (Regulation and Development) Act, 2016 (RERA), a legislation passed after 
+2002, specifically provides for the jurisdiction of the Commission under Section 38(3)19 
+when a concern under the scheme of the Competition Act arises. However, the Electricity 
+                                                          
+17 AIR 2001 SC 2984. 
+18 (2014) 2 SCC 401. 
+19 Section 38(3)- “Where an issue is raised relating to agreement, action, omission, practice or procedure that— 
+a. has an appreciable prevention, restriction or distortion of competition in connection with the development of a 
+real estate project; or 
+b. has effect of market power of monopoly situation being abused for affecting interest of allottees adversely, 
+then the Authority, may, suo motu, make reference in respect of such issue to the Competition Commission of India.” 
+
+ 
+Page 10 of 22 
+ 
+Act does not contain such a stipulation. This shows that the legislative intent was to not 
+bestow upon the Commission an independent jurisdiction.  
+ 
+g) Thus, the Electricity Act is a self-contained code/ legislation in relation to the Electricity 
+Sector, whose application cannot be limited to merely electricity tariffs, especially when 
+Section 60 of the Electricity Act expressly confers jurisdiction upon the Appropriate 
+Commission in respect of matters relating to combinations in the electricity sector. 
+Further, given that it was enacted after the Competition Act, all matters pertaining to the 
+electricity sector, including combinations squarely fall solely within its jurisdiction. 
+ 
+(iii) Section 60 of the Competition Act cannot be invoked to vest Commission with the 
+jurisdiction for assessing combinations in the electricity sector: In the matter of 
+Maharashtra Tubes Ltd. v. State Industrial and Investment Corpn. of Maharashtra Ltd.20 
+(Maharashtra Tubes Case), the Hon’ble Supreme Court observed that where there is an 
+inconsistency in the non-obstante clause between two special laws, the non-obstante clause 
+in the subsequent legislation would prevail over the non-obstante clause in the previous 
+enactment, unless the subsequent enactment is a general law and the earlier enactment is the 
+special law. Further, a 2015 Judgment of a three-judge bench of the Apex Court in the case 
+of KSL & Industries Ltd. v. Arihant Threads Ltd. 21 (KSL Industries Case) noted that even 
+between two special legislations, the subsequent legislation would prevail “on the principle 
+that the legislature was aware that it had enacted the earlier Act and yet chose to enact the 
+subsequent Act with a non obstante clause”.  The Hon’ble Supreme Court further held that 
+this principle would be set aside only if the subsequent non obstante clause is subject to non-
+derogation from identified enactments.  Hence, given that the Electricity Act is a special 
+legislation and assuming that the Competition Act is also a special legislation, the former, 
+being the subsequent legislation, would prevail over the latter. Further, considering that 
+Sections 173 and 174 of the Electricity Act were consciously incorporated by the legislature 
+with the knowledge of enactment of the Competition Act, the non-obstante clause of the 
+Electricity Act would supersede the non-obstante clause of the Competition Act. Also, given 
+that Section 173 of the Electricity Act provides for non-derogation only vis-à-vis three 
+legislations, i.e., the Consumer Protection Act, 1986 and the Atomic Energy Act, 1962, and 
+the Railways Act, 1989, expressly excluding the Competition Act, the non obstante clause 
+of the Competition Act cannot supersede the non obstante clause included in the Electricity 
+                                                          
+20 (1993) 2 SCC 144. 
+21 (2015) 1 SCC 166. 
+
+ 
+Page 11 of 22 
+ 
+Act. Hence, the JERC is vested with exclusive jurisdiction over the Transaction under the 
+Electricity Act. 
+ 
+15. 
+In addition to the above, it is also submitted that:  
+(i) 
+The bid timelines reaffirm that TPL did not require a prior approval from the 
+Commission: The extremely short and stringent timelines to pay the consideration and 
+execute the relevant documents show that the exclusive jurisdiction to review the 
+Combination lied under the Electricity Act.   
+ 
+(ii) 
+The bid document did not require TPL to specifically obtain the approval of the 
+Commission in respect of the Transaction:  Unlike TPCL Cases, TPL did not receive 
+any instruction or direction throughout the bid process to specifically obtain the 
+Commission’s approval in respect of the Transaction. Also, the Transaction Documents 
+did not contain any such stipulation. Hence, TPL was under a genuine and bona fide belief 
+that the Transaction fell within the sole jurisdiction of the Electricity Act and did not 
+require to be notified before the Commission. 
+ 
+(iii) 
+The transaction has not caused any appreciable adverse effect on competition 
+(AAEC): The Transaction has been undertaken as part of larger structural reforms 
+contemplated by the Government of India in the power sector. Prior to the Transaction, 
+the UT Administration of DNH-DD, through the Electricity Department and DNHPDCL, 
+exclusively undertook the distribution and retail supply of power. Pursuant to the 
+Transaction, the distributor of electricity has changed from being completely controlled 
+by the UT Government to being privatised to the extent of 51%. As on date, 49% is still 
+held by the UT Administrator, and it is the JERC that continues to determine the tariff for 
+power supply, not TPL. Thus, the entry of TPL into the market does not affect the 
+competition in any manner whatsoever given the highly regulated nature of the sector. 
+Further, the Transaction does not entail the exit of any player and has in fact resulted in 
+the addition of a new partner to co-manage the distribution of electricity (in the capacity 
+of a distribution licensee), which cannot cause AAEC in the market. 
+ 
+(iv) 
+Bid participants should not be penalised for effectively complying with the bid 
+processes: The urgency imposed through the bidding framework on the winning bidder 
+to conclude the process, and the said bidder’s compliance thereof, ought not to be faulted 
+or penalised. At the time of issuance of the LOI, or the mandatory payment of the 
+consideration for the Transaction, or at the stage of execution of the Transaction 
+
+ 
+Page 12 of 22 
+ 
+Documents, TPL did not have access to the relevant financial information of the Target, 
+which was necessary to have enabled it to undertake the assessment in respect of whether 
+or not the said Transaction was notifiable.  In view of the aforesaid, to hold the winning 
+bidder accountable for not notifying the Transaction to the Commission would be grossly 
+unjust. 
+ 
+16. 
+Finally, TPL has prayed for lenient treatment by the Commission in light of the structural issues 
+inherent to the bidding process, TPL’s consistent cooperation with the Commission’s 
+investigation and bona fide behaviour. TPL has prayed that even if the Commission concludes 
+that there has been a violation under Section 43A of the Competition Act, the Commission should 
+afford lenient treatment to TPL and impose either no penalty and/or nominal penalty upon it on 
+account of the fact that it was clearly not intentional and was based on the circumstances and 
+belief set out below:  
+i. 
+TPL, at the time of consummating the Transaction was under the genuine and bona fide 
+belief that it was not required to notify the Transaction to the Commission and the 
+Transaction was solely subject to the jurisdiction of the Electricity Act; 
+ii. 
+The mandatory timelines stipulated by the Bid Authority were stringent; 
+iii. 
+At the time when TPL entered into the Transaction, there was no contrary guidance 
+available from the Commission (e.g., TPCL Cases). The TPCL Cases were passed by the 
+Commission on 17th March 2022, whereas TPL had already paid the consideration by 26th 
+February 2022 and executed the Transaction Documents by 15th March 2022; 
+iv. 
+Unlike TPCL, which had the benefit of being directed to notify its acquisition to the 
+Commission, TPL did not benefit from any such guidance and the bid documents were 
+silent in respect of obtaining any such regulatory approval as a condition precedent; 
+v. 
+TPL has extended full cooperation in respect of the ongoing proceedings by furnishing in 
+a timely manner, all the requisitioned information truthfully and completely, to the best of 
+its ability; and 
+vi. 
+TPL is a much smaller player when compared to TPCL. Given the difference of status 
+between TPL and TPCL in terms of financial wherewithal and scope of operations, the 
+imposition of a similar or greater penalty on TPL, as compared to TPCL would be contrary 
+to the principles of proportionality, equality and fair play. 
+ 
+17. 
+Further, in view of the submissions made, TPL has prayed that: (a) no finding of contravention 
+by TPL of Section 43A of the Competition Act is arrived at; (b) if a finding that TPL has 
+contravened Section 43A of the Competition Act is arrived at, then without prejudice to the 
+
+ 
+Page 13 of 22 
+ 
+interests of TPL, no penalty be imposed upon TPL; and (c) any other order, as the Commission 
+may deem fit on facts, merit, international best practices and law, may be passed for the ends of 
+justice. 
+ 
+E. 
+Observations of the Commission 
+ 
+18. 
+The Commission has considered the material on record and heard the arguments of the learned 
+counsel in the matter on 19th November 2024. It is noted that the primary contention of TPL in 
+the matter is that the transaction is subject to the exclusive jurisdiction of the appropriate 
+commission under the Electricity Act, i.e., JERC in this case. Given the submissions made in 
+response to the SCN and arguments presented before the Commission by the learned counsel, the 
+observations of the Commission on the issue of jurisdiction, contravention of the provisions of 
+the Competition Act, and imposition of penalty in the matter are set forth in the ensuing paras. 
+ 
+I. 
+Issue of Jurisdiction 
+ 
+19. 
+To begin with, TPL has argued that pursuant to Section 60 of the Electricity Act, JERC has 
+exclusive jurisdiction to regulate combinations in the electricity sector and that the operation of 
+Competition Act is overridden by the non-obstante provision in the Electricity Act. Further, TPL 
+has inter alia relied upon the decision of COMPAT in Anand Prakash Case, the Second Ericsson 
+Judgment passed by the Hon’ble Division Bench of the Delhi High Court, and the principles 
+espoused by the Hon’ble Supreme Court of India in various cases to buttress the argument of 
+exclusive and overriding effect of provisions of Electricity Act over that of Competition Act in 
+respect of matters relating to combinations in the electricity sector.  
+ 
+20. 
+TPL has referred to the orders passed by the Commission in TPCL Cases under Section 43A of 
+the Competition Act and argued that continued reliance by the Commission on its decision in 
+TPCL Cases after the Second Ericsson Judgment would be misplaced. But interestingly, at the 
+same time it has also prayed for lenient treatment on the ground that the guidance in form of TPCL 
+Cases was not available to TPL at the time it had consummated the Transaction.  
+ 
+21. 
+Be that as it may, before proceeding further, the Commission finds it appropriate to first deliberate 
+upon its orders passed in the TPCL Cases wherein the issue of conflict or overlap in the two 
+statutes, namely, the Competition Act and the Electricity Act was considered. In the TPCL Cases, 
+the Commission had referred to its own observations in certain orders passed under Section 26(1) 
+of the Competition Act, most of which continue to remain relevant to the present matter as well.  
+Summarily, the Commission in these orders had observed that: 
+
+ 
+Page 14 of 22 
+ 
+ 
+(a) Though the Electricity Act is a special legislation governing, inter-alia, matters pertaining to 
+generation, transmission and supply of electricity, it cannot be said that all matters arising in 
+the electricity industry will be governed exclusively by the said statute. Various provisions of 
+Electricity Act and the policies made thereunder unequivocally express the intention of the 
+legislature to promote competition. It is unconceivable that by inserting Sections 174 and 175, 
+the legislature had intended to oust the jurisdiction of the Commission. 
+ 
+(b)  The latin maxim ‘generalia specialibus non derogant’ suggests that where a general statute 
+and a special statute relating to the same subject matter cannot be reconciled, the special 
+statute ordinarily will prevail. And in case where a subject matter is covered by two statutes, 
+both of which are special, the one enforced on a later date ordinarily prevails. However, these 
+rules of statutory construction are not absolute in nature; rather an attempt should be aimed 
+at, in case of conflicting provisions, to give effect to both the provisions to avoid redundancy. 
+This position has been reiterated by Hon’ble Supreme Court in Ashoka Marketing Limited v. 
+Punjab National Bank22 wherein it was held:  
+“The principle which emerges from these decisions is that in the case of inconsistency 
+between the provisions of two enactments, both of which can be regarded as special 
+in nature, the conflict has to be resolved by reference to the purpose and policy 
+underlying the two enactments and the clear intendment conveyed by the language of 
+the relevant provisions therein. We propose to consider this matter in the light of this 
+principle.”                                  
+ 
+ 
+ 
+          [Emphasis supplied] 
+ 
+(c) Both the statutes under consideration, i.e., the Electricity Act and the Competition Act, are 
+special statutes with designated spheres of operation. The former aims at regulating activities 
+in the electricity industry and the latter aims at promoting competition in every sphere and 
+sector of the economy. The jurisdiction of the Competition Act extends to all sectors of the 
+economy and sectors regulated by sector specific laws such as telecommunication, electricity, 
+petroleum, insurance etc. are also included within the ambit of the Competition Act for 
+competition related matters/issues. To this extent, there is no conflict as both these statutes 
+have their respective and mutually exclusive regulatory regime. 
+ 
+(d) Though Electricity Act is a special statute for the purposes of dealing with electricity matters, 
+the Competition Act is a special statute for regulating competition in the market. For any 
+                                                          
+22 (1990) 4 SCC 406 
+
+ 
+Page 15 of 22 
+ 
+competition related matter, the Competition Act is a special statute, mandated to promote and 
+regulate competition in the market. The mandate of the Commission is to eliminate practices 
+having adverse effect on competition, promote and sustain competition, protect the interests 
+of consumers, and ensure freedom of trade carried on by other participants in markets in India. 
+Sectoral regulators focus on the dynamics of specific sectors, whereas the Commission 
+focuses on functioning of the markets by way of increasing efficiency through competition. 
+Thus, there is no issue of conflict of jurisdiction which cannot be reconciled by adopting 
+harmonious construction between the provisions of the Electricity Act and the provisions of 
+the Competition Act.  
+ 
+(e) Keeping in view the object and purpose underlying both the enactments viz., the Electricity 
+Act and the Competition Act, it does not appear that the provisions of the Competition Act 
+are in any way superseded by the Electricity Act, in the context of the facts and allegations 
+under consideration. The mandate of the Competition Act is vast and its jurisdiction cannot 
+be perceived to be ousted by the Electricity Act.  
+ 
+ 
+ 
+22. 
+Further, with respect to the order of the erstwhile COMPAT in the Anand Prakash Case, which 
+had been relied upon by TPCL and is also relied upon by TPL in the present case to argue that the 
+Commission does not have jurisdiction in the matter concerning electricity sector, it was noted 
+that: 
+“40. … there does not seem to be real or ostensible discrepancy in the view taken by the 
+Commission and opinion expressed by the hon’ble erstwhile COMPAT in Anand Prakash 
+Agarwal v Dakshin Haryana Bijli Vitran Nigam Limited case. …… The Hon’ble erstwhile 
+COMPAT reiterated the stand taken by the Commission while giving its conclusion on the 
+issue of jurisdiction as is clear from the ratio of the said order, reproduced below:  
+18.11 We are of the view that, there is an implied immunity from the Competition 
+law in matters of electricity tariff approved by the Appropriate Commission in terms 
+of the Electricity Act, 2003 and therefore, the Appellant cannot seek any relief under 
+the Competition Act.” 
+41. The aforesaid ratio of the hon’ble erstwhile COMPAT clearly indicates that the said 
+judgment was only with respect to matters pertaining to electricity tariff approved by the 
+Appropriate Commission under the Electricity Act.”                                [Emphasis supplied] 
+ 
+23. 
+Further, the Commission had also noted in the TPCL Cases that the position that the State 
+Electricity Regulatory Commission (or the JERC in the instant case) do not have exclusive 
+jurisdiction under the Electricity Act is also supported by the case of Shri Neeraj Malhotra, 
+
+ 
+Page 16 of 22 
+ 
+Advocate vs. North Delhi Power Ltd. & Ors.23, wherein the distribution companies alleged before 
+the Commission that only the Delhi Electricity Regulatory Commission (DERC) under the 
+Electricity Act had jurisdiction to deal with the issues relating to anti-competitive behaviour of 
+electricity distribution companies. The Commission in this case had referred the matter to the 
+DERC and the DERC had categorically opined that “matters relating to electricity tariff have to 
+be decided as per the provisions of the Electricity Act, 2003 and DERC Regulations. Accordingly, 
+CCI may not be appropriate forum to deal with such issue. However, specific issues alluded to by 
+the petitioner accusing the Discoms of abuse of their dominant position may be looked into by the 
+CCI in terms of the Competition Act, 2002”. Thus, it was amply clear that there is no overlap 
+between the DERC and the Commission in terms of the jurisdiction of the matter. 
+ 
+24. 
+The Commission had noted in the TPCL Cases that OERC, in its Letter to TPCL, had noted the 
+provisions contained in Section 60 of the Electricity Act and expressly directed TPCL that, 
+“...notwithstanding the confirmation regarding conformity with relevant Indian Laws & 
+Regulations already provided in the covering letter forming part of your bid, TPCL is required to 
+comply with the requirements of Competition Act, 2002 and furnish a certificate on such 
+compliances to OERC.” Thus, even OERC had recognized the jurisdiction of the Commission and 
+directed TPCL to comply with the provisions of the Competition Act.  
+ 
+25. 
+Now, in the present matter, TPL has argued that it would not be appropriate to continue to rely 
+upon order in TPCL Cases in the instant matter, as orders in those cases placed reliance upon the 
+First Ericsson Judgement which now stands overturned by the Second Ericsson Judgement. In this 
+regard, it is noted that in the TPCL Cases reliance was placed not only on First Ericsson Order 
+but also other factors quoted in those orders, as brought out in above paras, which continue to 
+remain relevant to the present case despite the Second Ericsson Judgement. 
+ 
+26. 
+Moreover, the Hon’ble Division Bench of the Delhi High court in the Second Ericsson Judgement, 
+has observed that: 
+“20. Both the Patents Act and the Competition Act are special laws in their respective 
+fields, i.e., patents, and competition respectively. … … 
+ 21. Chapter XVI of the Patents Act, which was introduced by way of an amendment in 
+2003 after the Competition Act was enacted, is a subsequent enactment, and the 
+contention of the patentees that by application of the maxim “lex posterior derogat 
+                                                          
+23 Case No. 6/2009 (Order dated 11th May 2011) 
+
+ 
+Page 17 of 22 
+ 
+priori”, the Patents Act must override the Competition Act appears attractive at first 
+blush.  
+22. However, the Court would be mindful of the law that has evolved on how perceived 
+repugnancy between two statutes ought to be resolved when both laws appear to be 
+special law, and both laws are made by the same legislature. The locus classicus on 
+this subject, is the Constitution Bench dicta of the Supreme Court in Ashoka Marketing 
+Ltd & Anr. v. PNB & Ors., (1990) 4 SCC 406, … …. 
+23. There is also extensive law on the question of ascertaining when a law can be 
+considered as a special law. While discussing the question of the test of whether a 
+statute is general or special, the Supreme Court held in Gobind Sugar Mills Ltd. v. 
+State of Bihar, (1999) 7 SCC 76 that:  
+“.... 10. While determining the question whether a statute is a general or a special 
+one, focus must be on the principal subject-matter coupled with a particular 
+perspective with reference to the intendment of the Act....” 
+24. Citing the above, the Supreme Court, in CTO, Rajasthan v. Binani Cements Ltd & 
+Anr, (2014) 8 SCC 319 observed:  
+“47. ...the Rule of statutory construction that the specific governs the general 
+is not an absolute rule but is merely a strong indication of statutory meaning 
+that can be overcome by textual indications that point in the other direction. 
+This rule is particularly applicable where the legislature has enacted 
+comprehensive scheme and has deliberately targeted specific problems with 
+specific solutions. A subject specific provision relating to a specific, defined 
+and descriptable subject is regarded as an exception to and would prevail over 
+a general provision relating to a broad subject.  
+25. The indication, clearly, is that the Court must not automatically uphold the 
+subsequent law as overriding the earlier law when two statutes are special. So too 
+must the Court not hasten to declare laws as special merely because they deal, overall, 
+with a specific issue/subject.  
+26. What must be considered is: (i) the subject matter in question, (ii) the intendment 
+of the statutes in respect thereof, as well as (iii) whether the scheme and relevant 
+provisions of the two statutes have any indication apropos which, the legislature felt 
+must override the other, especially when both statutes have a non-obstante clause.” 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+          [Emphasis supplied] 
+ 
+
+ 
+Page 18 of 22 
+ 
+27. 
+The Hon’ble High Court also examined the scheme of both Acts and observed that: “the Patents 
+Act must prevail over the Competition Act on the issue of exercise of rights by a patentee under 
+the Patents Act.” The Court has further observed that the Patents Act is a complete code on all 
+issues pertaining to unreasonable conditions in agreements of licensing of patents, abuse of status 
+as a patentee.  
+ 
+28. 
+Thus, from the order of the Hon’ble Division Bench of the Delhi High Court in the Second 
+Ericsson Judgement, it is evident that mere fact that one enactment is subsequent to another does 
+not suffice to resolve repugnancy between provisions of the two enactments where both are special 
+laws. What must also be considered is the subject matter in question and the intendment of the 
+statutes in respect thereof. Further, in that judgement the Hon’ble High Court has looked at the 
+provisions of the Patents Act and specifically to the issue of exercise of rights by a patentee under 
+the Patents Act. The same cannot mutatis mutandis be applied to the instant case.  
+ 
+29. 
+Given the observation of the Hon’ble Division Bench of the Delhi High Court in the Second 
+Ericsson judgement, it is also pertinent to examine the provisions of Electricity Act and the 
+Competition Act to understand the intendment of the statutes and ascertain whether either or both 
+are a complete code for regulation of combinations.  
+ 
+30. 
+TPL has argued that Electricity Act is a complete code like Competition Act for regulation of 
+combinations in Electricity Sector because of the provisions contained in Section 60 of Electricity 
+Act read with the provisions of Section 146 of the Electricity Act. However, when the provisions 
+of the Competition Act in relation to regulation of combinations are considered, it is evident that 
+the same are far more comprehensive and fleshed out. The Electricity Act, unlike Competition 
+Act, does not contain any specific provision which defines what constitutes a combination, the 
+procedure for assessment of combinations, factors for delineation of relevant markets, factors for 
+ascertaining adverse effect on competition, and remedial orders that can be passed in case a 
+combination is found to be likely to cause or causes adverse effect on competition. Hence, when 
+the subject matter is a combination notifiable for assessment for its effects on the competition in 
+the relevant market(s), the Competition Act is enacted as a special statute and complete code by 
+the legislature providing specific mechanism for such assessment. On the contrary, the assessment 
+of the combination for adverse effects on competition neither appears to be the subject matter or 
+the intendment of the Electricity Act let alone it being a complete code for regulation of 
+combinations. Simply because Electricity Act contains a general provision enabling the authority 
+under the Electricity Act to impose penalty in case of non-compliance of (any) directions, cannot 
+be interpreted to state that it is a complete code for regulation of combinations. 
+
+ 
+Page 19 of 22 
+ 
+ 
+31. 
+TPL, having contended that the First Ericsson Judgement has been overturned by the Second 
+Ericsson Judgement and hence continued reliance thereupon would be misplaced, has argued that 
+the findings of the Hon’ble COMPAT regarding the scope of Section 60 of the Electricity Act 
+read with its Sections 173, 174 and 175 would be applicable to the instant case.  However, 
+COMPAT in the Anand Prakash Case itself observed that: 
+“…to argue that in all matters in the electricity industry EA03 would prevail over the 
+provisions of the Act, because of the presence of a sectoral regulator, would go against the 
+spirit of the said statute as well as against the purpose for which the Act was enforced….”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+       [Emphasis supplied] 
+ 
+32. 
+Upon a bare perusal of the two statutes, it is apparent that the Competition Act inter alia provides 
+the Commission with the necessary powers and jurisdiction to deal with the regulation of 
+combinations for their overall effects on competition, including in electricity sector; except certain 
+matters like tariff related issues for which the provisions are specifically contained in the 
+Electricity Act.  Therefore, the legislative intent is clear from the legal provisions of the two 
+special Acts which show that there is no issue of conflict of jurisdiction that cannot be reconciled 
+by adopting a harmonious construction between the two statutes.  
+ 
+33. 
+Further, the apprehensions of TPL based on observation of the Hon’ble Supreme Court in certain 
+cases that if the Competition Act is interpreted to vest the Commission with the jurisdiction to 
+regulate combinations in the electricity sector, then Section 60 of the Electricity Act would be 
+rendered a dead letter and if the Commission has jurisdiction over combinations in the electricity 
+sector such an interpretation will in effect amount to an amendment of Section 173 of the 
+Electricity Act,  appear to be unfounded.  
+ 
+34. 
+As stated earlier, the issue of conflict of jurisdiction amongst the two statutes is not such that 
+cannot be reconciled by adopting a harmonious construction amongst them. Moreover, the 
+provisions of the Electricity Act do not depict a legislative intent to oust the jurisdiction of the 
+Commission in regulation of combinations in the Electricity sector. Rather section 175 of the Act 
+provides that ‘the provisions of this Act are in addition to and not in derogation of any other law 
+for the time being in force’.  
+ 
+35. 
+Thus, the Competition Act vests the Commission with the jurisdiction to regulate combinations 
+for the purposes of eliminating practices having adverse effect on competition, promoting and 
+sustaining competition, and ensuring freedom of trade in markets in India, including electricity 
+
+ 
+Page 20 of 22 
+ 
+markets, and the Electricity Act vests the appropriate commission under that Act with the 
+jurisdiction to regulate other matters in which the sectoral regulator has necessary expertise such 
+as determining access, maintaining standards and determining tariffs. Therefore, the two Acts can 
+be harmoniously constructed without any law being rendered a dead letter. 
+ 
+36. 
+Conclusively, with regard to the objection raised against the Commission’s jurisdiction, it is noted 
+that while Electricity Act is a special statute for the purposes of dealing with electricity matters 
+with focus on the dynamics of the specific sector, the Competition Act is a special statute for 
+regulating competition in the market having a holistic approach focusing on functioning of the 
+markets by increasing efficiency through competition. To this extent, there is no conflict as both 
+these statutes have their respective and mutually exclusive regulatory regimes. The attempt should 
+therefore be to give effect to the provisions of both the Acts by adopting harmonious construction 
+between the provisions of the two special statutes. Accordingly, in view the foregoing, the 
+Commission is of the considered opinion that it has jurisdiction in the matter and JERC cannot be 
+said to have exclusive jurisdiction in the matter.  
+ 
+II. 
+Contravention of the provisions of the Competition Act 
+ 
+37. 
+The merger control regime in India is mandatory and suspensory in nature. This means that 
+combinations are notifiable unless they can avail any exemptions and cannot be consummated, 
+either entirely or in part, before an approval from the CCI has been obtained. Section 5 of the 
+Competition Act provides the assets and turnover criteria for acquisitions of control, shares, voting 
+rights or assets as well as mergers and amalgamations that amount to a combination. Section 6(2) 
+of the Competition Act requires/ mandates parties to give notice in respect of their proposed 
+combination. In case of acquisitions, the trigger for notifying the transaction to CCI is the 
+execution of binding transaction documents or any other binding document that indicates an 
+agreement to acquire control, shares, voting rights or assets. Section 6(2A) of the Competition 
+Act provides that a combination notified to the Commission shall not come into effect for a period 
+of 210 days [reduced to 150 days by the Competition (Amendment) Act, 2023] from the date of 
+notification or approval by the Commission, whichever is earlier. 
+ 
+38. 
+It is clear from the submission of TPL that the transaction was a notifiable transaction and was 
+neither exempted by any Government of India notification nor covered under Schedule I of 
+Combination Regulations. Also, it is clearly provided in the Competition Act that irrespective of 
+whether there is any appreciable adverse effect in India or not, there exists a mandatory regime 
+for notifying a combination to the Commission.  
+
+ 
+Page 21 of 22 
+ 
+ 
+39. 
+Thus, it was incumbent upon the TPL to be in conformity with all relevant Indian Laws and 
+Regulations including the Competition Act. This obligation of the TPL to notify the proposed 
+combination to the Commission as per the provisions of the Competition Act and take approval 
+of the Commission prior to consummation of the transaction was not subject to JERC giving 
+directions to TPL or the requirement being mentioned in the bid documents. 
+ 
+40. 
+When TPL was announced as winning bidder by JERC, TPL was required to notify the transaction 
+to the Commission and such notification ought to have been made before consummation of the 
+transaction i.e., TPL should have filed the notice with the Commission under the provisions of the 
+Competition Act immediately after issue of LOI, but before payment of consideration. However, 
+TPL failed to file notice with the Commission.  
+ 
+41. 
+In view of the foregoing, the Commission is of the view that there is a contravention of the 
+provisions of Section 6(2) and Section 6(2A) of the Competition Act as TPL has failed to notify 
+the Transaction to the Commission within stipulated time and also consummated the same. 
+ 
+III. 
+Penalty 
+ 
+42. 
+Failure to give notice in accordance with sub-section (2) of Section 6 of the Competition Act 
+attracts penalty under Section 43A of the Competition Act. Section 43A of the Competition Act 
+states:  
+“Power to impose penalty for non-furnishing of information on combinations 43A. If any 
+person or enterprise who fails to give notice to the Commission under sub- section (2) of 
+section 6, the Commission shall impose on such person or enterprise a penalty which may 
+extend to one percent, of the total turnover or the assets, whichever is higher, of such a 
+combination.” 
+ 
+43. 
+It may be noted that the Hon’ble Supreme Court in Competition Commission of India v Thomas 
+Cook (India) Ltd. & Anr.24 has held that: “For   the   imposition   of penalty under section 43A, the 
+Competition Action may not be mala fide in case there is a breach of the statutory provisions of 
+the civil law, penalty is attracted simpliciter on its violation.” Accordingly, in terms of Section 
+43A of the Competition Act, a maximum penalty of one per cent of the combined value of turnover 
+of the Parties in India can be imposed.  
+ 
+                                                          
+24 Civil Appeal No.13578 OF 2015 (17 April 2018) 
+
+ 
+Page 22 of 22 
+ 
+44. 
+It is to be noted that Section 43A of the Act prescribes the maximum extent of penalty that can be 
+levied for failure to file notice; however, the Commission can consider the conduct of the parties 
+and circumstances of the case to arrive at an appropriate amount of penalty. 
+ 
+45. 
+Considering that the Transaction was consummated without filing a notice, TPL cannot be 
+absolved of its obligation to file a notice prior to the consummation of the Transaction. However, 
+in the instant matter, the Commission considered the submissions of TPL with regard to the 
+structural issues inherent to the bidding process like TPL’s obligation to comply with the strict 
+bid timelines, failure to abide by the bid timeline resulting in TPL losing its security deposit and 
+right to acquire the target etc., ambiguity due to overlapping provisions in the two special acts, 
+i.e., Competition Act and Electricity Act,  the transaction not resulting in AAEC in the relevant 
+market, and TPL extending full cooperation in respect of the ongoing proceedings as mitigating 
+factors while determining extent of violation and penalty under the provisions of section 43A of 
+the Competition Act and accordingly, the Commission decides not to impose any penalty on TPL.  
+ 
+46. 
+It is made clear that nothing used in this order shall be deemed to be confidential or deemed to 
+have been granted confidentiality, as the same has been used for the purposes of the Act in terms 
+of the provisions contained in Section 57 thereof. 
+ 
+47. 
+The Secretary is directed to communicate to TPL, accordingly. 
+ 

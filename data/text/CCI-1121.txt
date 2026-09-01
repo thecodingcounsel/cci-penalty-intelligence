@@ -1,0 +1,707 @@
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 1 of 17 
+ 
+Fair Competition  
+For Greater Good 
+03.07.2018 
+Proceedings under Section 43A of the Competition Act, 2002 against Telenor ASA, Telenor 
+(India) Communications Private Limited and Telenor South Asia Investments Pte Limited   
+ 
+CORAM: 
+Mr. Sudhir Mital 
+Member 
+ 
+Mr. Augustine Peter 
+Member 
+ 
+Mr. U. C. Nahta 
+Member 
+ 
+Mr. G. P. Mittal 
+Member 
+ 
+Appearances during oral hearing on 03.07.2018 for parties: 
+Mr. Ramji Srinivasan, Sr. Advocate, Mr. Rahul Rai, Advocate, Ms. Aditi Gopalakrishnan, 
+Advocate, Ms. Arunima Chatterjee, Advocate, Mr. Pankaj, Telenor  
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+A. 
+Background and initiation of proceedings under Section 43A of the Act 
+ 
+1. 
+On 26.10.2012, the Competition Commission of India (“Commission”) received a notice 
+(“Notice”) under Section 6(2) of the Competition Act, 2002 (“Act”), given by Lakshdeep 
+Investments & Finance Private Limited (“Lakshdeep”) (Combination Registration No. C-
+2012/10/87). The Notice related to proposed acquisition of shares of Telewings 
+Communications Services Private Limited (now Telenor (India) Communications Private 
+Limited, hereinafter referred to as “Telewings” / “Telenor India”) by Lakshdeep 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 2 of 17 
+ 
+Fair Competition  
+For Greater Good 
+(“Combination”) and was filed pursuant to the execution of a Share Subscription and 
+Shareholders’ Agreement (“SSHA”) dated 26.10.2012 between Telenor South Asia 
+Investment Pte Limited (“Telenor South Asia”), an indirect wholly owned subsidiary of 
+Telenor ASA (“Telenor”, the ultimate holding company of Telenor Group), Lakshdeep and 
+Telewings.  
+ 
+2. 
+As per the details provided in the Notice, the Combination envisaged Lakshdeep to initially 
+acquire 51 percent shares in Telewings and ultimately hold 26 percent shares in Telewings. 
+It was also stated in the Notice that the investment by Lakshdeep was envisaged to take place 
+in the following four steps: 
+ 
+(i) Step I: Telewings’ participation in the 2G spectrum auction to be conducted by the 
+DoT from 12.11.2012 with an intention to acquire the necessary spectrum for 
+carrying telecommunication operations in India; 
+(ii) Step II: Upon Telewings being declared successful in the 2G spectrum auction, 
+Lakshdeep’s acquisition of 51 percent shares of Telewings (“Lakshdeep Share 
+Transaction”); 
+(iii) Step III: After acquiring the 2G spectrum and requisite licenses necessary for 
+carrying on the business operations in India, Telewings’ acquisition of business of 
+Unitech Wireless (Tamil Nadu) Private Limited (“Uninor”) on a going concern 
+basis (“Uninor Business Transaction”); and 
+(iv) Step IV: On receiving the approval of the Foreign Investment Promotion Board 
+(“FIPB”), Telenor to increase its shareholding to 74 percent and consequently 
+Lakshdeep to hold 26 percent in Telewings (“Telenor Share Transaction – 
+Tranche 1”). 
+ 
+3. 
+It was stated in the Notice that the aforesaid four steps of the proposed investment are inter-
+connected and accordingly the notice was being filed under Regulation 9(4) of the 
+Competition Commission of India (Procedure in regard to the transaction of business relating 
+to combinations) Regulations, 2011 (“Combination Regulations”). However, it was also 
+claimed that aforesaid Step III i.e., Uninor Business Transaction and Step IV i.e., Telenor 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 3 of 17 
+ 
+Fair Competition  
+For Greater Good 
+Share Transaction – Tranche 1 are intra-group asset transfer and intra-group acquisition of 
+shares respectively in terms of Regulation 4 read with Item 8 of Schedule I of the 
+Combination Regulations and need not normally be filed with the Commission.  
+ 
+4. 
+During the review of the Combination, considering the aforesaid submissions on Step III and 
+IV, Lakshdeep was asked to clarify the scope of the Notice, in particular the 
+steps/transactions for which the approval of the Commission was being sought including 
+whether the approval was being sought for Step III and Step IV. In response, Lakshdeep 
+submitted that the scope of the Notice is the acquisition of 51 percent stake by Lakshdeep in 
+Telewings (and the resultant transfer of telecom assets from Uninor to Telewings). Further, 
+it was stated that the parties to the Combination believe that Step III and Step IV need not 
+normally be filed and accordingly, Step III and Step IV do not require the Commission’s 
+approval. It was added that in any event, if the Commission is of a different view, then an 
+assessment of appreciable adverse effect on competition (“AAEC”) in the relevant market 
+may be carried out by the Commission. 
+ 
+5. 
+In accordance with the submissions of Lakshdeep, the Commission assessed only the 
+Lakshdeep Share Transaction and observed that the same on standalone basis is not likely to 
+give rise to any adverse competition concern in India and accordingly approved the same by 
+passing an order under Section 31(1) of the Act dated 29.11.2012 (“Order”). As regards the 
+submissions of Lakshdeep on the applicability of Item 8 of Schedule I of the Combinations 
+Regulations on Steps III and IV, the Commission, while passing the Order, observed that as 
+Lakshdeep would hold shares in Telewings to the extent of 51 percent, transfer of business 
+from Uninor to Telewings and increase in stake of Telenor in Telewings from 49 percent to 
+74 percent cannot be considered as intra group transactions and therefore Item 8 of Schedule 
+I to the Combination Regulations is not applicable to these steps.  
+ 
+6. 
+Telewings filed an appeal with the erstwhile Hon’ble Competition Appellate Tribunal 
+(“CompAT”) questioning the observations made by the Commission in the Order on non-
+applicability of Item 8 of Schedule I to Steps III and IV of the Combination. CompAT noted 
+the facts of the case and observed that the Commission rightfully sought 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 4 of 17 
+ 
+Fair Competition  
+For Greater Good 
+queries/clarifications regarding steps/transactions for which approval is sought. CompAT 
+further observed that the Order has not been appealed by Lakshdeep and that Lakshdeep 
+could not have raised the issue about Step III and IV which could have been raised only by 
+Telewings separately and that the issue about Step III and IV was independent and separate 
+from the issue of Step II though it was tried to be diabolically mixed up. CompAT also noted 
+the specific replies given by Lakshdeep that they did not want any specific findings on Steps 
+III and IV. Based on the aforesaid, as regards the Commission’s observations on Step III and 
+IV, CompAT observed that in view of the specific answers given to the queries, there was 
+no necessity of making these observations and held that the same can be ignored for the 
+present. CompAT clarified that this opinion should not be taken as an expression of opinion 
+on merits of the observations and what is intended is to state that these observations (of the 
+Commission) were premature. Further, CompAT noted that the Commission would be free 
+to issue notice in the event these steps are undertaken by litigating companies. 
+ 
+7. 
+On 20.03.2017, the Commission received a notice under Section 6(2) of the Act given by 
+Bharti Airtel Limited and Telenor India for proposed transfer of 100 percent shares of 
+Telenor India to Airtel through a court driven scheme of merger (Combination Regn. No. C-
+2017-04-494). During the review of the same, the Commission observed that Telenor has 
+consummated the Telenor Share Transaction – Tranche 11 and subsequently increased its 
+shareholding in Telenor India from 74 percent to 100 percent2 (“Telenor Share Transaction 
+– Tranche 2”) without notifying the same to the Commission. It was also observed that 
+Telenor India had also consummated Uninor Business Transaction3 without notifying the 
+same to the Commission. 
+ 
+8. 
+The Commission observed that it had already held in the Order that the Telenor Share 
+Transaction - Tranche 1 and the Uninor Business Transaction were not covered under Item 
+8 of Schedule I of the extant Combination Regulations. As regards Telenor Share Transaction 
+- Tranche 2, the Commission observed that with 26 percent shareholding (left after Telenor 
+                                                          
+1 Telenor Share Transaction – Tranche 1 was completed on 11.12.2013. 
+2 Telenor Share Transaction – Tranche 2 was completed on 16.10.2014. 
+3 Uninor Business Transaction was completed on 13.02.2015.  
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 5 of 17 
+ 
+Fair Competition  
+For Greater Good 
+Share Transaction – Tranche 1), Lakshdeep still had joint control over Telenor India and 
+therefore transfer of the same had the effect of changing control of Telenor India from joint 
+control of Lakshdeep and Telenor to sole control of Telenor. In view of the same, Telenor 
+Share Transaction Tranche 2 is also not an intra group transaction and therefore not covered 
+under Item 8 of Schedule I of the Combination Regulations.  
+ 
+9. 
+Based on the aforesaid, it appeared that the Uninor Business Transaction, the Telenor Share 
+Transaction – Tranche 1 and the Telenor Share Transaction – Tranche 2 were notifiable and 
+have been consummated without filing a notice with the Commission. Accordingly, separate 
+show cause notices under Section 43A of the Act read with Regulation 48 of the Competition 
+Commission of India (General) Regulations, 2009 (“General Regulations”) were issued for 
+failure to file notice under Section 6(2) of the Act, to Telenor for Telenor Share Transaction 
+– Tranche 1 and Telenor Share Transaction – Tranche 2 and to Telenor India for Uninor 
+Business Transaction. The show cause notices required Telenor and Telenor India to show 
+cause, in writing, within 15 days of receipt of the same, as to why penalty, in terms of Section 
+43A of the Act, should not be imposed on them for failure to file notice for the aforesaid 
+transactions in accordance with Section 6(2) of the Act.  
+ 
+10. 
+Telenor sought to respond to the aforesaid show cause notices by way of a common response 
+dated 10.01.2018 (“Response”) after seeking extension. Along with the Response, Telenor 
+requested for grant of personal hearing, in terms of Regulation 48 of the General Regulations.  
+ 
+11. 
+In its meeting held on 09.05.2018, the Commission considered the Response and decided to 
+grant an oral hearing to Telenor on 22.05.2018. However, vide letter dated 17.05.2018, 
+Telenor requested for adjournment in the matter. The Commission accepted their request and 
+granted a personal hearing on 03.07.2018. Accordingly, Telenor presented its case before the 
+Commission on 03.07.2018.  
+B. 
+Submissions of Telenor 
+ 
+12. 
+In the Response and during personal hearing, Telenor, inter alia, contended the following:  
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 6 of 17 
+ 
+Fair Competition  
+For Greater Good 
+ 
+Uninor Business Transaction and Telenor Share Transaction Tranche 1 were exempt under 
+the Old Item 8 Exemption  
+ 
+12.1. That as on 29.11.2012 and until 04.04.2013 (when there was an amendment), Item 8 of 
+Schedule I read with Regulation 4 of the Combination Regulations stated that:  
+ 
+“an acquisition of control or shares or voting rights or assets by one person or enterprise of 
+another person or enterprise within the same group”  
+ 
+is ordinarily not likely to cause an appreciable adverse effect on competition and need not 
+normally be notified with the Commission (“Old Item 8 Exemption”).  
+ 
+12.2. That the only requirement under Old Item 8 Exemption was that the acquirer and target must 
+be within the same “group” within the meaning of Explanation (b) to Section 5 of the Act. 
+Under Explanation (b) to Section 5 of the Competition Act, the term ‘group’ refers to:  
+ 
+“two or more enterprises which are, directly or indirectly, in a position to:  
+(a) exercise 26% or more of the voting rights in the other enterprise4; or  
+(b) appoint more than 50% of the members of the board of directors in the other enterprise;  
+or  
+(c) control the management or affairs of the other enterprise.” 
+ 
+12.3. That on the date of execution of the SSHA, Telenor held majority shareholding of 67.25 
+percent shares in Uninor. […] Accordingly, at the time of execution of the SSHA, Uninor 
+was a subsidiary of Telenor, solely controlled by Telenor and was part of the Telenor group 
+and part of the same economic entity because it satisfied part (a) and (c) of the definition of 
+“group”.  
+                                                          
+4 Vide Notification S.O. 481(E) dated 4 March 2011 and Notification S.O. 673(E) dated 04.03.2016, the Ministry of 
+Corporate Affairs exempted “ ‘Group’ exercising less than fifty per cent of voting rights in other enterprises from the 
+provisions of Section 5 of the said [Competition] Act for a period of 5 years”. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 7 of 17 
+ 
+Fair Competition  
+For Greater Good 
+ 
+12.4. That irrespective of Lakshdeep’s shareholding, […] Telenor held 49 percent shares in 
+Telewings coupled with rights and power to solely exercise decisive influence over the 
+management and affairs and accordingly control over Telewings. The intention of the SSHA 
+was that Telenor South Asia, at all times, would have sole control of Telewings and this is 
+demonstrable based on the rights available to each Lakshdeep and Telenor South Asia. 
+Accordingly, Telewings was part of the Telenor group and same economic entity because it 
+fulfilled the requirement of part (c) of the definition of group. 
+ 
+12.5. That, accordingly, both the acquirer (Telewings) and the target enterprises (Uninor) in the 
+Uninor Business Transaction and the acquirer (Telenor South Asia acting on behalf of 
+Telenor) and the target enterprise (Telewings) were under the common control of Telenor 
+and were part of the Telenor Group and therefore both the Uninor Business Transaction and 
+Telenor Share Transaction – Tranche 1 were exempt from mandatory notification under Old 
+Item 8 Exemption.  
+ 
+Lakshdeep had disclosed the entire four step inter-connected transaction to the Commission 
+as part of the Combination  
+ 
+12.6. That as on 29.11.2012, Regulation 9(4) of the Combination Regulations stated that: 
+ 
+“where the ultimate intended effect of a business transaction is achieved by way of a series 
+of steps or smaller individual transactions which are inter-connected [or inter-dependent on 
+each other]5, one or more of which may amount to a combination6, a single notice, covering 
+all these transactions, [may be filed by the parties] to the combination”.  
+ 
+                                                          
+5 The words “or inter-dependent on each other” were omitted later by the Competition Commission of India (Procedure 
+in regard to the transaction of business relating to combinations) Amendment Regulations, 2016.     
+6 The phrase “may be filed by the parties” was substituted by “shall be filed by the parties” by the Competition 
+Commission of India (Procedure in regard to the transaction of business relating to combinations) Amendment 
+Regulations, 2015 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 8 of 17 
+ 
+Fair Competition  
+For Greater Good 
+12.7. That Section 6(2) of the Competition Act read with Regulation 9(4) of the Combination 
+Regulations offered parties the flexibility to file a “single notice” notifying the various inter-
+connected or inter-dependent steps, (one or more of which may have comprised 
+“combination”) of a transaction, within 30 days of the binding document regarding the 
+transaction. The Commission under Section 31(1) of the Competition Act was required to 
+carry out a competitive assessment of all the constituent steps of a combination and thereafter 
+approve or reject the combination in its entirety.  
+ 
+12.8. That Step I to Step IV reflected the ultimate intended effect and commercial objectives 
+sought to be achieved by the Parties by agreeing to the terms of the SSHA. Since, at the time 
+of execution of the SSHA, the Government of India’s Foreign Direct Investment (“FDI”) 
+policy on “Telecom Services” permitted a foreign entity to hold up to 49 percent of the shares 
+in an Indian telecom company, under the automatic route (i.e. without securing FIPB 
+Approval), or up to 74 percent shares with the approval of the FIPB, it was envisaged that to 
+start with Lakshdeep should invest in Telewings such that Telenor South Asia’s shareholding 
+in Telewings is eligible under the automatic approval route and the full intended 74:26 
+proportion should be achieved post receipt of FIPB Approval. In essence the combined effect 
+of all the envisaged steps was to procure that ultimately Lakshdeep holds 26 percent 
+shareholding in Telewings.  
+ 
+12.9. That in the instant case, the ultimate transaction sought to be achieved based on 
+implementation of the stated steps was acquisition of 26 percent shareholding of Telewings 
+by Lakshdeep, which was indeed achieved in accordance with the notified and disclosed 
+SSHA. Any requirement to independently notify Steps III and IV when the two steps were 
+clearly exempt under Old Item 8 Exemption would have been contrary to the letter and spirit 
+of the Competition Act.  
+ 
+12.10. That Lakshdeep had disclosed the entire four step inter-connected transaction to the 
+Commission as a part of the Combination. The Commission exercised jurisdiction over the 
+Combination based on the attribution of the value of assets and turnover in Step III (i.e., by 
+attributing the value of assets and turnover of Uninor to Telewings). Absent such attribution, 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 9 of 17 
+ 
+Fair Competition  
+For Greater Good 
+Step II would not have comprised a “combination” at all as the target enterprise in Step II 
+was incorporated in February 2012 and did not had any unaudited or audited financial 
+statements at the time of filing Notice making it eligible for de-minimis exemption. 
+Accordingly, the Commission, by attributing the values of assets and turnover of Uninor to 
+Telewings, acknowledged the inter-connected nature of the four steps comprising the 
+Combination.  
+ 
+12.11. That Lakshdeep specifically requested the Commission to examine the competitive effects 
+arising out of Step III and Step IV of the Combination, in case, it disagreed with Lakshdeep’s 
+submissions on Steps III and IV being exempt from the notification requirement.  
+ 
+12.12. That in light of the above, it is clear that, notwithstanding the Commission’s observations at 
+paragraph 8 of the Order (on Steps III and IV), it (a) could exercise jurisdiction over the 
+Combination only because of Step III; and (b) expressly recognized that the Combination 
+would ultimately result in Lakshdeep holding 26 percent shares in Telewings. Accordingly, 
+the Commission’s assertion in the Show Cause Notices that Steps III and IV of the 
+Combination were not notified is incorrect.  
+ 
+Telenor Share Transaction – Tranche 2 was exempt under Item 2 and the Amended Item 8 
+of Schedule I to the Combination Regulations  
+ 
+12.13. That at the time of Telenor Share Transaction – Tranche 2, Item 8 of the Schedule I of the 
+Combination Regulations had been amended to read as under (“Amended Item 8”),  
+ 
+“an acquisition of shares or voting rights or assets by one person or enterprise of another 
+person or enterprise within the same group, except in cases where the acquired enterprise is 
+jointly controlled by enterprises that are not part of the same group”  
+ 
+12.14. Item 2 of Schedule I of the Combination Regulations read as,  
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 10 of 17 
+ 
+Fair Competition  
+For Greater Good 
+“an acquisition of shares or voting rights, referred to in sub-clause (ii) or sub-clause (ii) of 
+clause (a) of section 5 of the Act, where the acquirer, prior to acquisition, has fifty percent 
+(50%) or more shares or voting rights in the enterprise whose shares or voting rights are 
+being acquired, except in cases where the transaction results in transfer from joint to sole 
+control”  
+ 
+12.15. As stated above, based on the SSHA, Lakshdeep did not enjoy any contractually agreed 
+affirmative voting rights conferring decisive influence and thus control over management 
+and affairs of Telewings, and Telenor South Asia exercised sole control over Telewings. The 
+position remained the same even after dilution of Lakshdeep’s shareholding from the interim 
+51 percent to 26 percent and also when Telenor completed Telenor Share Transaction – 
+Tranche 2. Accordingly, Telenor Share Transaction – Tranche 2 was exempt under Item 2 
+and Amended Item 8 exemption as there was never a change in control because Telenor 
+always solely controlled Telewings.  
+ 
+ Mitigating factors  
+ 
+12.16. In addition to the above, Telenor submitted that the Commission may consider, inter alia, 
+following mitigating circumstances: 
+ 
+(i) 
+That Telenor never sought to evade the Commission’s jurisdiction and have made 
+every effort to comply in a timely manner. The parties were entirely transparent with 
+respect to all the steps of the Combination and that the Combination was approved 
+by the Commission with full knowledge of Telenor Share Transaction – Tranche 1; 
+(ii) 
+That there was no change in the competitive landscape as a result of the Uninor 
+Business Transaction, Telenor Share Transaction – Tranche 1 and Telenor Share 
+Transaction – Tranche 2. 
+ 
+ 
+ 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 11 of 17 
+ 
+Fair Competition  
+For Greater Good 
+C. 
+Analysis and Findings of the Commission 
+ 
+13. 
+Telenor has stated that Telewings and Uninor were in its sole control and accordingly Uninor 
+Business Transaction  and Telenor Share Transaction – Tranche 1 were intra group 
+transactions covered under Old Item 8 Exemption. The submissions of Telenor in this regard 
+are primarily based on its stated ability to exercise decisive influence and control over the 
+management and affairs of Uninor and Telewings. To this effect, Telenor Respondents have 
+made elaborate submissions on the their rights as regards management of Uninor and 
+Telewings to emphasise that Telenor was always solely controlling these entities. 
+ 
+14. 
+The Commission, vide its order dated 12.03.2018 passed under Section 44 of the Act in 
+Ultratech Cement Limited C-2015-02-246, considered the aspect of control and inference of 
+group and held that: 
+“12.8. As regards the issue of control over Century and Kesoram, the Acquirer has made 
+reference to the three limbs of definition of ‘group’ as contained in explanation (b) to Section 
+5 of the Act. The Commission observes that the first test of the two enterprises belonging to 
+the same group is the ability to exercise 50 percent or more voting rights; the second test is 
+in terms of ability to control majority of composition of Board of Directors; and the third 
+test, which is most dynamic, is in terms of ability to control or manage the affairs of the other 
+enterprise.  
+ 
+12.9. The Acquirer has submitted that the Act does not intend to envisage control with 
+shareholding less than 50 percent. In this regard, it is noted that the three limbs are 
+‘either/or’ tests and fulfilment of even a single limb would confer control. For example, if a 
+particular enterprise does not hold 50 percent shares in the other enterprise, it may still have 
+the ability to control if it has majority on the Board of Directors. Similarly, in the event, an 
+enterprise does not have requisite shareholding nor the ability to control majority 
+composition of the Board of Directors, it is possible to infer control by virtue of ability to 
+control and manage the affairs of the other enterprise. The Commission observes that as 
+pointed out by the Acquirer, ability to manage the affairs of the other enterprise may be 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 12 of 17 
+ 
+Fair Competition  
+For Greater Good 
+inferred from special rights/veto rights. However, special rights/veto rights are not the only 
+basis for inferring the ability to manage/control the affairs of an enterprise and there can be 
+other sources of control as well viz., status and expertise of an enterprise or person, Board 
+representation, structural/financial arrangements etc. In competition law practice, control 
+is considered as a matter of degree. However, all degrees and forms of control nonetheless 
+constitute control. The international jurisprudence considers ‘material influence’ as the 
+lowest form of control with other higher forms such as de facto control and controlling 
+interest (de jure control) in that order.  
+ 
+12.10. Material influence, the lowest level of control, implies presence of factors which give 
+an enterprise ability to influence affairs and management of the other enterprise including 
+factors such as shareholding, special rights, status and expertise of an enterprise or person, 
+Board representation, structural/financial arrangements etc. De facto control implies a 
+situation where an enterprise holds less than majority of the voting rights, but in practice 
+controls over more than half of the votes actually cast at a meeting. Further, the factors 
+relevant for material influence are relevant for ascertaining de facto control as well. It may 
+be noted that the concepts of material influence and de facto control are very significant in 
+competition law as there can be situations where the commercial realities can be more 
+telling than the formal agreements and structures. Controlling interest or de jure control 
+means a shareholding conferring more than 50 percent of the voting rights of an enterprise. 
+It may be noted that only one enterprise can have a controlling interest in the other 
+enterprise but more than one enterprise can control the other enterprise (situation of joint 
+control). Likewise, there are other terms which are used to express control such as negative 
+control (by virtue of ability to block special resolutions) or operational control (by virtue 
+of commercial cooperation agreements with or without involving equity). Thus, while 
+examining the third limb of the definition of group, regard needs to be given to the likelihood 
+of the aforesaid degrees of control and not just the special rights as considered by the 
+Acquirer.” (emphasis supplied) 
+ 
+15. 
+In the instant case, the SSHA envisaged shareholding of Lakshdeep to be 51 percent which 
+confers controlling interest to Lakshdeep. Telenor has submitted that Lakshdeep would have 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 13 of 17 
+ 
+Fair Competition  
+For Greater Good 
+brought down its shareholding to 49 percent in the event Telenor was not able to get the FIPB 
+Approval and to 26 percent in case Telenor received the FIPB Approval. In both the 
+situations, the minimum shareholding of Lakshdeep would have been 26 percent, which with 
+or without any affirmative voting rights, confers the ability under the Companies Act to block 
+special resolutions on Lakshdeep by virtue of its shareholding itself and exert negative 
+control over the management and affairs of Telewings. Accordingly, the submissions of 
+Telenor that it had ability to solely control the affairs of Telewings and Uninor are not 
+considered as tenable.  
+ 
+16. 
+It is also important to note that the instant case pertains to telecom sector and as stated by 
+Telenor itself required compliance with the extant FDI policy. The FDI policy prescribes 
+certain caps on shareholding of the foreign direct investor reflecting the level of control that 
+a foreign direct investor is permitted to exercise. A discussion paper on FDI policy – 
+Rationale and Relevance of Caps available on the website of DIPP7 notes, 
+ 
+“The FDI equity caps in a sector essentially reflect the levels of control that a foreign direct 
+Investor is permitted to exercise in a company operating within that sector. The FDI policy 
+incorporates equity caps at broadly four levels- 26%, 49%, 51% and 74%. These caps reflect 
+the ownership/ control levels in a company, under the Companies Act, 1956. Thus, for 
+example, any equity holding greater than 25% gives a right to block a ‘special resolution’, 
+49% equity represents a level just short of ownership, 51% signifies ownership and a right 
+to pass all ordinary resolutions. 74% equity cap on FDI means that the Indian equity holders, 
+acting in unison, can block a special resolution”. 
+ 
+17. 
+Thus, negative control by virtue of more than 25 percent shareholding is considered as 
+critical in context of FDI policy and meant to ensure that Indian equity shareholders, acting 
+in unison, can block a special resolution. In this regard, it is noted that the submissions of 
+Telenor regarding their ability to solely exercise decisive control over Telewings and Uninor 
+are in fact contrary to the spirit of FDI policy norms also. 
+                                                          
+7 Available on http://dipp nic.in/sites/default/files/DiscussionPaper relevance 23June2011%20%205.pdf last accessed 
+on 03.07.2018. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 14 of 17 
+ 
+Fair Competition  
+For Greater Good 
+ 
+18. 
+Thus, considering the fact that Lakshdeep’s actual shareholding in terms of the Combination 
+was 51 percent and was not envisaged to be less than 26 percent in any case, Telewings 
+cannot be stated to be under sole control of Telenor at the time of Telenor Share Transaction 
+– Tranche 1 or at the time of Telenor Share Transaction – Tranche 2. Similarly, in Uninor, 
+though Telenor had majority shareholding, Uninor also cannot be stated to be under sole 
+control of Telenor. 
+ 
+19. 
+In view of the aforesaid negative control of Lakshdeep over Telewings and Unitech Group 
+over Uninor, Uninor Business Transaction and Telenor Share Transaction – Tranche 1 
+cannot be considered as intra group acquisition of assets in terms of Old Item 8 Exemption. 
+ 
+20. 
+Telenor has also pointed out that Old Item 8 Exemption only required the parties to belong 
+to the same group while Amended Item 8 Exemption in addition requires that the transaction 
+should not lead to change in control from joint to sole control. In this regard, it may be noted 
+that the amendment was only meant to clarify what was already inherent in the exemption. 
+The entire Schedule I contains instances of categories of combination which are not likely to 
+result in any AAEC and does not contain any instance of change in control. Moreover, even 
+if the Telenor’s view on Old Item 8 Exemption and Amended Item 8 Exemption is accepted 
+to conclude that change in control was not a necessary condition to allow exemption at the 
+time of Uninor Busines Transaction and Telenor Share Transaction, it will not change the 
+outcome considering in that event Telewings and Uninor India would also belong to 
+Lakshdeep and Unitech groups respectively and these enterprises would not satisfy Old Item 
+8 Exemption, thus making the transactions notifiable. 
+On the aspect of applicability and coverage of Combination in terms of Regulation 9(4) of 
+the Combination Regulations 
+ 
+21. 
+The Commission had not disputed the fact that the four steps of Combination were inter-
+connected in terms of Regulation 9(4) of the Combination Regulations and the ultimate 
+intended effect of the Combination was that Telwings will acquire assets of Unitech Wireless 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 15 of 17 
+ 
+Fair Competition  
+For Greater Good 
+and that Lakshdeep and Telenor will hold 26 percent and 74 percent of the share capital of 
+Telewings. However, as in terms of Regulation 9(1) and Regulation 9(3) of the Combination 
+Regulations respectively, in case of an acquisition or acquiring of control of enterprise(s), 
+the acquirer is required to file the notice and in case of a merger or an amalgamation, parties 
+to the combination are required to jointly file the notice, accordingly, for inter-connected 
+transactions, all the acquirers/parties are required to jointly file the notice. In the instant case, 
+Lakshdeep only had filed the notice as the “acquirer”. As also noted by CompAT, Lakshdeep 
+could not have raised the issue on Steps III and IV which could have been raised only by 
+Telewings separately. In order to subject the entire transaction for assessment in terms of 
+Regulation 9(4), the notice must have been filed by all the concerned parties together. 
+Further, the parties to the Combination themselves made the statement on no requirement to 
+notify Steps III and IV. It was in this backdrop that the Commission posed a specific query 
+to the parties regarding the exact scope of notification, to which the parties responded by 
+specific clarification that the scope of notification is the acquisition of 51 percent stake in 
+Telewings by Lakshdeep (and the resultant transfer of telecom assets from Unitech Wireless 
+to Telewings). It was further stated that the parties do not require the Commission’s approval 
+for Step III and Step IV as they believe that the same need not normally be filed. Though, it 
+was added that if the Commission is of a different view, then an assessment of AAEC in the 
+relevant market may be carried out by the Commission, the Commission could not have 
+carried out the assessment in other market(s) considering the exact scope of notification 
+defined by the parties. 
+ 
+22. 
+In accordance with the submissions of the Acquirer, the Commission assessed and approved 
+only the Step II as per which Lakshdeep and Telenor had 51 percent and 49 percent of the 
+share capital of Telewings and also gave its opinion on Steps III and IV in the Order. Even 
+the CompAT noted that the Commission was rightful in seeking the clarification as regards 
+the steps for which approval was sought. The CompAT also noted that the issue of Steps III 
+and IV was independent and separate from the issue of Step II though it was tried to be 
+diabolically mixed up. Thus the fact that all the steps were disclosed does not absolve the 
+parties of their obligations to file separate notice (if the transactions are not inter-connected) 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 16 of 17 
+ 
+Fair Competition  
+For Greater Good 
+or to file a composite notice jointly by the relevant parties (if the transactions are inter-
+connected) and at best can only be considered as a mitigating factor.  
+On the Telenor Share Transaction - Tranche 2 
+  
+23. 
+As stated above, Telewings continued to be in joint control of Telenor and Lakshdeep with 
+Lakshdeep holding 26 percent shares at that time and thus being in a position to block special 
+resolutions and thus exercising negative control over the affairs of Telewings. Thus, Telenor 
+Share Transaction – Tranche 2 leading to Telenor acquiring 100 percent shares in Telewings 
+consequently implied change in control from existing joint control of Telenor and Lakshdeep 
+to sole control of Telenor. Accordingly, the submissions of Telenor that Telenor Share 
+Transaction – Tranche 2 was exempt under Item 2 and Amended Item 8 exemption as there 
+was never a change in control because Telenor always solely controlled Telewings are not 
+considered as tenable. 
+ 
+24. 
+Based on the aforesaid, the Commission is of the opinion that the Uninor Business 
+Transaction, Telenor Share Transaction – Tranche 1 and Telenor Share Transaction – 
+Tranche 2 were notifiable and Telenor and Telenor India have consummated these 
+transactions without filing a notice under Section 6(2) of the Act and accordingly attract 
+penalty under Section 43A of the Act, which reads as under:  
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub section(2) 
+of section 6, the Commission shall impose on such person or enterprise a penalty which may 
+extend to one percent of the total turnover or the assets, whichever is higher, of such a 
+combination.”  
+ 
+25. 
+In terms of Section 43A of the Act, the Commission can levy a maximum penalty of one per 
+cent of the combined value of the worldwide turnover of the parties. However, the 
+Commission has sufficient discretion to consider the conduct of the parties and the 
+circumstances of the case to arrive at the appropriate amount of penalty. The Commission 
+noted that the facts that Telenor had disclosed Telenor Share Transaction – Tranche 1 and 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+ 
+Page 17 of 17 
+ 
+Fair Competition  
+For Greater Good 
+Uninor Business Transaction in the Notice and that the Commission had also exercised 
+jurisdiction over the Combination by attributing the value of assets and turnover of Uninor 
+and observed that these may be considered as mitigating factors. However, there do not 
+appear to be any mitigating factors in so far as it relates to consummation of Telenor Share 
+Transaction – Tranche 2 without filing a notice with the Commission under Section 6(2) of 
+the Act. In view of the foregoing, the Commission considers it appropriate to impose a 
+nominal penalty of INR 5,00,000/- (INR Five Lakhs only) on Telenor.  
+ 
+26. 
+Telenor shall pay the penalty within sixty (60) days from the date of receipt of this order. 
+ 
+27. 
+The Secretary is directed to communicate to Telenor accordingly.  
+ 

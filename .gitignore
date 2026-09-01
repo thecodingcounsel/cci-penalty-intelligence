@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+*.db
+*.sqlite3
+.env
+
+# Downloaded source PDFs are large and re-downloadable via ingest.py - not tracked.
+# Extracted text (data/text/) and data/orders.csv ARE tracked, since they're small
+# and are the actual audit trail for what the app displays.
+data/pdfs/

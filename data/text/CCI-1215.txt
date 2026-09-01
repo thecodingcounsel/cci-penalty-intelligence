@@ -1,0 +1,674 @@
+ 
+ Page 1 of 16 
+ 
+COMPETITION COMMISSION OF INDIA 
+(Ref. No. M&A/Q1/2018/18) 
+ 
+30th September 2022 
+ 
+Proceedings against PI Opportunities Fund – I and Pioneer Investment Fund under 
+Section 43A of the Competition Act, 2002 
+ 
+CORAM:  
+ 
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances during the hearing  
+For PI Opportunities Fund – I 
+and Pioneer Investment Fund: 
+Mr. Rajshekhar Rao, Senior Advocate with Ms. 
+Meherunissa Anand Jaitely, Ms. Avaantika Kakkar and 
+Mr. Kirthi Srinivas, Advocates along with Mr. Vardaan 
+Ahluwalia and Ms. Rashmi Sharma, representatives of PI 
+Opportunities Fund – I and Pioneer Investment Fund. 
+ 
+ORDER UNDER SECTION 43A OF THE COMPETITION ACT, 2002 
+ 
+This order shall govern the disposal of the proceedings initiated against PI 
+Opportunities Fund – I (‘PIOF – I’) and Pioneer Investment Fund (‘PIF’) [Hereinafter, 
+PIOF – I and PIF are collectively referred to as ‘Premji Invest’/‘Acquirers’] under 
+Section 43A of the Competition Act, 2002 (‘Act’) in relation to its acquisition of 6.03% 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 2 of 16 
+ 
+shareholding in Future Retail Limited (‘FRL’/‘Target’) through on-market purchases as 
+a block deal (‘Combination’). 
+ 
+A. Background 
+ 
+2. 
+The Combination was given effect on 7th June 2018 pursuant to the execution of a Share 
+Purchase Agreement (‘SPA’) dated 6th June 2018 amongst the Acquirers and Cedar 
+Support Services Limited (‘Seller’). Further, on 11th June 2018, FRL invited the 
+Acquirers to nominate a director on its Board, as submitted by the Acquirers. 
+ 
+3. 
+Based on information available in the public domain, the Competition Commission of 
+India (‘Commission’) observed that the Combination was not notified and consummated 
+prior to the approval of the Commission and subsequently issued an inquiry letter under 
+Section 20(1) of the Act to the Acquirers on 8th February 2019 (‘First Letter’), directing 
+them to furnish details regarding the Combination.  
+ 
+4. 
+The Acquirers, in their response dated 15th March 2019 (‘First Response’), submitted 
+that the Combination was exempted from the requirement of prior notification to the 
+Commission, in accordance with Item 1 of Schedule I of the Competition Commission of 
+India (Procedure in regard to the transaction of business relating to combinations) 
+Regulation, 2011 (‘Combination Regulations’) [‘Item 1 Provision’]. As the information 
+provided by the Acquirers was incomplete in certain aspects, another letter was issued to 
+the Acquirers on 11th April 2019 (‘Second Letter’), the response to which was furnished 
+on 13th June 2019 (‘Second Response’), after seeking extension of time. Thereafter, 
+another letter dated 26th July 2019 (‘Third Letter’) was issued to the Acquirers and the 
+response was provided on 23rd August 2019 (‘Third Response’) [Hereinafter, First Letter, 
+Second Letter and Third Letter are collectively referred to as ‘Letters’, and First 
+Response, Second Response and Third Response are collectively referred to as 
+‘Responses to the Letters’]. 
+ 
+5. 
+On 13th September 2019, the Commission received a Notice in Form I of Schedule II of 
+the Combination Regulations, given by the Acquirers pursuant to the initiation of the 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 3 of 16 
+ 
+aforementioned inquiry by the Commission under Section 20(1) of the Act. The 
+Commission approved the Combination under Section 31(1) of the Act on 14th November 
+2019 (‘Order’). However, the Order was passed without prejudice to any proceedings 
+that may be initiated under Section 43A of the Act.   
+ 
+B.  Initiation of proceedings under Section 43A of the Act 
+ 
+6. 
+Based on the material on record, including the details provided in the Notice and the 
+Responses to the Letters, in its meeting held on 8th July 2020, the Commission considered 
+the issue of failure to notify the Combination to the Commission by the Acquirers prior 
+to its consummation, resulting in contravention of Section 6(2) and 6(2A) of the Act. 
+Based on the information on record, the Commission, inter alia, observed that (a) a part 
+of the selling consideration would be clawed-back by FRL, resulting in it having received 
+consideration from the Acquirers, thus becoming a party to the transaction; (b) the 
+Combination qualified as a combination under Section 5 of the Act and Item 1 Provision 
+appears to be not available to it; (c) an acquisition ceases to remain solely as an investment 
+when there is an intention or right to appoint a director; (d) the Seller had the right to 
+nominate a director on the Board of the Target and it already had a Board seat in the 
+Target, with Mr. Rajan Bharti Mittal having been appointed on the Board by the Seller; 
+(e) the Acquirers had the right to nominate a director on the Board of the Target provided 
+that they held certain equity shares of Target; (f) the Combination was completed through 
+on-market purchases on 7th June 2018, and such transactions are squarely covered as a 
+combination under Section 5 of the Act; and (g) Acquirers also did not notify the 
+Combination when they were offered the right to nominate a director by the Target and 
+prior to accepting the same. Therefore, the Commission was of the prima facie view that 
+the Combination was given effect to without giving notice to the Commission, thereby 
+leading to contravention of sub-section (2) and (2A) of Section 6 of the Act. Accordingly, 
+the Commission issued SCN under Section 43A of the Act on 6th August 2020. 
+ 
+ 
+7. 
+The Acquirers filed their response to the SCN on 15th September 2020, after seeking 
+extension of time (‘Response to SCN’). 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 4 of 16 
+ 
+8. 
+In its meeting held on 15th March 2022, the Commission considered the Response to SCN 
+and decided to grant an oral hearing to the Acquirers on 1st April 2022. Subsequently, the 
+Acquirers, vide communication dated 28th March 2022, requested to reschedule the date 
+of the oral hearing. The Commission accepted the request of the Acquirers and postponed 
+the date of hearing to 6th May 2022 and subsequently to 12th May 2022 due to 
+administrative exigencies. Accordingly, the Acquirer was heard on 12th May 2022.  
+ 
+C. Submissions of the Acquirers 
+ 
+9. 
+In the Response to the SCN, the Acquirers contended the following: 
+ 
+I.  Applicability of Item 1 Provision to the Combination 
+ 
+10. 
+Regulation 4 of the Combination Regulations provides that certain categories of 
+combinations (such as those listed in Schedule I to the Combination Regulations) are 
+ordinarily not likely to cause an appreciable adverse effect on combination (‘AAEC’) in 
+India, and a notice under Section 6(2) of the Act need not normally be filed in relation to 
+such combinations. Schedule I lists out certain exemptions. Item 1 Provision is most 
+relevant in the present case. 
+ 
+11. 
+Item 1 Provision states that a combination could avail the benefit of Item 1 Provision even 
+if it does not meet the ‘solely as an investment’ criteria (as mentioned in the Explanation 
+to the Item 1 Provision), so long as the transaction: (a) involves an acquisition of less than 
+25% shares or voting rights; (b) is made in the ordinary course of business; and (c) does 
+not amount to acquisition of control. It is submitted that the Combination fulfilled all three 
+conditions (as set out above), and therefore, the Item 1 Provision was applicable to the 
+Combination. 
+ 
+12. 
+While the phrase ‘ordinary course of business’ has not been defined under the 
+Combination Regulations, the Commission has interpreted the phrase ‘ordinary course of 
+business’ in the context of the applicability of provision under Item 3 of Schedule I to the 
+Combination Regulations in the proceeding under Section 43A of Act against Reliance 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 5 of 16 
+ 
+Jio Infocomm Limited1 pertaining to acquisition of spectrum from Reliance 
+Communications Limited. Acquirers have submitted that, based on the above, the 
+following can be inferred with respect to the ordinary course of business: 
+ 
+(a) Determination of whether a transaction can be considered to be in the ordinary course 
+of business is based on whether such a transaction can be categorised as a capital 
+transaction or a revenue transaction; 
+ 
+(b) What constitutes revenue and capital transactions vary from business to business, i.e., 
+a capital transaction for one business may be a revenue transaction for the other; 
+ 
+(c) ‘Ordinary course of business’ corresponds to revenue transactions for competition law 
+purposes. However, the use of the term ‘may be’ prior to this inference by the Commission 
+indicates a possibility that, in certain cases, even capital transactions may correspond to 
+‘ordinary course of business’. Therefore, a case-by-case analysis is required for 
+ascertaining whether business activities of an entity can be said to be in the ‘ordinary 
+course of business’; and 
+ 
+(d) The activities for which business are established would be the activities in ordinary 
+course. 
+ 
+13. 
+In view of the above, the Acquirers believe that the Combination was in their routine and 
+ordinary course of business for the following reasons: 
+ 
+(a) The Acquirers are Alternative Investment Funds (‘AIF’) registered under the 
+Securities and Exchange Board of India (Alternative Investment Funds) Regulations, 
+2012 (‘AIF Regulations’). The business model of investment funds such as the Acquirers 
+entails identifying enterprises with growth potential; shortlisting appropriate enterprises 
+for such investments; investing in an enterprise; and exiting such investments to maximise 
+return. Thus, the core business activity of the Acquirers is to evaluate investment 
+                                                          
+1 Order under Section 43A of the Act pertaining to Combination Registration No. C-2017/06/516 dated 11th May 
+2018  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 6 of 16 
+ 
+opportunities and make investments in companies purely on the basis of their growth 
+potential.  
+ 
+(b) The Acquirers are AIFs, which are established solely for the purposes of investing in 
+accordance with a defined investment policy for the benefit of their investors. The 
+investment made by the Acquirers in FRL was also undertaken in relation to their core 
+business activity, and therefore, the said investment was in the ordinary course of 
+business. 
+ 
+(c) Investments by the Acquirers in an enterprise are inextricably connected with the 
+objective of constituting and operating the investment fund. Such investments are 
+considered to be routine and in the ordinary course of business of the investment funds. 
+ 
+II. No acquisition of control in FRL by the Acquirers 
+ 
+14. 
+Explanation (a) to Section 5 of the Act defines ‘control’ to include: controlling the affairs 
+or the management by: (a) one or more enterprises, either jointly or singly, over another 
+enterprise or group; or (b) one or more groups, either jointly or singly, over another group 
+or enterprise. 
+ 
+15. 
+In UltraTech Cement Limited/Jaiprakash Associates Limited2 (‘UltraTech Decision’) 
+and several other cases, the Commission clarified the term ‘control’ to mean the ‘ability 
+to influence affairs and management of the other enterprise’. The ‘ability to manage the 
+affairs of the other enterprise’ by the buyer can be inferred from the presence of factors 
+such as shareholding, veto rights, special rights, status and expertise of an enterprise or 
+person, board representation, structural/financial arrangements, etc. 
+ 
+16. 
+At the time of consummation of the Combination, none of the above factors applied to the 
+Combination, and therefore, the Acquirers did not have the ability to influence the affairs 
+and management of FRL. It is submitted that the benefit under Item 1 Provision was 
+                                                          
+2 Order under Section 44 of the Act pertaining to Combination Registration No. C-2015/02/246, dated 12th March 
+2018  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 7 of 16 
+ 
+applicable to the Combination, given that the Combination was made in the ordinary 
+course of the Acquirer’s business and did not amount to acquisition of control. 
+ 
+III. Right to appoint a director 
+ 
+17. 
+The Acquirers submitted that the Commission in the SCN has noted that the Acquirers 
+did not notify the Combination when they were offered the right to nominate a director 
+by FRL and prior to accepting the directorship.  
+ 
+18. 
+As stated above, FRL, on its own accord, invited the Acquirers to nominate a director on 
+its Board. The SPA did not commit or confer upon the Acquirers any right to appoint a 
+director on the Board of FRL. Also, at the time of entering into the Combination, the 
+Acquirers were not aware that acquisition of stake in FRL from the Seller would 
+automatically result in the Acquirers being bestowed the right to appoint a director on the 
+Board of FRL – a right that was previously held by the Seller. 
+ 
+19. 
+However, assuming but not conceding that the Acquirers did have the ability to nominate 
+a director on the Board of FRL, such a right could not be construed as an ‘acquisition of 
+control’ for the purposes of the Item 1 Provision, as the Acquirers do not enjoy any 
+quorum, veto rights or special rights, and the ability to nominate just one director on the 
+Board, comprising seven directors, cannot be construed to confer the ability on the 
+Acquirers to influence the management and affairs of FRL. 
+ 
+20. 
+Further, FRL is a listed company, and for a listed company, there is no entity/individual 
+which could be considered to be in control so as to have the ability to influence its affairs 
+and management without having any veto rights in such companies. At best, it is arguable 
+that only the single largest shareholder, i.e., classified as promoter/promoter group (in 
+comparison with other shareholders) exercises influence in listed companies.  
+ 
+21. 
+The Acquirers believe that the post-facto offer of directorship in FRL and its acceptance 
+by the Acquirers did not result in acquisition of control, allowing for the continuity of the 
+applicability of benefit under Item I Provision in relation to the Combination.  
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 8 of 16 
+ 
+ 
+IV. Parties are not competitors or engaged in vertically linked markets 
+ 
+22. 
+It is submitted that, in the recent past, the Commission has taken a view that a private 
+equity investor (when acquiring non-controlling minority stake) would benefit from the 
+Item 1 Provision despite having shareholding in potential competitors or vertically linked 
+players vis-à-vis the target enterprise. In several jurisdictions as well, the presence of 
+competitive link is not a requirement for notifying minority acquisitions. 
+ 
+23. 
+An acquisition of less than 25% shares or voting rights (when there exists a horizontal 
+overlap and/or vertical linkage between the parties) would be outside the scope of the Item 
+1 Provision only when the parties are ‘competitors’/engaged in vertically linked markets. 
+In the present Combination, the Acquirers are investment funds, and Acquirers and FRL 
+cannot be construed to be ‘competitors’/engaged in vertically linked markets. 
+ 
+24. 
+The purpose of Regulation 4 of the Combination Regulations is to exempt transactions 
+which are unlikely to cause AAEC in any market. The decisional practice of the 
+Commission/appellate bodies re-emphasise this intention and strive to create a distinction 
+between strategic acquisitions involving competitors and vertically linked players.  
+ 
+V. Additional submissions 
+ 
+25. 
+The Acquirers are not party to the clawback arrangement and the Acquirers did not enter 
+into the Combination based on the clawback arrangement. The clawback arrangement was 
+an inter-se arrangement between the Seller and FRL, and the Acquirers were not a party 
+to such arrangement. On the other hand, the Combination was negotiated exclusively 
+amongst the Seller and the Acquirers. Further, at no given point in time did the Acquirer 
+enter into any negotiations with either FRL or the Seller in respect of the clawback 
+arrangement. The Acquirer settled the consideration for the Combination based on the 
+stock exchange mechanism and is not aware of the manner in which the Seller applied the 
+sale proceeds. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 9 of 16 
+ 
+D. Analysis of the submissions of the Acquirers 
+ 
+26. 
+The core issue in the instant case is whether the Combination and subsequent appointment 
+of directors on the Board of the Target was covered under the Item 1 Provision and 
+accordingly, was eligible for not filing the notice under sub-section (2) of Section 6 of the 
+Act. In the subsequent section, the Commission has considered and determined on all the 
+submissions of the Acquirers, including those on the core issue and other submissions of 
+the Acquirers. 
+ 
+27. 
+The Item 1 Provision reads as follows: 
+ 
+“An acquisition of shares or voting rights, referred to in sub-clause (i) or sub-clause 
+(ii) of clause (a) of section 5 of the Act, solely as an investment or in the ordinary 
+course of business in so far as the total shares or voting rights held by the acquirer 
+directly or indirectly, does not entitle the acquirer to hold twenty five per cent (25%) 
+or more of the total shares or voting rights of the company, of which shares or voting 
+rights are being acquired, directly or indirectly or in accordance with the execution 
+of any document including a shareholders agreement or articles of association, not 
+leading to acquisition of control of the enterprise whose shares or voting rights are 
+being acquired. 
+ 
+Explanation:- The acquisition of less than ten per cent of the total shares or voting 
+rights of an enterprise shall be treated as solely as an investment: Provided that in 
+relation to the said acquisition,- 
+(A) the Acquirer has ability to exercise only such rights that are exercisable by the 
+ordinary shareholders of the enterprise whose shares or voting rights are being 
+acquired to the extent of their respective shareholding; and 
+(B) the Acquirer is not a member of the board of directors of the enterprise whose 
+shares or voting rights are being acquired and does not have a right or intention to 
+nominate a director on the board of directors of the enterprise whose shares or 
+voting rights are being acquired and does not intend to participate in the affairs or 
+management of the enterprise whose shares or voting rights are being acquired.” 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 10 of 16 
+ 
+ 
+28. 
+Further, Regulation 4 of the Combination Regulations states that  
+ 
+“…categories of combinations mentioned in Schedule I are ordinarily not likely to 
+cause an appreciable adverse effect on competition in India, notice under sub-
+section (2) of section 6 of the Act need not normally be filed”. 
+ 
+29. 
+From the Item 1 Provision read with Regulation 4 of the Combination Regulations, it is 
+clear that benefit of this provision is not available to instances where there has been an 
+acquisition of control. The benefit of Item 1 Provision has been normally available to the 
+acquisition of shareholding or voting rights less than 25% and which are in the ‘ordinary 
+course of business’ or ‘solely as an investment’. The objective of this provision is to 
+distinguish between instances of ordinary shareholding and strategic shareholding, falling 
+short of position of acquisition of control. Accordingly, the primary issue relevant for 
+determination of notifiability of the Combination is whether it was in ‘ordinary course of 
+business’ or ‘solely as an investment’ or not. Hence, the issue of notifiability of the 
+Combination is to be settled in terms of the applicability of Item 1 Provision in this case. 
+ 
+30. 
+Item 1 Provision comprises  three conditions, i.e., acquisition of less than 25% of shares 
+or voting rights, acquisition done ‘solely as an investment’ or in the ‘ordinary course of 
+business’ and acquisition not leading to control. Even if one of the three conditions 
+prescribed under this item is not satisfied, the benefit of Item 1 Provision is not available.  
+ 
+31. 
+In the instant case, the Combination involves acquisition of 6.03% of the equity shares of 
+the Target and accordingly satisfies the first condition of Item I Provision.  
+ 
+32. 
+Next, the Combination will be examined if it was in the nature of ‘solely as an investment’.  
+ 
+33. 
+Firstly, considering proviso (B) to the explanation of Item 1 Provision, it is noted that the 
+first condition prescribes therein that there be no representation of the acquirer on the 
+board of directors of the enterprise whose shares or voting rights are being acquired. There 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 11 of 16 
+ 
+is no existing Board seat held by the Acquirers in the Target, and accordingly, this 
+condition is met.  
+ 
+34. 
+The second condition of the same proviso requires that there should not be a right or 
+intention to nominate a director on the Board of directors of the enterprise whose shares 
+or voting rights are being acquired and there should not be any intention on the part of the 
+acquirer to participate in the affairs or management of the enterprise whose shares or 
+voting rights are being acquired.  
+ 
+35. 
+In this regard, the Commission observed the submissions of the Acquirers and also 
+considered the sequence of events leading to appointment of director on the Board of 
+Target by the Acquirers. The Commission noted that the Acquirers and Seller executed a 
+SPA, pursuant to which they acquired shareholding in Target. At the time of execution of 
+the SPA, the Acquirers had the knowledge that the Seller has a Board seat on the Target. 
+This Board seat was offered to the Acquirers by the Target and subsequently, the 
+Acquirers appointed one Board member. The execution of said SPA, offer of a Board seat 
+to the Acquirers by the Target and the subsequent appointment of a Board member 
+occurred in the same month. Based on the foregoing, the intention of the Acquirers to 
+participate in the affairs and management of the Target cannot be ruled out. 
+ 
+36. 
+Further, it is also contended by the Acquirers that: (a) FRL, on its own accord, invited the 
+Acquirers to nominate a director on its Board; (b) the SPA did not commit or confer upon 
+the Acquirers any right to appoint a director on the Board of FRL; (c) Acquirers were not 
+aware that a acquisition of stake in FRL from the Seller would automatically result in the 
+Acquirers being bestowed with the right to appoint a director on the Board of FRL – a 
+right that was previously held by the Seller.  
+ 
+37. 
+The Commission is of the view that the submissions of the Acquirers are not tenable 
+considering the intent and purpose of the Item I Provision. The reference to ‘right’, i.e., 
+an existing right captured in the transaction documents, and ‘intention’, i.e., a futuristic 
+right or position, is meant to ensure that the regulatory framework is consistent with the 
+core principle of ‘substance over form’. Accordingly, whether the proposal to appoint a 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 12 of 16 
+ 
+director on the board of target was moved by the target or whether the parties first acquired 
+only shares and subsequently negotiated/agreed for board representation or participation 
+in management in related or unrelated developments to the transaction, or where such an 
+arrangement forms intrinsic part of the transaction ab initio, the substance in each case is 
+the parties gaining the ability to participate in management or affairs and, in that context, 
+the mechanism leading up to it is just a question of form. If the Acquirers’ contentions 
+regarding these differences are accepted, this would imply that parties to a combination 
+can structure their transactions separating the acquisition of shares and acquisition of 
+rights/board seat, etc., and claim the benefit of Item I Provision. Clearly, this would defeat 
+the intent and purpose of the Act, which is to ensure that the competitive dynamics are 
+not influenced, as the same can be influenced not only by active decisions but also by way 
+of broad understanding or awareness of competitively sensitive information. The end 
+result in each case is sufficient to lead to coordinated outcomes, frustrating the process of 
+competition.  
+ 
+38. 
+Further, notwithstanding the aforesaid, even if the Acquirers’ contention of the acquisition 
+of a Board seat being an unrelated development is considered, considering the aforesaid 
+intent and purpose of Item I Provision and requirement of Notice to be filed ex-ante, the 
+Acquirers should have filed the notice before accepting the positions on the Board, which 
+allowed them to participate in the management or affairs of the Target. It goes without 
+saying that the onus to prove that the developments were subsequent to the acquisition of 
+shares or voting rights will be on the acquirer in such transactions. 
+ 
+39. 
+Based on the aforesaid, it appears that the Combination does not satisfy the conditions of 
+the Explanation to Item 1 Provision, and hence, it cannot be ‘solely as an investment’.  
+ 
+40. 
+The Combination is also examined if it was in the ordinary course of business. In this 
+regard, the Commission observed3 the relevance of classification of business transactions 
+as revenue transactions and capital transactions and in that backdrop noted that, “[T]he 
+                                                          
+3 Order dated 11th May 2018 issued under Section 43A of the Act in relation to Combination Registration No. C-
+2017/05/509, dated 11th May 2018 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 13 of 16 
+ 
+term “ordinary course of business” is meant to refer to transactions which are frequent, 
+routine and usual and therefore it may be said that the term “ordinary course of business” 
+corresponds to revenue transactions for the competition law purposes.” In the same order, 
+the Commission noted that, “Revenue transactions may simply be defined as those 
+transactions which are short term and constitute income and expenditure and are 
+accordingly reflected in profit and loss account or income statement of the enterprise. 
+Capital transactions on the other hand are those which affect non-current items such as 
+fixed assets, long term debt etc. and affect the position statement of an enterprise.” The 
+aforesaid decision was given in context of a transaction involving acquisition of assets, 
+however, the basic principles underlying the same are equally applicable in case of 
+transactions involving acquisition of shares. Accordingly, the Commission, while 
+examining the issue of scope of ‘ordinary course of business’ in context of acquisition of 
+shares, observed4 that, “[T]ransactions in ordinary course of sale and purchase of 
+securities are done solely with the intent to get benefited from short term price movement 
+of securities” which re-emphasises the underlying aspects of frequency, duration of 
+holding, intent etc.  
+ 
+41. 
+Thus, the first test for examining a transaction for being in ordinary course of business is 
+whether the same is a revenue transaction or a capital transaction. The Acquirers too have 
+submitted that the determination of whether a transaction can be considered to be in the 
+ordinary course of business is based on categorisation of the transaction as a capital 
+transaction or a revenue transaction, and what constitutes as a revenue or capital 
+transaction varies from business to business, i.e., a capital transaction for one business 
+may be a revenue transaction for the other. Further, the Acquirers have contended that the 
+investments made by them in an enterprise are inextricably connected with the objective 
+of constituting and operating the investment fund and such investments are considered to 
+be routine and in the ordinary course of business of the investment funds. 
+ 
+42. 
+In this regard, it is noted that the Acquirers are correct to state that what constitutes as a 
+revenue or capital transaction varies from business to business, i.e., a capital transaction 
+                                                          
+4 Order under Section 31(1) of the Act in relation to Combination Registration No. C – 2022/02/905, dated 23rd 
+March 2022 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 14 of 16 
+ 
+for one business may be a revenue transaction for the other. The distinction is to be drawn 
+in terms of the characteristics of revenue and capital transactions as referred above. It is 
+observed that while revenue transactions mean and imply items of income and 
+expenditure, the Acquirers, by their own submissions have referred to the Combination as 
+an ‘investment’ which by its very definition constitutes a capital transaction being an item 
+of ‘asset’ for the investing firm. Thus, the key consideration for ‘ordinary course of 
+business’ test is that the activity in question should not even be an ‘investment’. 
+Accordingly, the Combination cannot be considered to be in ordinary course of business.  
+ 
+43. 
+The aforesaid business model, if tested on the parameter of whether the parties ‘intended 
+to get benefited from short term price movement of securities’ would also yield similar 
+results. The aforesaid business model is premised on the longer time horizon of 
+investment and the intended nature of returns which is against the scope of ordinary course 
+of business activities which are intended to benefit from short term price movement of 
+securities. The same is reflected in functioning of entities such as the Acquirers in general 
+wherein the investments are held for some time and the acquirers participate in the 
+management with a view to cause appreciation of value of their holdings and in context 
+of the extant case, this aspect is validated considering the longer time period of holding 
+of investments and presence of the Acquirers on the Board of the Target.  
+ 
+44. 
+Accordingly, the only test applicable for the Combination is ‘solely as an investment’ test. 
+The moment it is concluded that the activity in question is an ‘investment’, the question 
+for determination of notifiability is whether the same is ‘solely as an investment’, i.e., the 
+nature of the investment is such which is not likely to impact the competition dynamics 
+or otherwise. Going by the same, Once the activity is held to be an ‘investment’, even if 
+it does satisfy ‘solely as an investment’ test, it cannot be considered to be in ‘ordinary 
+course of business’ by implication.  
+ 
+45. 
+Based on the above, it is clear that the Combination is not in ordinary course of business 
+and the benefit under Item 1 Provision is not available to the Acquirers. Thus, while the 
+SCN raised certain other issues, such as the clawback arrangements, issues relating to 
+acquisition of control, etc., the primary issue on the notifiability of the Combination is 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 15 of 16 
+ 
+settled, and accordingly, these other issues are not relevant and no determinative finding 
+is required for the same.  
+ 
+46. 
+Thus, based on the analysis of the response of the Acquirers, the Commission is of the 
+opinion that, in consummating the Combination without the approval of the Commission, 
+the Acquirers have failed to file a notice for the Combination in accordance with Section 
+6(2) of the Act, which reads as under:  
+ 
+“Subject to the provisions contained in sub-section (1), any person or enterprise, 
+who or which proposes to enter into a combination, [shall] give notice to the 
+Commission, in the form as may be specified, and the fee which may be determined, 
+by regulations, disclosing the details of the proposed combination, within [thirty 
+days] of—  
+ 
+(a) approval of the proposal relating to merger or amalgamation, referred to in 
+clause (c) of section 5, by the board of directors of the enterprises concerned with 
+such merger or amalgamation, as the case may be; 
+ 
+(b) execution of any agreement or other document for acquisition referred to in 
+clause (a) of section 5 or acquiring of control referred to in clause (b) of that 
+section.” 
+ 
+Further, Section 6 (2A) of the Act reads as follows: 
+ 
+“No combination shall come into effect until two hundred and ten days have passed 
+from the day on which the notice has been given to the Commission under sub – 
+section (2) or the Commission has passed orders under section 31, whichever is 
+earlier.” 
+ 
+Accordingly, the Combination attracts a penalty under Section 43A of the Act, which 
+reads as under: 
+ 
+
+ 
+ 
+ 
+ 
+ 
+                                                                                                             Page 16 of 16 
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub – 
+section (2) of section 6, the Commission shall impose on such person or enterprise 
+a penalty which may extend to one percent of the total turnover or the assets, 
+whichever is higher, of such a combination.” 
+ 
+47. 
+Accordingly, in terms of Section 43A of the Act, the Commission can levy a maximum 
+penalty of one per cent of the total turnover or the assets, whichever is higher, of such a 
+combination. While determining the quantum of penalty, the Commission considered the 
+mitigating factors as well as the aggravating factors. In view of the foregoing, the 
+Commission considered it appropriate to impose a penalty of INR 20,00,000 (Indian 
+Rupees Twenty lakh only) on the Acquirers. The Acquirers are directed to pay the penalty 
+within 60 days from the date of receipt of this order. 
+ 
+48. 
+The Secretary is directed to communicate to the Acquirers accordingly. 
+ 
+ 
+ 
+ 

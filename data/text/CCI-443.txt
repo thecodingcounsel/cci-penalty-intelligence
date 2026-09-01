@@ -1,0 +1,900 @@
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 1 of 21 
+ 
+Fair Competition  
+For Greater Good 
+11.05.2018 
+Notice given by Bharti Airtel Limited and Bharti Hexacom Limited pursuant to an inquiry 
+under Section 20(1) of the Competition Act, 2002 
+ 
+CORAM: 
+Mr. Devender Kumar Sikri 
+Chairperson 
+ 
+Mr. Sudhir Mital 
+Member 
+ 
+Mr. Augustine Peter 
+Member 
+ 
+Mr. U. C. Nahta 
+Member 
+ 
+Mr. G. P. Mittal 
+Member 
+ 
+Appearances during Oral hearing on 30.01.2018 for Bharti Airtel Limited and Bharti 
+Hexacom Limited: 
+Mr. Amit Sibal, Sr. Advocate, Mr Atul Dua, Advocate, Mr. Sameer Chugh, Director (Legal), 
+Bharti Airtel Limited, Mr. Ankush Walia, Advocate, Mr. Param Tandon, Advocate, Dr. Vijay 
+Kumar Aggarwal, Advocate 
+ 
+Order under Section 43A of the Competition Act, 2002  
+ 
+A. Section 20(1) Proceedings and filing of notice 
+ 
+1. 
+The Competition Commission of India (“Commission”), in its meeting held on 20.06.2016 
+took suo motu cognizance of transaction involving acquisition of right to use of spectrum by 
+Bharti Airtel Limited (“Airtel”) from Aircel Limited (“Aircel”) pursuant to guidelines for 
+trading of access spectrum (“Spectrum Trading Guidelines”) issued by the Department of 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 2 of 21 
+ 
+Fair Competition  
+For Greater Good 
+Telecommunication (“DoT”), Government of India and accordingly decided to initiate an 
+inquiry under Section 20(1) of the Competition Act, 2002 (“Act”) in the above-said 
+transaction. Vide letter dated 30.06.2016, Airtel was directed to provide, inter alia, copy(ies) 
+of definitive agreement(s) entered between the parties to the transaction, details of 
+assets/turnover of the parties etc. 
+ 
+2. 
+Airtel submitted the requisite information/document(s) on 04.08.2016. The Commission 
+considered the response filed by Airtel and noted that based on the combined assets and 
+turnover of Airtel and Aircel Group entities, the notification thresholds under Section 5(a) 
+of the Act are met. Further, the Commission noted that acquisition of spectrum: (i) is an 
+“acquisition” within the meaning of the Act; and (ii) does not fall under any item under 
+Schedule I to the Competition Commission of India (Procedure in regard to the transaction 
+of business relating to combinations) Regulations, 2011 (“Combination Regulations”). 
+Accordingly, vide letter dated 12.04.2017, the Commission directed Airtel to file notice in 
+Form I for the above-said transaction in terms of Section 20(1) of the Act read with 
+Regulation 8 of the  Combination Regulations (“Section 20(1) Directions”).  
+ 
+3. 
+Pursuant to the Section 20(1) Directions, on 15.05.2017, Airtel filed a notice jointly with 
+Bharti Hexacom Limited (“Bharti Hexacom”) (Hereinafter Airtel and Bharti Hexacom are 
+collectively referred to as the “Acquirers”) for acquisition of the right to use of 20 MHz 
+spectrum in the 2300 MHz band of BWA Spectrum in each of 8 licensed services areas, 
+namely, Andhra Pradesh, Assam, Bihar, Jammu and Kashmir, North East, Tamil Nadu, 
+Odisha and West Bengal from Aircel, Aircel Cellular Limited (“Aircel Cellular”) and 
+Dishnet Wireless Limited (“Dishnet”) (collectively “Aircel Group”) (“Spectrum 
+Transaction) (hereinafter the Acquirers and Aircel Group are collectively referred to as the 
+“Parties”). For the purpose of the Spectrum Transaction, the Parties entered into eight 
+separate Spectrum Trading Agreements each dated 08.04.2016. The right to use of the 
+aforesaid Spectrum for 6 licensed service areas, namely, Assam, Bihar, Jammu and Kashmir, 
+North East, Tamil Nadu and West Bengal was transferred with effect from 17.06.2016 
+pursuant to the approval of the DoT. The right to use of the aforesaid spectrum for Odisha 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 3 of 21 
+ 
+Fair Competition  
+For Greater Good 
+and Andhra Pradesh was transferred with effect from 30.06.2016 and 16.11.2016 
+respectively pursuant to the approval of DoT.  
+B. Approval of the Combination and Section 43A proceedings 
+ 
+4. 
+The Commission, in its meeting held on 21.06.2017, approved the Spectrum Transaction by 
+passing an order under Section 31(1) of the Act (“Order”) without prejudice to any penalty 
+proceedings under Section 43A of the Act. In terms of Section 43A of the Act read with 
+Regulation 48 of the Competition Commission of India (General) Regulations, 2009 
+(“General Regulations”), a show cause notice (“SCN”) dated 14.09.2017 was issued to the 
+Acquirers to show cause, in writing, within 15 days of the receipt of SCN as to why penalty, 
+in terms of Section 43A of the Act should not be imposed on them for failure to file notice 
+for the Spectrum Transaction within the stipulated time under the provisions of the Act and 
+consummating the Spectrum Transaction before expiry of timelines as provided in Section 
+6(2A) of the Act. The Acquirers filed their response to the SCN (“Response”) on 29.09.2017 
+along with a request for oral hearing, in terms of Regulation 48 of the General Regulations.  
+ 
+5. 
+The Commission, in its meeting held on 28.12.2017, considered the Response and granted a 
+personal hearing to the Acquirers on 11.01.2018. However, vide letter dated 09.01.2018, the 
+Acquirers requested for adjournment in the matter. The Commission accepted the request of 
+the Acquirers and granted a personal hearing on 30.01.2018. Accordingly, the Acquirers 
+presented their case before the Commission on 30.01.2018.  
+C. Submissions of the Acquirers 
+ 
+6. 
+In the Response and during oral submissions, the Acquirers, inter alia, contended the 
+following: 
+ 
+Preliminary Submissions 
+ 
+6.1. 
+That the SCN issued by the Commission fails to reveal whether the procedure prescribed 
+under Regulation 48 of the General Regulations has been followed and as to whether the 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 4 of 21 
+ 
+Fair Competition  
+For Greater Good 
+Commission has taken up the issue in any of its ordinary meeting and decided to issue a 
+show cause notice in the matter. The SCN does not provide a copy of the order of the 
+Commission by which the Secretary has been authorised/directed to issue the SCN. In 
+view of the above, the SCN is incompetent and liable to be withdrawn/dropped. 
+ 
+6.2. 
+That the copy of the order of the Commission for directions dated 30.06.2016 (seeking 
+information about the transaction) was also not annexed with the letter communicating 
+directions of the Commission. Airtel, while submitting response dated 04.08.2016 
+requested for a copy of the order wherein the Commission had decided to initiate an 
+inquiry under Section 20(1) of the Act. The Commission neither provided a copy of the 
+order nor decided the objections regarding jurisdiction and maintainability raised by 
+Airtel. 
+ 
+6.3. 
+That after receipt of Section 20(1) Directions, Airtel had filed an application under 
+Regulation 50(1) of the General Regulations for inspection of record and that neither the 
+inspection was granted nor a copy of the order wherein the Commission considered 
+response of Airtel dated 04.08.2016 was provided by the Commission.  
+ 
+6.4. 
+That the Commission passed the Order approving the Spectrum Transaction also without 
+dealing with preliminary submissions made by Airtel as regards jurisdiction and 
+maintainability. 
+ 
+6.5. 
+That as the legal issues regarding jurisdiction and maintainability of the directions dated 
+30.06.2016 and 12.04.2017 were yet to be determined, the SCN is liable to be 
+withdrawn/dropped by the Commission. 
+ 
+6.6. 
+That the Commission in Bhartiya Mahila Bank/SBI C-2016/11/4581 (“SBI-BMB Case”), 
+did not proceed under Section 43A of the Act even though the notice in said case was also 
+filed pursuant to an inquiry under Section 20(1) of the Act apparently for the reason that   
+subsequently, upon filing of the mandatory notice pursuant to the directions of the 
+                                                          
+1 Order dated 29.11.2016, passed under Section 31(1) of the Act  
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 5 of 21 
+ 
+Fair Competition  
+For Greater Good 
+Commission, the Commission approved the combination. Same analogy deserves to be 
+applied in the present matter as well and notice deserves to be withdrawn/dropped.   
+ 
+Submissions on Merits 
+ 
+6.7. 
+That the transaction did not qualify as “acquisition of an enterprise” within the meaning 
+of Section 5 of the Act because: 
+ 
+i. 
+The transaction is undertaken in terms of Spectrum Trading Guidelines and 
+adhered to the requirements contained therein. At all times, including even after 
+the transfer of right to use of the aforesaid spectrum, the Acquirers continued and 
+still continue to be within the Spectrum Caps prescribed by the DoT in Spectrum 
+Trading Guidelines; 
+ 
+ii. 
+Aircel Group did not transfer any customers or market share or part of enterprise 
+to the Acquirers; 
+ 
+iii. 
+Even after transfer of the right to use of the spectrum, Aircel Group continues to 
+provide services to its customers and its ability to provide services to its existing 
+and new customers does not get impacted in any manner;  
+ 
+iv. 
+The transaction does not entail “acquisition” of spectrum, i.e., there is no transfer 
+of title to the spectrum from the vendor to the vendee. The ownership of spectrum 
+remains with the Government of India at all times and merely the right to use the 
+spectrum has been granted to the identified licensees. The Government of India 
+has a right to recall any of the spectrum licensed to telecom service providers 
+(“TSPs”), under certain conditions, including the failure to comply with the 
+original terms of auction and license. The Spectrum Trading Guidelines only 
+permit downstream trading of the right to use of spectrum and the Government of 
+India retains ownership of the spectrum and the ability to recall the right to use of 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 6 of 21 
+ 
+Fair Competition  
+For Greater Good 
+spectrum. Mere assignment of the right to use does not amount to an “acquisition” 
+under the Act. 
+ 
+6.8. 
+That the Spectrum Transaction is not required to be notified in view of exemption under 
+Item 3 of Schedule I read with Regulation 4 of the Combination Regulations. Regulation 
+4 provides that transactions specified in Schedule I are ordinarily not likely to cause an 
+AAEC in India and a notification need not normally be filed with the Commission with 
+respect to such transactions. Item 3 of Schedule I reads, 
+ 
+“An acquisition of assets, referred to in sub- clause (i) or sub-clause (ii) of clause (a) of 
+section 5 of the Act, not directly related to the business activity of the party acquiring the 
+asset or made solely as an investment or in the ordinary course of business, not leading 
+to control of the enterprise whose assets are being acquired except where the assets being 
+acquired represent substantial business operations in a particular location or for a 
+particular product or service of the enterprise, of which assets are being acquired, 
+irrespective of whether such assets are organized as a separate legal entity or not.” 
+ 
+6.9. 
+That the Spectrum Transaction is exempt under Item 3 of Schedule I of the Combination 
+Regulations because: 
+ 
+i. 
+Spectrum Transaction is in ordinary course of business: Considering that mobile 
+services cannot be provided without spectrum, it is self-evident that the 
+acquisition of a right to use the spectrum (as long as approved by the DoT) by a 
+TSP would fall within the ambit of ordinary course of business for such a TSP; 
+ii. 
+Spectrum Transaction does not lead to the acquisition of control over Aircel 
+Group: The transaction relates to assignment of the right to use of spectrum alone 
+and does not result in the acquisition of control by the Acquirers over Aircel Group 
+in any manner; 
+iii. 
+The Spectrum Transaction does not involve acquisition of assets that represent a 
+substantial portion of Aircel Group’s business operations in a particular location 
+or for a particular product or service of Aircel Group: The right to use of 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 7 of 21 
+ 
+Fair Competition  
+For Greater Good 
+spectrum forming part of Spectrum Transaction constitutes not more than 6 
+percent of Aircel Group’s business by revenue in any circle. Thus, the spectrum 
+in question did not represent a substantial portion of Aircel Group’s business 
+operations.     
+ 
+6.10. That the Spectrum Transaction falls within the purview of telecom regulatory regime and 
+the concerned authority(ies) therein. The issues relating to telecom policy and the 
+functioning of TSPs are regulated by the DoT as well as the TRAI and that the regulatory 
+regime for telecom sector is a self-contained mechanism which addresses, inter alia, 
+competition related concerns. The Spectrum Trading Guidelines prescribe an overall 
+spectrum threshold with a view to protect and promote competition in telecom sector. 
+Further, Spectrum Trading Guidelines facilitate efficient utilization of spectrum. Section  
+62 of the Act states, 
+ 
+“The provisions of this Act shall be in addition to, and not in derogation of, the provisions 
+of any other law for the time being in force” 
+ 
+As such, the Act contemplates that the Commission should exercise its powers to review 
+in a harmonious manner and should refer to the provisions of legislation/regulations 
+and/or the concerned regulator(s) for specific sectors, especially where such 
+legislation/regulations and/or regulator(s) seek to address competition concerns. 
+  
+6.11. That, alternatively, the Commission may make a reference to the DoT in terms of Section 
+21A of the Act, which provides for instances where the Commission may make a 
+reference to a statutory authority. Section 21A reads, 
+ 
+“(1) Where in the course of a proceeding before the Commission an issue is raised by 
+any party that any decision which, the Commission has taken during such proceeding or 
+proposes to take, is or would be contrary to any provision of this Act whose 
+implementation is entrusted to a statutory authority, then the Commission may make a 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 8 of 21 
+ 
+Fair Competition  
+For Greater Good 
+reference in respect of such issue to the statutory authority: Provided that the 
+Commission, may, suo moto, make such a reference to the statutory authority. 
+ 
+(2) On receipt of a reference under sub-section (1), the statutory authority shall give its 
+opinion, within sixty days of receipt of such reference, to the Commission which shall 
+consider the opinion of the statutory authority, and thereafter give its findings recording 
+reasons there for on the issues referred to in the said opinion. "  
+ 
+That considering that there are sector specific guidelines which not only provide for a 
+procedure to be followed for spectrum trading but also ensure the protection of 
+competition between TSPs when trading the right to use of spectrum, this is a fit case for 
+reference by the Commission to the DoT. 
+ 
+6.12. That without prejudice to the above, the Commission may consider following mitigating 
+factors/circumstances: 
+ 
+i. 
+Spectrum trading is regulated by specific guidelines and these guidelines do not 
+make the provision for filing under the Combination Regulations. Therefore, 
+being a debatable issue, different views and interpretation are possible as to 
+whether the transaction is covered under the provisions of Section 5 and 6 of the 
+Act; 
+ii. 
+There was no malafide intention to evade compliance under the provisions of the 
+Act; 
+iii. 
+It has been determined that the Combination did not cause any adverse effect on 
+competition; 
+iv. 
+The Acquirers have continued to cooperate and comply with the directions of 
+the Commission at all stages; and 
+v. 
+There have been no previous instances where the Commission has found the 
+Acquirers to be in violation of the provisions relating to Section 5 and 6 of the 
+Act. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 9 of 21 
+ 
+Fair Competition  
+For Greater Good 
+D. Analysis and Findings of the Commission 
+ 
+7. 
+The Acquirers have stated that the SCN fails to reveal whether the procedure contained in 
+Regulation 48 of the General Regulations has been followed. In this regard, it would be 
+appropriate to first consider the requirements of Regulation 48 of the General Regulations. 
+Regulation 48 of the General Regulation reads, 
+ 
+“Procedure for imposition of penalty under the Act. – 
+(1) Notwithstanding anything to the contrary contained in any regulations framed under the 
+Act, no order or direction imposing a penalty under Chapter VI of the Act shall be made 
+unless the person or the enterprise or a party to the proceeding, during an ordinary meeting 
+of the Commission, has been given a show cause notice and reasonable opportunity to 
+represent his case before the Commission. 
+ 
+(2) In case the Commission decides to issue show cause notice to any person or enterprise 
+or a party to the proceedings, as the case may be, under sub- regulation (1), the Secretary 
+shall issue a show cause notice giving not less than fifteen days asking for submission of the 
+explanation in writing within the period stipulated in the notice. 
+(3) The Commission shall, on receipt of the explanation, and after oral hearing if granted, 
+proceed to decide the matter of imposition of penalty on the facts and circumstances of the 
+case.” 
+ 
+8. 
+It is observed that Regulation 48 of the General Regulation requires that no order imposing 
+a penalty is to be made without issuing a show cause notice and granting opportunity to the 
+concerned parties to represent their case. It further provides the following procedure to be 
+followed before deciding on imposition of penalty – 
+ 
+i. In case the Commission decides to issue a show cause notice, the Secretary to issue a 
+show cause notice to the parties concerned giving them at least 15 days’ time for 
+submission of explanation; 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 10 of 21 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ii. After receipt of explanation, the Commission may grant oral hearing; and 
+ 
+iii. The Commission to proceed to decide the issue of imposition of penalty. 
+ 
+9. 
+In the instant case, the SCN clearly mentioned that the Commission considered the matter in 
+its meeting held on 21.06.2017 and approved the Spectrum Transaction without any 
+prejudice to proceedings under Section 43A of the Act. In accordance with the directions of 
+the Commission and in terms of Regulation 48 of the General Regulations, the Secretary 
+issued the SCN and the Acquirers were given 15 days’ time to respond to the SCN. Thus, 
+the procedure contained in Regulation 48 of the General Regulations was duly followed and 
+the contents of the SCN also reflected the same. Therefore, the submission of the Acquirers 
+that the SCN failed to reveal whether the procedure prescribed under Regulation 48 is not 
+correct. 
+ 
+10. 
+As regards the contention that the SCN does not provide a copy of the order of the 
+Commission by which the Secretary has been authorised/directed to issue the SCN, the SCN 
+is self-contained and the procedure does not require provision of the order of the Commission 
+along with the SCN. In case the parties are desirous of obtaining copies of the orders of the 
+Commission etc., they may file inspection requests and obtain certified copies of the 
+document(s) by following procedure contained in General Regulations. In the instant case, 
+the SCN was issued on 14.09.2017, the Acquirers submitted Response on 28.09.2017 and 
+thereafter filed inspection request on 03.01.2018 which was granted on 18.01.2018. In view 
+of the above, the contention of the Acquirers, that SCN is incompetent, is not tenable. 
+ 
+11. 
+The Acquirers have also contended that the directions dated 30.06.2016 were also issued 
+without providing a copy of the order of the Commission and that the same was not provided 
+even when a request was made while filing response dated 04.08.2016. In this regard, it may 
+be noted that the General Regulations contain elaborate procedure for inspection of 
+documents and for obtaining certified copies of the same. Airtel, while filing response dated 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 11 of 21 
+ 
+Fair Competition  
+For Greater Good 
+04.08.2016 did not make any request in terms of the provisions of General Regulations for 
+inspection/provision of certified copies. In view of the same, the contention of the Acquirers 
+is not tenable. 
+ 
+12. 
+The Acquirers have also contended that Section 20(1) Directions were issued by the 
+Commission without deciding on the objections regarding jurisdiction and maintainability 
+raised by Airtel in its reply dated 04.08.2016. In this regard, the Commission observed that 
+Section 20(1) Directions clearly recorded that the Commission considered the response dated 
+04.08.2016 and further noted that Airtel and Aircel Group entities met the notification 
+thresholds prescribed under Section 5(a) of the Act. As regards the submissions of Airtel on 
+Spectrum Transaction not requiring notice, Section 20(1) Directions recorded that (i) 
+acquisition of spectrum is an “acquisition” within the meaning of the Act; and (ii) does not 
+fall under Schedule I to the Combination Regulations. Thus, the Section 20(1) Directions 
+were sufficiently reasoned as regards the basis for issuing such directions and the same also 
+conveyed that Airtel’s response filed on 04.08.2016 was duly considered by the Commission 
+in arriving at the decision to initiate inquiry into the Spectrum Transaction. In view of the 
+same, the Acquirer’s contentions that Section 20(1) Directions were issued without deciding 
+on the issues of jurisdiction and maintainability are not tenable. 
+ 
+13. 
+As regards the issue of inspection request in respect of Section 20(1) proceedings, the same 
+was granted and conducted by the Acquirers on 20.12.2017, i.e., before the personal hearing, 
+which was granted on 30.01.2018.  
+ 
+14. 
+The Acquirers have contended that the Commission passed the Order approving the 
+Spectrum Transaction also without dealing with preliminary submissions made by Airtel as 
+regards jurisdiction and maintainability. As stated above, the issues of notifiability of 
+Spectrum Transaction were already dealt at the time of issuing Section 20(1) directions. 
+After the Acquirers had filed the notice there were two separate issues to be considered viz., 
+(i) assessing the Spectrum Transaction for an appreciable adverse effect on competition; and 
+(ii) imposition of penalty under Section 43A of the Act. The two aspects are delinked so that 
+the approval of a transaction does not get delayed because of the penalty proceedings which 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 12 of 21 
+ 
+Fair Competition  
+For Greater Good 
+are likely to take some time. Accordingly, the Commission approved the Spectrum 
+Transaction by passing an order under Section 31(1) of the Act without prejudice to Section 
+43A proceedings which were subsequently initiated.  
+ 
+15. 
+The Acquirers have made a reference to SBI-BMB Case and inferred that as the Commission 
+approved the transaction after asking the parties to file notice under Section 20(1) of the Act, 
+and did not initiate Section 43A proceedings, the same analogy deserves to be followed in 
+the instant case. In this regard, the Commission observed that initiation of Section 43A 
+proceedings depend upon the facts and circumstances of each case and not merely on 
+whether the transaction is ultimately approved or not. As such, the Acquirers’ view of the 
+same analogy to be applied in this case is based on incomplete knowledge of facts and hence, 
+not correct. 
+ 
+16. 
+The Commission has noted the submissions of the Acquirers on merits and on consideration 
+of the aforesaid, the following issues arise for determination in the present matter: 
+ 
+i. Whether the fact that the Spectrum Transaction is pursuant to Spectrum Trading 
+Guidelines ousts the jurisdiction of the Commission? 
+ii. Whether the Spectrum Transaction amounts to “acquisition of assets” within the 
+meaning of the term under Section 5 of the Act? And 
+iii. If the Spectrum Transaction amounts to “acquisition”, whether the transaction is 
+covered under Item 3 of Schedule I of the Combination Regulations? 
+ 
+Issue No. 1: Whether the fact that the transaction is pursuant to Spectrum Trading 
+Guidelines ousts the jurisdiction of the Commission? 
+17. 
+In this regard, it may be noted that merely the fact that the sectoral regulator allows an 
+activity and prescribes conditions as regards the functioning of the same, it does not mean 
+or imply that the competition law would not apply to the concerned sector. The Act requires 
+all instances of acquisition of assets, shares, control, voting rights or instances of mergers or 
+amalgamations to be notified to the Commission which meet the jurisdictional thresholds 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 13 of 21 
+ 
+Fair Competition  
+For Greater Good 
+prescribed under Section 5 of the Act. The Act does not contain or envisage any exemption 
+to sectors wherein the sectoral regulator guidelines contain any provision which may relate 
+to the competitiveness of the sector.  
+ 
+It may be further relevant to note that the said guidelines are in the nature of subordinate 
+legislation and thus repugnancy, if any, is not a case of conflict between legislations enacted 
+by the Parliament. Nevertheless, considering the situation on an overall basis, it seems 
+appropriate to conclude that the guidelines issued by a sectoral regulator are in furtherance 
+of the protection of market competition and not replace the assessment mandated to be 
+carried out by the Commission. The clauses included in Spectrum Trading Guidelines 
+primarily relate to market share of the parties in terms of spectrum holding. Market share is 
+just one of the several factors, as contained in Section 20(4) of the Act, for assessing 
+likelihood of a proposed combination leading to AAEC. Further, even the market shares 
+cannot be considered in accordance with the pre-determined safe harbours as the efficacy of 
+market shares can vary from sector to sector and even from case to case depending on other 
+factors. Accordingly, the Commission has noted in its orders relating to telecom sector that 
+the assessment of a proposed combination needs to be based, independently of such 
+guidelines, on factors as contained in Section 20(4) of the Act. Thus, it may be concluded 
+that the submissions of the Acquirer in this regard are not tenable and cannot be acceded to. 
+ 
+Issue No. 2: Whether the Spectrum Transaction amounts to “acquisition of assets” within 
+the meaning of the term under Section 5 of the Act? 
+ 
+18. 
+At the outset, it would be appropriate to understand the rationale behind requiring 
+notification in the instance of acquisition of assets. The key consideration in requiring 
+mergers and acquisitions to be reviewed is that the M&As may lead to conferring economic 
+advantages to the parties involved giving them an ability to influence the competition 
+dynamics of a market. The companies may get these economic benefits by acquiring shares, 
+voting rights or control of an enterprise or by acquiring assets of an enterprise. Thus, there 
+is no distinction between acquisition of shares, voting rights, control and acquisition of assets 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 14 of 21 
+ 
+Fair Competition  
+For Greater Good 
+in so far as it leads to economic advantages. Accordingly, acquisition of assets is required to 
+be notified just like acquisition of shares, voting rights and control.  
+ 
+19. 
+The aspect of potential economic benefits of assets is also captured in the definition of an 
+asset as given under Indian Accounting Standard (Ind AS) 38. The Ind AS 38 defines asset 
+as -  
+ 
+“… a resource: (a) controlled by an entity as a result of past events; and (b) from which 
+future economic benefits are expected to flow to the entity.” 
+ 
+20. 
+However, it is also true that all assets may not have significant economic significance to 
+merit a merger review and accordingly, all instances of acquisition of assets are not required 
+to be notified and different jurisdictions use different approaches to distinguish between 
+cases of acquisition of assets falling under the merger review process and otherwise. The 
+Combination Regulations provide for two instances of acquisition of assets which do not 
+normally require notification –  
+ 
+Item 3 of Schedule I – 
+“An acquisition of assets, referred to in sub- clause (i) or sub-clause (ii) of clause (a) of 
+section 5 of the Act, not directly related to the business activity of the party acquiring the 
+asset or made solely as an investment or in the ordinary course of business, not leading to 
+control of the enterprise whose assets are being acquired except where the assets being 
+acquired represent substantial business operations in a particular location or for a 
+particular product or service of the enterprise, of which assets are being acquired, 
+irrespective of whether such assets are organized as a separate legal entity or not.” 
+ 
+Item 5 of Schedule I – 
+“An acquisition of stock-in-trade, raw materials, stores and spares, trade receivables and 
+other similar current assets in the ordinary course of business.” 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 15 of 21 
+ 
+Fair Competition  
+For Greater Good 
+21. 
+Apart from the specific instances of acquisition of assets identified in Schedule I, the 
+Commission has also considered international best practices as regards the determination of 
+an acquisition of assets falling under the merger review process. It is observed that the 
+international best practices are based on broad principle of considering the economic 
+significance or competitive significance of the assets involved.  
+ 
+22. 
+In this backdrop, the Commission examined the submissions of the Acquirers as regards 
+Spectrum Transaction not amounting to acquisition of assets under the Act.  
+ 
+23. 
+The first aspect to be considered in determination of instances of acquisition of assets falling 
+under the merger review process is the economic significance. From the submissions of the 
+Parties, it is quite clear that spectrum is a resource which is “must have” for a TSP. The 
+Acquirers have themselves highlighted that spectrum is a basic and essential ingredient 
+required for providing wireless telecommunication services and that every TSP must obtain 
+the right to use spectrum from time to time with addition of subscribers to its customer base 
+to be able to provide telecommunication services and maintain continuity of its business and 
+services. These submissions of the Acquirers clearly bring out the fact that spectrum is 
+integral to the operations of a TSP and therefore has significant economic and competitive 
+significance. Also, the fact that Spectrum Trading Guidelines contain competition 
+consideration and regulate the maximum amount of spectrum that a TSP can hold, 
+accentuates the economic and competitive significance of the spectrum. 
+ 
+24. 
+The second aspect to be considered in determination of instances of acquisition of assets 
+falling under the merger review process is whether the concerned asset constitutes a business 
+or whether market turnover can be attributed to it. In this regard, it may be noted that the 
+phrase “constituting business” or “attribution of market turnover” are to be seen in context 
+of “potential” of generating turnover and constituting business. Only in these terms, the 
+concept of “assets constituting a business” would be in sync with the basic principle behind 
+requiring instances of acquisition of assets to notify i.e., the principle of “economic 
+significance”. Going by the view taken by the Acquirers, any enterprise would be entitled to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 16 of 21 
+ 
+Fair Competition  
+For Greater Good 
+transfer any asset without notifying the same to the Commission if it is viewed as a surplus 
+given the transferor’s scale/scope of operations. It is clear that acquisition of spectrum 
+increases the ability of a TSP to cater to a broader subscriber base and generate additional 
+turnover and correspondingly reduces such abilities of a TSP that has sold the right to use of 
+spectrum. Further, as noted above, spectrum is integral to the operations of a TSP which also 
+highlights its economic significance. On the basis of the aforesaid economic significance of 
+spectrum in terms of potential of generating turnover, it may be inferred that spectrum 
+constitutes business and that market turnover can be attributed to it. 
+ 
+25. 
+The Acquirers have submitted that the ownership of spectrum remains with the Government 
+of India and that the transfer of right to use of spectrum from Government of India to licensee 
+is revocable. The key rationale which emerges from submissions of the Acquirers in this 
+regard is that the licensee cannot be regarded as “controlling” the spectrum held by it for 
+use. In this regard, it is noted that spectrum is a natural resource which is critical to the 
+provision of mobile telephony services and accordingly, the allocation and use of spectrum 
+is regulated by government authorities and the DoT grants licenses and allocates and 
+regulates the right to use spectrum, while retaining ownership over the resource. However, 
+in context of competition law, as regards instances of acquisition of assets, “control” 
+represents the right to economic benefits that would flow from the resource and not the 
+perpetual ownership of a resource. In that context, right to use of spectrum or any other 
+natural resource does constitute an asset. This position is buttressed by the representation of 
+right to use of spectrum as an intangible asset by the Acquirer in its financial statements. 
+ 
+26. 
+In view of the above, the Commission is of the opinion that acquisition of right to use of 
+spectrum constitutes an acquisition of assets for the purpose of the Act. 
+ 
+ 
+ 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 17 of 21 
+ 
+Fair Competition  
+For Greater Good 
+Issue No. 3: Whether the Spectrum Transaction is covered under Item 3 of Schedule I of 
+the Combination Regulations? 
+ 
+27. 
+The essential conditions of Item 3 of Schedule I are: (i) acquisition of assets not directly 
+related to the business activity of the acquirer; or (ii) acquisition of assets made solely as an 
+investment or in ordinary course of business. Considering the fact that the Acquirers are also 
+TSPs, the first essential condition cannot be fulfilled as the asset in question i.e., spectrum 
+is directly related to the business of the Acquirers. 
+ 
+28. 
+The next aspect for determination is whether the acquisition of spectrum can be considered 
+to be in ordinary course of business or solely as an investment. In this regard, it would be 
+appropriate to first consider what is meant by “business” and based on that to examine what 
+constitutes activities in ordinary course of business. 
+ 
+29. 
+The word “business” implies regular occupation, profession or trade. Based on this 
+definition, the business activities can be considered as the activities relating to the regular 
+occupation, profession or trade. After noting the scope of business activities, the next 
+question to be examined is whether all the business activities can be said to be in ordinary 
+course. For this purpose, the business activities/transactions need to be further classified into 
+two broad categories, viz., (i) revenue transaction; (ii) capital transactions. 
+ 
+30. 
+Revenue transactions may simply be defined as those transactions which are short term and 
+constitute income and expenditure and are accordingly reflected in profit and loss account 
+or income statement of the enterprise. Capital transactions on the other hand are those which 
+affect non-current items such as fixed assets, long term debt etc. and affect the position 
+statement of an enterprise. In other words, capital transactions impact the ability of a business 
+to carry out revenue transactions. For example, an installation of a new production unit 
+(capital expenditure) would be expected to lead to increase in production which in turn would 
+be expected to lead to greater sales revenue. On the other hand, revenue transactions only 
+impact the existing state of operations and do not change the operating potential. Another 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 18 of 21 
+ 
+Fair Competition  
+For Greater Good 
+difference between the two may be the frequency of occurrence. Revenue transactions are 
+frequent while capital transactions are relatively infrequent. 
+ 
+31. 
+Considering the aforesaid differences between capital and revenue transactions, capital 
+transactions are considered to be strategic i.e., having economic or competitive significance 
+and the revenue transactions are considered to be routine and usual in nature. The term 
+“ordinary course of business” also is meant to refer to transactions which are frequent, 
+routine and usual and therefore it may be said that the term “ordinary course of business” 
+corresponds to revenue transactions for the competition law purposes. 
+ 
+32. 
+However, it is also important to note that what constitutes revenue and capital transactions 
+vary from business to business i.e., a capital transaction for one business may be a revenue 
+transaction for the other. For example, for a seller of plant and machinery, sale of plant and 
+machinery may be an activity in ordinary course of business as the same constitutes its 
+regular trade while for any player who was using a machine to produce goods for sale, sale 
+of such machine would be a capital transaction. In fact, a same item may also have different 
+classification. For example, furniture held for sale by a furniture seller would be a current 
+asset and the sale proceeds of the same would be revenue receipts but for the same business, 
+the stock of furniture held for use in office furnishings etc. would be a non-current asset and 
+the expenditure incurred on purchasing the same would be capital expenditure and receipts 
+from sale of such furniture would be a capital receipt. In other words, the activities for which 
+business is established would be the activities in ordinary course and the activities which are 
+meant to help the business carry on its ordinary activities efficiently would be the strategic 
+capital transactions. In this backdrop, the specific facts of the instant case can be examined. 
+ 
+33. 
+As regards the nature of activities of a TSP, it is noted that the main revenue activities of a 
+TSP are activities relating to provision of mobile telephony services. These activities 
+constitute the “business” of a TSP, i.e., these activities are in ordinary course of business for 
+a TSP and the activities relating to acquisition/transfer of resources such as spectrum which 
+are used to render such services are strategic capital transactions and cannot be equated to 
+ordinary revenue activities. The Acquirers have stated that spectrum is basic and essential to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 19 of 21 
+ 
+Fair Competition  
+For Greater Good 
+the activities of a TSP and therefore acquisition of the same should be considered to be in 
+ordinary course of business. It may be noted that all assets are basic and essential to the end 
+business revenue activities and if the logic given by the Acquirers is accepted, it would imply 
+that acquisition of any or all assets by an entity would be in ordinary course of business and 
+eligible to get benefit of exemption under Item 3 of Schedule I of the Combination 
+Regulations. The implication of such logic would be that none of the instances of acquisition 
+of assets would be covered under merger review process which would be inconsistent with 
+the provisions of the Act relating to regulation of combinations.  
+ 
+34. 
+The aforesaid findings are bolstered by considering the accounting treatment of spectrum in 
+the financial statements prepared by the Acquirers and other TSPs. While preparing the 
+financial statements, the results of ordinary activities of a business are depicted in profit and 
+loss account while the position of assets and liabilities is contained in balance sheet. The 
+Acquirers have duly recognized spectrum as an intangible asset i.e., a non-current asset in 
+its balance sheet and not as asset held for sale which would have been reflected as a current 
+asset. Thus, on one hand, representing spectrum as a non-current asset in financial 
+statements, to make a claim that spectrum is held in ordinary course of business is not correct. 
+ 
+35. 
+The Commission further observes that the aforesaid analysis is not impacted by the fact that 
+the “trading” of spectrum has now been allowed with issuance of Spectrum Trading 
+Guidelines and transaction was pursuant to the same. Spectrum was earlier subjected to 
+restrictions as regards sale/transfer but there are other assets of TSPs which are equally 
+significant to carry on the business of provision of telecommunication services and those 
+never had such restrictions and could have been sold/transferred at their will. Going by the 
+rationale given by the Acquirers, sale/transfer of all such assets would also be considered to 
+be in ordinary course of business. The Spectrum Trading Guidelines allow the TSPs to 
+sell/transfer surplus resources and promotes efficiency in operations but does not and cannot 
+alter the nature of a transaction. Spectrum was always a non-current asset whose sale was 
+previously not allowed and now the same has been allowed and this change does not make 
+spectrum trading as an activity in ordinary course of business for a TSP. The conditions for 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 20 of 21 
+ 
+Fair Competition  
+For Greater Good 
+spectrum trading requiring inter alia, intimation to DoT before proposed effective date of 
+trading, compliance of spectrum caps, trading permissible only after two years of acquisition 
+of spectrum through auction, requirement of buyer to fulfil roll-out obligations in the event 
+of acquisition of entire spectrum holding etc., clearly imply that the spectrum transactions 
+are not similar to activities in ordinary course of business which are not subjected to such 
+conditions. 
+ 
+36. 
+The Acquirers have also submitted that the spectrum acquired does not represent substantial 
+business operations. In this regard, it may be noted that the necessary condition to avail 
+exemption under Item 3 of Schedule I is that the acquisition of asset should be in ordinary 
+course of business and in view of the aforesaid discussions where it is observed that spectrum 
+transaction is not in ordinary course of business, the issue of it constituting “substantial 
+business operations” or otherwise becomes otiose. 
+ 
+37. 
+As regards the submissions of the Acquirers that the Commission should have made 
+reference to the DoT in terms of Section 21A of the Act, it may be noted that the decision of 
+the Commission requiring Airtel to file a notice in terms of Section 20(1) of the Act cannot 
+be said to be contrary to any other law. The Acquirers have entered into Spectrum 
+Transaction pursuant to Spectrum Trading Guidelines. Further, it may be noted that the 
+decision of the Commission is not even contrary to the Spectrum Trading Guidelines due to 
+the fact that there is no inconsistency between the Spectrum Trading Guidelines and the Act 
+for reasons detailed above and therefore the Commission did not consider making reference 
+under Section 21A of the Act. 
+ 
+38. 
+Based on the aforesaid, it is evident that the Acquirers’ act of acquiring right to use of 
+spectrum of Aircel Group without filing a notice with the Commission amounts to 
+contravention of provisions of Section 6(2) of the Act and accordingly attracts penalty under 
+Section 43A of the Act, which reads as under:  
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub section(2) 
+of section 6, the Commission shall impose on such person or enterprise a penalty which may 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/05/510) 
+ 
+ 
+Page 21 of 21 
+ 
+Fair Competition  
+For Greater Good 
+extend to one percent of the total turnover or the assets, whichever is higher, of such a 
+combination.”  
+ 
+39. 
+In terms of Section 43A of the Act, the Commission can levy a maximum penalty of one per 
+cent of the combined value of the worldwide turnover of the Parties. However, the 
+Commission has sufficient discretion to consider the conduct of the Parties and the 
+circumstances of the case to arrive at the appropriate amount of penalty. As regards the 
+instant case, the Commission notes that the Spectrum Transaction was amongst the first 
+transactions of such nature and there was some uncertainty as regards coverage of the same 
+under the Act. In view of the foregoing, the Commission considers it appropriate to impose 
+a nominal penalty of INR 5,00,000/- (INR Five Lakhs only) on the Acquirers. 
+ 
+40. 
+The Acquirers shall pay the penalty within sixty (60) days from the date of receipt of this 
+order. 
+ 
+41. 
+The Secretary is directed to communicate to the Acquirers accordingly. 
+ 
+ 
+ 
+ 

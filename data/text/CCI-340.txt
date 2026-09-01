@@ -1,0 +1,612 @@
+     
+ Page 1 of 14 
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2021/03/825) 
+ 
+Date: 17 March 2022 
+ 
+Proceedings against Tata Power Company Limited under Section 43A of the 
+Competition Act, 2002 
+ 
+ 
+CORAM:  
+ 
+Mr. Ashok Kumar Gupta 
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+Appearances during the hearing: 
+ 
+For Tata Power                          
+Company  Limited 
+Mr. Sajan Poovayya, Senior Advocate with Ms. 
+Raksha Agrawal, Mr. Vaibhav Choukse, Ms. Aditi 
+Khanna, Advocates and Mr. Ashish Kumar, 
+representative of the Tata Power Company Limited 
+ 
+1. 
+This Order shall dispose the proceedings under Section 43A of the Competition Act, 
+2002 (Act), initiated against Tata Power Company Limited (Acquirer/TPCL), in 
+relation to the acquisition of 51% of equity share capital of Southern Electricity Supply 
+Utility of Odisha Limited (SOUTHCO) by TPCL from Grid Corporation of Odisha 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 2 of 14 
+ 
+Limited (GRIDCO), hereinafter referred to as SOUTHCO Combination or 
+Combination.  
+ 
+2. 
+The SOUTHCO Combination was notified to the Competition Commission of India 
+(Commission/CCI) by TPCL on 30 March 2021 under Section 6(2) of the Act. The 
+Commission, in its meeting held on 7 June 2021, approved the SOUTHCO Combination 
+under Section 31(1) of the Act without prejudice to the proceedings under Section 43A 
+of the Act.  
+ 
+Background  
+ 
+3. 
+On 25 November 1998, SOUTHCO was incorporated as a 100% subsidiary of 
+GRIDCO. SOUTHCO is engaged in the distribution of power in the licensed areas of 
+City1, Berhampur, Aska, Bhanjanagar, Jeypore and Rayagada in the State of Odisha 
+(Licensed Areas). On 1 April 1999, 51% of the equity share capital in SOUTHCO and 
+the management thereof was transferred by GRIDCO through a competitive bidding 
+process to BSES Limited (now, R-Infra Limited). By way of an order dated 4 March 
+2015 passed under Section 19 of the Electricity Act, 2003 (Electricity Act), the Odisha 
+Electricity Regulatory Commission (OERC) revoked the license of R-Infra Limited, 
+managing SOUTHCO and appointed the Chairman cum Managing Director of GRIDCO 
+as the administrator for the operation and management of SOUTHCO Utility under 
+Section 20(1)(d) of the Electricity Act.  
+ 
+4. 
+During the financial year 2020-21, OERC initiated the process of sale of 51% of equity 
+share capital of SOUTHCO through a competitive bidding process and issued a request 
+for proposal (RFP) inviting bidders. The RFP laid down qualification, technical and 
+financial criteria (collectively referred to as the Eligibility Criteria), based on which, a 
+successful bidder was to be selected. TPCL submitted bid for SOUTHCO and was 
+selected as the successful bidder by OERC. 
+                                                          
+1 City comprises parts of the Ganjam District of Odisha. 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 3 of 14 
+ 
+5. 
+Thereafter, OERC issued a Letter of Intent (LOI) to TPCL and directed it to submit an 
+acceptance to the LOI within 7 days from the issuance of LOI and comply with the 
+conditions of RFP, i.e., submit a performance guarantee, deposit the consideration 
+amount and execute the transaction documents within 15 days from issuance of LOI 
+(hereinafter, Acquirer Obligations). As per the terms of the LOI, in case TPCL failed 
+to comply with the Acquirer Obligations, OERC could encash the bank guarantee. 
+Further, such failure could also result in TPCL being disqualified as the successful 
+bidder, and OERC could forfeit the bid security submitted by TPCL (unless it received 
+an extension of time for the same). TPCL followed OERC directions, gave its 
+acceptance to LOI and deposited the consideration and performance guarantee. 
+Thereafter, OERC passed a Vesting Order and the transaction documents, namely, Share 
+Acquisition Agreement (SAA), Shareholders’ Agreement (SHA), Bulk Power 
+Transmission Agreement (BPTA) and Bulk Supply Agreement (BSA), were executed. 
+The timeline of events in the SOUTHCO Combination are summarised in the table 
+below:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serial No. 
+Events 
+Timeline 
+1.  
+Initiation of bidding process by OERC 
+14 August 2020 
+2.  
+Submission of bid by TPCL 
+14 September 2020 
+3.  
+Issuance of LOI by OERC 
+3 December 2020 
+4.  
+Acceptance of LOI by TPCL 
+6 December 2020 
+5.  
+Payment of consideration 
+22 December 2020 
+6.  
+Passing of Vesting Order by OERC 
+28 December 2020 
+7.  
+Applicability of Vesting Order 
+1 January 2021 
+8.  
+Execution of SAA 
+7 January 2021 
+9.  
+Execution of SHA 
+7 January 2021 
+10.  
+Execution of BPTA 
+Not executed before filing 
+11.  
+Execution of BSA  
+2 February 2021 
+12.  
+Filing of notice with the Commission 
+30 March 2021 
+(C-2021/03/825) 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 4 of 14 
+ 
+ 
+Initiation of Proceedings before the Commission under Section 43A of the Act 
+ 
+6. 
+During the assessment of the SOUTHCO Combination, the Commission noted that all 
+the steps of the SOUTHCO Combination had been completed and the combination had 
+been consummated before filing of the notice. It was noted by the Commission that 
+TPCL should have filed the notice for approval of the Commission on the acceptance of 
+the LOI; however, it proceeded to consummate the Combination without doing so. Thus, 
+the Commission was of the prima facie view that TPCL had not only failed to give 
+notice of the combination within the stipulated time under Section 6(2) of the Act but 
+also consummated the same before giving notice to the Commission in contravention of 
+the provisions of Section 6(2) read with Section 6(2A) of the Act. Hence, the 
+Commission decided to issue a Show Cause Notice (SCN) to TPCL under the 
+provisions of Section 43A of the Act.  
+ 
+7. 
+Accordingly, on 5 July 2021, the SCN was issued to TPCL under the provisions of 
+Section 43A of the Act read with Regulation 48 of the Competition Commission of 
+India (General) Regulations, 2009, to explain, in writing, within 15 days of receipt of 
+such communication as to why it should not be found to be in contravention of the Act 
+and why a penalty should not be imposed on it in terms of the provisions of the Section 
+43A of the Act. TPCL, after taking due extension of time, submitted its response to the 
+SCNs on 9 August 2021, along with a request for a hearing in the matter. The 
+Commission considered the request and allowed the same. Subsequently, the arguments 
+of the authorised representatives of TPCL were heard on 12 January 2022.  
+ 
+Submissions of TPCL 
+ 
+8. 
+In response to the SCN, TPCL, inter alia, submitted that the SOUTHCO Combination is 
+different from a typical commercial transaction as it is end-to-end regulated by OERC. It 
+was submitted that the entire process of sale of SOUTHCO was regulated and governed 
+by the provisions of Section 20 of the Electricity Act, which empowered the Appropriate 
+Electricity Regulatory Commission (in this case, OERC) to select the bidder and vest the 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 5 of 14 
+ 
+SOUTHCO in terms of Section 21 of the Electricity Act. Thus, TPCL undertook the 
+transaction pursuant to a bidding process initiated by OERC under Section 20 of the 
+Electricity Act after revocation of the distribution license of the licensee under Section 
+19 of the Electricity Act, and thereafter, a Vesting Order was passed by OERC vesting 
+the SOUTHCO in its favour upon compliance of all the conditions as prescribed in the 
+RFP.  
+ 
+9. 
+TPCL submitted that it believed that OERC had the exclusive jurisdiction to regulate 
+‘combinations’ in the electricity sector. In this regard, the learned counsel for TPCL 
+pointed out that Section 60 of Electricity Act empowers OERC to issue appropriate 
+directions if, in its opinion, such acquisition / combination will cause an adverse effect 
+on competition (AEC) in the electricity market in India. Further, reference was made to 
+Sections 173, 174 and 175 of the Electricity Act which, inter alia, state that the 
+provisions of the Electricity Act shall have an overriding effect, except in cases 
+pertaining to provisions of the Consumer Protection Act, 1986 or the Atomic Energy 
+Act, 1962 or the Railways Act, 1989. Basis the foregoing, it was averred that the 
+legislature had not put the Act amongst the statutes whose provisions were to prevail 
+over the provisions of the Electricity Act, and therefore, exclusive jurisdiction was 
+provided to the sectoral regulator, i.e., OERC, in the matter concerning competition in 
+the electricity sector.  
+ 
+10. 
+Further, to support the argument of exclusive and overriding jurisdiction of OERC, 
+reliance was placed upon the judgement dated 16 February 2017, passed by the 
+erstwhile Hon’ble Competition Appellate Tribunal (COMPAT) in Appeal No. 33 of 
+2016, titled Anand Prakash Agarwal v. Dakshin Haryana Bijli Vitran Nigam Limited 
+(Anand Prakash Case), wherein, while considering the conflict between the Electricity 
+Act and the Act in the context of Section 174 and Section 175 of the Electricity Act, it 
+was observed as follows:  
+ 
+“18.9 Thus, in the case of a conflict between the provisions of the Electricity Act 
+and the Competition Act, the former will override because Section 174 of the 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 6 of 14 
+ 
+Electricity Act would get attracted and section 175 of the Electricity Act will have 
+to yield. The contention of the Appellant, that the Competition Act also has a non-
+obstante clause in Section 60 of the Act giving it an overriding effect, does not 
+assist his case because the Electricity Act, 2003 is admittedly a later special 
+statute and in the event of irreconcilable inconsistency between the Electricity Act 
+and the Competition Act, the former would override even though the Competition 
+Act contained the non-obstante clause in Section 60 of the Act. We agree with the 
+counsel of DHBVN that the principle of leges posteriores priores contrarias 
+abrogant upheld by the Supreme Court in the case of Solidaire India Ltd. vs. Fair 
+Growth Financial Service Ltd. – (2001) 3 SCC 71, will be applicable and the 
+Electricity Act would prevail.” 
+ 
+11. 
+Furthermore, TPCL submitted that, for the purposes of interpretation of two statutes in 
+apparent conflict, the provisions of a general statute must yield to those of a special one, 
+i.e., when there is a conflict between general law and special law, special law shall 
+prevail. Therefore, in the instant case, the provisions of the Electricity Act, being the 
+special statute dealing with the electricity sector in India, would override the provisions 
+of the Act. However, if both the Electricity Act and the Act are considered special 
+statutes, then the principle of leges posteriores priores contrarias abrogant will be 
+applicable, i.e., the later special statute will prevail, being the Electricity Act.  
+ 
+12. 
+TPCL submitted that, notwithstanding the above, when OERC, vide its letter dated 29 
+January 2021 (NESCO Letter), directed TPCL to comply with the requirements of the 
+Act for the first time, it filed a notice with the Commission regarding the acquisition of 
+51% equity share capital of North Eastern Electricity Supply Company of Odisha 
+Limited (NESCO Combination)2 on 8 February 2021, in compliance with the NESCO 
+Letter. Subsequently, on 30 March 2021, given the direction in the NESCO 
+Combination, TPCL voluntarily filed a notice with the Commission for the SOUTHCO 
+Combination as well, although, the NESCO Letter did not give any specific direction for 
+the same.  
+                                                          
+2 CCI Combination Regn. No. C-2021/01/813 (NESCO/TPCL) 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 7 of 14 
+ 
+ 
+13. 
+Based on the above, TPCL submitted that it is committed to comply with all laws, 
+including the Act, and it genuinely believed earlier that OERC had exclusive 
+jurisdiction in the matter. However, when it received the NESCO Letter from 
+OERC in the NESCO Combination, it filed a notice for the SOUTHCO 
+Combination with the Commission voluntarily as a good corporate citizen and out 
+of abundant caution, even though no such letter or direction was issued by OERC.  
+ 
+14. 
+Further, TPCL submitted that it provided full cooperation in inquiry and provided all 
+documents to the Commission required for its assessment. Moreover, there were no 
+previous instances where TPCL had been found to be in violation of the provisions of 
+the Act. Also, there is no finding of appreciable adverse effect on competition (AAEC) 
+in the respective relevant markets by the Commission or a finding of AEC by OERC.  
+Furthermore, there was immense pressure from OERC to close the respective 
+transactions as soon as possible, including continuance of the proceedings and the 
+process before OERC even during the COVID-19 pandemic.  
+ 
+15. 
+In view of the foregoing, TPCL prayed that no penalty, or only a nominal penalty be 
+levied upon it. 
+ 
+Analysis and Findings of the Commission 
+ 
+16. 
+The Commission has considered the submissions of TPCL as well as heard the 
+arguments advanced by the learned counsel in the matter. Before proceeding further, the 
+Commission deems it appropriate to first deal with the issue of jurisdiction, whereby it 
+is argued by TPCL that OERC has exclusive jurisdiction to regulate the combination 
+pursuant to Section 60 of the Electricity Act, and that the operation of competition law is 
+overridden by the non-obstante provision in Section 173, 174 and 175 of the Electricity 
+Act. In this regard, it is highlighted that the issue of conflict or overlap in the two 
+statutes, namely, the Act and the Electricity Act, has already been dealt by the 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 8 of 14 
+ 
+Commission in the matter of Shri Arun Mishra and State of U.P. & Ors. (Case no. 43 of 
+2017)3,  wherein it was observed that: 
+ 
+“ 15. With regard to the objection raised against the Commission’s jurisdiction, it 
+is  noted that though the  Electricity  Act,  2003  is  a  special  legislation 
+governing, inter-alia,  matters  pertaining  to  generation,  transmission  and 
+supply  of  electricity,  it  cannot  be  said  that  all  matters  arising  in  the 
+electricity industry will be governed exclusively by the said statute. Various 
+provisions   of Electricity   Act,   2003 and   the   policies   made   thereunder 
+unequivocally   expresses   the   intention   of   the   legislature   to   promote 
+competition. It is unconceivable that by inserting Sections 174 and 175, the 
+legislature had intended to oust the jurisdiction of the Commission. 
+…… 
+17. The latin maxim generalia specialibus non derogant suggests that where a 
+general statute and a special statute relating to the same subject matter cannot be 
+reconciled, the special statute ordinarily will prevail. And in case where a subject 
+matter is covered by two statutes, both of which are special, the one enforced on a 
+later date ordinarily prevails. However, these rules of statutory construction are not 
+absolute in nature; rather an attempt should be aimed at, in case of conflicting 
+provisions, to give effect to both the provisions to avoid redundancy. This position 
+has been reiterated by the Hon’ble Supreme Court in Ashoka Marketing Limited v. 
+Punjab National Bank [(1990) 4 SCC 406], wherein it was held:  
+ 
+“The principle which emerges from these decisions is that in the case of 
+inconsistency between the provisions of two enactments, both of which can be 
+regarded as Special in nature, the conflict has to be resolved by reference to the 
+purpose and policy underlying the two enactments and the clear intendment 
+conveyed by the language of the relevant provisions therein. We propose to consider 
+this matter in the light of this principle.”  
+ 
+                                                          
+3 Order under Section 26(2) of the Act 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 9 of 14 
+ 
+18. It is noted that both the statutes under consideration, i.e. the Electricity Act, 
+2003 as well as the Act, are special statutes with designated spheres of operation. 
+The former aims at regulating activities in the electricity industry and the latter 
+aims at promoting competition in every sphere and sector of the economy. The 
+jurisdiction of the Act extends to all sectors of the economy and sectors regulated 
+by sector specific laws such as telecommunication, electricity, petroleum, 
+insurance etc. are also included within the ambit of the Act for the competition 
+related matters/issues. To this extent, there is no conflict as both these statutes 
+have their respective and mutually exclusive regulatory regimes. This observation 
+is in sync with the Commission’s decision in Case No. 91 of 2014 (Open Access 
+Users Association vs. Tata Power Delhi Distribution Limited & Ors.) decided on 
+29th September, 2015 that the mandate of the Commission is to eliminate 
+practices having adverse effect on competition, promote and sustain competition, 
+protect the interests of consumers and ensure freedom of trade carried on by 
+other participants, in markets in India. Sectoral regulators focus on the dynamics 
+of specific sectors, whereas the Commission focuses on functioning of the markets 
+by way of increasing efficiency through competition; their roles being 
+complementary and supplementary as per the common objective of obtaining 
+maximum benefit for the consumers.  
+ 
+19. Thus, the Commission is of the view that there is no issue of conflict of 
+jurisdiction in the present case which cannot be reconciled by adopting 
+harmonious construction between the provisions of the Electricity Act, 2003 and 
+the provisions of the Act. Though Electricity Act, 2003 is a special statute for the 
+purposes of dealing with electricity matters, the Competition Act, 2002 is a 
+special statute for regulating competition in the market. For any competition 
+related matter, the Act is a special statute, mandated to promote and regulate 
+competition in the market. This position has been reiterated in the case of 
+Telefonaktiebolaget LM Ericsson (Publ) vs. CCI and others, 2016 (66) PTC 58 
+(Del), by the Hon’ble High Court of Delhi, wherein the question of jurisdiction of 
+the Commission in a matter related to abuse by an IPR holder was considered. 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 10 of 14 
+ 
+While dealing with the issue of jurisdiction, the Hon’ble High Court of Delhi held 
+that there is no irreconcilable repugnancy or conflict between the Competition 
+Act and the Patents Act, and in the absence of any irreconcilable conflict between 
+the two legislations, the jurisdiction of the Commission to entertain complaints for 
+abuse of dominance in respect of patent rights cannot be ousted.  
+ 
+20. Based on the foregoing, the Commission is of the view that, keeping in view 
+the object and purpose underlying both the enactments viz., the Electricity Act, 
+2003 and the Act (i.e. Competition Act, 2002), it does not appear that the 
+provisions of the Act are in any way superseded by the Electricity Act, 2003, in 
+the context of the facts and allegations under consideration. The mandate of the 
+Act is vast and its jurisdiction cannot be perceived to be ousted by the Electricity 
+Act, 2003. …” 
+ 
+17. 
+Similar observations were made by the Commission in the order passed under Section 
+26(1) of the Act in the matter of HPCL-Mittal Pipelines Limited and Gujarat energy 
+Transmission Corporation Limited & others (Case no. 39 of 2017). Further, in the said 
+order, as regards the judgement of the erstwhile Hon’ble COMPAT in the Anand 
+Prakash case, the Commission had observed that  
+“41 .… ratio of the hon'ble erstwhile COMPAT clearly indicates that the said 
+judgment was only with respect to matters pertaining to electricity tariff approved 
+by the Appropriate Commission under the EA03. 
+42. Certainly, EA03 is a special legislation governing, inter-alia, matters 
+pertaining to generation, transmission and supply of electricity. However, to argue 
+that in all matters in the electricity industry EA03 would prevail over the provisions 
+of the Act, because of the presence of a sectoral regulator, would go against the 
+spirit of the said statute as well as against the purpose for which the Act was 
+enforced…..” 
+ 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 11 of 14 
+ 
+18. 
+Since TPCL has also placed reliance upon the same case to argue exclusive jurisdiction 
+of OERC, the Commission reiterates its observations in the aforesaid matter for the 
+purposes of the instant case. 
+ 
+19. 
+Further, the position that the sectoral regulator does not have exclusive jurisdiction 
+under the Electricity Act is also supported by the case of Shri Neeraj Malhotra, 
+Advocate vs. North Delhi Power Ltd. & Ors. [Case No. 6/2009], wherein it was alleged 
+that only the Delhi Electricity Regulatory Commission (DERC) under the Electricity 
+Act had jurisdiction to deal with issues relating to the anti-competitive behaviour of 
+electricity distribution companies. The Commission, had referred the matter to DERC 
+for its comments, and DERC, in its communication to the Commission, had 
+categorically opined that “matters relating to electricity tariff have to be decided as per 
+the provisions of the Electricity Act, 2003 and DERC Regulations. Accordingly, CCI 
+may not be appropriate forum to deal with such issue. However, specific issues alluded 
+to by the petitioner accusing the Discoms of abuse of their dominant position may be 
+looked into by the CCI in terms of the Competition Act, 2002.”  
+ 
+20. 
+Likewise, in the instant case, OERC, in the NESCO Letter, noted the provisions 
+contained in Section 60 of the Electricity Act, then expressly directed TPCL that, 
+“…notwithstanding the confirmation regarding conformity with relevant Indian Laws & 
+Regulations already provided in the covering letter forming part of your bid, TPCL is 
+required to comply with the requirements of Competition Act, 2002 and furnish a 
+certificate on such compliances to OERC.” From the aforesaid paragraph of the NESCO 
+Letter, it is clear that OERC also recognises the jurisdiction of the Commission in the 
+matter of regulation of combinations in the electricity sector and has, therefore, directed 
+TPCL to comply with the provisions of the Act. 
+ 
+21. 
+Thus, based on the above, the Commission is of the opinion that OERC cannot be said 
+to have exclusive jurisdiction in relation to the SOUTHCO Combination, and that it was 
+incumbent upon TPCL to file a notice with the Commission under Section 6(2) of the 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 12 of 14 
+ 
+Act in respect of the SOUTHCO Combination prior to consummation. Such obligation 
+was not subject to OERC giving directions to TPCL. 
+ 
+22. 
+It is to be noted that the merger control regime in India is mandatory and suspensory in 
+nature. Section 5 provides the assets and turnover criteria to determine which 
+acquisitions of control / shares / voting rights / assets or mergers and amalgamations will 
+amount to combination under the Act. Section 6(2) of the Act mandates parties to give a 
+notice in respect of the proposed combination. In case of acquisitions, the trigger for 
+notifying the transaction to the Commission is the execution of any agreement or other 
+document for the acquisition of control / shares / voting rights / assets referred to in 
+Section 5(a) or acquiring of control referred to in Section 5(b) of the Act. Section 6(2A) 
+of the Act provides that a combination notified to the Commission shall not come into 
+effect for a period of 210 days from the date of notification or earlier approval by the 
+Commission. The provisions in effect imply that the mergers and acquisitions that can 
+be considered combinations in terms of Section 5 of the Act are mandatorily notifiable 
+to the Commission and therefore, cannot be consummated, either entirely or in part, 
+without approval from the Commission, unless they are exempted by the Government of 
+India notification or are such combinations that fall under Schedule 1 of Combination 
+Regulation, in respect of which a notice need not normally be filed. Based on the 
+submission of TPCL, it is noted that the SOUTHCO Combination was neither exempted 
+by any Government of India notification nor were covered under Schedule 1 of 
+Combination Regulations. Also, it is pertinent to note that the mandatory regime for 
+notifying a proposed combination to the Commission is applicable irrespective of 
+whether or not the combination causes any AAEC in India. 
+ 
+23. 
+Thus, in light of the above, the Commission finds that TPCL, by acquiring 51% of 
+equity share capital of SOUTHCO without filing a notice with the Commission in terms 
+of Section 6(2) of the Act prior to consummation, has contravened the provisions of  
+Section 6(2A) of the Act, and hence, is liable for penalty under Section 43A of the Act, 
+which reads as under: 
+ 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 13 of 14 
+ 
+“If any person or enterprise fails to give notice under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may 
+extend to one per cent of the total turnover or the assets, whichever is higher, of 
+such a combination” 
+ 
+24. 
+It is to be noted that Section 43A of the Act prescribes the extent of penalty that can be 
+levied for failure to file notice; however, the Commission has sufficient discretion to 
+consider the conduct of the parties and circumstances of the case to arrive at an 
+appropriate amount of penalty. 
+ 
+25. 
+Based on the submissions of TPCL, the Commission notes that, in the instant case, 
+TPCL was under an obligation to comply with the strict timelines imposed upon it by 
+OERC. Therefore, while, on the one hand, it was incumbent upon TPCL to file a notice 
+with the Commission under Section 6(2) of the Act on its acceptance of LOI, on the 
+other hand, it was also incumbent on TPCL to meet the timelines of OERC and give 
+effect to the SOUTHCO Combination immediately, subsequent to the issuance of LOI. 
+Further, TPCL was faced with ambiguity emanating from overlapping provisions in the 
+two special acts and had no specific direction from OERC, such as in case of the 
+NESCO Combination, to comply with the provisions of the Act. Nevertheless, pursuant 
+to the receipt of the NESCO Letter, TPCL filed a notice with the Commission in relation 
+to the SOUTHCO Combination voluntarily and fully cooperated during the inquiry, 
+supplying all requisite material / documents in response to the information requirement 
+of the Commission, which formed the basis of the findings of contravention.  
+ 
+26. 
+While all the above factors do not absolve TPCL of its obligation to file a notice prior to 
+the consummation of the SOUTHCO Combination, they can at best be considered 
+mitigating factors. It is reiterated that, under the mandatory and suspensory regime 
+under the Act, it became incumbent upon the Acquirer to file a notice with the 
+Commission under Section 6(2) of the Act on acceptance of the LOI for approval of the 
+Commission before consummation of any step of the Combination.  
+ 
+
+ 
+                                        
+ 
+ 
+ 
+ 
+                                                                                                            Page 14 of 14 
+ 
+27. 
+Thus, considering the facts and circumstances of the case and the conduct of TPCL, 
+wherein contravention has been established based on the information voluntarily 
+disclosed by TPCL, who have extended full cooperation in furnishing the information, 
+the Commission decides to take a lenient view and imposes a nominal penalty of INR 
+Five Lakhs (INR 5,00,000/-) on TPCL. TPCL shall pay the penalty within 60 days from 
+the date of receipt of this order. 
+ 
+28. 
+The Secretary is directed to communicate to TPCL accordingly. 
+ 
+ 
+ 
+ 

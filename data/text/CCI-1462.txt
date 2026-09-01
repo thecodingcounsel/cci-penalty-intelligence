@@ -1,0 +1,536 @@
+     
+ 
+Page 1 of 14 
+ 
+COMPETITION COMMISSION OF INDIA 
+Combination Registration No.C-2023/04/1021 
+Non-Confidential  
+16th August 2024 
+ 
+Notice under Section 6(2) of the Competition Act, 2002 filed by India Business Excellence 
+Fund – IV 
+ 
+CORAM:  
+ 
+ 
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearance: Mr. Rajshekhar Rao, Senior Advocate; Mr. Yatharth Vardhan Singh, Advocate; 
+Mr. Nilav Banerjee, Advocate; Mr.  Soham Banerjee, Advocate; Ms. Anisha 
+Chand, Advocate; Mr. Dushyant K. Kaul, Advocate; Ms. Meherunnisa A. Jaitley, 
+Advocate; Mr. Prakash Bagla, Managing Director, India Business Excellence 
+Fund – IV. 
+ 
+Order under Section 43A of the Competition Act, 2002 
+1. 
+On 17th April 2023, the Competition Commission of India (Commission) received a 
+notice under Section 6(2) of the Competition Act, 2002 (Act) read with Regulation 5A 
+of the Competition Commission of India (Procedure in regard to the transaction of 
+business relating to combinations) Regulations, 2011 (Combination Regulations) filed 
+by India Business Excellence Fund – IV (IBEF-IV/Acquirer) in relation to its 
+
+     
+ 
+Page 2 of 14 
+ 
+acquisition in VVDN Technologies Private Limited (VVDN/ Target). [Hereinafter the 
+Acquirer and the Target are together referred to as Parties].  
+Description of the Parties 
+2. 
+The Acquirer is Category II Alternative Investment Fund (AIF) incorporated in India 
+and registered with the Securities and Exchange Board of India (SEBI).  The Acquirer 
+primarily invests in equity and equity-linked instruments and/or debt and/or mezzanine 
+or other instruments of Indian or India related companies. It is a sector-agnostic fund, 
+providing growth capital to mid-sized companies. 
+3. 
+The Acquirer is managed by MO Alternate Investment Advisors Private Limited 
+(MOAIAPL), whose ultimate controlling entity is Motilal Oswal Financial Services 
+Limited (MOFSL). MOFSL is the ultimate parent entity of the Motilal Oswal group. 
+Thus, the Acquirer belongs to the Motilal Oswal group (Acquirer Group). Motilal 
+Oswal group is a diversified financial services provider with products/services such as 
+retail and institutional broking, private wealth management, investment banking, PE, 
+asset management and home finance. 
+4. 
+The Target, a company incorporated in India, is primarily engaged in the business of 
+providing electronic manufacturing services (EMS), original design manufacturing 
+(ODM) and product design services. The Target provides EMS/ODM services to both 
+domestic and global customers in the following business verticals: 5G, networking & 
+Wi- Fi, Internet of Things (IoT), camera-based solutions, cloud-based solutions, and data 
+center infrastructure. 
+Transaction 
+5. 
+Pursuant to the proposed transaction the Acquirer would acquire 8.12% to 10.57% 
+shareholding in the Target on a fully diluted basis through a combination of secondary 
+
+     
+ 
+Page 3 of 14 
+ 
+share purchases of equity shares and subscription to Compulsory Convertible Debentures 
+(CCDs) (Proposed Combination).1 
+Submissions in the Notice 
+6. 
+The Acquirer submitted in the notice that the Proposed Combination will not result in 
+any overlaps between the Acquirer Group on one hand (including portfolio companies of 
+the Motilal Oswal Funds), and the Target on the other. As such, there are no horizontal, 
+vertical, or complementary overlaps between the activities undertaken by the Acquirer 
+Group and the Target. Hence, the Proposed Combination falls under the category of 
+combinations mentioned in Schedule III of the Combination Regulations and is eligible 
+for deemed approval under the Green Channel Route. 
+7. 
+It was also submitted that there is an insignificant existing supply arrangement between 
+the Target and MOAIAPL (through its portfolio company, [----------------------------------
+-------------------------]. It was mentioned that ordinarily, the Target is not engaged in the 
+business of (i) assembling Printed Circuit Board (PCB) for sale/ supply in the market; 
+and/or (ii) manufacturing products for the medical/healthcare sector. The Target itself is 
+neither engaged in, nor has the capability to manufacture the medical and health care 
+related products that are manufactured by [-------]. However, due to the supply chain 
+constraints faced by [-------] for delivering health care products during the Covid-19 
+pandemic, the Target provided miniscule PCB assembly services to [-------] on an ad hoc 
+basis to support the nation in the fighting against the Covid-19.  
+8. 
+It was stated that entire supplies made by the Target to [-------] were against the purchase 
+orders issued in 2020 on account of supply chain constraints. It was further submitted 
+that till date, there was no formal long-term arrangement between [-------] and the Target 
+for such PCB assembly service, which demonstrated the ad hoc nature of the supply 
+                                                          
+1 The Acquirer Group currently has more than 25% but less than 50% shareholding in the Target through IBEF-
+III and post the Proposed Combination, it will continue to have more than 25% but less than 50% shareholding in 
+the Target. 
+
+     
+ 
+Page 4 of 14 
+ 
+relationship between them. Further to such purchase orders, the Target assembled the 
+PCBs based on requisite PCB design specifications provided by [-------] itself. These 
+assembled PCBs were used as consumables by [-------] for its machines to undertake 
+various tests including Covid-19. 
+9. 
+It was stated in the notice that providing PCB assembly services for external sales is 
+neither a core business offering of the Target, nor a strategic input for [-------] machines. 
+Further, [------] also procures PCBs from other suppliers who are engaged in the business 
+of assembling PCBs for external sales. The turnover generated from the supply of 
+assembled PCBs to [-------] constituted less than 1% of the total turnover of the Target 
+for FY 2021-22 which demonstrates the de minimis nature of this supply arrangement. 
+Even otherwise, the Target is a marginal player in the market for assembling PCBs in 
+India. While the overall market for assembling PCBs in India (in terms of value) was 
+approximately at INR 8,000 crore in FY 2021-22, the Target provided assembled PCBs 
+only to the tune of INR [--------------] in FY 2021-22. Accordingly, the Target had a 
+miniscule market share in the range of [0-5] % in the market for assembling of PCBs in 
+FY 2021-22. 
+Issue of Letter for Clarification  
+10. 
+The Commission in its meeting held on 06th June 2024 considered the notice and decided 
+to seek clarifications from the Acquirer in relation to the information provided in the 
+green channel filing, inter alia, with respect to the supply arrangement between the 
+Target and MOAIAPL (through its portfolio company, [---------]) for the supply of PCBs. 
+A letter was issued to the Acquirer on 19th June 2023 and responses were received on 
+17th July 2023 (after seeking extension of time by the Acquirer) and` 25th July 2023.  
+Submissions in the Response 
+11. 
+In response to the letter, the Acquirer inter alia submitted that the supplies made by the 
+Target to [-------] should not be considered as an overlapping activity because (i) PCBs 
+
+     
+ 
+Page 5 of 14 
+ 
+are basic building blocks of any electronic device and are not a strategic input which may 
+have demonstrated a vertical overlap; (ii) there is no agreement governing the supply 
+commitments/relationship between the Target and [-------] for supply of PCBs; (iii) the 
+Target does not offer PCB assembly as a business offering to its customers; and (iv) the 
+extremely miniscule market share of the Target for assembling PCBs in India ensures 
+that there cannot be any appreciable adverse effect on competition in India.  
+12. It was also stated in the response that the Proposed Combination was consummated on 
+19th April 2023. Accordingly, the Proposed Combination is hereinafter referred to as 
+‘Combination’. Further, it was submitted that the miniscule supply relationship 
+between the [-------] and the Target for PCB assembly service had continued till date, 
+in order to largely fulfill historical purchase orders.  
+Issue of SCN 
+13. 
+The Commission considered the matter in its meeting held on 31st October 2023 and 
+prima facie observed that the activities of Acquirer through [-------] exhibited 
+vertical/complementary relationship with the activities of Target. Thereby, the 
+Combination does not appear to fall under Schedule III of the Combination Regulations.  
+14. 
+Accordingly, the Commission passed an Order dated 31st October 2023 (SCN) directing 
+the Acquirer to show cause in writing within 15 days of receipt of the notice as to why: 
+(i) notice should not be found void ab initio in terms of first proviso to Regulation 5A 
+(2) of the Combination Regulations and it should not be held in contravention of the 
+provisions of Section 43A of the Act; (ii) it should not be held liable for contravening the 
+provisions of Section 44 of the Act for making statements in the Notice, including Notice 
+Declaration and Green Channel Declaration which are false in material particular; and 
+(iii) it should  not be directed, under Regulation 8(1) of the Combination Regulations, to 
+furnish correct notice in relation to the Combination.  
+
+     
+ 
+Page 6 of 14 
+ 
+15. 
+The SCN was communicated to the Acquirer vide letter dated 14th November 2023. The 
+Acquirer submitted its response on 4th January 2024 (SCN Response). 
+Response to SCN  
+16. 
+Summarily, the response of the Acquirer to the SCN is brought out below.  
+17. 
+The Acquirer has submitted that there is no violation of Section 43A of the Act inter alia 
+for the following reasons: 
+i. 
+VVDN’s assembly of PCBs for [-------] was an ad hoc and temporary deviation 
+from VVDN’s commercial practice as VVDN is not engaged in the external 
+sales/assembly of PCBs (barring instances of captive consumption) as a primary 
+commercial activity or business vertical.  
+ii. 
+Due to severe supply chain disruptions caused by Covid-19, as an extraordinary 
+measure, [-------] issued purchase orders to VVDN for supplying PCBs to it, which 
+were majorly utilised to manufacture the consumables forming part of [-------] 
+“COVID-19 testing kits”. Prior to 2020, [-------] purchased PCBs from other 
+commercial suppliers of PCBs.  
+iii. 
+The supplies made by VVDN to [-------] was on an ad hoc, need basis, and not a 
+formal commercial relationship as there neither is nor has been any formal long-
+term agreement/arrangement between VVDN and [-------] for the supply of PCBs. 
+Further, the supply of PCBs to [-------] has been consistently declining, in terms of 
+both absolute numbers and as a percentage of total revenue generated by VVDN. 
+The miniscule supply relationship that has continued till date is to largely fulfil 
+historical purchase orders put in by [-------] during the onset of the pandemic. [----
+---------------------------------------------------------------------------------------------------
+------------------------------------------------------------]  
+ 
+ 
+
+     
+ 
+Page 7 of 14 
+ 
+[--] 
+[--------------------] 
+[-----------] 
+[--==------] 
+[-----------] 
+[--------------] 
+[---------------------] 
+[--------] 
+[--------------] 
+ 
+[--------------] 
+[--------] 
+[--------] 
+ 
+[-------------] 
+[---------] 
+[------] 
+ 
+[---] 
+[--------] 
+[-------------] 
+[-----] 
+[-----] 
+[--------] 
+[-------------] 
+[-------] 
+[--------] 
+[--------] 
+[----------------------
+-----------------------
+-----------------------
+-----------------------
+------------------] 
+[--------2] 
+[------] 
+[--------] 
+ 
+iv. 
+PCBs cannot be considered a strategic input material, but a basic input material for 
+any electronic device. Such basic/ fundamental input items which have no strategic 
+or sizeable importance for the downstream entity cannot be considered as a 
+vertical/complementary linkage. 
+v. 
+There is no vertical/complementary relationship between VVDN and [--------------
+---------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------] A 
+vertical/complementary relationship can only arise between two commercially 
+market facing enterprises. Such ad hoc supplies do not qualify as a 
+vertical/complementary relationship.  
+vi. 
+Vertical/complementary 
+relationship 
+typically 
+demonstrate 
+three 
+main 
+characteristics i.e., internalization of double mark-ups, input foreclosure, customer 
+foreclosure.  As VVDN is not commercially focused on generating revenue through 
+the sale/assembly of PCBs, the ad hoc supply by VVDN do not demonstrate these 
+characteristics.  
+vii. 
+The jurisprudence that captive services do not constitute overlap should also apply 
+to the case at hand which relates to ad hoc sales subsequent to an extraordinary 
+                                                          
+2 For completeness, the revenue of the Target from PCB assembly services in FY 2020-21 has been revised to 
+accommodate the mobilisation charges (i.e., one-time payment received from [----------] which helped set up the 
+physical facilities to assemble the PCBs for [----------]). 
+
+     
+ 
+Page 8 of 14 
+ 
+situation. While captive sales are different from ad hoc sales (as undertaken by 
+VVDN), at a fundamental level neither captive sales nor ad hoc sales (in the nature 
+undertaken by VVDN) are undertaken on a commercial basis to service third party 
+consumers or as a business vertical to generate substantial revenue. 
+viii. 
+Even if the ad hoc supplies are considered a vertical/complementary relationship, 
+given its miniscule and de minimis nature it should not be disregarded for the 
+purposes of determining the availability of the green channel benefit owing to 
+VVDN’s extremely miniscule market share in the market for assembly and sale of 
+PCBs.  
+18. 
+It is submitted that there is no violation of Section 44 of the Act, inter alia, for the 
+following reasons: 
+i. 
+Prima facie, violation of Section 44 of the Act, fundamentally stems from the 
+Commission’s preliminary conclusion that the ad hoc supplies made by VVDN to 
+[----------] amounts to a vertical/complementary relationship. The Acquirer has 
+knowingly or intentionally never made any statement which is false in any material 
+particular either in the public summary or in the declarations. Therefore, a 
+contravention under Section 44 of the Act does not arise in the current instance for 
+the following reasons – 
+ 
+The Acquirer had itself disclosed the factum of supplies made by VVDN to      
+[----------]. Factual statements made by the Acquirer were completely true and 
+correct to the best of its knowledge and therefore, cannot be determined to be 
+false.  
+ 
+Presenting 
+“PCB 
+supplies 
+between 
+VVDN 
+and 
+[----------]” 
+as 
+a 
+vertical/complementary 
+relationship 
+was 
+a 
+question 
+of 
+subjective 
+determination under the scheme of the Act which was a matter of legal 
+determination. Hence, the proposition of treatment of PCB supplies between 
+VVDN and [----------] falls outside the realm of constituting false information. 
+
+     
+ 
+Page 9 of 14 
+ 
+ 
+As VVDN is not primarily engaged in the commercial and external sale of 
+PCBs to third parties, it duly considered that the ad hoc supply cannot qualify 
+as a vertical / complementary relationship under the existing jurisprudence of 
+competition law.  
+ii. 
+Irrespective of the findings of the Commission regarding whether such ad hoc 
+supplies qualified as a vertical/complementary relationship, it cannot be stated that 
+the Acquirer submitted any information which can be stated to be false in material 
+particular or that the Acquirer knowingly provided false information to the 
+Commission by identifying that the Combination did not exhibit overlaps.  
+iii. 
+Submissions demonstrating that the supplies made by VVDN to [----------] did not 
+qualify as a vertical / complementary relationship was a “statement of opinion” and 
+not a “statement of fact”. Accordingly, the determination of what sort of a supply 
+relationship can constitute a vertical / complementary relationship, in itself, cannot 
+be treated as a simpliciter true or false statement. 
+iv. 
+The Green Channel Declaration filed by the Acquirer wherein it has effectively 
+declared that there exists no vertical / complementary relationship between itself 
+(including [----------]) and VVDN is not a false submission. There is no intent on the 
+part of the Acquirer to mislead or submit false information to the Commission. 
+v. 
+The Acquirer acted in compliance with existing precedents, guidance and global 
+and Indian jurisprudence and has always demonstrated complete support and 
+transparency with the Commission. Therefore, a penalty under Section 44 of the 
+Act cannot lie against the Acquirer. 
+19. 
+In view of aforesaid submissions, it is inter alia submitted that no penalty should be 
+levied on the Acquirer. Further, it is submitted that the Combination has not resulted in 
+any appreciable adverse effect on competition (AAEC) as VVDN’s market share in the 
+market for assembling PCBs is merely in the range of [0-5] %. The competitors of VVDN 
+shall not be foreclosed from supplying PCBs to competitors of [--------], inter alia, due to 
+the fact that, (i) [--------] cannot exclusively source PCBs from VVDN as VVDN is largely 
+not engaged in the commercial production and sale of PCBs and (ii) [----------] market 
+
+     
+ 
+Page 10 of 14 
+ 
+share is in the range of [0-5]% so even if VVDN were to exclusively supply PCBs to       
+[----------], competitors of VVDN will continue to have access to remaining market. 
+Therefore, a potential or existing vertical relationship between [--------] and VVDN, even 
+if identified, will not cause AAEC in India.  
+20. 
+The Acquirer has submitted that it should not be required to re-file a fresh notice for the 
+Combination under Regulation 8(2) of the Combination Regulations. While filing the 
+merger notice, the Acquirer has already provided partial information as required under 
+Form I. Also, given the drop in COVID-19 infections and the consequent drop in testing 
+for COVID-19, the market may be disregarded as not being relevant for an ex post facto 
+analysis. Thus, in the interest of justice and equity, it should not be required to file a fresh 
+notice for the Combination. 
+21. 
+Based on above, it is prayed that the Commission may consider to conclude that: (a) 
+IBEF-IV’s Notice is valid and deemed approval under Section 6 is valid and subsisting, 
+(b) IBEF-IV has not contravened Section 43A of the Act, (c) IBEF-IV has not 
+contravened Section 44 of the Act; and (d) IBEF-IV is not required to file a fresh notice 
+to notify the Combination. Further, it is prayed that an oral hearing be granted to IBEF-
+IV and any other order, as the Commission may deem fit, may be passed for the ends of 
+justice. 
+Hearing by the Commission: 
+22. 
+On 30th April 2024, the Commission heard the Acquirer on its response to the SCN. The 
+learned counsel for the Acquirer completed oral submissions and sought permission to 
+file an affidavit in relation to its existing supply arrangement with the Target. The 
+Acquirer was directed to submit the said affidavit within one week.  
+23. 
+The Acquirer through its fund manager i.e., MOAIAPL submitted the Affidavit dated 
+02nd May 2024 on 07th May 2024. In response to the Commission’s query as to whether 
+VVDN supplied any PCBs to [----------] post Q1 of FY 2023-24, the Acquirer submitted 
+
+     
+ 
+Page 11 of 14 
+ 
+that, till Q1 of FY 2023-24, VVDN fulfilled historical purchase orders from [--------] and 
+after Q1 of FY 2023-24, there has been no supplies of PCBs from VVDN to [--------]. It 
+is further stated that the short-term PCB supply arrangement between VVDN and [------] 
+stands fulfilled and entirely concluded. 
+Observation of the Commission 
+24. 
+The Commission has considered all material placed on record and the submissions made 
+by the learned counsel during hearing. The Acquirer in its submissions has argued that 
+PCBs are a basic input for any electronic device and not strategic input and hence the 
+same would not constitute a vertical/complementary relationship amongst the Parties. 
+However, the submissions made by the Acquirer show that [--------] provided design 
+specifications and other assistance to the Target (an entity which was manufacturing 
+PCBs for captive use) for assembly of PCBs for its Covid-19 test kits. This indicates that 
+the PCBs supplied by the Target to [--------] required a particular design and 
+manufacturing process. Further, based on the submissions, it is apparent that the PCBs 
+are essential component for the functioning of Covid-19 test kits being manufactured by 
+[-------]. Thus, it appears that the PCB assembly service provided by the Target (provision 
+of PCB assembly service) and availed by [-------] (procurement of PCB assembly service) 
+resulted in a vertical/ complementary relationship between them. Merely because the 
+Target had earlier availed or could avail a similar service from other commercial 
+suppliers does not imply that a vertical/ complementary relationship did not exist 
+between the Target and [--------]. 
+25. 
+Further, the argument that a vertical/ complementary relationship did not or could not 
+arise between the Target and [--------], due to ad hoc nature of sales made to [--------]by 
+the Target and for the reason that VVDN was not a commercial market player for sale of 
+PCBs to third parties, appears to be erroneous and misplaced. As brought out above, it is 
+clear that the provision of PCB assembly service by the Target to [--------] continued 
+from FY 2020-21 onwards till Q1 FY 2023-24 and the Target also generated revenue 
+from [-------] for such period. Noticeably, such revenue was generated by the Target even 
+
+     
+ 
+Page 12 of 14 
+ 
+at the time when the notice was filed with the Commission on 17th April 2023. Though 
+the Acquirer could not definitively determine whether the PCB assembly services were 
+provided by the Target against one purchase order or more than one purchase order, it is 
+clear that the PCB assembly services were provided by the Target to [--------] for more 
+than two years from which the Target also generated revenue. Accordingly, there does 
+not appear to be merit in the argument that the sales were ad-hoc in nature or there was 
+no commercial market facing activity. Even otherwise, when the Target has capability to 
+provide a service, merely because such service was being provided commercially only to 
+one entity and not to others or was not a primary activity, does not imply that a vertical/ 
+complementary relationship did not or could not exist between them.  
+26. 
+Given the above, the Commission finds that there existed a vertical/complementary 
+relationship between [--------] and the Target at the time of filing notice with the 
+Commission. Accordingly, the criteria of green channel prescribed under Schedule III of 
+the Combination Regulations was not met and the Combination did not qualify for the 
+green channel prescribed under Regulation 5A of the Combination Regulations.  
+27. 
+Before proceeding further, it is noted that apart from above, the learned counsel also 
+argued during hearing that the green channel filing was made by the Acquirer after 
+availing pre-filing consultation facility of the Commission and reliance was placed upon 
+certain precedents. Regarding pre-filing consultation, it is pertinent to note that such 
+facility is merely an assistance to provide non-binding guidance to the stakeholders based 
+on the information disclosed by them at the time and without prejudice to the assessment 
+of the case on receipt of the formal notice. Aside from the precedents, the availability of 
+green channel depends upon whether criteria for green channel approval are satisfied in 
+a case.  The determination of whether a particular notice qualifies for a green channel 
+filing requires a fact-based assessment. The eligibility criteria for approval of 
+combinations under green channel are objective and specific i.e., no overlap between the 
+parties to the combination, their respective group entities and/or any entity in which they, 
+directly or indirectly, hold shares and/or control. This criterion needs to be determined 
+
+     
+ 
+Page 13 of 14 
+ 
+and satisfied in the facts and circumstances of each case. As observed above, in the 
+instant matter, the criterion was not met.  
+28. 
+It is to be noted that the first proviso to sub-regulation (2) of Regulation 5A of the 
+Combination Regulations provides as under:  
+“Provided that where the Commission finds that the combination does not fall 
+under Schedule III and/or the declaration filed pursuant to sub-regulation (1) is 
+incorrect, the notice given and the approval granted under this regulation shall 
+be void ab initio and the Commission shall deal with the combination in 
+accordance with the provisions contained in the Act” 
+29. 
+Thus, in light of the above, the Commission finds that, the notice and deemed approval, 
+under Section 31(1) of the Act read with Regulation 5A of the Combination Regulations, 
+granted to Combination is void ab initio. As the Combination has already been 
+consummated, the Acquirers are liable for penalty under Section 43A of the Act, which 
+reads as under: 
+“If any person or enterprise fails to give notice under Section 6(2) of the Act, the 
+Commission shall impose on such person or enterprise a penalty which may 
+extend to one per cent of the total turnover or the assets, whichever is higher, of 
+such a combination” 
+30. 
+It is to be noted that Section 43A of the Act prescribes the extent of penalty that can be 
+levied for failure to file notice. However, the Commission has sufficient discretion to 
+consider the conduct of the parties and circumstances of the case to arrive at an 
+appropriate penalty. 
+31. 
+The Acquirer, in its response to SCN, has inter alia submitted that the services were 
+provided by the Target to [--------] in exceptional circumstances and there existed only a 
+miniscule supply relationship amongst parties. Further, the Acquirer disclosed the 
+
+     
+ 
+Page 14 of 14 
+ 
+existing relationship on its own, extended cooperation through the course of proceedings 
+and supplied requisite material/documents. While all these can be considered as 
+mitigating factors, it is evident that the Combination did not meet the criteria of green 
+channel prescribed under Schedule III of the Combination Regulations and on account 
+of the same, the Acquirer cannot be exculpated of the statutory obligation prescribed 
+under the Act and the applicable regulations.  
+32. 
+Thus, considering the facts and circumstances of the case and the conduct of the 
+Acquirer, the Commission decides to impose a penalty of INR 10,00,000 (Rupees Ten 
+Lakhs Only) on the Acquirer under section 43A of the Act and not to impose penalty 
+under section 44 of the Act. The Acquirer shall pay the penalty within 60 days from the 
+date of receipt of this order. Further, the Acquirer is directed to file a fresh notice under 
+Regulation 8 of the Combination Regulations providing complete information as 
+required under the applicable form within 30 days from the date of receipt of this order. 
+33. 
+It is made clear that nothing used in this order shall be deemed to be confidential or 
+deemed to have been granted confidentiality, as the same has been used for the purposes 
+of the Act in terms of the provisions contained in Section 57 thereof. 
+34. 
+The Secretary is directed to communicate this order to the Acquirer. 

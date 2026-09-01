@@ -1,0 +1,458 @@
+ 
+ 
+ 
+Page 1 of 11 
+ 
+ 
+ 
+COMPETITION COMMISSION OF INDIA 
+Ref. No. M&A/2022/11/01(03)/CD 
+NON-CONFIDENTIAL 
+ 
+8th January 2026 
+ 
+In re: Proceedings against Allcargo Logistics Limited under Section 43A of the 
+Competition Act, 2002 
+ 
+CORAM:  
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Mr. Anil Agrawal 
+Member 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearances during the hearing 
+ 
+For Allcargo Logistics Limited 
+ 
+Mr. Dhruv Rajain, Ms. Ananya Mahant, Mr. Varun 
+Singh, Advocates 
+Mr. Bhardwaj Pandya, Vice President (Head) – 
+Legal (Group), Allcargo Logistics Limited 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+1. 
+This order shall dispose of the proceedings against Allcargo Logistics Limited 
+(Allcargo), under Section 43A of the Competition Act, 2002 (Act) in relation to 
+acquisition of 30 % stake in Gati-Kintetsu Express Private Limited1 (Gati 
+ 
+1 The name of the company was changed on 27th July 2023 as Gati Express & Supply Chain Private Limited. 
+
+ 
+       
+ 
+ 
+Page 2 of 11 
+ 
+Express/Target) by Allcargo from KWE-Kintetsu World Express (S) Pte. Ltd. (KWE 
+Singapore) and KWE Kintetsu Express (India) Private Limited (KWE India) 
+(collectively, ‘KWE’) [Transaction]. Allcargo Gati Limited (AGL) is a subsidiary 
+company of, and under the management and control of Allcargo. AGL held remaining 
+70 % stake in Gati Express. Accordingly, the Transaction resulted in Allcargo owning 
+100 % of the Target, directly or indirectly. 
+ 
+I. 
+Initiation of proceedings under Section 43A of the Act 
+ 
+2. 
+The Competition Commission of India (Commission) in its meeting held on 18th July 
+2024 had noted that as per information available in public domain, Allcargo had 
+completed the Transaction. Accordingly, the Commission directed AGL to furnish 
+certain information and documents in relation to the Transaction under Section 36(4) 
+of the Act to assess whether further proceeding is required under Section 20(1) and/or 
+Section 43A of the Act. The directions of the Commission were communicated to AGL 
+vide letter dated 25th July 2024 (Section 36(4) Directions). AGL submitted the response 
+to Section 36(4) directions on 23rd August 2024 (Response). 
+ 
+3. 
+In its meeting held on 24th December 2024, the Commission considered the Response 
+and made the following observations:  
+ 
+• Prior to 8th June 2023, AGL held 70 % stake in Gati Express and KWE held balance 
+30 % stake. 
+• The Board of Directors of Allcargo, the ultimate holding company of Gati Express, 
+at their meeting held on 9th November 2022 approved the Transaction and, in this 
+regard, signed the Share Purchase Agreement on 27th March 2023 (SPA) with 
+KWE.  
+• The Transaction was concluded on 8th June 2023. 
+• The Transaction meets the jurisdictional thresholds prescribed under Section 5 of 
+the Act. 
+ 
+
+ 
+       
+ 
+ 
+Page 3 of 11 
+ 
+4. 
+The Commission further examined the Transaction for being covered under Schedule I 
+of the Competition Commission of India (Procedure in regard to the transaction of 
+business relating to combinations) Regulations, 2011 (Combination Regulations, 
+2011) which specifies certain categories of combinations which are ordinarily not likely 
+to cause an appreciable adverse effect on competition (AAEC) in India and 
+accordingly, notice for the same under Section 6(2) of the Act need not normally be 
+filed. The Commission observed that the subject matter of the Transaction needs to be 
+considered for conformity with Item 2 of Schedule I of the Combination Regulations, 
+2011, which reads, 
+ 
+"An acquisition of shares or voting rights, referred to in sub-clause (i) or sub-clause 
+(ii) of clause (a) of section 5 of the Act, where the acquirer, prior to acquisition, has 
+fifty percent (50%) or more shares or voting rights in the enterprise whose shares or 
+voting rights are being acquired, except in the cases where the transaction results in 
+transfer from joint control to sole control. " 
+ 
+5. 
+The Commission observed that as Allcargo indirectly held more than 50 % shareholding 
+in Gati Express, the crux of the issue of requirement to notify the Transaction hinges on 
+change in control over Gati Express from joint control to sole control. In this regard, as 
+a part of Response, it was stated that by Allcargo acquiring a minority stake of KWE in 
+Gati Express, no change in the management and control of Gati Express has taken place 
+considering that Allcargo is already a majority shareholder (by virtue of AGL’s 70 % 
+stake in Gati Express) and in any event manages and controls Gati Express. 
+ 
+6. 
+The Commission observed that ‘control’ is a matter of degree and can be expressed as 
+positive control or majority control, negative control, sole control, joint control etc. 
+Further, control can be gained either by negotiating and acquiring control conferring 
+rights under the inter se agreements/arrangements between the parties or by acquiring a 
+shareholding which by itself is sufficient to confer control. As regards the Transaction, 
+the Commission observed that without prejudice to any control conferring rights that 
+KWE might have had in terms of their agreements/arrangements, it appears that while 
+Allcargo did have majority control over Gati Express but as the shareholding of KWE 
+
+ 
+       
+ 
+ 
+Page 4 of 11 
+ 
+exceeded 25 %, it also follows that KWE had the ability to 'veto' the decisions which 
+required passing of special resolution as conferred by the Companies Act, 2013. This 
+ability of KWE raises presumption of its 'negative control' over Gati Express and 
+resultantly Gati Express prior to the Transaction appears to be under the joint control of 
+Allcargo and KWE, and with the Transaction, Allcargo's control over Gati Express 
+appears to have changed from majority but joint control (with more than 50 % existing 
+shareholding) to sole control.  
+ 
+7. 
+Accordingly, the Commission formed a prima facie view that the submission of AGL 
+that by Allcargo acquiring a minority stake of KWE in Gati Express, no change in the 
+management and control of Gati Express has taken place, does not appear to be correct. 
+Further, the Transaction does not appear to be in conformity with Item 2 of Schedule I 
+of the Combination Regulations, 2011 and therefore a notice under Section 6(2) of the 
+Act should have been filed by Allcargo before the consummation of Transaction.  
+ 
+8. 
+On the basis of the aforesaid, the Commission directed to issue a show cause notice to 
+Allcargo under Section 43A of the Act read with Regulation 48 of the Competition 
+Commission of India (General) Regulations, 2009. Pursuant to direction of the 
+Commission, a show cause notice was issued to Allcargo on 9th January 2025 (SCN) 
+vide which it was called upon to show cause, in writing, within fifteen (15) days of the 
+receipt of the SCN as to why penalty should not be imposed upon it, in terms of Section 
+43A of the Act for failure to file notice for the Transaction in terms of Section 6(2) of 
+the Act.  
+ 
+II. Submissions of Allcargo  
+ 
+9. 
+Allcargo filed the response to the SCN on 27th February 2025 after seeking an extension 
+of time, along with a request for an oral hearing in the matter (Response to SCN). The 
+Commission heard Allcargo at length on 16th September 2025 (Oral Hearing). The key 
+submissions made by Allcargo as part of the Response to SCN and Oral Hearing are set 
+out below. 
+ 
+ 
+
+ 
+       
+ 
+ 
+Page 5 of 11 
+ 
+Allcargo had decisive control/sole control over Gati Express prior to the Transaction  
+ 
+10. 
+Allcargo submitted that it was of the bona fide view that the Transaction does not trigger 
+the requirement of filing a notice with the Commission since AGL (being a subsidiary 
+of Allcargo) exercised decisive control over the Target, and hence, as a result of the 
+Transaction, there was no change in the degree of control that rested with Allcargo. In 
+this regard, Allcargo, inter alia, made the following supporting submissions: 
+• KWE, in practice and in essence, did not exercise any influence over the affairs 
+or management of the Target and was merely an investor. 
+• The Shareholder’s Agreement (SHA) of Gati express defines KWE as an 
+investor, and their role in the Target was limited to the same. Defining KWE as 
+an investor underscores the intent between the parties to the SHA, indicating 
+that KWE’s primary interest was financial success of the Target, and not its 
+governance.  
+• --------------------- ------------------- ------------------- ----------------- -------- ---- -- 
+-------------------- ------------------- -------------------- ----------------- ---------------- 
+-------------- ----------- -------------- --------------- -------------- --------- ------------- 
+---------------- ---------------- --------------- ---------------- --------------- ------------- 
+------------- ------------- -------------- ------------ ----------- ------- -------------------- 
+----------  
+• The practical implications of KWE's position as an investor can be observed in 
+their interactions with Target's management and other shareholders. KWE's 
+involvement was primarily through financial commitments, such as capital 
+injections or equity purchases, without any direct engagement in policy-making 
+or executive functions and that this is evident from KWE’s voting pattern during 
+board and shareholder’s meetings. --------- ---------- ----------- -------- ------------ 
+------------- ------------ -------------- ------------ -------------- ------ ----- -------------- 
+------------- --------------- ------------- -------- ----------- ------------ ------------------ 
+-------- --------- -- --- -- --- -- ----------- -- --- ------- 
+ 
+
+ 
+       
+ 
+ 
+Page 6 of 11 
+ 
+Based on the aforesaid, it has been stated that Allcargo effectively exercised sole control 
+over Gati Express prior to the Transaction and that ------- ------- ----------- -------- ------ 
+--- ------- --- ---------- -- ---------- -- --- ------ 
+ 
+11. 
+As regards the question of ability of KWE to block special resolutions, Allcargo 
+confirmed that KWE could under the provisions of the Companies Act, 2013 block 
+special resolutions. However, as submitted, given the practice of conducting affairs at 
+the Target, Allcargo was under the bona fide belief that it exercised sole control over 
+the Target wherein KWE was only engaged in the capacity of an investor. 
+ 
+There was no change in quality of control  
+ 
+12. 
+As submitted, the concept of ‘control’ is crucial in determining whether a transaction 
+or arrangement constitutes a concentration that may significantly impede effective 
+competition. As stated, the quality of control should be interpreted as the manner in 
+which control is exercised and that includes the effectiveness, consistency, and integrity 
+with which the controlling entity manages the undertaking. It has been stated that if the 
+quality of control remains constant, it implies that the way the undertaking is managed 
+does not change significantly. 
+ 
+13. 
+Allcargo submitted that the aforesaid interpretation of change in quality of control is 
+consistent with the decisional practice of the Commission. Allcargo made reference to 
+the decisions of the Commission in Keimed Private Limited2 and Ms. Shobana 
+Kamineni / Prime Time Logistics3. In Keimed Private Limited, the Commission noted 
+that:  
+ 
+“ 5. The key aspect for examination from competition perspective in cases involving 
+change in control from joint to sole or changes in degree or quality of control is the 
+change in ability/incentive of the entity acquiring sole control resulting from lifting of 
+ 
+2 Order under Section 31(1) of the Competition Act, 2002 dated 9th February 2023 in Combination Regn. No. C-
+2022/10/979 
+3 Order under Section 31(1) of the Competition Act, 2002 dated 9th February 2023 in Combination Regn. No. C-
+2022/10/978 
+
+ 
+       
+ 
+ 
+Page 7 of 11 
+ 
+restraining influence of other shareholders arising from their potentially different 
+interests. It may also be noted that such potential differences in interests are more likely 
+in the event of entities involved having separate presence in the related area(s) apart 
+from the entity(ies) which is/are under joint control. Further, such potential 
+differences would also depend upon various factors viz., inter-alia, extent of 
+shareholding, nature of rights, overall presence of the entity etc.” (emphasis added) 
+ 
+In Ms. Shobana Kamineni / Prime Time Logistics, the Commission noted that: 
+ 
+“One of the key aspects for examination from the competition perspective in cases 
+involving change in control from joint to sole or changes in degree or quality of control 
+is the change in the ability/incentive of the entity acquiring sole control resulting from 
+lifting of the restraining influence of exiting shareholder(s), arising from their 
+potentially different interests. It may also be noted that such potential differences in 
+interests are more likely in the event of involved entities having separate presence in 
+related area(s) apart from entity(ies) under joint control.” (emphasis added) 
+ 
+14. 
+In the backdrop of aforesaid observations of the Commission, it has been stated that the 
+interests of KWE and AGL were aligned, as evident from their voting pattern and that 
+even prior to the Transaction, AGL’s nominee directors have always cast majority votes 
+during the Target’s annual general meetings and the shareholder meetings with respect 
+to both the ordinary and special resolutions for at least the last 3 years. Accordingly, it 
+has been stated that even if it were to be considered that Allcargo acquired sole control 
+as a result of the Transaction, there is no change in the ability/incentive of Allcargo, 
+after the exit of KWE, to influence the Target.  
+ 
+Allcargo’s bona fide view on the interpretation of ‘control’ 
+ 
+15. 
+As submitted, the Commission has made this assumption of KWE exercising control 
+over Gati Express on the basis of KWE’s shareholding of more than 25 %, which grants 
+KWE the ability to ‘veto’ the decisions which require passing of a special resolution as 
+conferred by the Companies Act, 2013. In this regard, Allcargo made a reference to the 
+FAQs on the Commission’s website which explains: 
+
+ 
+       
+ 
+ 
+Page 8 of 11 
+ 
+ 
+“…special rights/veto rights are not the only basis for inferring the ability to 
+manage/control the affairs of an enterprise and there can be other sources of control 
+as well, viz., status and expertise of an enterprise or person, board representation, 
+structural/financial arrangements, etc. In competition law practice, control is 
+considered a matter of degree. However, all degrees and forms of control nonetheless 
+constitute control. International jurisprudence considers “material influence” as the 
+lowest form of control, alongside other higher forms such as de facto control and 
+controlling interest (de jure control), in that order.” (emphasis added) 
+ 
+In the backdrop of aforesaid FAQ, Allcargo submitted that the Commission recognizes 
+three degrees of control, namely de jure control, de facto control, and material 
+influence. Allcargo submitted that given its shareholding and that of KWE and 
+considering the aforesaid aspects on decisive control, Allcargo was under the bona fide 
+belief that it solely exercised de jure control (through AGL) over the Target.  
+ 
+No AAEC as a result of the Transaction 
+ 
+16. 
+It has been stated that no AAEC on competition within India has been caused and/or is 
+likely to be caused as a result of the Transaction. Acquisitions within the same group, 
+where there is no change in control, are exempt from notification and that such 
+transactions do not alter the competitive dynamics outside the group and are unlikely 
+to adversely affect competition.  
+ 
+Mitigating factors 
+ 
+17. 
+Allcargo has submitted that if the Commission decides to impose a penalty, the  
+Commission may, inter alia, consider that Allcargo was of the bonafide view that there 
+was no requirement to make a merger filing and there was no deliberate mal-intent to 
+circumvent a filing requirement and that it has also now further initiated the process to 
+enforce a robust competition compliance program (CCP) within its premises, ensuring 
+compliance with competition law.  
+ 
+
+ 
+       
+ 
+ 
+Page 9 of 11 
+ 
+III. Observations and Findings of the Commission  
+ 
+18. 
+The key aspect of the SCN was non-applicability of Item 2 of Schedule I of the 
+Combination Regulations, 2011 on the Transaction as the same had the effect of 
+changing the control over Gati Express from joint control of Allcargo and KWE to sole 
+control of Allcargo. The basis of such prima facie finding was the extent of 
+shareholding of KWE (30 %) which conferred KWE with the ability to 'veto' the 
+decisions which required passing of special resolution as per the Companies Act, 2013 
+raising the presumption of negative control. While Allcargo has made submissions on 
+having decisive control over Gati Express, it has also conceded that KWE had the ability 
+to 'veto' the decisions which required passing of special resolution.  
+ 
+19. 
+Based on the perusal of SHA along with the Response to SCN, the Commission further 
+observed that KWE not only had negative control in terms of shareholding but also in 
+terms of veto rights on reserved matters. The reserved matters, inter alia, included rights 
+such as  ----------- ---------- ------------ ---------------- ------------- -------------- ----------- -
+----------- ------------ ------------ ------------ ----------- ----------- ------------ ----------- ------
+------------ ------------- ------- all of which are considered as control conferring rights. 
+ 
+20. 
+Considering the explicit change in control of Gati Express from joint control to sole 
+control as reflected in the extent of shareholding and nature of rights under the SHA, 
+any further submissions as regards decisive control, degree or quality of control are not 
+tenable and examination of the same is otiose. Nonetheless, the Commission considered 
+the submissions of Allcargo and made the following observations.  
+ 
+21. 
+As regards the submissions of Allcargo having decisive control, the Commission 
+observed that ‘control’ means and implies the ability to control ------- ------ -------- ---- 
+------------ -------------  ----- --------- --------- --------- ------ ----------- --------- ----------- --
+------------------- ------- ------ ---- the same does not dilute the ability of such shareholder 
+to exercise control over the management and affairs of a company.  The submissions of 
+Allcargo on having decisive influence and the details of voting patterns submitted does 
+not imply lack of control of KWE and is merely representative of existing operational 
+dynamics which may or may not subsist or persist in future. The Commission further 
+
+ 
+       
+ 
+ 
+Page 10 of 11 
+ 
+observed that ‘control’ includes both de facto and de jure aspects and in the present 
+case, KWE did have de jure negative control over Gati Express arising from its 
+shareholding and rights under the SHA. 
+ 
+22. 
+The Commission considered the references made to its decisional practice wherein 
+importance has been accorded to the change in the ability/incentive of the entity 
+acquiring sole control resulting from lifting of the restraining influence of exiting 
+shareholder(s), arising from their potentially different interests and wherein the 
+Commission has also noted that such potential differences in interests are more likely 
+in the event of involved entities having separate presence in related area(s) apart from 
+entity(ies) under joint control. The Commission noted that the observations referred by 
+Allcargo are in context of assessment of a combination transaction for likelihood of 
+AAEC, which is a separate exercise undertaken subsequent to the notification of a 
+combination. It is neither substantively appropriate nor tenable under the Act to conflate 
+the issues of notification and assessment. Whether a transaction has caused or is likely 
+to cause AAEC cannot be made the basis for requirement of filing notice of a 
+transaction. Accordingly, the submissions of Allcargo in this regard are misplaced. 
+ 
+23. 
+Further, the reference to FAQs is also misconceived. The FAQ referred by Allcargo 
+provides that special rights/veto rights are not the only basis for inferring the ability to 
+manage/control the affairs of an enterprise and there can be other sources of control as 
+well, viz., status and expertise of an enterprise or person, board representation, 
+structural/financial arrangements, etc. In competition law practice, control is considered 
+a matter of degree. However, all degrees and forms of control nonetheless constitute 
+control. Thus, while considering control as a matter of degree, the FAQ gives due 
+emphasis to veto rights and furthers the same by highlighting other sources of control. 
+The FAQ clearly records that all degrees and forms of control nonetheless constitute 
+control and accordingly the belief that if an entity has de jure control, the other forms 
+of control become irrelevant is incorrect.  
+ 
+24. 
+On the basis of the aforesaid, the Commission is of the opinion that the Transaction was 
+notifiable and by consummating the same without filing a notice, Allcargo has 
+contravened the provisions of Section 6(2) of the Act and is liable to penalty under 
+
+ 
+       
+ 
+ 
+Page 11 of 11 
+ 
+Section 43A of the Act. Section 43A of the Act provides that if any person or enterprise 
+fails to give notice to the Commission under Section 6(2) of the Act, the Commission 
+shall impose on such person or enterprise a penalty which may extend to 1 % of the 
+total turnover or the assets, whichever is higher, of such a combination. Thus, Section 
+43A of the Act empowers the Commission to determine the appropriate amount of 
+penalty in a matter, subject to the maximum of 1% of the total turnover or the assets, 
+whichever is higher. 
+ 
+25. 
+Considering the facts and circumstances of the instant matter and the conduct of 
+Allcargo during the proceedings, the Commission considers it appropriate to impose a 
+penalty of INR 50,00,000 (Rupees Fifty Lakhs Only) on Allcargo. Allcargo is directed 
+to pay the penalty within 60 days from the date of receipt of this order. 
+ 
+26. 
+It is made clear that nothing used in this order shall be deemed to be confidential or 
+deemed to have been granted confidentiality, as the same has been used for the purposes 
+of the Act in terms of the provisions contained in Section 57 thereof. 
+ 
+27. 
+The Secretary is directed to communicate to Allcargo accordingly. 
+ 
+ 
+ 
+ 
+ 

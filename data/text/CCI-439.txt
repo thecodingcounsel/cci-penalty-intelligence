@@ -1,0 +1,629 @@
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 1 of 15 
+ 
+Fair Competition  
+For Greater Good 
+ 
+27.08.2018 
+ 
+Notice given under Section 6(2) of the Competition Act, 2002 by  
+Bharti Airtel Limited: Combination Regn. No. C-2017/10/531 
+ 
+ 
+CORAM: 
+Mr. Sudhir Mital 
+Chairperson 
+ 
+Mr. Augustine Peter 
+Member 
+ 
+Mr. U. C. Nahta 
+Member 
+ 
+Mr. G. P. Mittal 
+Member 
+ 
+Appearances during Oral hearing on 24.07.2018 for Bharti Airtel Limited: 
+Mr. Amit Sibal, Senior Advocate, Ms Aditi Gopalakrishnan, Advocate,  Mr. Aakarsh Narula, 
+Advocate, Mr. Nikhil Bahl, Advocate, Mr. Avinash Amarnath, Advocate, Mr. Sameer Chugh 
+and Ms Nitya, Legal Counsels, Bharti Airtel Limited 
+ 
+Order under Section 43A of the Competition Act, 2002  
+ 
+A. 
+Background 
+ 
+1. 
+On 16.10.2017, the Competition Commission of India (“Commission”) received a notice 
+under Section 6(2) of the Competition Act, 2002 (“Act”), given by Bharti Airtel Limited 
+(“Airtel”) relating to proposed acquisition of 100 percent of the consumer mobile business 
+run by Tata Teleservices Limited (“TTSL”) and Tata Teleservices (Maharashtra) Limited 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 2 of 15 
+ 
+Fair Competition  
+For Greater Good 
+(“TTML”) (“Tata CMB”) by Airtel (“Combination”/ “Transaction”). The notice was 
+filed with the Commission pursuant to execution of a binding term sheet, by and between 
+Airtel, TTSL, TTML and Tata Sons Limited on 12.10.2017 (“Acquisition Agreement”). 
+On 16.11.2017, the Commission approved the Combination by passing an order under 
+Section 31(1) of the Act (“Order”). However, the Order was passed without prejudice to 
+any proceedings under Section 43A of the Act. 
+ 
+B. 
+Initiation of proceedings under Section 43A of the Act  
+ 
+2. 
+In terms of Section 6(2) of the Act, an enterprise, which proposes to enter into a combination, 
+is required to give a notice to the Commission, disclosing the details of the proposed 
+combination, within thirty days of the execution of any agreement or other document for 
+acquisition. Further, as per Section 6(2A) of the Act, no combination shall come into effect 
+until 210 days have passed from the day on which the notice has been given to the 
+Commission under Section 6(2) or the Commission has passed order under Section 31 of the 
+Act, whichever is earlier.  
+ 
+3. 
+During the review of the Combination, the Commission noted that the Acquisition 
+Agreement contained the following clause (“ER Clause”), 
+ 
+[…]  
+4. 
+The Commission observed that prima facie, such a clause […] may have the effect of the 
+parties ceasing to act independently as the target would have no incentive to continue to 
+compete as before. Further, […] may allow the acquirer to influence the affairs of the target 
+leading to a situation which is similar to tacit collusion. 
+ 
+5. 
+Based on the aforesaid, the Commission formed a prima facie opinion that the ER Clause 
+may have the impact of consummating a part of the Combination before the expiry of period 
+specified under Section 6(2A) of the Act and by agreeing to the same, Airtel has failed to 
+file notice in terms of Section 6(2) of the Act. Accordingly, a show cause notice was issued 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 3 of 15 
+ 
+Fair Competition  
+For Greater Good 
+to Airtel on 13.12.2017 under Section 43A of the Act read with Regulation 48 of the 
+Competition Commission of India (General) Regulations, 2009 (“General Regulations”) 
+(“SCN”). The SCN required Airtel to show cause, in writing, within 15 days of receipt of 
+the same, as to why penalty, in terms of Section 43A of the Act, should not be imposed on 
+it for failure to file notice of the Combination in accordance with Section 6(2) of the Act by 
+consummating a part of the Combination before the expiry of period specified under Section 
+6(2A) of the Act. Airtel filed its reply to the SCN on 28.12.2017 (“Response to SCN”) along 
+with a request for oral hearing, in terms of Regulation 48 of the General Regulations. Airtel 
+also provided certain additional information/document(s) vide emails dated 18.04.2018 and 
+23.04.2018.  
+ 
+6. 
+In its meeting held on 14.06.2018, the Commission considered the Response to SCN and 
+decided to grant an oral hearing to Airtel on 04.07.2018. However, vide letter dated 
+29.06.2018, Airtel requested for adjournment in the matter. The Commission accepted the 
+request of Airtel and granted a personal hearing on 24.07.2018. Accordingly, Airtel 
+presented its case before the Commission on 24.07.2018. On the date of hearing, Airtel stated 
+that the parties have entered into an Implementation Agreement to set out the manner of 
+effecting the Transaction on 19.07.2018 and submitted an affidavit to explain its position in 
+light of the Implementation Agreement. Further, the Commission also directed Airtel to 
+provide certain information/document(s) in support of submissions made during the personal 
+hearing. Airtel submitted such information/document(s) vide emails dated 07.08.2018 and 
+27.08.2018. 
+ 
+C. 
+Submissions of Airtel 
+ 
+7. 
+In the Response to SCN and during oral submissions, Airtel contended the following: 
+ 
+[…] 
+ 
+7.1 
+[…] 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 4 of 15 
+ 
+Fair Competition  
+For Greater Good 
+ 
+7.2 
+That typically, an appointed date or notional date […] is introduced in transaction 
+agreements to ensure that parties have a definitive basis for computation of liabilities or 
+assets from a particular date; and the computation thereof is not affected by other factors 
+which are beyond the control of the Parties – such as regulatory approvals etc. Notional 
+dates […], typically allow accounting adjustments on the date of closing; and the date 
+from which such adjustments are computed, can itself not be considered the closing of 
+a transaction unless and until the actual closing is achieved. 
+ 
+7.3 
+That the Transaction involves a number of regulatory approvals including inter alia 
+approvals from the stock exchanges and approval of the National Company Law 
+Tribunal (NCLT) and the Department of Telecommunications (DoT). Considering the 
+said approvals, there is a fair bit of deal uncertainty. […] If the parties do not receive 
+the required regulatory approvals, […] the ER Clause shall not come into effect. 
+ 
+7.4 
+That Clause 8 of the Acquisition Agreement subjected the entire Transaction to […] the 
+approval of the Commission (Regulatory Approval Clause). That since the ER Clause 
+itself is part of the key transaction terms set out in Clause 3, it is necessarily required to 
+be read with Clause 8 of the Term Sheet. The Regulatory Approval Clause clearly 
+demonstrates that the Transaction, including the ER Clause was subject to the 
+Commission’s approval; and a contrary interpretation would not only be against the 
+Parties’ intention in the Acquisition Agreement, but also established interpretation 
+standards of the Supreme Court.  
+ 
+[…] 
+ 
+7.5 
+[…]. Airtel confirms that it has not taken any steps to give effect to the ER Clause until 
+receiving the Commission’s approval of the Transaction on 16.11.2017. 
+ 
+7.6 
+That consummation, by implication, implies taking such steps towards implementing a 
+proposed transaction, as would have otherwise been taken subsequent to the approval. 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 5 of 15 
+ 
+Fair Competition  
+For Greater Good 
+That is in effect, Section 6(2A) prohibits actual actions aimed towards implementation 
+of a transaction (such as payment of consideration; consummation of parts of an inter-
+connected transactions; consummating market-purchases inherently related to another 
+notifiable transaction; depositing shares in an escrow account prior to the Commission’s 
+approval, etc.) and the Commission has never found a contractual arrangement 
+prescribing a notional date, which itself becomes effective subsequent to the 
+Commission’s approval (or upon closing) as “giving effect” to a proposed combination.  
+ 
+7.7 
+That in this respect, the CADE Guidelines also has an indicative list of actions which 
+could lead to consummation of a proposed transaction – such as a) transfer and/or 
+usufruct of assets in general (including voting securities); b) exercise of voting right or 
+relevant influence on the counterparty's activities (such as decisions regarding prices, 
+customers, business/sales policy, planning, marketing strategies, interruption of 
+investments, discontinuing of products and others); c) receipt of profits or other 
+payments connected to the performance of the counterparty, etc. 
+ 
+7.8 
+That in view of the Commission’s decisional practice (and international guidance), 
+Airtel has not taken any steps towards implementation of the ER Clause – i.e. has not 
+taken over control, exchanged any competitively sensitive information, paid 
+consideration, […] prior to receiving the Commission’s approval of the Transaction. 
+ 
+Absent any consummation or “giving effect” to the ER Clause prior to the 
+Commission’s approval, there is no question of tacit collusion, or reduction in Tata 
+CMB’s incentive to compete  
+ 
+7.9 
+That the Commission has interpreted the effect of pre-approval integration in Hindustan 
+Colas (Comb. Registration No. C-2015/08/299) in which the Commission indicated that 
+pre-payment of price could distort competition by leading to a strategic advantage for 
+the acquirer, reducing the incentive and will of ‘target’ to compete and becoming a basis 
+to access the confidential information of the ‘target’ and the Commission found this to 
+have the impact of creating a “tacit collusion” which could impede competition prior to 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 6 of 15 
+ 
+Fair Competition  
+For Greater Good 
+closing. That similarly, in Baxalta/ Baxter (Comb. Regn. No. C-2015/07/297), the 
+Commission found that parties had ceased to behave independently in the market before 
+receiving the Commission’s approval. That even in other jurisdictions, the kinds of 
+actions which are typically found to be in nature of premature integration and 
+coordination are: acquisition of beneficial ownership; acquisition of operational control; 
+sharing of competitively sensitive information on price, sales, etc.; exercise of voting 
+rights; influencing the strategic decision making of the merging party contractually by 
+virtue of clauses like non-compete, part payment of consideration, sharing of profits; 
+interfering with the business of the other party by taking decisions on their behalf or 
+influencing decisions over prices, consumers, customers, advertisement and marketing, 
+business and sales policy; allocating customers/suppliers or development of joint 
+strategies; appointment of directors on merging party’s board; integration of sales force; 
+actual transfer of shares or assets; interrupting investments or sales by being influenced 
+by the other merging party; indulging into any conduct or activity which cannot be 
+reversed at a later time.  
+ 
+7.10 
+Therefore, based on the Commission’s practice and the standards followed by other 
+antitrust jurisdictions -- a notional date […], confers no strategic advantage on Airtel, 
+does not reduce Tata CMB’s incentive to complete, and does not form any basis to 
+exchange confidential information prior to the Commission’s approval. In addition, the 
+ER Clause had no impact on Tata CMB’s ability to compete effectively in the market.  
+ 
+7.11 
+That absent various regulatory approvals or due to the conditions of the Term Sheet not 
+being met, there was a possibility that the Transaction may not be completed. In such 
+case, Tata CMB’s indulgence in any risk-taking action (due to any reduced incentives 
+to compete) would have been detrimental to Tata CMB’s interest. In such a scenario, 
+Tata CMB would have compromised its own competitiveness in the market. That, as a 
+matter of fact, there had been exchange of absolutely no competitively sensitive 
+information or market intelligence between the Parties prior to receipt of the 
+Commission’s approval of the Transaction which could have facilitated coordination 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 7 of 15 
+ 
+Fair Competition  
+For Greater Good 
+between them. The Commission has also not relied on (or put Airtel to notice) with any 
+evidence pertaining to this other than the ER Clause. 
+ 
+7.12 
+On the date of hearing, Airtel made reference to some of the terms of the Implementation 
+Agreement as set out below: 
+ 
+i. 
+[…]; 
+ii. 
+[…].    
+ 
+7.13 
+Based on the aforesaid, Airtel has stated that […] 
+ 
+D. 
+Analysis and Findings of the Commission 
+ 
+8. 
+Before going into the examination of ER Clause for any violation of standstill obligations 
+contained in Section 6(2A) of the Act read with Section 6(2) of the Act, it would be 
+appropriate to understand the basic objective of standstill obligations contained in Section 
+6(2A) of the Act. The basic objective of standstill obligations contained in Section 6(2A) of 
+the Act is to ensure that the parties to a combination transaction compete as they were 
+competing before the initiation of combination process till the time the transaction is 
+reviewed for any appreciable adverse effect on competition (“AAEC”) and approved by the 
+Commission. In other words, the standstill obligations essentially require that the parties 
+carry on with their ordinary course activities completely independent of each other and to 
+the fact of the combination transaction. The rationale behind such obligations is that if the 
+parties stop competing as they were competing before, the resulting adverse effect on 
+competition in the interim period cannot be restored even if the Commission based on its 
+review decides that the transaction is likely to result in AAEC and therefore does not approve 
+the same or approve with modifications i.e., even if the transaction is not consummated or 
+at least not consummated in the form as originally envisaged by the parties. Accordingly, 
+the basis of examination of a gun jumping contravention is whether the parties have ceased 
+to compete as they were competing earlier or whether they have ceased to act independently 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 8 of 15 
+ 
+Fair Competition  
+For Greater Good 
+as regards their ordinary course activities pursuant to the combination transaction. In this 
+backdrop, the Commission examined the submissions of Airtel.   
+ 
+9. 
+The Commission noted […]. The observations of the Commission in this regard are as under. 
+ 
+10. 
+The Commission agrees that a notional date may be indeed required to ensure certainty in 
+respect of valuation of a business and that further to ensure that the value of business is 
+preserved, the acquirer of a business may also be permitted to impose customary standstill 
+and interim arrangements on the target. However, it is incumbent on the acquirer to ensure 
+that the form and scope of the aforesaid customary arrangements imposed by it on the target 
+is inherent and proportionate to the objective of ensuring certainty in business valuation and 
+preservation of the same and that such conditions do not violate standstill obligations as 
+envisaged in the Act. Thus, merely stating that […] does not absolve Airtel of its obligations 
+under the Act and thus the key question here is […] whether the ER Clause potentially 
+violates standstill obligations as envisaged in the Act. In other words, the ER Clause needs 
+to be examined for its effects on competition dynamics and the question of the same being 
+notional or otherwise is not relevant to the findings of gun-jumping. However, 
+notwithstanding the same, based on the observations recorded in following paragraphs, the 
+Commission is of the opinion that […] was in fact not just a notional date.   
+ 
+11. 
+The Commission examined the ER Clause (along with relevant clauses of the 
+Implementation Agreement) and noted that: 
+ 
+(i) 
+The ER Clause provided for […]; 
+ 
+(ii) 
+Clause […] of the Implementation Agreement, also referred to by Airtel, provides 
+that,  
+ 
+“[…]”; 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 9 of 15 
+ 
+Fair Competition  
+For Greater Good 
+(iii) 
+Clause […] of the Implementation Agreement, also referred to by Airtel provides 
+that […].  
+ 
+12. 
+The Commission observed that as per Clause […] of the Implementation Agreement, the 
+Parties have agreed that […]. This arrangement provides for a potential mechanism to 
+exercise operational control on Tata CMB from the Agreed Date itself considering that cash 
+is a flow variable which needs to be managed prospectively and cannot be managed 
+retrospectively and any leakages etc. thereof during the interim period cannot be managed 
+after consummation of the Combination.  Thus, for all intent and purposes, the submissions 
+of Airtel that […] are contradictory to Clause […] of the Implementation Agreement and the 
+ER Clause seems to come into effect right on the […] thereby implying that […] was not 
+akin to a “notional date” as claimed.   
+ 
+13. 
+As regards the submissions of Airtel that the Regulatory Approval Clause demonstrates that 
+the Transaction including the ER Clause was subject to the Commission’s approval, the 
+Commission observed that the SCN does not allege consummation of the Transaction, it only 
+alleges consummation of a part of Transaction which has to be examined independently of 
+the consummation of the Transaction. The Commission in an order dated 12.03.2018 passed 
+under Section 43A of the Act in Ultratech/JAL (Combination Regn. No. C-2015/02/246) 
+observed that, 
+ 
+“…there are many aspects of a combination transaction that may require parallel activities on 
+the part of the parties to a combination, the objective of standstill obligations is to ensure that 
+the parties remain as independent competitors as they were before the proposed transaction. 
+Accordingly, all the activities/actions which may reduce or have the potential to reduce the 
+degree of independence or the incentives of the parties to compete may be considered to be in 
+contravention of Section 6(2A) of the Act. It is important to note that whether or not a particular 
+conduct of the parties can be regarded as gun jumping in contravention of Section 6(2A) of the 
+Act is a subject matter of examination as consummating a part of a combination may, in 
+substance, have impact similar to consummation of the combination itself. In view of the 
+aforesaid, the interpretation of the Acquirer as regards scope of Section 6(2A) of the Act is not 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 10 of 15 
+ 
+Fair Competition  
+For Greater Good 
+tenable and the Commission is of the opinion that the observations regarding ex-ante notification 
+requirement and standstill obligations apply both to consummation of a proposed combination 
+or any part thereof.” 
+ 
+14. 
+Notwithstanding the aforesaid observations on […] not being akin to a notional date, the 
+Commission is of the opinion that even if […] was actually akin to a notional date […], the 
+ER Clause would still be in contravention of standstill obligations contained in the Act for 
+its likelihood of causing competition distortions as detailed in subsequent paragraphs.     
+ 
+15. 
+The Commission, in its order dated 14.09.2016 in Combination Reg. No. C-2015/08/299 (In 
+Re: Hindustan Colas Private Limited), passed under Section 43A of the Act, brought out 
+some of the competition distorting effects which are significant for determining gun 
+jumping. The Commission observed that, 
+ 
+“…pre-payment of price (whether refundable/non-refundable) may have a number of 
+competition distorting effects viz., (i) it may lead to a strategic advantage for the Acquirer; 
+(ii) it may reduce the incentive and will of ‘target’ to compete; and (iii) it may become a 
+reason/basis to access the confidential information of the ‘target’.” 
+ 
+16. 
+Combined reading of Clause […] and […] of the Implementation Agreement clearly bring 
+out the lack of incentive of Tata CMB to compete with Airtel from […] itself, i.e., before the 
+Commission had approved the Combination. Clause […] and […] of the Implementation 
+Agreement provide for an arrangement […]. This type of arrangement, by its form itself, is 
+bound to disincentive the target from competing as it was competing before execution of 
+definitive agreement for the combination. Further, agreeing on […] implies infringing with 
+the ordinary course business activities of the target and cannot be considered as inherent and 
+proportionate to the objective of preserving the business valuation. Considering that such 
+date fell in a period prior to the approval of the Combination by the Commission, it amounts 
+to contravention of standstill obligations as contained in Section 6(2A) of the Act. 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 11 of 15 
+ 
+Fair Competition  
+For Greater Good 
+17. 
+Airtel in its submissions has given emphasis on relevance of “action” or “steps taken” for 
+determining “giving effect” to a transaction or any part thereof. It has been stated that Section 
+6(2A) only prohibits actual actions aimed towards implementation of a transaction. In this 
+regard, Airtel has made reference to the aforesaid decision of the Commission in Hindustan 
+Colas giving emphasis on the “action” in that case i.e., pre-payment of price and to various 
+“actions” typically found to be in nature of premature integration in other jurisdictions. 
+ 
+18. 
+The Commission is of the opinion that Airtel has incorrectly interpreted the decision of the 
+Commission in Hindustan Colas wherein pre-payment of consideration was held to be the 
+tool of gun jumping which was examined for potential to cause competition distortions. The 
+Commission is of the opinion that considering the substantive issue in gun jumping is the 
+effect on competition dynamics, no distinction is required to be made between “actual 
+actions” and “agreed contractual obligations” or any other arrangement that potentially 
+affects competition dynamics and violate the standstill obligations. The issues of gun 
+jumping are highly specific to the facts of the case and a broad generalisation as made by 
+Airtel emphasising “action” is not correct. 
+ 
+19. 
+The aforesaid view of the Commission is also consistent with the international guidance on 
+the issue of gun jumping. While Airtel selectively pointed out to an indicative list of 
+“actions” considered as potentially leading to gun jumping in CADE Guidelines to 
+emphasise the importance of conduct, it missed the fact that the same CADE Guidelines also 
+point to certain contractual provisions as connected to competitively sensitive activities and 
+leading to premature integration of the activities of merging parties such as: 
+a) no anteriority clause related to the term of effectiveness of the contract in relation to the 
+date of its execution that brings any integration among parties; and 
+ 
+b) clauses allowing direct interference by any party in the other party's business strategies 
+by submitting, for example, decisions over prices, customers, business/sales policy, 
+planning, marketing strategies and other sensitive decisions (that do not constitute a 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 12 of 15 
+ 
+Fair Competition  
+For Greater Good 
+mere protection against deviation from the normal course of business and, consequently, 
+the protection of the value of the business being sold). 
+20. 
+The ER Clause is clearly in the nature of an anteriority clause as it envisages […] from a 
+date prior to the approval of the said Transaction by the Commission. Further, as detailed in 
+Clause […] of the Implementation Agreement, Airtel is allowed to […] which implies 
+Airtel’s direct interference in ordinary course activities of Tata CMB. In this regard, when 
+specifically asked to comment on the application of anteriority clause during the hearing, 
+Airtel submitted that […]. 
+ 
+21. 
+As stated above, the Commission while dealing with the distinction sought between 
+refundable/non-refundable advance consideration in Hindustan Colas, focussed on the 
+potential competition distortions to conclude that advance payment (whether 
+refundable/non-refundable) may have competition distorting effects. The Commission noted 
+in Hindustan Colas that, 
+ 
+“the distinction between refundable and non-refundable may have some merit in assessing 
+the likelihood of reversion to the status quo ante in form, it may not be relevant from the 
+perspective of potential competition distortions”  
+ 
+The view of the Commission was based on the fact that if the merger is not consummated 
+and advance paid is indeed refunded, the fact of such payment may have already led to the 
+two parties not acting independently and subsequent refund cannot restore the loss of 
+competition in the interim period. Going by the same reasoning, the Commission is of the 
+opinion that even if the submissions of Airtel that […] are accepted, the same does not 
+assuage the concerns of ER Clause leading to potential competition distortions. It may be 
+noted that these findings of the Commission are strictly based on the scope of the ER Clause 
+corroborated with the provisions of Implementation Agreement and not on concept of 
+Appointed Date in general.  
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 13 of 15 
+ 
+Fair Competition  
+For Greater Good 
+22. 
+The aforesaid opinion of the Commission is also in sync with international decisional 
+practices in this regard. In United States of America v. Atlantic Richfield Company and 
+Others (Civil Action No. 910205, United States District Court for the District of the District 
+of Columbia), ARCO Chemical and Union Carbide Chemicals entered into an acquisition 
+agreement on 27.09.1989 and under the terms of acquisition agreement, inter alia, ARCO 
+Chemicals was required to cover liabilities from the continued operation of the Union 
+Carbide Assets after 27.09.1989. By an adjustment mechanism in the acquisition agreement, 
+the purchase price was to increase at closing if Union Carbide Chemicals incurred a negative 
+net cash from Union Carbide Assets and would be decreased if Union Carbide Chemicals 
+realized a positive net cash flow. The United States Federal Trade Commission filed a 
+complaint alleging violation of standstill obligations contained in the Clayton Act, 
+commonly known as the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (“HSR 
+Act”) considering the aforesaid arrangement together with other arrangements had the effect, 
+upon execution, of transferring beneficial ownership of the Union Carbide assets to ARCO 
+Chemical so that ARCO Chemical and its parent, Atlantic Richfield Company, acquired 
+those assets on 27.09.1989. The court held the same to be in violation of the HSR Act. […]  
+ 
+23. 
+Airtel has also submitted that the Transaction involved a number of regulatory approvals and 
+considering the said approvals, there is a fair bit of deal uncertainty and due to the same, 
+[…]. As stated above, the basic objective of standstill obligations is to maintain competition 
+in the interim period. Accordingly, even if the Transaction was not to go through ultimately 
+and the ER Clause did not come into effect, the same would be in contravention of standstill 
+obligations for the potential adverse effect on competition caused in the interim period. Airtel 
+has submitted that Tata CMB’s indulgence in any risk-taking action (due to any reduced 
+incentives to compete) during the interim period would have been detrimental to Tata CMB’s 
+interest. In this regard, the Commission observed that the exact incentives for entering into 
+any agreement are best known to the parties and the Commission can only be guided by the 
+nature/scope of agreement and information on record. Further, all the combination 
+transactions have a number of conditions to be fulfilled before consummation which implies 
+theoretically there is uncertainty in all the transactions. If a conclusion is drawn that such 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 14 of 15 
+ 
+Fair Competition  
+For Greater Good 
+uncertainty implies that the parties will not be incentivized to coordinate their behaviour in 
+the interim period, it would mean and imply end of the very concept of gun jumping. The 
+Parties have themselves agreed that certain steps such as pre-payment of consideration etc., 
+can be considered as gun jumping. Even such cases are characterized by uncertainty of non-
+consummation and the only reason for considering such conduct as gun jumping is the 
+likelihood of potential competition distortions and the same is equally applicable to the 
+present case where a contractual obligation can be a source of potential competition 
+distortions. 
+ 
+24. 
+Based on the nature/scope of ER Clause read with Clause […] and Clause […] of the 
+Implementation Agreement, the Commission is of the opinion that the ER Clause by itself 
+amounts to consummating a part of the Combination before the approval of the same by the 
+Commission and by agreeing to the same Airtel has failed to file notice for the Combination 
+in accordance with Section 6(2) of the Act. Accordingly it attracts penalty under Section 
+43A of the Act, which reads as under:  
+ 
+“If any person or enterprise who fails to give notice to the Commission under sub section(2) 
+of section 6, the Commission shall impose on such person or enterprise a penalty which may 
+extend to one percent of the total turnover or the assets, whichever is higher, of such a 
+combination.”  
+ 
+25. 
+In terms of Section 43A of the Act, the Commission can levy a maximum penalty of one per 
+cent of the combined value of the worldwide turnover of the parties. However, the 
+Commission has sufficient discretion to consider the conduct of the parties and the 
+circumstances of the case to arrive at the appropriate amount of penalty. Accordingly, in 
+context of the Combination, while determining the quantum of penalty, the Commission 
+considered the period over which the contravention continued (16 days since the 
+Commission approved the Combination on 16.11.2018) as a mitigating factor. In view of the 
+foregoing, the Commission considers it appropriate to impose a nominal penalty of INR 
+10,00,000/- (INR Ten Lakhs only) on Airtel. 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+(Combination Registration No. C-2017/10/531) 
+ 
+ 
+Page 15 of 15 
+ 
+Fair Competition  
+For Greater Good 
+26. 
+Airtel shall pay the penalty within sixty (60) days from the date of receipt of this order. 
+ 
+27. 
+The Secretary is directed to communicate to Airtel accordingly. 
+ 
+ 
+ 

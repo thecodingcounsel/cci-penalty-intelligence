@@ -1,0 +1,2390 @@
+ 
+Page 1 of 57 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+ 
+17th December, 2021 
+ 
+ 
+Proceedings against Amazon.com NV Investment Holdings LLC under Sections 43A, 
+44 and 45 of the Competition Act, 2002 
+ 
+CORAM: 
+ 
+Mr. Ashok Kumar Gupta  
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+Appearances 
+ 
+ 
+For Amazon  
+: 
+Mr. Gopal Subramanium and Mr. Amit Sibal, Senior Advocates 
+with Mr. Anand S. Pathak, Ms. Sreemoyee Deb, Ms. Anubhuti 
+Mishra and Mr. Rajat Moudgil, Advocates alongwith Mr. Rakesh 
+Bakshi, Mr. Ankur Sharma, Ms. Ujwala Uppaluri and Ms. Hina 
+Doon, representatives of Amazon 
+ 
+For FCPL 
+: 
+Mr. Harish Salve and Mr. Ramji Srinivasan, Senior Advocates with 
+Mr. Raghav Shankar and Mr. Pranjit Bhattacharya, Advocates 
+alongwith Mr. Sanjay Rathi, representative of FCPL 
+ 
+For CAIT  
+: 
+Mr. Krishnan Venugopal and Mr. Saurabh Kirpal, Senior 
+Advocates with Mr. Rajat Sehgal and Mr. Debayan Gangopadhyay, 
+Advocates 
+ 
+ 
+
+ 
+Page 2 of 57 
+ 
+Order under Sections 43A, 44 And 45 of the Competition Act, 2002  
+ 
+ 
+This order shall govern the disposal of the proceedings initiated against Amazon.com 
+NV Investment Holdings LLC (Amazon), a direct subsidiary of Amazon.com Inc, under 
+Sections 43A, 44 and 45 of the Competition Act, 2002 (Act), in relation to its acquisition of 
+49% shareholding in Future Coupons Private Limited (FCPL), in pursuance of the show cause 
+notice dated 4th June, 2021 (SCN), based on an application dated 25th March, 2021 
+(Application) of FCPL. The said transaction was notified to the Competition Commission of 
+India (Commission) by Amazon in Combination Registration No. C-2019/09/688. The said 
+notification (Notice) was given by Amazon on 23rd September, 2019, pursuant to Section 6(2) 
+of the Act, in Form I of Schedule II to the Competition Commission of India (Procedure in 
+regard to the transaction of business relating to combinations) Regulations, 2011 
+(Combination Regulations).     
+ 
+A. Background  
+ 
+2. 
+In terms of ‘Part V: Description of the Combination’ of the aforesaid Notice, the 
+Combination notified by Amazon comprised the following three (3) transactions1:  
+ 
+2.1. 
+Transaction I: The issue of Nine Million One Hundred and Eighty Three 
+Thousand Seven Hundred and Fifty-Four (9,183,754) Class A voting equity 
+shares of FCPL to Future Coupons Resources Private Limited (FCRPL). Prior 
+to, and immediately post issuance of such equity shares, FCPL will be a wholly 
+owned subsidiary of FCRPL; and 
+ 
+2.2. 
+Transaction II: The transfer of Thirteen Million Six Hundred and Sixty Six 
+Thousand Two Hundred and Eighty Seven (13,666,287) shares of FRL held by 
+FCRPL (representing Two decimal Five Two Percent (2.52%) of the issued, 
+subscribed and paid-up equity share capital of Future Retail Limited (FRL), on 
+a Fully Diluted Basis) to FCPL; and 
+ 
+                                                          
+1 Paras 15 and 16 at page 20 of the Notice 
+
+ 
+Page 3 of 57 
+ 
+2.3. 
+Transaction III: The acquisition of the Subscription Shares representing Forty 
+Nine percent (49%) of the total issued, subscribed and paid-up equity share 
+capital of FCPL (on a Fully Diluted Basis) by Amazon, by way of a preferential 
+allotment.  
+ 
+3. 
+It was stated in the Notice that obligation of Amazon to consummate Transaction III is 
+subject to the completion of Transaction I and Transaction II. It was stated in the Notice 
+that neither Transaction I nor Transaction II, on a standalone basis, is notifiable to the 
+Commission, being contemplated between a parent and its subsidiary. It was further 
+submitted that Transaction III, on a standalone basis, benefits from Target Exemption2 
+because the value of assets and turnover of FCPL (as of 31st March, 2019) (which is the 
+target for the purpose of Transaction III) is below the thresholds prescribed for such 
+purpose. Without prejudice to the submissions on exemption, Amazon has further stated 
+that if the Commission considers the Combination to be notifiable, Amazon is notifying 
+the Combination in terms of Section 6(2) of the Act read with sub-regulation (4) of 
+Regulation 9 of the Combination  Regulations3.   
+    
+4. 
+It was also stated in the Notice that in relation to the Combination notified to the 
+Commission, Amazon and the relevant entities and persons, belonging to the Future 
+Group have entered into: (a) a share subscription agreement dated 22nd August, 2019 
+(FCPL SSA) to set out the terms and conditions of subscription by Amazon and the 
+issuance by FCPL of its shares to Amazon; and (b) a shareholders agreement dated 22nd 
+August, 2019 to determine their respective rights and obligations as shareholders of 
+FCPL (FCPL SHA)4. Amazon has stated in the Notice that the parties have only 
+executed FCPL SSA and FCPL SHA in relation to the Combination5.  
+ 
+                                                          
+2 Notification No. S. O. 988(E) dated 27th March, 2017 of the Central Government 
+ 
+3 Paras 20 and 21 at page 22 of the Notice 
+ 
+4 Para 5 at page 5 of the Notice 
+ 
+5 Para 34 of the Notice 
+ 
+
+ 
+Page 4 of 57 
+ 
+5. 
+The Notice also mentioned that Amazon would acquire certain rights in terms of FCPL 
+SHA to protect its investment in FCPL. These, inter alia, included the requirement of 
+prior written consent of Amazon, for FCPL to decide on or implement any matter under 
+the shareholders’ agreement dated 12th August, 2019 relating to FRL (FRL SHA), 
+which requires the consent of FCPL. Footnote 3 of the Notice stated that, prior to the 
+Combination, FCPL had acquired equity warrants of FRL, convertible into equity 
+shares representing 7.30% of the share capital of FRL, within 18 months of the date of 
+allotment (Warrants Transaction). The Warrants Transaction was notified to the 
+Commission in Combination Reg. No. C-2019/03/653 and the same was approved vide 
+order dated 15th April, 2019. Subsequently, the Promoters6, FCPL and FRL entered into 
+FRL SHA, which sets forth inter se mutual rights and obligations of the parties as 
+shareholders. It was specifically asserted in the same footnote that the execution of FRL 
+SHA is pursuant to the Warrants Transaction. 
+ 
+6. 
+Reference was made in the Notice to certain existing and contemplated business 
+arrangement/ agreements7 between FRL and Amazon Seller Services Private Limited 
+(ASSPL) that govern the listing of the products of FRL, including third-party brands 
+sold by FRL, on the Amazon India Marketplace8. The Notice also referred to an 
+agreement dated 21st August, 2019 between Amazon Retail India Private Limited 
+(ARIPL) and Future Consumer Limited (Future Consumer) for supply of, inter alia, 
+food category products of Future Consumer to ARIPL. The Notice further referred to a 
+memorandum of understanding dated 21st August, 2019 amongst Amazon Pay (India) 
+Private Limited (APIPL) and FRL to offer the option of making payments through 
+Amazon Pay semi-closed wallet to end consumers making purchases across retail 
+outlets and websites operated by FRL and entities controlled or wholly owned by FRL. 
+However, it was stated that all these agreements/arrangements are neither inter-
+                                                          
+6 The term ‘Promoters’ has been used in the Notice to mean those identified as promoters in Schedule I of the 
+FCPL SSA and Schedule I of the FCPL SHA. These are Mr. Kishore Biyani, Ashni Kishore Biyani, Anil Biyani, 
+Gopikishan Biyani, Laxminarayan Biyani, Rakesh Biyani, Sunil Biyani, Vijay Biyani, Vivek Biyani, FCRPL and 
+Akar Estate and Finance Private Limited 
+ 
+7 Business Solutions Agreement, Prime Now Program Terms, Prime Now FRL Amendment Agreement and 
+Softlines FRL Agreement, referred to in paras 62 to 66 of the Notice 
+ 
+8 Para 63 of the Notice 
+
+ 
+Page 5 of 57 
+ 
+connected with, nor part of, the Combination; or not related to the Combination in any 
+manner whatsoever9. The agreement, arrangements and the memorandum of 
+understanding referred above shall be collectively referred to as Commercial 
+Arrangements or BCAs. In relation to the arrangements/agreement between ASSPL 
+and FRL, it was stated that given the proximity of the execution of these 
+agreements/arrangements, the parties, in good faith, have decided to give effect to the 
+aforementioned agreements only after the receipt of the approval from the Commission 
+in relation to the Combination10. 
+ 
+7. 
+On the rationale of the Combination, Amazon had stated in the Notice that it believes 
+that FCPL holds potential for long term value creation and providing returns on its 
+investment. It was further stated that Amazon decided to invest in FCPL with a view to 
+strengthen and augment the business of FCPL (including the marketing and distribution 
+of loyalty cards, corporate gift cards and reward cards to corporate customers) and 
+unlock the value in the company11.  Amazon furnished a presentation titled Taj-
+Coupons – Business Plan for Five Years in response to Item 8.8 of Form I, which 
+require the notifying party to disclose documents, material (including reports, studies, 
+plan, latest version of other documents, etc.) considered by and/or presented to the 
+board of directors and/or key managerial person, in relation to the proposed 
+combination.  
+ 
+8. 
+In terms of Regulation 14 of the Combination Regulations, letters dated 9th October, 
+2019 and 24th October, 2019 were issued to Amazon to remove certain information gaps 
+in the Notice. Amazon filed its responses to both these communications on 15th 
+November, 2019. Some of the statements and clarifications of Amazon in the said 
+submissions that are relevant to the instant proceedings are as under:   
+ 
+                                                          
+9 Paras 65, 96 and 100 of the Notice 
+ 
+10 Para 65 of the Notice 
+ 
+11 Para 30 of the Notice 
+
+ 
+Page 6 of 57 
+ 
+8.1. 
+To a query posed by the Commission, on the claim that the investment by 
+Amazon is strategic for it to become a part of the ecosystem,  it was submitted 
+that the Combination will enable the parties to: (i) enhance existing portfolio 
+of investments of Amazon in the payments landscape in India; (ii) provide an 
+opportunity to FCPL to learn global trends in digital payments solutions and 
+launch new and innovative product offerings; and (iii) offer innovative 
+payments solutions to entities so as to enhance consumer convenience and user 
+experience12; 
+ 
+8.2. 
+In response to a query on the rationale of Amazon to acquire rights over FRL 
+and whether they are strategic or economic, Amazon submitted that its 
+decision to invest in FCPL is, inter alia, based on the following considerations: 
+(a) the unique business model of FCPL addresses an existing gap in the 
+payments landscape in India, thereby making it a strong and sound investment 
+opportunity for Amazon (which holds similar existing investments in entities 
+engaged in business activities within the payments market in India); and (b) 
+while FCPL has a strong growth potential, in the short term, to add credibility 
+to its financial position, it has invested in and proposes to invest in FRL, which 
+is a publicly traded company with strong financials and futuristic outlook13;  
+ 
+8.3. 
+Amazon had also stated that it does not have any direct or indirect shareholding 
+in FRL. It would not acquire directly any rights in FRL. Amazon has only 
+limited investor protection rights in FCPL with a view to protect the value of 
+its investment in FCPL. These rights can be exercised only through FCPL and 
+not directly by Amazon. The said rights have been derived from the rights 
+granted to FCPL in terms of FRL SHA, which was negotiated by the 
+                                                          
+12 Response to query No. 2.13 (c) of the letter dated 9th October, 2019 available at pp. 34 and 35 of the submissions 
+dated 15th November, 2019 of Amazon 
+ 
+13 Response to query No. 2.5 of the letter dated 24th October, 2019 available at para 35 at page 35 of the 
+submissions dated 15th November, 2019 of Amazon 
+ 
+
+ 
+Page 7 of 57 
+ 
+promoters, FRL and FCPL, independent of the investment by Amazon in 
+FCPL and with a view to unlock value for FCPL14; and 
+ 
+8.4. 
+Amazon had further claimed that the Commercial Arrangements have not been 
+entered into pursuant to the Combination and are not part of, or connected with, 
+the Combination in any manner whatsoever15. It was further asserted that 
+though being executed contemporaneously with FCPL SHA and FCPL SSA, 
+these are in no way connected with the Combination and each such commercial 
+agreement has been negotiated between its respective parties, in isolation, and 
+independent 
+of 
+the 
+Combination16. 
+Furthermore, 
+the 
+Commercial 
+Arrangements need not be examined under the framework for the regulation 
+of combinations in terms of the Act and the Combination Regulations17. 
+ 
+9. 
+The Commission approved the Combination under Section 31(1) of the Act, on 28th 
+November, 2019 (Approval Order), upon competition assessment of the overlapping 
+business activities of Amazon, FCPL and their group entities and after arriving at the 
+opinion that the Combination is not likely to cause any appreciable adverse effect on 
+competition in India. 
+ 
+B. Initiation of proceedings under Sections 43A, 44 and 45 of the Act 
+ 
+10. 
+FCPL filed the Application dated 25th March, 2021 stating that Amazon has initiated 
+arbitration proceedings in relation to transfer of assets of FRL, a company in which 
+FCPL holds 9.82% of the shareholding and there are related litigations pending before 
+the constitutional courts. It has been alleged in the Application that Amazon has taken 
+                                                          
+14 Response to query No. 2.5 of the letter dated 24th October, 2019 available at para 37 at page 36 of the 
+submissions dated 15th November, 2019 of Amazon 
+ 
+15 Para 72 at page 45 of the submission dated 15th November, 2019 of Amazon, submitted in response to query 
+2.21 of the letter dated 9th October, 2019 
+ 
+16 Para 45 at page 32 of the submission dated 15th November, 2019 of Amazon, submitted in response to query 
+2.12 of the letter dated 9th October, 2019 
+ 
+17 Para 4 at page 3 of the submission dated 15th November, 2019 of Amazon, submitted in response to query 2.5 
+of the letter dated 24th October, 2019 
+
+ 
+Page 8 of 57 
+ 
+completely contradictory stands in the arbitration proceedings and constitutional courts 
+with respect to its investments in FCPL as compared to the representations and 
+submissions made before the Commission.  Such contradictions were said to establish 
+false representation and suppression of material facts before the Commission. 
+ 
+11. 
+The Commission, in its meeting held on 17th May, 2021, considered the Application 
+and the averments and allegations made therein; and was of prima facie view that: (a) 
+Amazon failed to identify and notify FRL SHA as a part of the Combination, in terms 
+of Regulation 9(4) and Regulation 9(5) of the Combination Regulations; (b) Amazon 
+had concealed its strategic interest over FRL; and (c) Amazon had made false and 
+incorrect representations and concealed/suppressed material facts in contravention of 
+the provisions of the Act. Accordingly, the Commission issued SCN under Sections 
+43A, 44 and 45 of the Act to Amazon, on 4th June, 2021. The contents of the SCN are 
+reproduced below for ease of reference:  
+ 
+“In the instant matter, the Competition Commission of India 
+(Commission) in its meeting held on 17th May 2021 considered the application 
+dated 25th March 2021 of Future Coupons Private Limited (FCPL), seeking 
+action against Amazon.com NV Investment Holdings LLC (Amazon) under 
+Sections 44 and 45 of the Competition Act and in terms of paragraph 16 of the 
+order dated 28th November 2019 for the commission of alleged offences in 
+Combination Registration No. C-2019/09/688) (Application). 
+ 
+2. 
+The Commission had approved acquisition of 49% equity shareholding 
+of FCPL by Amazon in Combination Registration No. C-2019/09/688, vide 
+Order dated 28th November 2019 issued under Section 31(1) of the Act.  
+ 
+3. 
+ As per the Order, the notice under Section 6(2) of the Act was filed 
+pursuant to the execution of Share Subscription Agreement (FCPL SSA) and 
+Shareholders Agreement (FCPL SHA) both dated 22nd August 2019, inter alia 
+between Amazon, FCPL and the promoters of FCPL. Prior to FCPL SSA and 
+FCPL SHA, FCPL entered into Shareholders Agreement on 12th August 2019 
+with Future Retail Limited (FRL) and its promoters (FRL SHA). In terms of 
+FRL SHA, FRL has to obtain the consent of promoters and FCPL for 
+undertaking certain actions including the sale of retail assets. In terms of FCPL 
+SHA, FCPL should take prior approval of Amazon before exercising any rights 
+over FRL. 
+ 
+4. 
+Of late, disputes have arisen between Amazon and FCPL in relation to 
+transfer of the assets of FRL, a company in which FCPL holds 9.82% of the 
+
+ 
+Page 9 of 57 
+ 
+shares. In relation to the above said dispute, Amazon had initiated arbitration 
+and related litigation proceedings are also pending before the constitutional 
+courts. In the present Application, FCPL has submitted that Amazon has taken 
+a completely contradictory stand in the arbitration proceedings and 
+constitutional courts with respect to its investments in FCPL as compared to the 
+representation and submission before the Commission. Such contradictions are 
+alleged to constitute false representation and a suppression of material facts. 
+ 
+5. 
+It is observed that some of the contradictory statements made by Amazon 
+before CCI vis-à-vis before Arbitrator1, inter alia, are: 
+ 
+A. Purpose of the combination  
+ 
+A.1  Before CCI: It is submitted that the Investor's decision to invest in FCL 
+[FCPL] is, inter alia, based on the following considerations: (a) the 
+unique business model of FCL addresses an existing gap in the payments 
+landscape in India, thereby making it a strong and sound investment 
+opportunity for the Investor (who holds similar existing investments in 
+entities engaged in business activities within the payments market in 
+India); and (b) while FCL has a strong growth potential, in the short term, 
+to add credibility to its financial position, it has invested in, and proposes 
+to invest in FRL, which is a publicly traded company with strong 
+financials and futuristic outlook. In other words, the Investor has 
+considered all the above-mentioned factors in totality to arrive at the 
+value of the proposed investment2.  
+ 
+A.2  Before the Arbitrator and constitutional courts: The foundation of the 
+relationship between the Claimant [Amazon] and the Promoters 
+[Promoters of FCPL] was and remains the special and material rights 
+available with FCPL with respect to FRL's business and its Retail 
+Assets3…. The Claimant’s Interest with respect to FRL’s business and its 
+Retail Asset is clear and unequivocal, and is made out from a bare reading 
+of the agreements. FRL’s widespread network of retail stores across India 
+represented a significant and irreplaceable strategic asset to the 
+Claimant4...  
+ 
+B. Independence or dependence of FRL SHA  
+ 
+B.1  Before CCI: In response to a specific query on the rights of Amazon over 
+FRL, Amazon had submitted as follows: “The Investor has limited 
+investor protection rights in FCL with a view to protect the value of its 
+investment in FCL. Further, while all decisions with respect to FCL's 
+investment in FRL will be taken by the board of directors of FCL, 
+however, with a view to protect the Investor's investment in FCL, certain 
+rights have been granted to the Investor with respect to FCL's investment 
+in FRL. It is important to highlight that these rights can be exercised only 
+
+ 
+Page 10 of 57 
+ 
+through FCL, and not directly by the Investor. Importantly, these rights 
+have been derived from the rights granted to FCL in terms of the FRL 
+SHA which was negotiated by the Promoters, FRL and FRL independent 
+of the investment by the Investor in FCL, and with a view to unlock value 
+for FCL. These rights have been granted to FCL with a view that FCL 
+would exercise its rights as a shareholder of FRL to protect the interest 
+of its· own shareholders, including the Investor5.”  
+ 
+B.2  Before the Arbitrator and constitutional courts: Agreements – single 
+integrated transaction: …FCPL SHA, SSA and FRL SHA are a single 
+integrated transaction, FRL is expressly and impliedly bound by the 
+FCPL SHA and SSA6…The interplay amongst the three agreements 
+demonstrates that the unequivocal intention and interest of the Parties 
+was to have one integrated understanding7….The FRL SHA, …, formed a 
+core basis of the FCPL SHA and the two agreements constituted a single 
+integrated bargain8.  
+ 
+C. Amazon rights over FRL:  
+ 
+C.1  Before CCI: The rights granted to Amazon in relation to FRL are with a 
+view to protect its investment in FCPL. It would be important to note that 
+not only are investor rights limited in scope, they also not extend to any 
+subject matter that encroaches upon the commercial and operation 
+decision making process of the FRL9…. The Investor's has no 
+shareholding in FRL, and does not exercise any control or influence on 
+it, therefore the Proposed Combination should not be subjected to a Form 
+II filing requirement10.  
+ 
+C.2  Before the Arbitration and constitutional courts: The special and material 
+rights under the FCPL SHA including under the FRL SHA, were 
+contractually agreed, promised and provided to the Claimant as a 
+material consideration to its investment11….  
+ 
+6. 
+Upon considering the Application and the materials relied upon 
+therewith, the Commission is of the prima facie view that: 
+ 
+6.1. Amazon had represented before the Commission that FRL SHA was 
+independent of the combination i.e. acquisition of 49% shareholding in 
+FCPL by Amazon. However, it has now been brought to the notice of the 
+Commission that Amazon has claimed before the arbitrator that FRL SHA 
+is an integrated part of the combination. This factual aspect of the 
+combination was not made known to the Commission. Rather, the 
+submissions before the Commission presented a different factual scenario 
+that the combination does not include FRL SHA; and the acquisition of 
+49% shareholding in FCPL by Amazon and FRL SHA were independent 
+of each other. Amazon ought to have identified and notified FRL SHA as 
+a part of the combination, in terms of Regulation 9(4) and Regulation 9(5) 
+
+ 
+Page 11 of 57 
+ 
+of the Combination Regulations. It is further apparent that the 
+representations and conduct of Amazon before the Commission amount 
+to misrepresentation, making false statement and suppression or/and 
+concealment of material facts in relation to the scope of the combination 
+for which approval of the Commission was sought and taken.  
+ 
+6.2. Amazon has concealed its strategic interest over FRL, which it now claims 
+to be arising from the rights that were represented as mere investor 
+protection. Such interest and the purpose of the combination (as has been 
+claimed before the arbitrator) was not disclosed to the Commission 
+despite specific requirements in Form I and the additional information 
+sought from Amazon. Besides non-disclosure, false and incorrect 
+representations have also been made in relation to the scope of the 
+combination particularly the FRL SHA and the purpose of the 
+combination.  
+ 
+7. 
+In view of the above, under Sections 43A, 44 and 45 of the Act read with 
+Regulation 48 of the Competition Commission of India (General) Regulations, 
+2009 you are being issued this show cause notice to explain, in writing, as to 
+why you shall not be found to have: (a) failed to give notice in respect of FRL 
+SHA; and (b) furnished false and incorrect information; and concealed/ 
+suppressed material facts, in contravention of the said provisions of the Act and 
+in which case, why no action including penalty in terms of Sections 43A, 44 and 
+45 of the Act, as the case may be, shall be imposed upon you. You shall submit 
+your response within a time period of 15 days from the receipt of this notice.” 
+______________________ 
+1 
+Application for Emergency Relief Under the Arbitration Rules of The Singapore 
+International Arbitration Centre (Annexure 6 to the Application) 
+2 
+Para 35 at page 35 of the submission dated 15th November, 2019 of Amazon in Combination 
+Registration No. C/2019/09/688 
+3  Para 4.3(a) at page 8 (running page no. 527) of Annexure 6 to the Application 
+4  Para 4.4(e) at page 15 (running page no. 534) of Annexure 6 to the Application 
+5  Para 37 at page 36 of the submission dated 15th November, 2019 of Amazon in Combination 
+Registration No. C/2019/09/688 
+6  Para 7 at page 11 (running page no. 530) of Annexure 6 to the Application  
+7  Para 8 at page 11 (running page no. 530) of Annexure 6 to the Application 
+8  Para 1.3 at page 3 (running page no. 522) of Annexure 6 to the Application 
+9  Page 40 of the submission dated 15th November, 2019 of Amazon in Combination 
+Registration No. C/2019/09/688 
+10  Point e at page 71 of the submission dated 15th November, 2019 of Amazon in Combination 
+Registration No. C-2019/09/688 
+11.  Para 1.3 at page 2 (running page no. 522) of Annexure 6 to the Application. 
+ 
+12. 
+After seeking extension of time, Amazon filed its response to the SCN on 28th July, 
+2021 along with a request for oral hearing in the matter (Response to SCN). The 
+Commission acceded to the request and heard Amazon at length on 22nd September, 
+2021. Following the oral hearing, Amazon filed its written submissions as well on 5th 
+
+ 
+Page 12 of 57 
+ 
+October, 2021. The Commission considered the written submissions in its meeting held 
+on 18th October, 2021 and decided to pass an appropriate order in due course. 
+  
+13. 
+Subsequently, the Commission received a letter dated 20th October, 2021 from Amazon, 
+inter alia, intimating that it has shared with Future Group, the Response to SCN and 
+related correspondence with the Commission. Amazon vide another letter dated 29th 
+October, 2021, furnished a copy of the partial award passed in the arbitration proceeding 
+between Amazon and the Future groups. The Commission also received an application 
+dated 7th November, 2021 from FCPL seeking access to the records of the case and 
+provide a personal hearing in the matter. The Commission considered these submissions 
+and applications in its meeting held on 15th November, 2021 and, inter alia, decided to 
+hear both FCPL and Amazon on 4th January, 2022.  
+ 
+C. Writ Petition No. 12889/2021 [CAIT v. Commission]  
+ 
+14. 
+In the meantime, Confederation of All India Traders (CAIT) filed a Public Interest 
+Litigation before the Hon’ble Delhi High Court, seeking expeditious disposal of the 
+matter. Upon considering the Writ Petition on 16th November, 2021, the Hon’ble Delhi 
+High Court disposed of the same, inter alia, with the following directions to the 
+Commission:  
+ 
+“…Looking to the controversy involved between the two Groups and 
+the pending litigations in various Forums, as averred in the writ 
+petition, we are not inclined to delve into the merits of the issues raised 
+herein. Suffice would it be to state that the Show Cause Notice dated 
+04.06.2021, issued by CCI, based on the letter dated 25.03.2021, 
+addressed by FCPL to CCI, as averred and alleged in the writ petition, 
+shall be considered by CCI, within a period of two weeks from today. 
+Needless to state, decision shall be taken by CCI, after giving an 
+opportunity of hearing to the stakeholders…” 
+ 
+15. 
+Having considered the aforesaid developments and in deference to and in compliance 
+with the directions issued by the Hon’ble Delhi High Court, the Commission, in its 
+meeting held on 19th November, 2021, revised the timelines issued on 15th November, 
+2021. The revised timelines were: (a) FCPL to file its reply, if any, to the Response to 
+
+ 
+Page 13 of 57 
+ 
+SCN latest by 21st November, 2021, with an advance copy to Amazon under intimation 
+to the Commission; (b) Amazon may thereafter file its rejoinder, if any, latest by 23rd 
+November, 2021, with an advance copy to FCPL under intimation to the Commission; 
+and (c) FCPL and Amazon may appear for an oral hearing in the matter on 24th 
+November, 2021. It was further made clear that no request for extension or modification 
+of timelines on the hearing schedule shall be entertained by the Commission, and in the 
+event of any party not availing the opportunity provided, the Commission would 
+proceed to consider the matter on the basis of material available on record, in 
+accordance with law. CAIT was also given liberty to attend the hearing, if so desired. 
+Amazon, CAIT and FCPL were informed of the above decision and directions of the 
+Commission on 19th November, 2021 itself vide separate letters of even date.  
+ 
+16. 
+Subsequently, FCPL filed its response on 22nd November, 2021. Amazon did not file 
+any rejoinder within the time prescribed but moved an application on 23rd November, 
+2021 stating that it has preferred a Special Leave Petition (SLP) before the Hon’ble 
+Supreme Court of India, challenging the Order of the Hon’ble Delhi High Court, based 
+on which the Commission advanced the timelines and hearing schedule. In view of the 
+SLP, Amazon sought deferment of the proceedings before the Commission until its SLP 
+was heard by the Hon’ble Supreme Court of India. It was further stated that the SLP 
+would be heard by the Hon’ble Supreme Court of India on 25th November, 2021.  
+ 
+17. 
+On 24th November, 2021, the hearing before the Commission started in terms of the 
+schedule fixed by the Commission, with the learned counsel appearing on behalf of 
+Amazon pressing the application for deferment of the proceedings in light of the SLP, 
+which was stated to come up for hearing on 25th November, 2021. On hearing the 
+learned counsel, the Commission invited the attention of the learned counsel to the 
+directions issued by the Hon’ble Delhi High Court and consequential timeline and 
+hearing schedule fixed by the Commission vide its directions dated 19th November, 
+2021. The Commission observed that, vide the said directions, it had made it clear that 
+no request for extension or modification of timelines and the hearing schedule shall be 
+entertained, and in the event that any party does not avail the opportunity provided, the 
+Commission would proceed to consider the matter on the basis of material available on 
+
+ 
+Page 14 of 57 
+ 
+record and in accordance with law. Against this backdrop, the Commission heard the 
+learned counsel(s) appearing on behalf of FCPL and CAIT at length. Thereafter, the 
+Commission called upon the learned counsel appearing on behalf of Amazon to make 
+its submissions on merits whereupon the learned counsel expressed its inability to argue 
+the matter stating that making submissions may compromise the SLP and render it 
+infructuous. The learned counsel also made a grievance that Amazon did not get 
+sufficient time to file its rejoinder. Accordingly, despite the grant of opportunity, the 
+learned counsel appearing on behalf of Amazon did not make oral submissions. Thus, 
+having heard the counsel(s), the Commission decided to pass an appropriate order in 
+due course.  
+ 
+D. Special Leave Petition (Civil) Diary No. 28613/2021 
+ 
+18. 
+Further to the above developments, the Hon’ble Supreme Court of India considered the 
+SLP filed by Amazon on 29th November, 2021 and disposed of the same with the 
+following direction:  
+ 
+“Having heard…, and carefully perusing the material available on record, we are 
+not inclined to interfere with the impugned Order passed by the High Court of Delhi 
+at New Delhi ....Taking into consideration the facts and circumstances of this case, 
+two more weeks’ time from today is granted to the petitioner in the matter, which 
+would be over and above the time already granted by the High Court in this behalf. 
+The petitioner would be at liberty to raise all the objections before the Competition 
+Commission of India. The said Commission would consider all the objections on its 
+own merits and in accordance with law…” 
+ 
+19. 
+Pursuant to the aforesaid order of the Hon’ble Supreme Court of India, Amazon filed a 
+letter dated 30th November, 2021 before the Commission, stating therein that it will file 
+its response to the reply filed by FCPL on or before 9th December, 2021. Amazon also 
+requested vide the said letter for an oral hearing at any suitable time after filing of the 
+response. FCPL also filed a letter dated 30th November, 2021 praying that the 
+Commission be pleased to pass necessary orders on the SCN before 13th December, 
+2021. CAIT also filed a letter on 29th November, 2021 stating therein that the 
+Commission is obligated to pass an order on the SCN on or before 13th December, 2021. 
+ 
+
+ 
+Page 15 of 57 
+ 
+20. 
+In deference to and in compliance with the directions issued by the Hon’ble Supreme 
+Court of India as also keeping in view the original directions issued by the Hon’ble 
+High Court of Delhi in W. P. No. 12889/2021 on 16th November, 2021 whereby the 
+Commission was directed to consider the SCN dated 4th June, 2021, based on the letter 
+dated 25th March, 2021 of FCPL, within a period of two weeks from the date of the said 
+order i.e. 16th November, 2021, the Commission allowed Amazon to make its oral 
+submissions before the Commission  on 13th December, 2021. FCPL and CAIT were 
+allowed to remain present during the said hearing, if so desired. Amazon was directed 
+to share a copy of its response/rejoinder with FCPL under intimation to the 
+Commission. 
+ 
+21. 
+Amazon submitted its response to the submissions of FCPL on 12th December, 2021. 
+The Commission heard the learned counsel(s) representing Amazon at length on 13th 
+December, 2021. The Commission also heard the learned counsel(s) appearing on 
+behalf of FCPL and CAIT in response to the submissions made on behalf of Amazon. 
+The Commission allowed Amazon and CAIT to submit brief submissions as requested 
+by them, by the end of the day.    
+ 
+22. 
+Before delving into the merits of the case, the Commission notes that Amazon has raised 
+certain preliminary objections in its Response to SCN. These are primarily contentions 
+on the commonality of the subject matter before the arbitrators and the instant 
+proceedings; material adduced by FCPL before the Commission being pleadings before 
+the arbitrators are disclosures made in contravention of the provisions of Section 42A 
+of the Arbitration and Conciliation Act, 1996; and the Application is an attempt by 
+FCPL to stifle the ongoing arbitration proceedings between the parties.  
+ 
+23. 
+At the outset, the Commission notes that, while some of the factual foundations of the 
+Combination may be relevant in both the arbitration and the instant proceedings, the 
+legal issues for determination in the arbitration proceedings and the instant proceedings 
+for violations of the provisions of the Act are mutually independent. The Commission 
+does not see any bar on the instant proceedings only on account of the pendency of the 
+arbitration between the parties. Even though the instant inquiry is triggered by the 
+
+ 
+Page 16 of 57 
+ 
+Application filed by FCPL, the proceedings pursuant to SCN are essentially 
+inquisitorial in nature, and the subject matter relates to the conduct of Amazon as the 
+notifying party in Combination Registration No. C-2019/09/688, in terms of Regulation 
+9(1) of the Combination Regulations. Needless to say, the Commission is not concerned 
+with the disputes between Amazon and Future groups. Further, if the parties were to 
+allege violation of the provisions of any law other than the Act, they are free to pursue 
+legal recourse before the appropriate forum. Thus, the preliminary objections raised by 
+Amazon sans merit and are accordingly, dismissed. 
+ 
+24. 
+Now coming to the merits of the case, the Commission notes that the allegations in the 
+SCN concern the factual position and material particulars relating to (a) the purpose of 
+the Combination; (b) independence or dependence of FRL SHA; and (c) the rights of 
+Amazon over FRL pursuant to the Combination. The SCN notes that FRL SHA was 
+not notified to the Commission despite being an interconnected part of the Combination 
+and Amazon concealed its strategic interests over FRL, which were rather represented 
+in the Notice as mere investor protection.  
+ 
+25. 
+The submissions of Amazon in response to SCN, are summarised as under: 
+ 
+25.1. Amazon did not deny the factual aspects of the SCN but submitted that the 
+context of the submissions before the Commission and the Arbitral Tribunal 
+were different. Amazon contended that all material particulars relating to the 
+Combination and those relevant for assessment by the Commission were 
+disclosed in the Notice and subsequent submissions dated 15th November, 2019. 
+These material particulars related to the Combination are: (a) a copy of FRL 
+SHA; (b) fact that the value of assets and turnover of FRL was taken into 
+consideration for the purpose of computing the thresholds under Section 5 of 
+the Act;  (c) identification of FRL, as a party, ultimate beneficiary of the 
+Combination and a material entity in FCPL SHA and FCPL SSA; (d) fact that 
+investment of FCPL in FRL was a key consideration for Amazon to pursue the 
+investment and that the retail assets of FRL were also an integral part of its 
+
+ 
+Page 17 of 57 
+ 
+decision to pursue the Combination; (e) details of the protective rights acquired 
+by Amazon in relation to  FRL; and (f) no control is acquired over FRL.  
+ 
+25.2. The material particulars that are relevant for the purpose of assessment of the 
+Combination and disclosed by Amazon in the Notice and subsequent 
+submissions were stated to be: (a) information rights over business activities of 
+FRL; (b) all commercial agreements involving FRL were given effect to only 
+after the approval of the Commission; and (c) the details required as per Form I 
+regarding relevant market and competition assessment, based on the business 
+activities of the parties and affiliates. It was also contended that all these 
+disclosures were mentioned in the Approval Order and the competition 
+assessment therein was necessarily inclusive of the business activities of FRL. 
+Attention of the Commission was specifically drawn to paragraph 13 of the 
+Approval Order, wherein the Commission noted that presence of FRL and the 
+affiliates of the Acquirer is not such as to raise any competition concern. Having 
+disclosed all material particulars relating to the Combination and competition 
+assessment thereof, Amazon maintained that it cannot be held guilty of 
+contraventions of the provisions of Sections 43A, 44 or 45 of the Act.  
+ 
+26. 
+FCPL, on the other hand, primarily relied upon the emails and notes of Amazon Group 
+(hereinafter, Amazon), to contend that Amazon all along intended the FRL SHA and 
+the BCAs to be part of the Combination but did not notify the same to avoid regulatory 
+scrutiny from statutory authorities including the Commission. These documents were 
+furnished to the Commission vide submissions dated 22nd November, 2021 of FCPL 
+and are stated to be internal documents of Amazon, contemporaneous and prior to the 
+Combination, disclosed in the arbitration proceedings, and FCPL was not aware of their 
+existence at the time of filing the Application. It was contended that these documents 
+are contrary to and at variance to the statements and disclosures of Amazon in the 
+Notice and subsequent submissions dated 15th November, 2019. It is further contended 
+that Amazon enjoys control over FRL and, given the extent of contraventions, the 
+Approval Order should be revoked in terms of paragraph 16 therein.  
+
+ 
+Page 18 of 57 
+ 
+ 
+ 
+27. 
+The learned counsel appearing on behalf of CAIT submitted that it is representing the 
+interests of traders and retailers. It was argued that the conduct of Amazon is in violation 
+of the laws relating to foreign investments in India and the Combination raises 
+competition concerns as it is likely to create entry barriers in the retail market in India. 
+The learned counsel emphasised that Amazon is guilty of suppressio veri and suggestio 
+falsi and has thereby violated the provisions of the Act.  
+ 
+28. 
+The learned counsel appearing on behalf of Amazon made the following submissions 
+in response to the arguments and submission of FCPL and CAIT:  
+ 
+28.1. Mala fide nature of the actions and representations made by Future Group: 
+Amazon has contended that the transaction between Future Group and Mukesh 
+Dhirubhai Ambani Group (MDAG) constituted wilful and material breach of 
+the agreements entered between Future Group and Amazon (Agreements). 
+Amazon has various contractual rights under the Agreements, and FCPL’s 
+complaint is a mala fide attempt to violate the rights of Amazon. FCPL and FRL 
+vetted all submissions made by Amazon to the Commission and therefore were 
+equally responsible for the filings before the Commission. FCPL has 
+approached the Commission with unclean hands and the mala fide nature of 
+FCPL’s conduct is also evident from its inconsistent stand before the 
+Commission and the Arbitral Tribunal, regarding Amazon’s alleged acquisition 
+of control over FRL. 
+ 
+28.2. CAIT is a stranger to the SCN proceedings and cannot be allowed to participate 
+as a stakeholder: CAIT has no locus to intervene in the SCN Proceedings in 
+terms of the Act and the Combination Regulations. The representations made 
+by CAIT before the Hon’ble High Court of Delhi and the Commission are yet 
+another instance of forum shopping. Such forum shopping which seeks to 
+undermine the judgment of the Hon’ble Supreme Court ought not to be 
+entertained.  
+
+ 
+Page 19 of 57 
+ 
+ 
+28.3. There is no power to revoke an approval or direct notification of a consummated 
+transaction: Paragraph 16 of the Approval Order does not grant the power to 
+revoke the Approval Order. Further, the Commission’s power to approve the 
+combination does not include the power to revoke the approval. Additionally, 
+the present proceedings are governed by Section 44 of the Act, and no recourse 
+can be had to Section 45 of the Act, which is a general provision.  In any event, 
+Section 45 of the Act does not empower the Commission to revoke Approvals. 
+The scheme of the Act does not contemplate the enforcement of a revocation 
+order, and the Commission’s own guidance notes to the notification in Form I 
+do not recognise power of revocation.  
+ 
+28.4. Public policy mandates that the Commission should not exercise any power of 
+revocation in respect of transactions which were approved more than two years 
+ago: Public policy dictates that the Commission should not become a forum for 
+the resolution of contractual disputes between private parties. 
+ 
+28.5. Section 44 and Section 45 would apply only when there is “material” 
+suppression or omission: The existence of jurisdictional facts are condition 
+precedent for exercise of power by a statutory authority such as the 
+Commission. It was submitted that the Commission may exercise the 
+jurisdiction conferred under Section 44 and Section 45 of the Act only in cases 
+where there is a suppression, omission or failure to furnish information, which 
+would be “material” to the Commission’s assessment of the proposed 
+combination (i.e., whether a notified combination causes or is likely to cause 
+appreciable adverse effect on competition). There was no concealment of any 
+material information in the present case. Review of a notified combination 
+entails an ex ante assessment of the combination in terms of Section 20(4) of 
+the Act, and all information that was “material” to such assessment was 
+disclosed in the Notification. Also, all information material to the Commission’s 
+assessment of whether the notified Combination was likely to cause any 
+
+ 
+Page 20 of 57 
+ 
+appreciate adverse effect on competition was disclosed by Amazon in the 
+Notification. 
+ 
+28.6. On the merits of FCPL’s submissions, Amazon contended as follows:  
+ 
+28.6.1. 
+Regarding the allegation that FRL SHA was not notified as part of the 
+Combination, Amazon submitted that FRL SHA does not constitute a 
+“combination” insofar as Amazon is concerned. Further, FRL SHA 
+was duly disclosed as forming the background to Transaction III. All 
+relevant information pertaining to FRL that were material to the 
+Commission’s assessment were disclosed. It was submitted that 
+Amazon had made submissions in relation to the potential synergies 
+arising out of FCPL’s business, the underlying investments held by 
+FCPL in FRL and FRL’s business itself.  
+ 
+28.6.2. 
+Regarding the allegation of non-disclosure of non-compete 
+obligations in the Notification, it was submitted that there are no non-
+compete clauses either in FCPL SHA or FCPL SSA or FRL SHA. 
+Both SHAs provide transfer restrictions, which do not constitute a 
+non-compete obligation.  
+ 
+28.6.3. 
+Regarding the internal communications, it was submitted that 
+commercial arrangements with Future Group were negotiated since 
+January, 2018 and Amazon explored multiple investment structures. 
+Some of these documents/emails pertain to the period when the parties 
+were still in negotiations. Further, Amazon has made disclosures about 
+BCAs and importance of FRL’s Retail Assets.  
+ 
+28.6.4. 
+Regarding the allegation that Amazon exercises control over FRL, it 
+was submitted that Amazon does not exercise any control over the 
+day-to-day operational matters of FRL; it does not exercise any 
+influence over the business operations of the market conduct of FRL 
+
+ 
+Page 21 of 57 
+ 
+and it is FCPL’s own submission that expressly clarified that Amazon 
+was never intended to exercise any form of control over FRL.  
+ 
+28.6.5. 
+Regarding the submission that the Approval Order passed by the 
+Commission must be revoked, it was pointed out that paragraph 16 of 
+the Approval Order does not grant the Commission power to revoke 
+the Approval Order. There is no power of revocation envisaged under 
+the scheme of the Act. It was submitted that there are no incorrect 
+statements made in the Notification, which would warrant the 
+revocation of the Approval Order. 
+ 
+29. 
+Following the above submissions of Amazon, the learned counsel appearing for FCPL 
+contended that Amazon is contemplating a wrong threshold to determine the 
+contraventions under Section 44 and Section 45 of the Act. The Commission deals with 
+complicated matters of economics in review of combinations and thus, the material 
+placed before it should be with integrity. Any deception in the Notice filed by Amazon 
+vitiates the entire process, and Section 44 and Section 45 are penal provisions in case 
+of contraventions. It was vehemently submitted that the Combination notified in the 
+matter was not the actual combination contemplated by Amazon with FRL. Further, the 
+material before the Commission in the instant proceeding was not placed before the 
+Commission at the time of assessment of the Combination in Combination Registration 
+No. C-2019/09/688. 
+ 
+30. 
+The learned counsel appearing on behalf of CAIT submitted that FRL SHA and the 
+commercial agreements were not even referred in the Approval Order as they were not 
+notified to the Commission. Such conduct, suppressions and misrepresentations by 
+Amazon had reduced the intensity of competition assessment in the matter. 
+Accordingly, it was prayed that, apart from imposing monetary penalty, the 
+Commission should revoke the approval granted to Amazon. 
+ 
+31. 
+Having considered the written and oral submissions of Amazon, FCPL and CAIT and 
+other material available on record, the Commission proceeds to determine whether the 
+
+ 
+Page 22 of 57 
+ 
+alleged conduct(s) of Amazon is in contravention of the provisions of Sections 43A, 44 
+and 45 of the Act. The primary issue that arises for determination in the instant matter 
+is whether Amazon, the notifying party in Combination Registration No. C-
+2019/09/688, has made misrepresentation, false statement or suppression/concealment 
+of material facts in relation to the scope and purpose of the Combination; and failed to 
+identify and notify FRL SHA as an inter-connected part of the Combination, in terms 
+of Regulations 9(4) and 9(5) of the Combination Regulations. Such determination 
+would primarily entail ascertaining whether the material brought before the 
+Commission through the present proceedings demonstrate a different scope and purpose 
+of the Combination than what was projected in the Notice and subsequent submissions 
+of Amazon in Combination Registration No. C-2019/09/688. 
+ 
+32. 
+From the material on record, the Commission notes the contract summary and internal 
+e-mail dated 19th July, 2019 of Amazon Group with the subject ‘Request for 
+APPROVAL for Project Taj [Future]…’, which elaborate the business summary and 
+summary of key terms of the Combination (Approval Request). This e-mail was sent 
+by Mr. Rakesh Bakshi to Mr. Jeff Bezos, seeking approval to sign definitive documents 
+in relation to the Combination. The relevant extracts of these are reproduced as under:   
+“Hi …, 
+ 
+We are in the final stages of negotiating definitive investment documents for 
+an INR14B (~$204MM at current exchange rates) investment to acquire a 
+49% stake in Future Coupons Limited (“Future Coupons”). Future Coupons 
+will hold ~8-10% of Future Retail Limited, India’s second largest offline 
+multi-category retailer, and we are requesting your approval to sign the 
+definitive investment documents and close the transaction. Attached for your 
+review (and reprinted below) is a legal contract summary. Please respond at 
+your earliest convenience. … have all reviewed and are supportive of the 
+investment. In addition, Legal, Tax, and Accounting have signedoff. 
+ 
+Thank you. 
+Regards, 
+… 
+Future Retail Limited Investment 
+    July 18, 2019 
+ 
+Business Summary 
+
+ 
+Page 23 of 57 
+ 
+ 
+Founded in 1987, Future Retail Limited (“Future Retail”) is India’s second 
+largest offline multicategory retailer and is headquartered in Mumbai. Future 
+Retail is listed on Indian stock exchanges and has a market capitalization of 
+~$3.4B. Future Retail is the flagship company of the Future Group, a large 
+Indian offline retail conglomerate. 
+ 
+Future Retail has a pan-India presence, with a store network spanning 
+~16MM square feet across ~1K branded stores (with a variety of formats such 
+as convenience stores, supermarkets, hypermarkets, and department stores) 
+and over 33K employees. Future Retail’s 340 hypermarkets cover ~70% of 
+Amazon India’s customer base (within a drive of less than 2 hours). As of 
+March 31, 2019, Future Retail generated ~$3B in revenues with an EBITDA 
+margin of 5%. Future Retail and its affiliates also have a strong portfolio of 
+private label selection in grocery (450+ SKUs across packaged foods, home, 
+and personal care) and value-fashion (27 brands with a median average 
+selling price of ~$9.40, and contributing to 80% of Future Retail’s gross 
+merchandize sales for fashion).  
+ 
+Future Retail is currently listed as a 3P seller on Amazon.in. Concurrent with 
+the investment, we will enter into commercial agreements with Future Retail 
+and certain other members of the Future Group under which: (i) Future Retail 
+will list the selection available in its hypermarkets on Amazon.in at 
+significantly improved terms (representing an increase of 850 basis points). 
+This will enable Amazon India to expand coverage (across ~15K SKUs) of our 
+ultra-fast delivery service in the top four cities in India and launch the ultra-
+fast delivery service in the next 20 cities in India. Future Retail will not list its 
+products on any other third party online website; (ii) Amazon Pay will be the 
+exclusive third party wallet accepted in Future Retail’s stores and website; 
+(iii) one of Future Retail’s affiliates, Future Consumer Limited, which owns 
+and produces the Future Group’s private label grocery and general 
+merchandise (such as cooking needs, storage needs, and utensils) portfolio, 
+will supply these products to our food retail entity in India and our affiliated 
+sellers on a B2B basis at significantly improved margins, and will agree to not 
+supply these products to certain named competitors; and (iv) one of Future 
+Retail’s affiliates, Future Lifestyle Fashions Limited (FLFL), will list brands 
+owned by (or exclusively licensed to) FLFL in fashion on Amazon.in and will 
+not list these fashion products on any other third party online websites.  
+ 
+Lastly, we have negotiated a call option over the shares held by Future Retail’s 
+promoters (who are also its largest shareholder), leaving us well-positioned 
+to become the single largest shareholder of Future Retail (which would be very 
+difficult through market purchases alone), if Indian foreign investment laws 
+change in the future. 
+ 
+ 
+ 
+
+ 
+Page 24 of 57 
+ 
+Summary of Key Terms 
+ 
+Structure: 
+Due to the recent PN2 restrictions under Indian foreign investment laws, we 
+will use a “twin-entity investment” structure to invest in Future Retail. 
+Amazon will acquire 49% of Future Coupons, with the other 51% being owned 
+by the promoters of Future Coupons (who are also promoters and single 
+largest shareholders of Future Retail, the “Promoters”). Our shareholding in 
+Future Coupons will be divided into voting equity share capital (25.1%), and 
+non-voting equity share capital (23.9%), though we will have all the statutory 
+rights available to a 49% shareholder. You may recall this structure and 
+voting/non-voting split is also how we resolved PN2 for Project Brigade, our 
+acquisition of a 49% interest in More Retail Limited (which is also engaged in 
+retail of food and grocery in India). 
+ 
+Future Coupons has acquired warrants representing ~7% of Future Retail 
+(which warrants will convert into equity shares of Future Retail by October, 
+2020). Further, Future Coupons will, prior to our investment, acquire an 
+additional 1-3% equity shares of Future Retail (from the Promoters) such that 
+prior to our investment, Future Coupons will own 8-10% of Future Retail. The 
+number of equity shares of Future Retail to be held by Future Coupons has 
+been calculated such that Amazon can indirectly hold the same number of 
+shares of Future Retail that Amazon would have acquired if Amazon had 
+directly invested INR14B in Future Retail at a price per share representing a 
+25% premium on the minimum regulatory price prescribed for issuance of 
+fresh shares of a listed entity under Indian law. In summary, Amazon is paying 
+a premium of 25% (INR2.8B i.e ~$41MM at current exchange rates) over the 
+regulatory price of the securities of Future Retail. This premium is being paid 
+on account of the strategic rights and Call Option being provided to Amazon. 
+Due to the Call Option and the strategic rights being at or above the prevailing 
+market price, we currently estimate a ~$41MM P&L loss at sign (see details 
+in the accounting treatment section below).  
+ 
+Future Coupons was founded in 2008 and is engaged in the business of 
+marketing and distribution of gift cards, loyalty cards, and other rewards 
+programmes to corporate customers…”   
+ 
+[Emphasis Supplied] 
+ 
+33. 
+Prior to the Approval Request, a situation update relating to the negotiation between the 
+parties, seen as a part of another internal e-mail dated 10th July, 2018 of Amazon 
+(Situation Update), elaborates on the background and purpose with which the 
+
+ 
+Page 25 of 57 
+ 
+Combination was contemplated between Amazon and Future Group. The relevant 
+extract of the Situation Update is reproduced below:  
+“10 July 2018 
+ 
+Project Taj – Investment in National Multi-category Copperfield-seller 
+ 
+Situation Update: 
+ 
+The Taj group is India’s largest and multi-category offline retailer with 280 
+multi-category stores, 620 grocery stores and 400 fashion only stores in top 50 
+cities. The Taj group’s retail company, Taj Retail Limited (TRL) is publicly 
+traded and has a market cap of $4.1B1 (July 9, 2018). Amazon’s India team 
+likes Taj’s management team, store footprint, private label capability and 
+believe they are one of the key players in the offline retail market to partner 
+with. For an overview of relevant Taj group businesses, please refer to 
+Annexure I. 
+ 
+On 24 May, 2018, we received an approval from … to indicate interest (to Taj’s 
+founder) to invest between $400 to $500 MM for upto 9.99% stake in TRL. In 
+India, our ability to pursue investments / acquisitions of retailers is limited 
+because laws restrict foreign investment in multi-brand retail assets (i.e., 
+retailers selling multiple brands across categories under one roof). However, 
+because TRL is a listed company, Alpha [Amazon] can acquire upto 9.99% of 
+TRL directly (as a foreign portfolio investor). Eventual ownership will vary 
+upon final pricing discussions.  
+ 
+Upon receiving … approval, we engaged into deeper discussion with Taj on 
+pricing / valuation, investment structure and strategic rights that we could get 
+through an investment. As of last week, we have aligned with Taj on an 
+investment framework to proceed further with this transaction. A Business 
+Commercial Framework (BCF) to build and accelerate Ultra-Fast Delivery 
+across top-20 cities in India leveraging Taj’s national stores footprint as a 
+Copperfield seller, is agreed in principle with Taj team; please refer to 
+Annexure II for investment rationale and more details of the BCF. This note 
+provides background on the transaction, details of the investment framework 
+and FAQs addressing the key points to consider before going back to Taj team 
+with our offer…  
+ 
+FAQs 
+ 
+1. What are the strategic objectives that we want to achieve through Taj? 
+ 
+We are looking to secure the following business objectives through this 
+transaction: 
+ 
+
+ 
+Page 26 of 57 
+ 
+a.  Ability to become the single largest shareholder in India’s largest offline 
+retailer (TRL) when foreign direct investment (FDI) opens up in this sector. 
+b.  Precluding / blocking competitive interest in TRL, and preventing an IC 
+from acquiring TRL. 
+c.  Together with the investment, Alpha will enter into a commercial 
+agreement to utilize TRL’s pan-India store infrastructure to bolster Alpha’s 
+ultra-fast delivery program, exclusively carry private label portfolio in 
+grocery and value fashion, and drive higher fees for Alpha. 
+ 
+2. What is our business rationale and BCF for Taj? 
+ 
+We believe that a two-hour delivery promise, for 15,000 SKUs across top-20 
+cities will be a unique differentiating capability. It will allow us to cover 85% 
+of our Prime members and 63% of all customers. To serve this customer base, 
+we believe working closely with a large Copperfield seller is important. We 
+believe that Taj is one of two key pan-India retailers worth pursuing (the other 
+being Brigade). Taj has a strong portfolio of private label selection in grocery 
+(450+SKUs, across packaged foods, home and personal care) and value-
+fashion (27 brands with a median ASP of $9.2 (INR 600), contributing to 80% 
+of their GMS for fashion). Against our investment of $400 to 600MM in TRL, 
+we estimate the discounted cash flow value of BCF over 10 years of $702MM 
+(INR 45.6B); please refer to Annexure II for investment rationale and more 
+details of the BCF. When foreign investment laws are relaxed and higher stake 
+or acquisition of multi-brand retail assets is permitted beyond today’s 
+possibilities, we would have a foot-in-the-door to acquire more in this strategic 
+asset, should we so desire at the time. For further details please refer to 
+Annexure II – BCF Strategic Value. Importantly, our investment in TRL will be 
+liquid given that TRL is publicly traded in the Indian stock market, and 
+therefore, we can recover our investment in case TRL fails to deliver. 
+ 
+3. What is the proposed transaction? 
+ 
+An overseas Amazon entity, registered as a ‘foreign portfolio investor’, will 
+acquire 9.99% (through a fresh issuance of shares) of TRL. Simultaneous with 
+the investment, Alpha India will enter into a commercial agreement (BCF) with 
+TRL, and Taj Consumer Limited (TCL), and Taj Lifestyle Fashion Limited 
+(TLFL) in relation to the matters listed in FAQ 2… 
+ 
+6. If we were to execute both Taj and Brigade, why is a Call Option important 
+in both situations? 
+ 
+Our ICs (BB, FK, Paytm Mall) are aggressive on grocery, general merchandise 
+and general electronics categories. Specifically in grocery and fresh categories, 
+we are lagging behind BB and FK is also nipping at our heels. Walmart’s 
+expertise in offline retail will likely spur FK and Alibaba’s investment and 
+technology will continue to push BB ahead.  
+ 
+
+ 
+Page 27 of 57 
+ 
+Given the above, we need to build deep strategic alignments with offline grocery 
+retailers to leverage their execution capabilities to power our fresh and grocery 
+offering. India has 6 offline retailers (Taj, Brigade, Reliance Retail, D-Mart, 
+Spencers and Nature’s Basket). With a process of elimination on parameters of 
+asset quality, partner quality and availability, only two i.e. Taj and Brigade 
+remain. If we are able to close our investment in Brigade, we would secure a 
+high quality asset, however it will lack the scale and national footprint that Taj 
+offers. Further, Brigade is our bet to own a high quality grocery operation. Taj, 
+on the other hand, is an investment in a multicategory Copperfield seller with a 
+larger pan-India footprint. Getting a Call option in both assets allows us to 
+acquire and raise our bet, at our discretion, in the player we feel best meets our 
+objectives after having tested close operational alignment with both in 3-7 years 
+following investment; when regulations permit. 
+ 
+7. If we were to execute both Taj and Brigade, how would we decide which 
+Call Option to exercise then? 
+ 
+Keeping aside our tenets of Financial Discipline for the moment; holding a Call 
+Option in both assets keeps our options open and it also serves as an incentive 
+/ deterrent to Brigade / Taj. If Brigade executes flawlessly, we can exercise our 
+Call Option (when legally permissible) and make Brigade a spearhead of our 
+1P grocery operations. If Brigade doesn’t execute to our bar, then we can 
+choose to pull back from further investments in Brigade and double down on 
+our investments in Taj, provided that it meets our expectations. If Taj executes 
+well both on BCF as well as an independent retail asset, when regulations relax, 
+we will have the ability to increase our stake in India’s largest offline retailer 
+and keep our competition. If Taj doesn’t execute well, we can exit our ownership 
+in listed stock. Holding Call Options in both assets, thus allows us to control 
+our destiny in a thoughtful manner in the future… 
+ 
+Annexure II - Strategic value accruing to Amazon as a result of the Business 
+Commercial Framework (BCF)  
+ 
+We started working with Taj, couple of years ago, as a Copperfield seller in 
+three cities (across 23 stores) to learn and develop the ultrafast delivery model 
+in India. In April-2018, we served about 2000 orders per day with an AOV of 
+$12.3 (INR 802) and UPO of 9.3. We earn merchant fee of 5.4% and have a 
+CPLF of -$4.55 (-INR 296) per order (55.5%). If we improve the order 
+economics, we believe Taj’s footprint of physical infrastructure can offer a 
+unique 2-hour-delivery service across multiple categories in top-20 cities. 
+Therefore, we constructed a BCF to estimate value creation from this 
+partnership across their retail assets and private label capabilities. 
+ 
+1. Offer 2-hour-ready selection in top 4 cities with improved economics: 
+An average hypermarket store carries an in-stock selection of about 
+15,000 SKUs - 8500 in softlines, 5500 in grocery and 2000 in general 
+merchandising (primarily home and kitchen). There are 104 stores in 
+
+ 
+Page 28 of 57 
+ 
+top 4 cities. In five years we can scale to 21K orders/day with an AOV 
+of $24 (INR 1549) and GMS of $181MM (INR 11B). In this model we 
+will bear only the last mile costs with increase in SoA fee for grocery at 
+13.5% (+810bps over current levels) and 32% for softlines. Therefore, 
+we will improve our order economics with an OP per order of -$0.8 (-
+INR 53) or (+2495bps vs. 2021 LRF). OP less infra will be $1.3 (INR 
+84) (+2466 bps vs. 2021 LRF) 
+ 
+2. Build and expand 2-hour-delivery service in the next 16 cities: These 
+cities are likely to grow faster than the top-4 cities and therefore will 
+lead in retail consumption. Taj has nearly 120 stores in these cities and 
+carry an average selection of 12,000 SKUs. We expect to expand the 
+Copperfield-service to these cities within three years and scale to 31K 
+orders per day with an AOV of $20.9 (INR 1,363) by year 5. The order 
+economics will be similar to that in top-4 cities. 
+ 
+3. Carry Taj’s private label selection across grocery and softlines 
+exclusively: We will leverage Taj’s private label selection to substitute 
+and accelerate the private label selection in Pantry. Our 2020-LRP 
+assumes private-label penetration of 7.0% as proportion of 
+Consumables GMS. We believe we can expand private-label 
+participation to 18% by year-3 (current penetration of Taj is at 30% in 
+FMCG and 60% in Staples). This will give incremental margins of INR 
+26 per order in Pantry. Taj has capabilities from design to 
+manufacturing for fast and value-fashion brands in apparels, shoes and 
+luggage. Leveraging this capability, we can improve the share of private 
+labels to overall Softlines business by 10% (+500bps) in Year-5. 
+Secondly, we expect Taj’s fashion stores Fashion-Big-Bazaar, Central 
+and Brand Factory to list as a seller, similar to Shopper Stop (we 
+invested for a 5% stake in India’s largest offline fashion department 
+store to onboard 200K+ ASINs across 300 fashion brands) and generate 
+additional 0.5MM order per month. We expect to improve Softlines CP 
+by 507bps by year- by a combination of accelerated PL penetration, 
+increased selection of Central and Brand Factory and improvement in 
+SOA fees. 
+ 
+4. Foot-in-the-door and a strategic option value: Laws in India currently 
+do not permit foreign investment in offline retail companies engaged in 
+both food and non-food retail. This could change in the next 3-5 years, 
+as government of India, is slowly relaxing the laws. At that point, Taj 
+will likely still be the largest asset with pan-India footprint and the 
+possibility of greater control.” 
+ 
+[Emphasis Supplied] 
+ 
+ 
+
+ 
+Page 29 of 57 
+ 
+34. 
+Another important internal document of Amazon that shows the basis of entering into 
+the Commercial Arrangements and the share acquisition is its internal note dated 24th 
+May, 2018, the relevant extract of which is reproduced as under:   
+ 
+ 
+ 
+“Project Taj – National Multi-category Copperfield-seller 
+ 
+Background:…Amazon’s India team likes Taj’s management team, store 
+footprint, private label capability and believe they are one of the key players 
+in the offline retail space to partner with. In January 2018, the founder of 
+Project Taj had visited Seattle and presented the Taj Group’s capabilities to 
+Jeff Bezos and the senior leadership team. Since then, we engaged with Taj 
+and discussed a Business Commercial Framework (BCF) to build and 
+accelerate Ultra-Fast Delivery across top-20 cities in India leveraging Taj’s 
+national stores footprint as a Copperfield seller. In India, our ability to pursue 
+investments / acquisitions of retailers is limited because laws restrict foreign 
+investment in multi-brand retail assets (i.e., retailers selling multiple brands 
+across categories under one roof). However, because Taj’s Retail entity is a 
+listed company, we could invest up to 9.99% of the company directly as foreign 
+shareholders. To execute on the above Business Commercial Framework 
+(BCF) the founder of Taj believes a close alignment via a strategic 
+investment with an online player is important. We seek your approval to 
+indicate our non-binding interest (to Taj’s founder) to invest between $400 to 
+$500 MM for up to 9.99% stake in the company. Eventual ownership will vary 
+upon final pricing discussions. This indication of interest to invest in Taj will 
+allow us to get engaged deeper into discussion on pricing / valuation (given 
+fluctuating stock price & regulatory pricing guidelines), deeper financial 
+performance of Taj, regulatory hurdles/challenges and strategic rights… 
+ 
+ 
+Investment Rationale: We believe that a two-hour delivery promise, for 
+15,000 SKUs across top-20 cities will be a unique differentiating capability. It 
+will allow us to cover 85% of our Prime members and 63% of all customers. 
+To serve this customer base, we believe working closely with large Copperfield 
+seller is important. We believe that Taj is one of two key pan-India retailers 
+worth pursuing. Other retailers are sub-scale or part of business groups, or 
+are unsuitable to partner with. Taj has a strong portfolio of private label 
+selection in grocery (450+SKUs, across packaged foods, home and personal 
+care) and value-fashion (27 brands with a median ASP of $9.2 (INR 600), 
+contributing to 80% of their GMS for fashion). An investment in Taj will allow 
+us to provide the following benefits, based the commercial terms we have 
+been discussing with Taj: (a) expand coverage in top four cities with improve 
+
+ 
+Page 30 of 57 
+ 
+the merchant fee to 13.5% (+850bps); (b) build a two-hour-delivery service in 
+next 20 cities; (c) exclusively carry their private label portfolio in grocery and 
+value-fashion; and(d) obtain option value to increase our equity stake when 
+laws change. In summary, against an investment of $400 to 500MM in Taj 
+we estimate the discounted cash flow value of BCF over 10 years of $702MM 
+(INR 45.6B). Our investment will be liquid given that Taj is publicly traded in 
+the Indian stock market…” 
+ 
+[Emphasis Supplied] 
+ 
+35. 
+The Commission notes that the above three internal documents (Internal 
+Correspondence) of Amazon Group are relevant to understand its focus during 
+negotiation with Future Group and what were its objectives to be achieved by way of 
+entering into the Combination. As may be seen, the negotiations between the parties 
+relating to the Combination were taking place as early as May, 2018, wherein Amazon 
+initially planned to partner with Future Group, being a key player in the offline retail 
+market, by acquiring 9.99% shareholding in FRL as well as entering into a business 
+commercial framework to build and accelerate ultra-fast delivery services across the 
+top-20 cities in India, leveraging the national footprints of Future Group. Through these 
+transactions, Amazon Group wanted to secure its ability to become the single largest 
+shareholder of FRL when the foreign direct investment opens up in the retail sector; 
+preclude/ block competitive interest in FRL and utilise the pan-India store infrastructure 
+of FRL to bolster the ultra-fast delivery program and exclusively carry private label 
+portfolio in grocery and value fashion; and drive fees for Amazon. The rationale to enter 
+into such Combination included the need for Amazon to build deep strategic alignments 
+with offline grocery retailers to leverage their execution capabilities to power the fresh 
+and grocery offerings of Amazon. 
+ 
+36. 
+The Approval Request dated 18th July, 2019 suggests that, in view of certain 
+developments relating to foreign investments in India, instead of directly acquiring 
+9.9% shareholding in FRL, Amazon would use a twin-entity investment structure to 
+invest in FRL i.e., Amazon would acquire 49% shareholding in FCPL which, in turn 
+would hold 8 – 10% of the shareholding in FRL. It was further stated that the number 
+of equity shares of FRL to be held by FCPL was calculated such that Amazon can 
+indirectly hold the same number of shares of FRL that Amazon would have acquired if 
+
+ 
+Page 31 of 57 
+ 
+it had directly invested the consideration in FRL. Further, the consideration has been 
+arrived at on the basis of traded price of FRL shares, and a 25% premium is paid on 
+account of the strategic rights and call option. Furthermore, it is evident that acquisition 
+of shares in FRL/FCPL by Amazon was envisaged as a pre-requisite to enter into 
+commercial agreements between Amazon and Future groups.  
+ 
+37. 
+Seen against the above backdrop, the purpose of the Combination, including the rights 
+over FRL and the Commercial Arrangements with FRL, as enlisted in the summary 
+dated 18th July, 2019 appended to the Approval Request was for investment in FRL and 
+establishing a strategic alignment/partnership between Amazon and Future groups, in 
+the Indian retail sector. 
+ 
+38. 
+Now coming on to the Notice, it is relevant to look at Item 5.3 of Form I, which requires 
+the notifying party to disclose ‘Economic and Strategic purpose (including business 
+objective and rationale for each of the parties to the combination and the manner in 
+which they are intended to be achieved) of the Combination’. Amazon submitted the 
+following as its purpose for the Combination:  
+ 
+“The Investor [Amazon] believes that FCL [FCPL] holds a potential 
+for long term value creation and providing returns on its investment. 
+The Investor has decided to invest in FCL with a view to strengthen 
+and augment the business of FCL (including the marketing and 
+distribution of loyalty cards, corporate gift cards and reward cards to 
+corporate customers) and unlock the value in the company.”18  
+ 
+39. 
+In terms of Regulation 13A of the Combination Regulations, the notifying party is 
+required to provide a summary of the combination containing, inter alia, the nature and 
+purpose of the combination. The relevant extract of the summary filed by Amazon 
+against this requirement states that: 
+ 
+“The Investor [Amazon] believes that FCL [FCPL] holds a potential 
+for long term value creation and providing returns on its investment. 
+The Investor has decided to invest in FCL with a view to strengthen 
+                                                          
+18 Para 30, at pp. 30 and 31, of the Notice 
+ 
+
+ 
+Page 32 of 57 
+ 
+and augment FCL’s business relating to marketing and distribution of 
+corporate gift cards.”19 
+  
+40. 
+Upon examination of the Notice, a specific query was posed to Amazon, vide letter 
+dated 9th October, 2019, in relation to Item 5.3 of the Notice viz., ‘2.13 With reference 
+to item 5.3 of Form I, please provide the following: … (c) According to media articles 
+and statements of Mr. Kishore Biyani, the investment by Amazon is strategic to become 
+a part of the ecosystem. Please elaborate’. In response, Amazon had elaborated the gift 
+card business of FCPL and the interest of Amazon to expand its portfolio in the 
+payments landscape in India and stated that: 
+ 
+ “In this backdrop, it is submitted that the Proposed Combination will 
+enable the Parties to: (i) enhance Investor’s [Amazon] existing 
+portfolio of investments in the payments landscape in India, (ii) 
+provide an opportunity to FCL [FCPL] to learn global trends in digital 
+payments solutions and launch new and innovative product offerings; 
+and (iii) offer innovative payments solutions to entities so as to 
+enhance consumer convenience and user experience”20.  
+ 
+41. 
+A further query on the rationale of the rights under FRL SHA was posed to Amazon 
+vide letter dated 24th October, 2019 viz. ‘2.5. As per the notice, Acquirer will get certain 
+rights over the FRL. You are required to provide details of shareholding (directly / 
+indirectly), affirmative rights/veto rights/ rights not available with ordinary 
+shareholders in FRL or rights with respect to FRL being acquired by Amazon and 
+strategic and or economic rationale for such rights’. In response, Amazon, inter alia, 
+stated that:  
+“It is submitted that the Investor's [Amazon] decision to invest in FCL 
+[FCPL] is, inter alia, based on the following considerations: (a) the 
+unique business model of FCL addresses an existing gap in the 
+payments landscape in India, thereby making it a strong and sound 
+investment opportunity for the Investor (who holds similar existing 
+investments in entities engaged in business activities within the 
+payments market in India); and (b) while FCL has a strong growth 
+                                                          
+19 Para 5 at page 954 of the Notice 
+ 
+20 Para 53 at page 35 of the Submission dated 15th November, 2019, in response to the letter dated 9th October, 
+2019 of the Commission 
+ 
+
+ 
+Page 33 of 57 
+ 
+potential, in the short term, to add credibility to its financial position, 
+it has invested in, and proposes to invest in FRL, which is a publicly 
+traded company with strong financials and futuristic outlook. In other 
+words, the Investor has considered all the above-mentioned factors in 
+totality to arrive at the value of the proposed investment…21” 
+ 
+ [Emphasis Supplied] 
+ 
+42. 
+Amazon had further claimed in the said response that it does not have any direct or 
+indirect shareholding in FRL22, and with a view to protect its investment in FCPL, 
+certain rights have been granted with respect to FCPL’s investment in FRL. These rights 
+were  stated to be: (a) ‘contractual investor protection right... with no voting rights, 
+with a view to protect its investment in FCL [FCPL]’23; (b) ‘standard investment 
+protection rights that are commonplace in investment agreements’24; (c) ‘it would be 
+important to note that not only are investors rights limited in scope, they also not extend 
+to any subject matter that encroaches upon the commercial and operation decision 
+making process of the FRL...25’; and (d) ‘investor drives value of its investment from 
+FCL and FRL (by virtue of being an underlying asset of FCL). Therefore, it is essential 
+for the Investor to secure certain rights to protect its investment’26.  
+ 
+43. 
+In stark contrast to the Internal Correspondence of Amazon, the disclosures made 
+against Item 5.3 of Form I, summary filed pursuant to Regulation 13A of the 
+Combination Regulations, query 2.13(c) of letter dated 9th October, 2019 and query 2.5 
+of the letter dated 24th October, 2019, did not indicate a possibility of the Combination 
+being pursued by Amazon for having a ‘foot-in-door’ in the Indian retail sector, acquire 
+strategic rights over FRL or entering into any commercial partnership with FRL to 
+                                                          
+21 Page 35 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+22 Page 35 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+23 Page 37 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+24 Page 39 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+25 Page 40 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+26 Page 43 of submission dated 15th Nov., 2019 of Amazon (response to letter dated 24th Oct., 2019) 
+ 
+
+ 
+Page 34 of 57 
+ 
+expand the ability of Amazon in ultra-fast delivery services. Instead, the business 
+potential of FCPL was shown as the driving factor for Amazon to pursue the 
+Combination and FRL was merely shown as a factor of financial strength. The Internal 
+Correspondence of Amazon makes it abundantly clear that Amazon was all along 
+focussed/interested in FRL. The Internal Correspondence of Amazon does not speak 
+about the business potential of FCPL, as has been claimed and projected in the Notice 
+and in the responses to the letters of the Commission. Similarly, the Notice presents the 
+rationale of indirect rights over FRL, as protection to investment in FCPL but the 
+Situation Update dated 10th July, 2018 identifies the same set of rights as answer to the 
+following question ‘What strategic rights do we get through this investment.’ The 
+expressions used by Amazon to describe the rationale behind the indirect rights over 
+FRL varied from time to time: ‘strategic rights’ in its Internal Correspondence; 
+‘protection to investment in FCPL’ in the Notice given to Commission; and ‘rights 
+derived from FRL SHA are to protect the interest of the investor [Amazon]’ in the 
+response to SCN. While the object and purport of mere investor protection rights are 
+limited to protect the investment made, the object and purport of strategic rights, such 
+as those reflected in the Internal Correspondence, are much different. Such difference 
+is of significance in establishing a proper understanding of a combination and its 
+purpose, and accordingly, deciding the appropriate line of inquiry to assess the effects 
+of the combination on competition. The Commission observes that, in every case of 
+investment, the acquirer would want to protect the value of its investment and the 
+returns therefrom. However, when a strategic acquisition is contemplated to achieve 
+synergies amongst the business activities of acquirer and target enterprise through 
+acquisition of shareholding (or) integration of whole/part of their business (or) 
+commercial contracts/arrangements (or) a combination of these, any right accruing to 
+acquirer pursuant to such acquisition would be beyond, but not limited to, mere investor 
+protection. The purpose of securing strategic interest over FRL and commercial 
+partnership with FRL is much different from FRL, a company with strong financials 
+and futuristic outlook, being merely taken as an element of financial strength and 
+protection to the investment in FCPL.  
+ 
+
+ 
+Page 35 of 57 
+ 
+44. 
+In the Notice, Amazon had represented that its rationale behind the Combination was 
+the business potential of FCPL to create long term value and provide return on the 
+investment made by Amazon. However, the Internal Correspondence of Amazon 
+clearly shows different purposes for envisaging the Combination (i.e., ‘foot-in-door’ in 
+the Indian retail sector, secure rights over FRL that are considered as strategic by 
+Amazon and Commercial Arrangements between the retail business of Future Group 
+and Amazon). In its response to the letters dated 9th October, 2019 and 24th October, 
+2019 of the Commission, Amazon had continued with the suppression of actual purpose 
+of the Combination. Amazon has not contested the genuineness of the Internal 
+Correspondence or their contents. It is obvious that the purpose of Amazon to pursue 
+the Combination was not the potential of the gift and loyalty card business of FCPL, as 
+has been claimed in the Notice. Rather, FCPL was envisaged only as a vehicle in the 
+Combination to which no value or purpose is ascribed in the Internal Correspondence. 
+Further, it is clear from the above discussed e-mail dated 19th July, 2019 that the entire 
+consideration of the Combination has been arrived at on the basis of 25% premium to 
+the regulatory price of FRL shares and that such premium was paid on account of the 
+strategic rights and the call option provided to Amazon. Thus, the instant matter is a 
+clear, conscious and willful case of omission to state the actual purpose of the 
+Combination despite the disclosure requirement under Item 5.3 of Form I read with 
+Regulation 5 of the Combination Regulations and Section 6(2) of the Act. Further, 
+Amazon has failed to provide any material or plausible explanation in its response to 
+the SCN and in the subsequent submissions to demonstrate that its disclosures against 
+Item 5.3 are correct and that the business potential of FCPL was a consideration for 
+Amazon to pursue the Combination. Seen in the context of the Internal Correspondence 
+and failure to provide any of the said material and/or explanation, it is evident that 
+Amazon, in addition to the omission to state the purpose of the Combination, has 
+misrepresented the Commission by stating that the purpose of the Combination is an 
+opportunity arising from the business potential of FCPL and to add credibility to 
+FCPL’s financial position, FCPL invested and proposed to further invest in FRL,  a 
+company with strong financials and futuristic outlook. Seen against the backdrop of 
+Internal Correspondence, the statements of Amazon in the Notice and subsequent 
+
+ 
+Page 36 of 57 
+ 
+submissions dated 15th November, 2019 regarding the purpose of the Combination, 
+stand belied. It is evident that these statements have been made with full knowledge 
+that the same are false in material particulars. Amazon had misled the Commission to 
+believe, through false statements and material omissions, that the Combination and its 
+purpose were the interest of Amazon in the business of FCPL. 
+ 
+45. 
+At this juncture, it also relevant to look at the disclosure of Amazon against Item 8.8 of 
+Form I, which requires a notifying party to furnish documents, material (including 
+reports, studies, plan, latest version of other documents), etc. considered by and/or 
+presented to the board of directors and/or key managerial person of the parties to the 
+combination and/or their relevant group entities, in relation to the proposed 
+combination. The purpose of this requirement is to understand the commercial and 
+economic contours of the given combination in addition to the legal contracts submitted 
+as trigger documents against Item 8.7 of Form I. True and complete disclosure against 
+Item 8.8 enables the Commission to determine the appropriate framework for 
+competition assessment of the Combination. In response to Item 8.8, Amazon had 
+furnished a presentation titled ‘Taj Coupons - Business Plan for 5 years’. The eight-
+page presentation provides only a brief idea of the gift voucher business of FCPL, its 
+business operating model, estimated five-year business size, organisation design, sales 
+team and financial summary, without any reference to FRL.  
+ 
+46. 
+Considering the disclosures in the Notice, including that against Item 8.8, a specific 
+query was posed to Amazon vide letter dated 24th October, 2019 of the Commission: 
+‘2.1 It is noted that in terms of query 8.8 of Form I, Parties have not furnished requisite 
+documents. Accordingly, you are required to provide documents, material (including 
+reports, studies, plan, latest version of other documents), etc. considered by and/or 
+presented to the board of directors and/or key managerial person of the parties to the 
+combination and/or their relevant group entities, in relation to the proposed 
+combination. Further, for each document, indicate the date of preparation and the name 
+and title of the addressee(s)’.  
+ 
+
+ 
+Page 37 of 57 
+ 
+47. 
+In response, Amazon furnished copies of resolution authorising the execution of FCPL 
+SSA and FCPL SHA, and copies of the reports on legal due-diligence and key tax issues 
+relating to FCPL. Neither copies of the above discussed Internal Correspondence nor 
+any other document containing the actual purpose reflected in the said documents was 
+furnished to the Commission. It is noted that no purpose elaborated in the Internal 
+Correspondence surfaced in any of the material furnished against Item 8.8 of Form I or 
+query 2.1 of the letter dated 24th October, 2019 of the Commission. Similarly, the 
+purpose of the Combination stated in the Notice and subsequent submissions of 
+Amazon, were not a consideration in the Internal Correspondence. These clearly 
+establish that Amazon had knowingly suppressed relevant and material documents to 
+be furnished under Item 8.8 of Form I.  
+ 
+48. 
+In view of the above, the Commission notes that the Internal Correspondence discussed 
+above clearly demonstrates that Amazon had failed to disclose true and complete details 
+of the purpose of the Combination, which is required to be given under Item 5.3 of Form 
+I. Further, Amazon had misrepresented that its decision to pursue the Combination was 
+based on the unique business model of FCPL, and that FRL, a company with strong 
+financials and futuristic outlook, is relevant to the Combination only from the 
+perspective of financial strength to FCPL. As brought out earlier, Amazon also failed 
+to disclose and clarify the real purpose of the Combination in the Notice and continued 
+with its false/misleading assertions even in its response to the queries posed vide letters 
+dated 9th October, 2019 and 24th October, 2019 of the Commission. Amazon has also 
+supressed relevant and material documents required to be furnished in terms of Item 8.8 
+of Form I. Considering these, the Commission has no hesitation to hold that such 
+conducts of Amazon amount to suppression and misrepresentation of the purpose of the 
+Combination, which is a material particular. This is in contravention of the provisions 
+contained in clauses (a) and (b) of Section 44 and clause (a) of sub-section (1) of Section 
+45 of the Act. The conduct of Amazon in supressing relevant and material documents 
+against the disclosure requirement under Item 8.8 of Form I is a contravention of clause 
+(c) of sub-section (1) of Section 45 of the Act. Similarly, the rights over FRL that were 
+considered as strategic in the Internal Correspondence of Amazon, were represented as 
+
+ 
+Page 38 of 57 
+ 
+mere investor protection rights. Such repeated assertions, contrary to their actual 
+purport, amount to statements that are false in material particular, in contravention of 
+the provisions contained in clauses (a) and (b) of Section 44 and clause (a) of sub-
+section (1) of Section 45 of the Act. 
+ 
+49. 
+Another issue that arises for determination out of SCN, is whether FRL SHA was 
+identified and notified as an inter-connected part of the Combination, in terms of 
+Regulations 9(4) and 9(5) of the Combination Regulations. In response to the SCN, 
+Amazon has, inter alia, submitted that there was no reason for Amazon to represent 
+that the FRL SHA was negotiated independent of its investment in FCPL27. In the 
+written submissions filed following the oral hearing in the matter28, Amazon has further 
+submitted that it had disclosed FRL SHA to the Commission in compliance with the 
+requirements of Regulation 9(4) and 9(5) of the Combination Regulations.   
+ 
+50. 
+Before determining the merits of this issue, it is pertinent to note the relevant provisions 
+of the Act and the Combination Regulations. Unlike the proceedings relating to anti-
+competitive agreements and abuse of dominant position, the Act envisages ex ante 
+regulation of combinations. Section 5 of the Act means combination as acquisition of 
+shares, voting rights, assets or control, merger or amalgamation between enterprises, 
+provided the parties meet the financial thresholds provided therein.  Section 6(1) of the 
+Act prohibits combination that causes or likely to cause appreciable adverse effect on 
+competition. Section 6(2) of the Act obliges parties to combination to give notice in 
+respect of their proposed combination, in the form as may be specified. Further, Section 
+6(2A) of the Act provides that a combination notified to the Commission shall not come 
+into effect for a period of 210 days from the date of notification or earlier approval by 
+the Commission. If the Commission fails to take a decision within the said time period, 
+the combination would be deemed approved. Thus, the scheme and purpose of the Act 
+is to provide a time-bound opportunity to the Commission to evaluate the likely effects 
+of the proposed combination on competition in the relevant market(s) in India and 
+                                                          
+27 Page 19 of the response of Amazon filed on 28th July, 2019 
+ 
+28 Para 58 at page 8 of the written submissions of Amazon filed on 5th October, 2021  
+
+ 
+Page 39 of 57 
+ 
+regulate them appropriately. If a party fails to comply with the requirement of  Section 
+6(2) of the Act to give notice to the Commission of their proposed combination, the 
+same would attract penalty under Section 43A of Act.  
+ 
+51. 
+In exercise of the powers conferred under Section 64 read with Section 6(2) of the Act, 
+the Commission has issued the Combination Regulations, which govern the procedural 
+aspects relating to regulation of combinations. These regulations provide that a 
+notifying party may choose to give notice under Section 6(2) of the Act either in Form 
+I or Form II. While Form I is a short form, Form II requires detailed information and is 
+preferred in cases where the business activities of the parties are similar or identical or 
+substitutable and their market share is higher than 15% in the relevant market, or the 
+activities of the parties are in different levels of the production chain and the individual 
+or combined market share of the parties is more than 25% in the relevant market.  
+ 
+52. 
+Regulation 9(4) of the Combination Regulations states that “Where the ultimate 
+intended effect of a business transaction is achieved by way of a series of steps or 
+smaller individual transactions which are inter-connected, one or more of which may 
+amount to a combination, a single notice, covering all these transactions, shall be filed 
+by the parties to the combination”. This provision makes it mandatory for parties to the 
+combination to give one notice covering all inter-connected steps of their proposed 
+combination. Further, Regulation 9(5) of the Combination Regulations stipulates that 
+“The requirement of filing notice under regulation 5 of these regulations shall be 
+determined with respect to the substance of the transaction and any structure of the 
+transaction(s), comprising a combination, that has the effect of avoiding notice in 
+respect of the whole or a part of the combination shall be disregarded”.  
+ 
+53. 
+In the context of the notification of inter-connected steps of a combination under 
+Section 6(2) of the Act and applicability of exemption to such a step, on a standalone 
+basis, the Hon’ble Supreme Court of India in Competition Commission of India v. 
+Thomas Cook & Anr.29 held that technical interpretation to isolate two steps of the same 
+                                                          
+29 Judgment dated 17th April, 2018 in Civil Appeal No.13578 of 2015 
+
+ 
+Page 40 of 57 
+ 
+combination would be contrary to the sprit and provisions of the Act. In the said matter, 
+the Commission, in its decision30, had observed that considering two different 
+transactions as one combination depends on the facts and circumstances of each case 
+with due regard to the subject matter of the transactions; the business and entities 
+involved; simultaneity in negotiation, execution and consummation of the transactions; 
+and also, whether it is practical and reasonable to isolate and view the transactions 
+separately. In another decision of the Commission relating to Canada Pension Plan 
+Investment Board and ReNew Power Limited31, the Commission observed that a holistic 
+appreciation of the facts and circumstances of the given case would be relevant to 
+determine inter-connectedness and an isolated or piecemeal appreciation of specific 
+facts or parameters may not yield any pragmatic conclusion. 
+ 
+54. 
+As brought out earlier, the Combination in the instant matter, is a composite of 
+acquisition of shares, rights and commercial contracts. These together were for the 
+purpose of a strategic alignment amongst the business of the parties, in particular to 
+expand the ultra-fast delivery service of Amazon. The internal notes and e-mails dated 
+24th May, 2018, 10th July, 2018 and 18th July, 2019 clearly reveal that all the said three 
+elements have always been considered parts of one proposal, ‘Project Taj’. In particular, 
+the internal note dated 24th May, 2018 shows that Amazon had initially proposed 
+approval to the strategic investment so that the parties could execute the commercial 
+agreements and had estimated the returns on its investment in FRL through discounted 
+cash flows from such agreements over 10 years. The commercial agreement and 
+acquisition of shares in FCPL to secure shareholding and rights over FRL had been 
+inter-connected to each other and were conceived, contemplated, negotiated and 
+consummated as part of one composite combination. However, Transaction I, 
+Transaction II and Transaction III alone were identified and notified as constituent steps 
+                                                          
+ 
+30 Order dated 21st May, 2014 passed under Section 43A of the Act in Combination Registration No. C-
+2014/02/153 
+ 
+31 Order dated 21 November, 2019 under Sections 43A and 44 Chapter VI of the Act 
+ 
+
+ 
+Page 41 of 57 
+ 
+of the Combination32, and FCPL SSA and FCPL SHA alone were stated as agreements 
+executed in relation to the Combination33. These details are further discussed in the 
+succeeding paragraphs. 
+  
+55. 
+The fact that FRL SHA was part of the Combination and was executed at the behest of 
+Amazon, is overwhelmingly evident from the email dated 4th April, 2019 of Amazon to 
+Future Group which, inter alia, states as follows:    
+ 
+4. Enforcement of rights 
+with respect to FRL 
+The SHA provides certain rights which are specific 
+to FRL, being: 
+ 
+ The right of Alpha to appoint an observer; 
+ Veto of Alpha on further funding (if not done in 
+accordance with the provisions of the SHA) 
+ Veto of Alpha on transfer of assets; 
+ Veto of Alpha in case of amendment of charter 
+documents which impacts Alpha’s rights; 
+ ROFR of Alpha in case of Restricted 
+Transaction; 
+ Process for further funding by FRL. 
+As per the current proposal Alpha has no recourse 
+in case FRL does not give effect to these 
+provisions, including for instance, if Promoters for 
+any reason are not able to exercise their vote on 
+such matters. To ensure that these rights are 
+enforceable against FRL albeit through the 
+Company, it is preferred that these rights are 
+captured by way of a specific agreement between 
+the Company, the Promoters, and TRL. The 
+manner in which the Company exercises these 
+rights will be a veto matter under the SHA. 
+Further, the articles of association of FRL will also 
+be required to be amended to include such rights. 
+ 
+ 
+[Emphasis Supplied] 
+ 
+                                                          
+32 Disclosure against Item 5.1.2 of Form I at paragraphs 15 and 16, at pages 20 and 21, of the Notice 
+  
+33 Para 34, at page 35, of the Notice and Para 44, at page 48, of the written submissions dated 15th November, 
+2019, in response to the letter dated 09th October, 2019  
+
+ 
+Page 42 of 57 
+ 
+56. 
+To determine whether FRL SHA was identified and notified as a part of the 
+Combination, as claimed in the response to SCN, it is relevant to look at Part V of Form 
+I, which requires a notifying party to describe the details of the proposed combination 
+notified to the Commission. Item 5.1 seeks details of the Combination notified under 
+Section 6(2) of the Act. The same is reproduced for ease of reference: 
+ 
+“5.1.  
+Scope of the combination notified pursuant to sub-section (2) of 
+section 6 of the Act (with reference to relevant clause under the 
+agreement(s), as applicable):  
+ 
+5.1.1.  
+Details of acquisition or merger or amalgamation, as the case 
+may be, with reference to relevant clause of section 5;  
+ 
+5.1.2.  
+Any other transaction(s) that is/are inter-connected, in terms of 
+sub-regulation (4) and / or (5) of regulation 9 of these 
+regulations; and  
+ 
+5.1.3.  
+Right(s) acquired or arising out of or in connection with the 
+transaction(s) referred to at 5.1.1 and 5.1.2 above.” 
+ 
+57. 
+It is observed that, in response to Item 5.1.1, no reference was given to FRL SHA or 
+the Commercial Arrangements. Amazon had merely submitted that the value of assets 
+and turnover of FRL is higher than the jurisdictional threshold prescribed under Section 
+5(a)(i)(A) of the Act. Based on the information relating to the constituent steps of the 
+Combination provided in pages 2 and 3 of the Notice and the disclosure against Item 
+5.1.2, it is apparent that the financials of FRL were taken into consideration as it was 
+identified as the target enterprise in Transaction II. However, no reference was made to 
+FRL SHA in the disclosures against Items 5.1.1 and 5.1.2. FRL SHA and the 
+commercial agreements, being inter-connected parts of the Combination, their details 
+ought to have been furnished in Item 5.1.2 of Form I. In response to Item 5.1.3, Amazon 
+had given a list of rights to be acquired by it in terms of FCPL SHA to protect its 
+investment in FCPL (Table 3 – The rights proposed to be acquired by the Investor in 
+terms of the SHA to protect its investment in FCL)34. In this section, it has been brought 
+out that FCPL has to take Amazon’s consent for exercising some of its rights under 
+                                                          
+34 Para 24 at Page 23 of the Notice 
+
+ 
+Page 43 of 57 
+ 
+FRL SHA. However, it has never been the case that Amazon disclosed the fact that FRL 
+SHA was negotiated as a part of the Combination and was executed to achieve one of 
+the objectives of the Combination. Similarly, no reference about the commercial 
+agreements was made in this section of the Notice. The Commission observes that mere 
+consideration of the values of the asset and turnover of FRL cannot be considered as 
+notification of FRL SHA and BCAs, as parts of the Combination. 
+ 
+58. 
+Item 5.2 of Form I requires the notifying party to disclose: 
+ 
+“Step(s) to give effect to the combination, along with timelines for each 
+step(s) of the combination” 
+ 
+[Emphasis Supplied]  
+ 
+59. 
+In response the this, Amazon provided the following disclosure: 
+ 
+“The milestones relating to the Proposed Combination have been 
+undertaken as follows:  
+ 
+Table 4- Milestones for the Proposed Combination 
+ 
+Milestone 
+Date 
+Execution of the SSA [FCPL SSA] 
+amongst the Investor, Promoters 
+and FCL in relation to the 
+acquisition of the Subscription 
+Shares 
+August 22,2019 
+Execution of SHA [FCPL SHA] 
+amongst the Investor, Promoters 
+and FCL. 
+August 22, 2019 
+ 
+The Proposed Transaction I and Proposed Transaction II are conditions 
+precedent to Proposed Transaction Ill. Therefore, after receipt of the 
+approval of the Hon'ble Commission, in order to effectuate Proposed 
+Transaction III, the Promoter Group will carry out Proposed Transaction 
+I and Proposed Transaction II. Under the SSA, the Long Stop Date is 180 
+days from the date of execution, i.e., 18 February 2020 (or such date as 
+may be mutually agreed between the parties)35” 
+ [Emphasis Supplied] 
+                                                          
+35 Paras 25 and 26, at pp. 28 and 29, of the Notice 
+
+ 
+Page 44 of 57 
+ 
+60. 
+As may be seen above, details of FRL SHA were not mentioned in Item 5.2. As has 
+emerged now, FRL SHA and the commercial agreements were inter-connected parts of 
+the Combination and accordingly, their details ought to have been disclosed against 
+Item 5.1.2 and in the above table. 
+ 
+61. 
+At para 34 of the Notice, Amazon had stated that “The Parties have only executed the 
+SSA [FCPL SSA] and the SHA [FCPL SHA] in relation to the Proposed Combination.”. 
+Further, in response to query 2.12 of the letter dated 9th October, 2019 - ‘Please 
+elaborate all types of rights that Amazon would acquire viz. shareholder, commercial, 
+business related, exclusivity rights etc. as a result of proposed combination’, Amazon 
+had, inter alia, stated that: 
+ 
+“it is submitted that the Proposed Combination, in its entirety, is 
+envisaged within the SHA [FCPL SHA] and the SSA [FCPL SSA], and 
+that the SHA [FCPL SHA] and the SSA [FCPL SSA] are the only 
+transactional 
+documents 
+executed 
+pursuant 
+to 
+the 
+Proposed 
+Combination…” 
+[Emphasis Supplied]  
+ 
+62. 
+Similar to the disclosures against Items 5.1.1, 5.1.2, 5.2 and 5.3, ‘Part I: Basic 
+Information’ of the Combination, presented at pages 1 to 5 of the Notice, also does not 
+reveal that FRL SHA and the BCAs were part of the Combination, and that FRL SHA 
+was executed to confer to Amazon indirect rights over FRL, which Amazon considered 
+strategic in the Internal Correspondence. On page 5 of the Notice, it was stated that 
+FCPL SSA and FCPL SHA are the transaction documents that were entered into in 
+relation to the Combination. 
+ 
+63. 
+In response to a specific query 2.5 vide letter dated 24th October, 2019 of the 
+Commission, on the nature of rights and interest over FRL, Amazon in its submission 
+dated 15th November, 2019 had, inter alia, submitted that:  
+ 
+“The Investor [Amazon] has limited investor protection rights in FCL 
+[FCPL] with a view to protect the value of its investment in FCL. Further, 
+while all decisions with respect to FCL's investment in FRL will be taken 
+by the board of directors of FCL, however, with a view to protect the 
+
+ 
+Page 45 of 57 
+ 
+Investor's investment in FCL, certain rights have been granted to the 
+Investor with respect to FCL's investment in FRL. It is important to 
+highlight that these rights can be exercised only through FCL, and not 
+directly by the Investor. Importantly, these rights have been derived from 
+the rights granted to FCL in terms of the FRL SHA which was negotiated 
+by the Promoters, FRL [ FCPL] and FRL independent of the investment 
+by the Investor in FCL, and with a view to unlock value for FCL. These 
+rights have been granted to FCL with a view that FCL would exercise its 
+rights as a shareholder of FRL to protect the interest of its· own 
+shareholders, including the Investor”  
+ 
+[Emphasis Supplied] 
+ 
+This was a categorical statement by Amazon that FRL SHA is independent of the 
+Combination. Similarly, the commercial agreements were also stated as being neither a 
+part nor inter-connected to the Combination, although they were at the heart of the one 
+composite proposal viz. Project Taj [Future] all along.  
+ 
+64. 
+In relation to the above submissions, Amazon has submitted that it had inadvertently 
+missed to add the following words: ‘which was executed subsequent to the Warrants 
+Transaction36’ between the words ‘FRL SHA’ and ‘which’, and in one of the places, 
+FRL needs to be read as FCPL. It has been further claimed that the impugned statement 
+needs to be read with footnote 3 of the Notice, which reads as follows: It may be noted 
+that prior to the Proposed Combination, FCL had acquired equity warrants of FRL, 
+convertible into equity shares representing seven decimal three percent (7.30%) of the 
+share capital of FRL within a period of eighteen (18) months from the date of allotment. 
+This transaction was notified to the Hon'ble Commission through a notification dated 
+March 19, 2019 (Combination Registration No. 2019/03/653) and was unconditionally 
+approved by the Hon'ble Commission through its order dated April 15, 2019. 
+Subsequently, the Promoters (defined hereinafter) (including FCRPL), FCL and FRL 
+have entered into a shareholders agreement dated August 12, 2019 ("FRL SHA") which 
+sets forth the inter se mutual rights and obligations of the parties to the FRL SHA as 
+shareholders of FRL (See, Section 8 and Section 9 of the FRL SHA). A copy of the FRL 
+SHA is attached as ANNEXURE 33. It is clarified that the execution of the FRL SHA 
+                                                          
+36 Para 39(d), at page 18, of the response to SCN filed on 28th July, 2021  
+
+ 
+Page 46 of 57 
+ 
+is pursuant to FCL's acquisition of equity warrants of FRL (see Recitals 0 and E of 
+the FRL SHA).” 
+[Emphasis Supplied] 
+ 
+65. 
+Accordingly, Amazon has contended that the impugned statement should be read as: 
+ 
+ “Importantly, these rights have been derived from the rights granted to 
+FCL [FCPL] in terms of the FRL SHA which was executed subsequent to 
+the Warrants Transaction which was negotiated by the Promoters, FCPL 
+and FRL independent of the investment by the Investor in FCL, and with 
+a view to unlock value for FCL. These rights have been granted to FCL 
+with a view that FCL would exercise its rights as a shareholder of FRL to 
+protect the interest of its· own shareholders, including the Investor”.  
+ 
+[Underlined portion added]  
+ 
+66. 
+On the claim that the impugned statement needs to be read with footnote 3 of the Notice, 
+the Commission observes that the same states that FRL SHA was executed pursuant to 
+the Warrant Transaction. It may be true that FCPL held warrants in FRL and the same 
+fact was reflected as one of the recitals of FRL SHA. The Notice, however, nowhere 
+discloses the fact that FRL SHA was negotiated as part of the Combination and was 
+executed for the purpose of Amazon acquiring rights over FRL, through FCPL SHA, 
+and that Amazon had insisted for FRL SHA to be entered into as a prerequisite to 
+Transaction III. In the absence this material fact being disclosed, footnote 3, read with 
+the disclosures and statements in the Notice and subsequent submissions of Amazon, 
+including those against Items 5.1.2 and 5.2 of Form I, statements made in paragraphs 
+34 of the Notice and paragraph 44 of the submission dated 15th November, 2019 (in 
+response to the letter dated 9th October, 2019 of the Commission), the impugned 
+statement is self-evidently misleading to the effect that FRL SHA was not a part of the 
+Combination and is only pursuant to the Warrants Transaction. Further, the Notice and 
+subsequent submissions of Amazon, including footnote 3 and the impugned statement 
+above read as a whole bring out that Amazon was not forthcoming in disclosing the true 
+and complete background/information regarding FRL SHA, particularly its inter-
+connectedness with the Combination and its purpose. 
+
+ 
+Page 47 of 57 
+ 
+ 
+67. 
+As regards the contention on inadvertent omission, it is noted that the impugned 
+submission dated 15th November, 2019 of Amazon was in response to query 2.5 of the 
+letter dated 24th October, 2019 of the Commission. The query related to the rights of 
+Amazon over FRL and the strategic and economic rationale behind them. Consistent 
+with the design of projecting FRL only as an element of financial strength to FCPL and 
+all its engagement with Amazon Group as independent of the Combination, Amazon 
+had replied that the rights over FRL are for the limited purpose of protecting the 
+investment in FCPL. It is pertinent to note that Amazon suppressed the actual purpose 
+of the Combination; the fact that FRL SHA was executed to ensure that Amazon 
+indirectly gets the strategic rights over FRL; and the BCAs are parts of the Combination. 
+When seen in totality, the Commission is of the considered view that the claim of 
+purported omission to add the words “which was executed subsequent to the Warrants 
+Transaction” is an afterthought and not an inadvertent omission. Amazon now claims 
+that there was no reason for it to represent that the FRL SHA was negotiated 
+independent of its investment in FCPL. In such a case, Amazon ought to have disclosed 
+FRL SHA and related material particulars against Items 5.1.1, 5.1.2 and 5.2 of Form I. 
+Thus, the Commission is not inclined to persuade itself to accept the plea of ‘omission’ 
+taken by Amazon, and the Commission has no hesitation in holding that the same is 
+clearly an attempt in afterthought. 
+ 
+68. 
+The Internal Correspondence of Amazon clearly highlights that the rights of Amazon 
+over FRL are at the heart of the negotiations and the need for FRL SHA was to achieve 
+the said objective of the Combination. It is for these strategic rights and for the call 
+option, that Amazon had paid a premium of 25% over the regulatory share price of FRL. 
+This makes it clear that neither FRL SHA would have been executed in the absence of 
+other steps/ transactions of the Combination nor would Amazon have gone ahead with 
+Transaction III in the absence of FRL SHA.  However, in blatant disregard of 
+Regulation 9(4) and 9(5), read with Items 5.1.1, 5.1.2, 5.2 and 8.7 of Form I, FRL SHA 
+was not disclosed in the Notice in its actual context; its inter-connectedness to FCPL 
+SSA and FCPL SHA were suppressed in spite of the disclosure requirements under the 
+said provisions of Combination Regulations. In other words, the mentioning of FRL 
+
+ 
+Page 48 of 57 
+ 
+SHA in footnote 3 of the Notice can, in no manner, be considered a notification of the 
+same as a part of the Combination either in substance or form. This is more so when 
+there were repeated or categorical assertions that the rights over FRL are limited to 
+investor protection and no influence over FRL is acquired and FRL SHA was negotiated 
+independent of the combination. Therefore, Amazon failed to give a single notice 
+covering all the inter-connected steps of the combination, as required in Regulation 9(4) 
+read with Regulations 9(5) and 5 of the Combination Regulations, and Section 6(2) of 
+the Act. Further, Amazon also failed to give true and complete disclosure with respect 
+to substance of its combination in this case, as the FRL SHA was pursued to ensure that 
+the business of FRL become a strategic asset for Amazon to expand and enhance its 
+ultra-fast delivery services.  
+ 
+69. 
+The Internal Correspondence show that the strategic rights over FRL though FRL SHA 
+and FCPL SHA were contemplated by the parties to establish and cement their strategic 
+partnership through a series of commercial agreements. The inquiry in pursuance of the 
+SCN reveals that the Commercial Agreements were essential and inter-connected parts 
+of the Combination and those were the trigger for Amazon to acquire shareholding in 
+FCPL as well as secure rights over FRL. The fact that the commercial agreements are 
+integral parts of the Combination was suppressed in the Notice and the subsequent 
+submissions of Amazon. Amazon had consistently represented that BCAs are 
+independent of the Combination. In para 65 of the Notice, the arrangements between 
+Amazon and FRL for listing of the products of the latter in Amazon marketplace were 
+claimed as “neither inter-connected with, nor part of, the Proposed Combination”. In 
+para 96 of the Notice, the arrangement between ARIPL and Future Consumer for supply 
+of food category products to the formers was stated as “not related to the Proposed 
+Combination, in any manner whatsoever”.  Further, in para 100 of the Notice, in 
+relation to the memorandum between APIPL and FRL to offer the option of making 
+payments through the Amazon Pay semi-closed wallet to end consumers making 
+purchases across retail outlets and websites operated by FRL and entities controlled or 
+wholly owned by FRL, it was clarified that the MoU is not related to the Proposed 
+Combination, in any manner whatsoever. Amazon continued with these assertions in 
+
+ 
+Page 49 of 57 
+ 
+paragraphs 45 and 72 of the written submissions dated 15th November, 2019, filed in 
+response to the letter dated 9th October, 2021 of the Commission and paragraphs 4 and 
+44 of the written submissions dated 15th November, 2019, filed in response to the letter 
+dated 24th October, 2021 of the Commission. These repeated assertions invariably 
+suggest that these commercial contracts were negotiated and executed in the  normal 
+course of business of the concerned parties independent of the Combination. The 
+distorted disclosures and omissions in the Notice and subsequent submissions dated 15th 
+November, 2019 of Amazon, as discussed above, do not allow to even suspect that the 
+Commercial Arrangements were parts of the Combination to establish a strategic 
+alignment between the parties in retail sector.  
+ 
+70. 
+In relation to the agreements between the affiliates of the parties, Amazon had 
+submitted that, given the proximity of the date of execution of these agreements with 
+FCPL SSA and FCPL SHA, the parties, in good faith, have decided to give effect to the 
+aforementioned agreements only after receipt of the approval from the Commission in 
+relation to the Combination37. While this is now being alluded to as an indication in the 
+Notice that the said arrangements/agreements are inter-connected to the Combination, 
+given the categorical submissions discussed above, the said submission can in no 
+manner be considered a disclosure of true, correct and complete information regarding 
+BCAs and notification of BCAs as a part of the Combination. These again go on to 
+establish that Amazon had supressed the actual scope of the Combination and had made 
+false and incorrect statements in relation to the BCAs, which are intertwined into the 
+scope and purpose of the Combination.  
+ 
+71. 
+The foregoing discussion brings out that Amazon had failed to disclose the fact that 
+FRL SHA was negotiated as a part of the Combination and an intrinsic element thereof 
+to confer Amazon rights over FRL. This is more so when Amazon had been considering 
+these rights as strategic in the Internal Correspondence. The learned counsel for 
+Amazon alluded that a combined reading of FCPL SHA, FRL SHA and other 
+                                                          
+37 Para 66, at page 48, of the Notice and para 44, at page 47 of the submissions dated 15th November, 2019 of 
+Amazon, filed in response to the letter dated 24th October, 2019 of the Commission 
+
+ 
+Page 50 of 57 
+ 
+documents enclosed in the Notice clearly present the actual scope and purpose of the 
+Combination. However, no plausible explanation has been given as to why Amazon 
+failed to notify FRL SHA as an inter-connected part of the Combination; why the details 
+of FRL SHA was omitted in the disclosures against Items 5.1.1, 5.1.2 and 5.2 of Form 
+I; and why the rights over FRL were portrayed as limited investor protection rights 
+when the Internal Correspondence considers them essential to establish strategic 
+alignments with FRL and its affiliates, which also weighed in Amazon paying 25% 
+premium over FRL Share price. The mention of FRL SHA in the footnote as an 
+agreement executed pursuant to Warrants Transaction, coupled with the assertions that 
+FRL SHA was negotiated independent of the acquisition of 49% shareholding in FCPL, 
+the indirect rights are for the limited purpose of protecting the investment in FCPL and 
+the BCAs are not related to the Combination, shows a deliberate design, not to state the 
+true, correct and complete facts regarding FRL SHA, but to suppress and misrepresent 
+their inter-connection to the Combination. Such conducts of Amazon are in 
+contravention of the provisions contained in clause (b) of sub-section (1) of Section 45 
+of the Act. The categorical statements that FRL SHA and BCAs were independent of 
+the Combination sufficiently establish that the same were not notified to the 
+Commission as a part of the Combination, which is a contravention of the obligation 
+contained in Section 6(2) of the Act, which attracts penalty under Section 43A of the 
+Act.    
+ 
+72. 
+The Act has established the Commission to prevent practices having adverse effect on 
+competition, to promote and sustain competition in markets, to protect the interests of 
+consumers and to ensure freedom of trade carried on by other participants in markets, 
+in India, and for matters connected therewith or incidental thereto. Apart from 
+enforcements against anti-competitive agreements and abuse of dominant position, the 
+Commission also reviews combinations to ascertain their impact on the concerned 
+market structure and determine whether the potential changes make the relevant 
+market(s) vulnerable for appreciable adverse effect on competition. Unlike the ex post 
+enforcement relating to anti-competitive agreements and abuse of dominant position, 
+the proceedings relating to regulation of combinations are ex ante and are based on a 
+
+ 
+Page 51 of 57 
+ 
+time-bound mandatory notification regime. While Section 6(2) of the Act obligates the 
+parties to provide details of the combination, the Commission has to assess the effects 
+of combination within a period of 210 days from the date of notification, absent which 
+the combination is deemed to be approved. 
+ 
+73. 
+It is relevant to note that Section 6(2) of the Act requires any person proposing 
+Combination ‘to give notice to the Commission in the form as may be 
+specified...disclosing the details of the proposed combination’. The legislative intent 
+behind such requirement is that the specified format of the notice would provide the 
+Commission with all the information that is necessary to conduct competition 
+assessment of the effects of the given combination with due regard to the factors 
+enlisted in Section 20(4) of the Act and determine whether the notified combination is 
+likely to cause appreciable adverse effect on competition. These have to be completed 
+by the Commission within the prescribed time limit of 210 days. The notice given 
+pursuant to Section 6(2) of the Act is the starting point of examination of the notified 
+combination. To ensure that the notifying party furnishes the relevant particulars, Form 
+I requires the notifying party to submit a declaration that “The notifying party declares 
+and confirms that all information given in this Form and all pages annexed hereto are 
+true, correct and complete to the best of its knowledge and belief, and that all estimates 
+are identified as such and are its best estimates based on the underlying facts”. The 
+scheme of the Act and Combination Regulations is to establish a trust-based regulatory 
+system, wherein the party seeking approval furnishes true, correct and complete details 
+of its proposed combination and the Commission inquires the effects of the notified 
+combination on competition in the relevant market(s). In this time-bound process, 
+misrepresentations and suppressions are serious challenges to the trust based regulatory 
+mechanism for combinations and the sanctity of the institutional framework established 
+under the Act. 
+ 
+74. 
+Seen in the scheme of the Act and the underlying spirit, the notice given under Section 
+6(2) of the Act is not a document of complex defence with legal arguments submitted 
+in an adversarial litigation, but an application for approval containing relevant facts and 
+
+ 
+Page 52 of 57 
+ 
+particulars regarding the proposed combination that are true, correct and complete to 
+the best of knowledge and belief of the notifying party. The facts, particulars and 
+documents required to be furnished under Form I, including the purpose of the 
+combination (item 5.3), inter-connected transactions (item 5.1.2) and documents 
+considered by boards of the parties or key managerial personnel (Item 8.8), are essential 
+to have a full, clear and complete picture of the notified combination. The requirement 
+to disclose these material facts and particulars is paramount as they enable the 
+Commission to appreciate the commercial and economic contours of the combination 
+and decide appropriate framework for assessment in the matter. If a party 
+conceals/suppresses and/or misrepresents to the Commission the scope and purpose of 
+the Combination and obtains approval, the same would effectively amount to 
+approval/consent having been obtained by way of fraud. Such breach of trust of the 
+Commission, established under the Act for the benevolent purpose of promoting and 
+sustaining competition in markets in India, manifests a deliberate disregard to the trust 
+based regulatory mechanism provided under the Act.  
+ 
+75. 
+A holistic appreciation of the Notice and material brought on record reveals that there 
+has been a wilful and deliberate design threaded across the Notice and subsequent 
+submissions dated 15th November, 2019 of Amazon, to suggest that the Combination 
+consists of only Transaction I, Transaction II and Transaction III; and that FCPL SSA 
+and FCPL SHA are the only two agreements entered into between the parties in relation 
+to the Combination. The manner and extent of assertions regarding FRL SHA is that 
+the same was a pre-existing arrangement amongst the shareholders of FRL, executed 
+pursuant to the Warrants Transaction, and it was negotiated independent of Transaction 
+III i.e., acquisition of 49% stake in FCPL by Amazon. The inter-connection between 
+FRL SHA and the Combination was suppressed. Similarly, the BCAs, although 
+disclosed, were claimed as neither inter-connected with, nor a part of the Combination. 
+However, the Internal Correspondence brings out that BCAs and acquisition of strategic 
+rights over FRL, through the acquisition of shares in FCPL, had been considered 
+together as parts of one composite package, viz., ‘Project Taj [Future Group] – 
+Investment in National Multi-category Copperfield Seller’. FCPL was merely a vehicle 
+
+ 
+Page 53 of 57 
+ 
+for Amazon to acquire interest over FRL, and such interest was considered necessary 
+to implement strategic alignments between the business activities of Future and 
+Amazon groups in India.  
+ 
+76. 
+The learned counsel appearing for Amazon argued that it had disclosed FRL as a 
+material entity, the object of attention and that its businesses were essential 
+consideration for Amazon to pursue the Combination. This does not meet the 
+requirement of notification in Form I read with Regulation 5(2) of the Combination 
+Regulations and Section 6(2) of the Act. It is true that Amazon had disclosed several 
+materials relating to the overlapping business activities of the parties to the 
+Combination, FRL and other affiliates. However, such disclosures relating to the 
+overlapping activities of Amazon group and FRL were claimed to be by way of 
+abundant caution as FCPL held warrants issued by FRL38 (. Amazon has not provided 
+any details in the context of the actual combination, including FRL SHA and BCAs, 
+being pursued for strategic alignments between the business activities of Amazon group 
+and FRL / its affiliates. In the letter dated 24th October, 2019 of the Commission, the 
+following specific query was posed to Amazon: ‘2.9 According to the notice, in certain 
+overlapping segments of the areas of the operations of the parties, the combined market 
+shares are exceeding the thresholds given in regulation 5 (3) of the Combination 
+regulations, you are required to provide justification for filing the notice in Form I’. In 
+response, Amazon had inter alia submitted that:  
+ 
+The Investor’s has no shareholding in FRL, and does not exercise any 
+control or influence on it, therefore the Proposed Combination should not 
+be subjected to Form II filing requirement…In the present case, with a 
+view to assist the Hon’ble Commission and out of abundant caution, the 
+overlap in the retail market has been identified, pursuant to the FRL 
+Warrants held by FCL…”  
+ 
+[Emphasis Supplied]  
+ 
+                                                          
+38 Para 80 of the submissions dated 15th November, 2019 of Amazon, in response to the letter dated 24th October, 
+2019 of the Commission 
+
+ 
+Page 54 of 57 
+ 
+These claims were made by completely masking the fact that FRL SHA and BCAs are 
+inter-connected parts of the Combination, contemplated to establish strategic 
+alignments between the business activities of FRL and Amazon Group. This is a critical 
+factor for determining the need for filing Form II in the matter. However, consistent 
+with the design across the Notice and subsequent submissions of Amazon, the said 
+details were suppressed in response to the said query 2.9.  
+ 
+77. 
+The Commission notes that the details of overlap between FRL and Amazon Group, 
+provided in the Notice, and subsequent submissions of Amazon as well as the 
+competition assessment conducted in the Approval Order are in the context of FCPL 
+holding warrants in FRL. However, the said assessment is definitely not from the 
+perspective of strategic alignments between FRL and Amazon Group. This is obvious 
+from the Approval Order as it does not make any reference to FRL SHA or the BCAs. 
+The Commission observes that the effect of commercial contracts entered into between 
+FRL and Amazon Group entities, in their normal course of business, would be 
+considerably different from parties contemplating strategic alignments between their 
+business through strategic investments. The regulatory process of notification by the 
+parties that would follow an admission of the commercial contracts being part of the 
+combination and also the purpose of the strategic acquisition of shares and rights would 
+entail consequential presentation of facts, representations, clarifications and 
+undertakings, if any, which would not be present when such contracts are independent 
+of the combination. The nature of inquiry by the Commission in these cases would also 
+be necessarily with due regard to the acquisition and contracts being part of one single 
+understanding to establish a strategic partnership. This regulatory process, in itself, 
+makes the notifying party to furnish true, correct and complete information regarding 
+the actual combination pursued by the parties and thus, meet the requirements of the 
+Act and the Regulations framed thereunder. Concurrently, such process would enable 
+the Commission to appreciate the combination in its actual sense, and accordingly, 
+discharge its functions in terms of the Act. If one were to argue otherwise, it would be 
+sufficient that the notice filed with the Commission merely describes the name of the 
+parties and their business activities and there would be no need to give any other detail 
+
+ 
+Page 55 of 57 
+ 
+as required in Form I or Form II, including the scope of arrangements, their purposes 
+and context of the combination. This is ex facie contrary to the scheme and intendment 
+of the Act and Combination Regulations.  
+ 
+78. 
+The above discussed omissions, false statements and misrepresentations have the effect 
+of influencing the line of inquiry in assessing the Combination. Irrespective of what 
+would have been the outcome of a notice with true, correct and complete disclosures, 
+the misleading submissions, false statements, omission and suppression of material 
+particulars, facts and documents discussed above, have denied and disabled the 
+Commission an opportunity to assess the effects of the actual Combination, with 
+specific focus to the actual intended objectives. Condonation of such lapses would 
+effectively mean that a notifying party could disclose its legal contracts in a distorted 
+and elongated manner of its convenience and engage in suppressions and 
+misrepresentations of the actual scope and purpose of the Combination. This makes all 
+details sought in Form I and purpose of regulation of combination under the Act, otiose, 
+besides stultifying the very legislative intent for merger review process.  
+ 
+79. 
+In sum, Amazon ought to have notified the combination, inter alia, consisting of the 
+following inter-connected steps: (a) Transaction I; (b) Transaction II; (c) Transaction 
+III; (d) FRL SHA for the purpose of acquisition of strategic rights over FRL through 
+FCPL SHA; and (e) commercial agreements between Amazon and Future groups, for 
+the purpose of establishing strategic alignment and partnership between Amazon Group 
+and FRL as well as have a ‘foot-in-the-door’ in the India retail sector. Amazon failed 
+to notify FRL SHA and the commercial arrangements, as parts of the combination 
+between the parties, and supressed the actual purpose and particulars of the 
+combination, as discussed above, in contravention of the obligation contained in sub-
+section (2) of Section 6 of the Act read with Regulation 5 and sub-regulations (4) and 
+(5) of Regulation 9 of the Combination Regulations.   
+ 
+80. 
+Given that the Combination is between players who are known in the online 
+marketplace and offline retailing and they have contemplated strategic alignment 
+between their businesses, the Commission considers it necessary to examine the 
+
+ 
+Page 56 of 57 
+ 
+combination afresh based on a notice to be given in Form II with true, correct and 
+complete information, as required therein. Accordingly, in exercise of the powers 
+conferred under sub-section (2) of Section 45 of the Act, the Commission hereby directs 
+Amazon to give notice in Form II within a period of 60 days from the receipt of this 
+order, and, till disposal of such notice, the approval granted vide Order dated 28th 
+November, 2019, in Combination Registration No. C-2019/09/688, shall remain in 
+abeyance.   
+ 
+81. 
+In terms of Section 43A of the Act, if any person or enterprise fails to give notice under 
+sub-section (2) of Section 6 of the Act, the Commission shall impose on such person or 
+enterprise a penalty which may extend to one percent of the total turnover or the assets, 
+whichever is higher, of such a combination. In case of a contravention under Sections 
+44 and 45 of the Act, each of the said provision renders the contravening person liable, 
+inter alia, to a penalty, as provided therein. Though the penalty under Sections 43A, 44 
+and 45 of the Act can be to the extent mentioned therein, the Commission has sufficient 
+discretion to consider the conduct of the parties and the circumstances of the case to 
+arrive at an appropriate amount of penalty.  
+ 
+82. 
+In the instant case, all the contraventions discussed above arise from a deliberate design 
+on the part of Amazon to suppress the actual scope and purpose of the Combination, 
+and the Commission finds no mitigating factor. Resultantly, the Commission considers 
+it appropriate to levy the maximum penalty of INR One Crore each under the provisions 
+of Section 44 and Section 45 of Act. Accordingly, Amazon is directed to pay a penalty 
+of INR Two Crore.  
+ 
+83. 
+As regards failure to notify combination in terms of the obligation cast under Section 
+6(2) of the Act, Section 43A of the Act enables the Commission to impose a penalty, 
+which may extend to one percent of the total turnover or the assets, whichever is higher, 
+of such a combination. Accordingly, for the above mentioned reasons, the Commission 
+hereby imposes a penalty of INR Two Hundred Crore upon Amazon.  
+ 
+ 
+
+ 
+Page 57 of 57 
+ 
+ 
+84. 
+Amazon is directed to pay monetary penalty as imposed vide paras 82 and 83 above, 
+within a period of 60 days from the receipt of this order.  
+ 
+85. 
+It is made clear that nothing contained in this order shall be deemed to be confidential 
+as the same has been used for the purposes of the Act in terms of the provisions 
+contained in Section 57 of the Act.   
+ 
+86. 
+The Secretary is directed to inform the concerned parties, accordingly.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

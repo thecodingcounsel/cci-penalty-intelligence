@@ -1,0 +1,897 @@
+ 
+Page 1 of 23 
+ 
+COMPETITION COMMISSION OF INDIA 
+ 
+21st November, 2019 
+ 
+ 
+Proceedings against Canada Pension Plan Investment Board and ReNew Power 
+Limited under Chapter VI of the Competition Act, 2002 
+ 
+ 
+CORAM: 
+ 
+Mr. Ashok Kumar Gupta  
+Chairperson 
+ 
+Ms. Sangeeta Verma 
+Member 
+ 
+Mr. Bhagwant Singh Bishnoi 
+Member 
+ 
+ 
+Appearances during the hearing held on 18th July, 2019 
+ 
+For CPPIB 
+:
+Mr. Amit Sibal alongwith Mr. Saksham Dhingra, Mr. Rahul Rai, 
+Mr. Rahul Satyan, Mr. Pranav Mody and Ms. Rajshree Sharma, 
+Advocates  
+ 
+For ReNew  
+:
+Mr. Rajshekhar Rao alongwith Mr. Gaurav Desai, Mr. Vijay Pratap 
+Singh Chauhan and Ms. Shruti Bhat, Advocates  
+ 
+ 
+ORDER UNDER SECTIONS 43A AND 44 OF THE COMPETITION ACT, 2002  
+ 
+ 
+ 
+This common Order shall dispose of the proceedings under Sections 43A and 44 of the 
+Competition Act, 2002 against Canada Pension Plan Investment Board and ReNew Power 
+Limited, as a large part of the impugned issues are common and similar arguments were made 
+by both the said parties.  
+ 
+ 
+ 
+
+ 
+Page 2 of 23 
+ 
+Background  
+ 
+1. 
+In the instant matter, the Commission initiated proceedings under Section 20(1) of 
+the Competition Act, 2002 [Act] against ReNew Power Limited [ReNew] and 
+Canada Pension Plan Investment Board [CPPIB] based on their press releases dated 
+2nd April, 2018 and 3rd April, 2018, respectively. The impugned press releases 
+indicated that ReNew acquired Ostro Energy Private limited [Ostro] with the 
+support of the additional investment made by CPPIB in ReNew.  
+ 
+2. 
+Earlier, on 27th November, 2017, CPPIB gave a notice bearing Combination 
+Registration No. C-2017/11/536, under Section 6(2) of the Act [Notice] regarding 
+its proposed acquisition of about 16.33% of the equity share capital of ReNew 
+[Transaction I]. Transaction I contemplated the following two sets of acquisitions: 
+ 
+2.1. 
+Secondary Acquisition: Acquisition of equity shares that represent 
+approximately 6.33% of the equity share capital (on a fully diluted basis) of 
+ReNew by CPPIB from Asian Development Bank [ADB]; and 
+ 
+2.2. 
+Primary Acquisition: Acquisition of compulsorily convertible preference 
+shares (CCPS) of ReNew by CPPIB that will mandatorily convert into equity 
+shares amounting to not more than 10% of the equity share capital of ReNew. 
+In response to the letter of the Commission, CPPIB has clarified that this is 
+the additional investment referred to in its press release dated 3rd April, 2018, 
+discussed above. However, in lieu of CCPS to the extent of 10% of equity 
+share capital of ReNew, CPPIB subscribed to equity shares representing 
+9.7% of the equity share capital of ReNew.  
+ 
+3. 
+CPPIB considered both the Secondary Acquisition and Primary Acquisition as one 
+combination (i.e. Transaction I) and gave a common Notice to the Commission. The 
+Notice was given to the Commission only in respect of Transaction I pursuant to the 
+execution of the share purchase agreement [SPA] for undertaking the Secondary 
+Acquisition and a term sheet [Term Sheet] relating to the Primary Acquisition. 
+
+ 
+Page 3 of 23 
+ 
+Based on the information provided by CPPIB, the Commission approved the above 
+combination and Order in this regard was issued on dated 9th January, 2018. 
+ 
+Initiation of proceedings under Section 20(1) of the Act 
+ 
+4. 
+Based on the press releases issued by ReNew and CPPIB, it was brought to the notice 
+of the Commission that ReNew acquired Ostro [Transaction II] with the support of 
+the investment made by CPPIB in ReNew. The relevant extracts of the press releases 
+are as under:  
+ 
+4.1. 
+Press release, dated 2nd April, 2018, issued by the ReNew: 
+ 
+“…ReNew Power, one of India’s leading clean energy companies, today 
+announced the acquisition of Ostro Energy Private Limited.………… 
+ 
+Concurrent with this transaction, Canada Pension Plan Investment Board 
+(CPPIB) is investing an additional US$247 million to support ReNew 
+Power’s financing for this acquisition. As a result, the CPPIB’s combined 
+investment in ReNew Power now stands at US$391 million, following an 
+earlier investment of US$ 144 million in January 2018….”  
+ 
+(emphasis added) 
+ 
+4.2. 
+Press release, dated 3rd April, 2018, issued by the CPPIB: 
+ 
+“...CPPIB’s additional investment will support ReNew Power’s acquisition 
+of Ostro Energy Private Limited (Ostro Energy), an Indian renewable 
+energy developer with total capacity of more than 1,100 megawatts. With 
+the acquisition of Ostro Energy’s assets, ReNew Power’s capacity will 
+increase to more than 5,600 megawatts. Founded in 2011, ReNew Power is 
+one of India’s leading clean energy companies with capacity diversified 
+across wind, utility-scale solar and rooftop solar power-producing assets 
+across India. 
+ 
+“We are pleased to further support ReNew Power in its latest acquisition, 
+which further strengthens their position in India’s renewables sector. Our 
+additional investment aligns well with CPPIB’s overall power and 
+renewables strategy, providing greater diversification for the CPP Fund,” 
+said Scott Lawrence, Managing Director, Head of Fundamental Equities, 
+CPPIB. “As India’s demand for electricity increases, solar and wind are 
+attractive sources of power. We congratulate ReNew Power on completing 
+their significant acquisition and look forward to a long-term partnership 
+with this highly experienced and proven management team. CPPIB will 
+
+ 
+Page 4 of 23 
+ 
+continue to seek opportunities to expand our power and renewables 
+portfolio as demand grows worldwide along the transition to renewables.” 
+ 
+(emphasis added) 
+ 
+5. 
+Since no notice was given in respect of Transaction II nor any disclosure was made 
+in that regard in the Combination Case bearing Registration No. C-2017/11/536, the 
+Commission decided to initiate proceedings under Section 20(1) of the Act against 
+CPPIB and ReNew. Accordingly, letters dated 20th September, 2018 were sent to 
+them requiring to furnish necessary details about the impugned transactions. CPPIB 
+filed its responses on 23rd October, 2018. Renew filed its responses on 23rd October, 
+2018 and 26th October, 2018. Upon perusing these, further information was sought 
+from them vide letters dated 1st November, 2018. CPPIB and ReNew filed their 
+responses on 7th December, 2018 and 11th December, 2018 respectively including 
+relevant email correspondence and internal reports /recommendations. 
+ 
+Notice under Regulation 48 of the Competition Commission of India (General) 
+Regulations, 2009 read with Sections 43A and 44 of the Act:  
+ 
+6. 
+Upon considering the e-mail correspondence between CPPIB and ReNew, internal 
+reports/ recommendations of CPPIB, the above discussed press releases and other 
+information provided, the Commission was of the prima facie view that CPPIB and 
+ReNew failed to notify Transaction II in terms of Section 6(2) of the Act read with 
+Regulations 5, 9(4) and 9(5) of the Competition Commission of India (Procedure in 
+regard to the transaction of business relating to combinations) Combinations 
+Regulations, 2011 [Combination Regulations]. The Commission was of the further 
+prima facie view that CPPIB suppressed and omitted to disclose the details of 
+Transaction II to the Commission in Combination Registration No. C-2017/11/536.  
+ 
+7. 
+Accordingly, separate notices dated 28th February, 2019 [SCNs] were issued to 
+CPPIB and ReNew, under Regulation 48 of the Competition Commission of India 
+(General) Regulations, 2009, to show cause, in writing, within fifteen days of receipt 
+of the SCN as to why penalty in terms of Section 43A of the Act shall not be imposed 
+on them and why they shall not be directed to file a notice with the Commission, in 
+
+
+
+ 
+Page 7 of 23 
+ 
+certainty on valuation of Ostro for the purpose of Transaction II is reached. 
+This is more evident when CPPIB tells ReNew, vide email dated 27th 
+November, 2017, that 
+* 
+* (emphasis 
+added). This also shows that CPPIB and Renew had discussions to the effect 
+that they would not start working on the SSA, for the purpose of Primary 
+Acquisition in Transaction I, without alignment of valuation of Ostro in 
+Transaction II. Such consensus between CPPIB and ReNew indicate the 
+knowledge of CPPIB about Transaction II and its linkage with Transaction I. 
+The linkage between Transaction I and Transaction II is also manifested 
+when ReNew informs the valuation of Ostro to CPPIB on 30th November 
+2017 and in response, on the same day, CPPIB replies 
+ 
+and that CPPIB is happy to launch the share subscription process. 
+ 
+(ii) 
+Documents considered by Investment Department Decision 
+Committee of CPPIB 
+ 
+8.3. 
+Investment Recommendation dated 9th November, 2017 considered by 
+CPPIB: This document was considered by the Investment Department 
+Decision Committee of CPPIB on 14th November, 2017. Upon such 
+consideration, CPPIB approved the investment in ReNew by Fundamental 
+Equities (FE), a Division of CPPIB. The relevant aspects of this document 
+are summarised as under:  
+ 
+8.3.1. 
+“Recommendation: That Fundamental Equities (“FE”) invest 
+upto 
+* for upto 
+* ownership of ReNew Power 
+Ventures Pvt. Ltd. (“ReNew” or the “Company”) across two 
+sleeves. Sleeve 1 involves acquision of 
+* shares for $145 
+million from Asian Development Bank (“ADB”) at negotiated 
+price (see Appendix 11.1), 
+* 
+*
+* Sleeve 2 
+involves investing up to an additional 
+* to support the 
+Company [ReNew] with acquisitions and/or to purchase shares 
+from other investors”  
+(emphasis added).  
+ 
+
+ 
+Page 8 of 23 
+ 
+The recommendation shows that the second sleeve (i.e. Primary 
+Acquisition) of the transaction is to fund acquisitions contemplated 
+by ReNew. 
+ 
+8.3.2. 
+“The Company has approached FE to support a transformational 
+acquisition”  
+(emphasis added)  
+ 
+This statement reiterates the fundamental purpose and objective of 
+ReNew in entering into Primary Acquisition in Transaction I was 
+to get financial support to undertake an acquisition which is 
+transformational in nature.  
+ 
+8.3.3. 
+“ReNew is in late-stage discussion to acquire Ostro Energy”  
+(emphasis added)  
+ 
+This statement is a note to the table, on top 10 Wind and Solar 
+Independent Power Producers (IPP). This again shows that CPPIB 
+was not only aware of Transaction II at the time of evaluating the 
+investment opportunity through Transaction I but it was also aware 
+that discussion in that regard was in advance stage.  
+ 
+8.3.4. 
+“Ostro Acquisition: At present, ReNew is in bilateral discussion to 
+acquire a wind – focussed IPP with a total portfolio of 1.1 GW 
+* 
+The acquisition is expected to close by December, 2017 for an 
+acquisition price of 
+* (including the assumption of debt), 
+representing a run – rate EV/EBITDA multiple of 
+* 
+* 
+(see 
+Appendix 
+11.6: 
+Summary 
+of 
+Acquisition). The Company has asked us to support the 
+acquisition with a 
+ equity investment”  
+(emphasis added).  
+ 
+This further shows that the CPPIB’s Primary Acquisition in 
+ReNew was to enable the latter’s acquisition of Ostro.  
+ 
+
+ 
+Page 9 of 23 
+ 
+8.3.5. 
+Item 6 of the Investment Recommendation on ‘Company 
+Valuation and Investment Returns’ estimates the expected returns 
+from the investment proposed in ReNew. The Internal Rate of 
+Return (IRR) was also estimated on the basis of business 
+operations of ReNew as well as Ostro. It has been specifically 
+clarified in the notes to the Table on comparison of expected 
+returns that ‘Assuming the Company [ReNew] successfully 
+completes Ostro acquisition with 
+ primary financing 
+from CPPIB’ (emphasis added). This along with the fact that 
+ReNew asked CPPIB to support Ostro acquisition indicates that 
+Transaction II was a certain consideration for both CPPIB and 
+ReNew to contemplate and undertake the Primary Acquisition in 
+Transaction I.  
+ 
+8.3.6. 
+“11.6. Summary of proposed 
+acquisition…11.6.1. 
+Ostro 
+Background and Transaction Matrix…established in 2014, Ostro 
+has 1108 MW of operational 
+* and under construction 
+ Note that the under-construction solar project will 
+operational at closing. The projects have 
+* overlap with states 
+where ReNew has operations and are diversified across OEMs (for 
+wind projects) and off-takers. 
+* of Ostro Assets (higher than for 
+ReNew) are facing higher credit quality, federal off-takers (NTPC 
+and PTC)”  
+ 
+(emphasis added).  
+ 
+As per the submissions of CPPIB, ReNew contemplated many 
+acquisitions at that point in time and all of them need not be 
+disclosed in the Notice filed with the Commission. While no other 
+potential acquisition by ReNew finds place in detailed Investment 
+Recommendation of CPPIB, the Ostro Acquisition was discussed 
+at length. This again shows the significance of Transaction II in 
+pursuing Transaction I. 
+ 
+9. 
+Based on the above, the SCNs came to the prima facie view that Transaction I and 
+Transaction II are inter-connected. Further, CPPIB and ReNew, being the acquirer 
+in Transaction II, are in contravention of the obligation contained in Section 6(2) of 
+
+ 
+Page 10 of 23 
+ 
+the Act read with Regulations 5, 9(4) and 9(5) of the Combination Regulations. Since 
+the facts and developments regarding Transaction II were material to Transaction I, 
+the SCN issued to CPPIB noted that it suppressed and omitted to disclose the details 
+of Transaction II to the Commission, at the time of notification of Transaction I. 
+ 
+10. 
+In response to the notice of the Commission, CPPIB and ReNew filed their responses 
+on 18th April, 2019 and 22nd April, 2019, respectively. Both of them also sought oral 
+hearing before the Commission. Accordingly, the Commission heard both CPPIB 
+and ReNew on 18th July, 2019, at length and allowed them to file further written 
+submissions. CPPIB and ReNew filed their written submissions on 1st August, 2019.  
+ 
+Issues for determination:  
+ 
+11. 
+The Commission has given careful consideration to the submissions of the parties, 
+their oral and written arguments and other materials available on record. The issues 
+that arise for determination of the Commission are as under:  
+ 
+11.1. 
+Whether Transaction I and Transaction II are inter-connected to each other 
+and if so, whether CPPIB and Renew failed to give notice in respect of 
+Transaction  II, in terms of Section 6(2) of the Act read with Regulations 5, 
+9(4) and 9(5) of the Combination Regulations; and 
+ 
+11.2. 
+If the facts and developments regarding Transaction II are material to 
+Transaction I, whether CPPIB omitted to disclose the same to the 
+Commission, knowing it to be material.  
+ 
+A. Inter-connectedness of Transaction I and Transaction II 
+ 
+12. 
+In response to the SCN, CPPIB raised preliminary objections, each of which is dealt 
+below:  
+ 
+12.1. 
+CPPIB has contended that mere knowledge about potential acquisition of 
+Ostro by ReNew (i.e. Transaction II) alone cannot imply inter-connection 
+
+ 
+Page 11 of 23 
+ 
+between Transaction I and Transaction II. Further, the SCN has failed to 
+consider the serious policy implications of such an interpretation of ‘inter-
+connected’ transactions. A prudent investor would consider it routine, even 
+mandatory, to secure knowledge of potential investment by the target 
+company. However, each of such potential acquisition cannot be considered 
+inter-connected to the investment into the target company.  
+ 
+12.2. 
+The Commission notes that the impugned press releases and other material 
+discussed above not only claims the knowledge of CPPIB about Transaction 
+II but also that: (a) ReNew had approached CPPIB to seek financial support 
+for acquiring Ostro; (b) CPPIB went into a standby mode and stalled the 
+discussion on Primary Acquisition in Transaction I until certainty on Ostro 
+valuation was reached and commenced the subscription process only 
+thereafter; and (c) after the closing of Transaction II, CPPIB went public to 
+state that its additional investment in ReNew (i.e. Primary Acquisition) was 
+to support the latter to acquire Ostro. Based on these, the SCN inter alia 
+states that CPPIB was not only aware of Transaction II but in fact, the 
+Primary Acquisition in Transaction I was contemplated and pursued to 
+facilitate funding to ReNew to support its acquisition of Ostro (i.e. 
+Transaction II). Thus, it cannot be said that SCN sought to establish inter-
+connection between Transaction I and Transaction II merely based on the 
+knowledge of CPPIB.  Further, it is also not the case of SCN to make all 
+and every potential acquisitions by target enterprise, as a part of the 
+combination.  
+ 
+12.3. 
+Placing reliance on the judgment of the Hon’ble Supreme Court in Roop 
+Kumar v. Mohan Thedani [(2003) 6 SCC 595] and Gangabai w/o Rambilas 
+Gilda v. Chhabubai [1982 SCR (1) 1176], CPPIB has argued that when 
+there is a written agreement, the commercial understandings therein cannot 
+be contradicted using other material. Thus, the press releases and internal 
+communications cannot be considered to determine violation of Section 
+6(2) of the Act.  
+ 
+
+ 
+Page 12 of 23 
+ 
+12.4. 
+The Commission observes that the above judgments cited by CPPIB relate 
+to interpretation of contracts and the limitation on using extraneous aids/ 
+documents to contradict terms and conditions of a contract. However, the 
+issue in the instant matter does not relate to interpretation of a contract. The 
+focus of the instant proceedings is to determine whether Transaction I and 
+Transaction II are inter-connected. This is a matter of economic reality to 
+be gauged from the facts and circumstances of the case and cannot be 
+limited to the written agreements between the parties. Thus the Commission 
+is not limited by written contracts for the purpose of determining inter-
+connectedness between two transactions. Similar argument was taken 
+before the Hon’ble Supreme Court in Competition Commission of India v. 
+Thomas Cook & Anr. [Civil Appeal No.13578 of 2015]. It was the case of 
+the Commission that market purchase of securities was connected to a share 
+purchase under an agreement as well as a scheme of merger. The parties 
+contented that the market purchases were not referred to in the said 
+agreement and the scheme for merger and thus, the market purchases were 
+independent of the other acquisition and merger. However, based on other 
+material and circumstantial factors, the Hon’ble Supreme Court held that 
+the market purchases, the other acquisition and the merger constitute one 
+composite combination. In its judgment, the Apex Court specifically 
+observed that ‘Technical interpretation to isolate two different steps of 
+transactions of a composite combination would be against the spirit and 
+provisions of the Act.’ 
+ 
+12.5. 
+CPPIB has submitted that the SCN selectively relies on certain documents 
+while omitting others. Two documents furnished by CPPIB were stated to 
+be disregarded: (a) ReNew Investment Presentation – shows that proceeds 
+of Transaction I is not required for ReNew to acquire Ostro; and (b) minutes 
+of CPPIB – shows the instance where funding was contingent upon 
+subsequent acquisition – no such intention or arrangement is made by 
+CPPIB in relation to Ostro acquisition. These submissions allude that the 
+Primary Acquisition in Transaction I is not contingent upon Ostro 
+acquisition.  
+
+ 
+Page 13 of 23 
+ 
+ 
+12.6. 
+The Commission notes that while the above minutes and presentation may 
+not reflect dependence between Transaction I and Transaction II, they do 
+not, in any manner, go contrary to the facts and circumstances reflected in 
+the press releases, e-mails and the Investment Recommendation of CPPIB, 
+discussed in the SCN. If the circumstances otherwise show inter-
+connectedness between Transaction I and Transaction II, it is neither 
+mandatory for CPPIB to record the inter-connectedness in its minutes nor 
+essential that ReNew lacks independent financial strength to acquire Ostro. 
+In simple terms, the issue is not whether ReNew could have acquired Ostro 
+without funding from CPPIB. Instead, focus of the proceedings is to 
+determine whether the Primary Acquisition in Transaction I was pursued to 
+support Ostro Acquisition.  
+ 
+12.7. 
+CPPIB has also contended that the SCN reflects a pre-determined mind on 
+the issues and CPPIB ought to have been given opportunity of stating its 
+case before coming to a conclusion. 
+ 
+12.8. 
+On this issue, it is observed that if an SCN narrates a prima facie view on 
+the violation of the provisions of the Act, based on material discussed 
+therein, the same cannot be construed as pre-determined mind. To suggest 
+pre-determined mind, CPPIB has argued that SCN chose to allege 
+contravention ignoring the compelling alternative arguments summarised 
+in para 12.5 above. Principles of taxation were referred to suggest that when 
+two alternative arguments are available, the one favourable to the alleged 
+wrongdoer must be adopted.  However, the impugned issue does not relate 
+to taxation or a contract. Even if the minutes of CPPIB and Investment 
+Presentation (which purportedly show absence of inter-connection between 
+the two transactions) are taken into consideration, the same do not make 
+any alternative compelling argument as: (a) they do not negate the facts and 
+circumstances indicated in the e-mails, internal considerations and press 
+releases discussed earlier; and (b) these are neutral to the issue of inter-
+
+ 
+Page 14 of 23 
+ 
+connectedness between Primary Acquisition in Transaction I and Ostro 
+acquisition. 
+ 
+12.9. 
+It is further observed that SCN is not a final determination by the 
+Commission but only lays down the charges of contravention along with 
+the basis, and calls for response on the alleged contraveners. SCN itself is 
+an opportunity to CPPIB to present its case before final determination of 
+the issues, by the Commission. Apart from the written response, the 
+Commission has also heard CPPIB, at length, followed by its further written 
+submissions. Thus, the Commission sees no merit on the issue of violation 
+of the principles of natural justice.  
+ 
+13. 
+Coming to the merits of the case, both ReNew and CPPIB have made similar 
+arguments and submissions. The primary contention is that Transaction II does not 
+meet the legal test of inter-connection under the Combination Regulations and the 
+parameters prescribed by the Commission in Thomas Cook Case. CPPIB has 
+contended that connected transactions must coalesce towards the common objective 
+and such intention should be memorialised in a binding document. Further, 
+notification to the Commission arises only upon execution of a binding document. 
+At the time of notification of Transaction I, no binding document was entered into 
+in respect of Ostro acquisition. Thus, there is no need to notify or report Transaction 
+II to the Commission.  
+ 
+14. 
+Before delving into the merits of these contentions of CPPIB and ReNew, it is 
+pertinent to note the relevant provisions of the Act and the Combination Regulations. 
+The Act envisages ex-ante regulation of combinations. Section 6(1) of the Act 
+prohibits combination that causes or likely to cause appreciable adverse effect on 
+competition. Section 6(2) of the Act obliges parties to give notice in respect of their 
+proposed combination. Further, Section 6(2A) of the Act provides that a combination 
+notified to the Commission shall not come into effect for a period of 210 days from 
+the date of notification or earlier approval by the Commission. Thus, the scheme and 
+purpose of the Act is to provide an opportunity to the Commission to evaluate the 
+likely effects of the proposed combination on competition in the relevant market(s) 
+
+ 
+Page 15 of 23 
+ 
+and regulate them appropriately. If parties to the combination forfeit this statutory 
+opportunity provided to the Commission, the same would attract penalty under 
+Section 43A of Act. 
+ 
+15. 
+Regulation 9(4) of the Combination Regulations states that “Where the ultimate 
+intended effect of a business transaction is achieved by way of a series of steps or 
+smaller individual transactions which are inter-connected, one or more of which 
+may amount to a combination, a single notice, covering all these transactions, shall 
+be filed by the parties to the combination”. This provision makes it mandatory for 
+parties to combination to give one notice covering all inter-connected steps of their 
+proposed combination. Further, Regulation 9(5) of the Combination Regulations 
+provides that “The requirement of filing notice under regulation 5 of these 
+regulations shall be determined with respect to the substance of the transaction and 
+any structure of the transaction(s), comprising a combination, that has the effect of 
+avoiding notice in respect of the whole or a part of the combination shall be 
+disregarded”. As noted earlier, the Hon’ble Supreme Court in Thomas Cook case 
+has clarified that technical interpretation to isolate two steps of the same combination 
+would be contrary to the sprit and provisions of the Act.  
+ 
+16. 
+CPPIB made reference to the decision of the Commission in Thomas Cook case to 
+suggest that the following elements are essential to establish inter-connectedness: (i) 
+the business and entities involved; (ii) simultaneity in negotiation, execution and 
+consummation of the transactions; and (iii) whether it is practical and reasonable to 
+isolate and view the transactions separately. However, the relevant portion of the 
+said Order of the Commission states that: It is observed that considering two 
+different transactions as one combination depends on the facts and circumstances 
+of each case with due regard to the subject matter of the transactions; the business 
+and entities involved; simultaneity in negotiation, execution and consummation of 
+the transactions; and also, whether it is practical and reasonable to isolate and view 
+the transactions separately (emphasis added). As may be seen, a holistic 
+appreciation of the facts and circumstances of the given case would be relevant to 
+determine inter-connectedness and isolated or piecemeal appreciation of specific 
+facts or parameters may not yield any pragmatic conclusion. The specific elements 
+
+ 
+Page 16 of 23 
+ 
+pointed out in said decision are only indicative in nature and are not 
+mandatory/exhaustive conditions to establish inter-connectedness. 
+ 
+17. 
+CPPIB has also submitted that to be inter-connected, one part of the transaction 
+cannot be consummated without the other. However, in large part of inter-connected 
+transactions one will follow the other. Just because the second transaction happens 
+later, it cannot be argued that the same is not inter-connected, as the first transaction 
+was consummated without the consummation of the second transaction. If such test 
+of absolute dependence/ simultaneity is applied, it will lead to erroneous and 
+impractical results and no inter-connection may be established ever. 
+ 
+18. 
+On the issue of binding agreement not being in place for Transaction II, the 
+Commission observes without doubt that binding document is the basis for 
+notification of any combination under Section 6(2) of the Act. However, an inter-
+connected part of the combination cannot escape notification on the technical pretext 
+that binding agreement has not been entered into for such inter-connected 
+transaction. If one agrees otherwise, notification of a connected transaction can be 
+avoided by just postponing the execution of the binding document for the inter-
+connected part. The Commission notes that CPPIB did not even whisper about Ostro 
+acquisition in the notice filed under Section 6(2) of the Act, despite the same being 
+an important consideration to pursue Transaction I. It is reiterated that the substance 
+of a combination would guide the scope of the notification to Commission and as 
+observed by the Hon’ble Supreme Court in Thomas Cook Case, technical 
+interpretations to isolate two different steps of transactions of a composite 
+combination would be against the spirit and provisions of the Act.  
+ 
+19. 
+CPPIB has submitted that material on record shows that (i) ReNew was in the 
+process of evaluating a number of M&A opportunities; (ii) ReNew had existing 
+funds, as well as substantial lines of credit with several major banks and other 
+lenders, for the purpose of acquiring up to 
+ of projects (including Ostro, 
+which is a 1,100 MW project); and (iii) ReNew’s M&A strategy and acquisitions 
+would have continued even without CPPIB’s investment in ReNew. 
+ 
+
+ 
+Page 17 of 23 
+ 
+20. 
+In this regard, it is relevant to note that the Investment Recommendation of CPPIB, 
+while discussing Ostro Acquisition at length, specifically notes that “The Company 
+[ReNew] has asked us to support the acquisition [Ostro Acquisition] with a 
+* 
+* equity investment” (emphasis added). At another place, the same document 
+states that “Assuming the Company [ReNew] successfully completes Ostro 
+acquisition with 
+* primary financing from CPPIB” (emphasis added). 
+The case of SCN is that Primary Acquisition in Transaction I and Transaction II are 
+connected. The SCN and the charges therein does not hinge upon whether ReNew 
+would not have been able to acquire Ostro without the investment from CPPIB. If 
+the above statements of CPPIB and other material discussed herein were to show 
+inter-connectedness between Transaction I and Transaction II, the mere fact that 
+ReNew had financial strength to acquire Ostro, even without Transaction I, would 
+be of no help to break the link between Transaction I and Transaction II.  
+ 
+21. 
+Further, the Investment Recommendations of CPPIB states that ReNew sought 
+ 
+ investment for the purpose of Ostro Acquisition (i.e. Transaction II); 
+whereas, the consideration to be paid by ReNew for Ostro Acquisition was more 
+than 
+. Thus, the request of ReNew had been to seek partial funding from 
+CPPIB for the purpose of Transaction II.  
+ 
+22. 
+CPPIB has alleged that SCN mischaracterises the intention behind the Investment 
+Recommendation by taking into consideration the IRR projections with and without 
+Ostro. In this regard, the Commission notes that no other acquisition contemplated 
+by ReNew at that time, except Transaction II (i.e. Ostro Acquisition), could find a 
+place in the Investment Recommendation of CPPIB. Further, this aspect alone is not 
+the basis of SCN to allege inter-connectedness. CPPIB and ReNew have given 
+specific and separate arguments/ submissions as to why the different material relied 
+upon in the SCN do not suggest inter-connection. Seen in isolation, no specific 
+material/ facts can be conclusive of inter-connectedness or a violation of obligation 
+under Section 6(2) of the Act but a holistic appreciation would be relevant.   
+ 
+23. 
+The materials discussed in the SCN clearly show that: (a) the Investment 
+Recommendation (which was the basis for CCPIB to approve Transaction I) records 
+
+ 
+Page 18 of 23 
+ 
+that ReNew approached CPPIB to provide financial assistance to acquire Ostro and 
+discusses Transaction II at length along with IRR projection of ReNew with and 
+without Ostro; (b) no other acquisition contemplated by ReNew at that time, except 
+Transaction II (i.e. Ostro Acquisition), could find a place in the Investment 
+Recommendation of CPPIB; (c) the e-mail correspondence show that CPPIB 
+required access to diligence materials relating to Ostro before entering into a term 
+sheet for Primary Acquisition in Transaction I; and (d) the said e-mail further shows 
+that as per consensus between CPPIB and ReNew, the former was in a standby mode 
+with respect to the Primary Acquisition in Transaction I, till the alignment of 
+valuation of Ostro. Further, the press releases issued by both ReNew and CPPIB 
+further corroborate that Transaction I was contemplated and pursued to facilitate 
+partial funding to ReNew to support its acquisition of Ostro (i.e. Transaction II). The 
+primary rationale/ objective of Primary Acquisition in Transaction I had been to 
+partially fund Transaction II. CPPIB nor ReNew has specifically disputed the 
+contents of the impugned e-mails, internal reports/ considerations of CPPIB and the 
+press releases. It has been rather claimed that the said material are extraneous to 
+determine inter-connectedness and the same need to be established only through the 
+binding agreements. 
+ 
+24. 
+CPPIB and ReNew have contended that Transaction I and Transaction II are 
+independent transactions on the basis of lack of simultaneity and parties being 
+different. Pursuant to the hearing in the matter, CPPIB and ReNew have filed further 
+written submissions summarizing their arguments/ contentions. CPPIB also 
+furnished the timelines of various steps of Transaction I and Transaction II as well 
+as the share prices of ReNew at different time period to support its case.  
+ 
+ 
+Secondary 
+Acquisition in 
+Transaction I 
+Primary 
+Acquisition in 
+Transaction I 
+Ostro Acquisition
+(Transaction II) 
+Agreement  
+16.11.2017 
+14.03.2018 
+15.01.2018 
+Closing  
+31.01.2018 
+23.03.2018 
+28.03.2018 
+ 
+It is observed that CPPIB notified the Secondary and Primary Acquisitions in ReNew 
+as one combination. However, it is interesting to note that timelines between these 
+
+ 
+Page 19 of 23 
+ 
+two legs of Transaction I was much wider than the time gap between Primary 
+Acquisition in Transaction I and Transaction II. Similarly, on other parameters also, 
+such as parties and objective, one may contend that Primary Acquisition in 
+Transaction I is more integrally connected to Transaction II than the Secondary 
+Acquisition. Seen in conjunction with the other material discussed herein, the 
+Commission is of the view that Primary Acquisition in Transaction I and Transaction 
+II were simultaneously negotiated and pursued. Further, Primary Acquisition in 
+Transaction I was contemplated for the purpose of Transaction II. The share price 
+details furnished by CPPIB also do not controvert the above discussed linkages 
+between the Transaction I and Transaction II. 
+ 
+25. 
+CPPIB has alluded that although in the beginning ReNew might have approached 
+CPPIB to fund Ostro acquisition, the actual negotiation and outcomes need not 
+necessarily be seen to connect Primary Acquisition in Transaction I and Transaction 
+II. Further, the commercial negotiations, the initial objective of one party (especially 
+an investee company) is frequently at wide variance with the objective and intention 
+of the other, and is not necessarily the one on which negotiations are conducted and 
+binding transaction documents executed. This may be the commercial reality in 
+many cases. However, the impugned material and facts categorically show that: (a) 
+ReNew approached CPPIB for part financial support to acquire Ostro; and (b) after 
+the closing of Transaction II, both CPPIB and ReNew issued press releases stating 
+that the Primary Acquisition in Transaction I is an investment by CPPIB in ReNew 
+to support the acquisition of Ostro (i.e. Transaction II). Such connection from 
+starting till the closing read with the impugned e-mails show that the Primary 
+Acquisition in Transaction I was conceived, negotiated, contemplated and pursued 
+in relation to Transaction II. 
+ 
+26. 
+CPPIB has also objected to the reliance on press releases as the language therein is 
+ambiguous, 
+ and the same cannot be used to 
+establish connection between Ostro acquisition (i.e. Transaction II) and Transaction 
+1. However CPPIB has neither clarified what is the purported ambiguity nor 
+submitted that statements in the press releases are incorrect. In the absence of 
+contesting the correctness of the facts contained in the press releases, the facts therein 
+
+ 
+Page 20 of 23 
+ 
+are undisputed and will remain relevant. Just a bald request not to rely on the press 
+releases cannot be a sufficient reason to discard them. It is also relevant to note that 
+press releases was one of the material considered by the Supreme Court in Thomas 
+Cook Case to understand the composite combination in that matter and the inter-
+connectedness between different transactions therein. 
+ 
+27. 
+ReNew has further submitted that its acquisition of Ostro on a standalone basis is 
+exempted from notification to the Commission in terms of the notification dated 27th 
+March, 2017. The Commission does not see merit in this arguments as no part of a 
+composite combination can be seen in isolation for the purpose of any exemption. 
+This has also been clarified by the Hon’ble Supreme Court in Thomas Cook Case1.  
+ 
+28. 
+On a holistic appreciation of the facts and circumstances of the case particularly 
+those revealed in the impugned e-mails, Investment Recommendation of CPPIB and 
+press releases, the Commission concludes that Transaction II was not merely a 
+matter of knowledge of CPPIB gained out of general due diligence but was one of 
+its key considerations and also the rationale for contemplating Primary Acquisition 
+in Transaction I. Thus, based on the material on record, the Commission concludes 
+that Transaction I and Transaction II are inter-connected. Accordingly, CPPIB and 
+ReNew, being Acquirers in Transaction II, failed to give notice in terms of Section 
+6(2) of the Act read with Regulations 5, 9(4) and 9(5) of the Combination 
+Regulations, in respect of Transaction II. 
+ 
+B. Suppression and omission to disclose the details of Transaction II  
+ 
+29. 
+Since the facts and developments regarding Transaction II are material to 
+Transaction I, SCN noted that CPPIB appears to have suppressed and omitted to 
+disclose the details of Transaction II to the Commission in Combination Reg. No. 
+C-2017/11/536. Accordingly, CPPIB was required to show case as to why penalty 
+shall not be imposed upon it in terms of Section 44 of the Act.  
+ 
+                                                            
+1 Paragraph 30 of the case.  
+
+ 
+Page 21 of 23 
+ 
+30. 
+CPPIB has submitted that Section 628 of Companies Act, 1956 is pari materia to 
+Section 44 of the Act and means rea to wilfully omit a material fact is an essential 
+element to prove contravention. Arguendo, it has also submitted that it had made full 
+disclosure to the Commission Combination Reg. No. C-2017/11/536 and it does not 
+have incentive to gain from a wilful omission.   
+ 
+31. 
+The Commission observes that Section 628 of Companies Act, 1956 envisages 
+imprisonment as a punishment and thus, is a penal provision. However, Section 44 
+does not entail penal consequences and only monetary penalties would be levied in 
+case of contravention. While higher standard of proof is a requirement for penal 
+proceedings, Section 44 proceedings may attract only civil liabilities.  
+ 
+32. 
+While the above defences have been taken by CPPIB, it has not controverted the 
+basis of prima facie determination in the SCN regarding the omission by CPPIB to 
+disclose about Transaction II despite knowing it to be material.  
+ 
+33. 
+In this regard, the Commission notes that: (a) ReNew approached CPPIB to provide 
+funding to acquire Ostro and this acquisition has been claimed to as “a 
+transformational acquisition”; (b) the Primary Acquisition in Transaction I was 
+contemplated and pursued to support funding for Transaction II (i.e. Ostro 
+Acquisition); (c) the evaluation of IRR by CPPIB for Transaction I was not limited 
+to ReNew but is also inclusive of the business operations of Ostro, whose capacities 
+were around 
+ of the capacity of ReNew. Further, no other acquisition found a 
+place in the Investment Recommendation of CPPIB despite the claim that ReNew 
+contemplated several other acquisitions also; (d) the Investment Recommendation 
+lists Ostro as one of the top ten IPP and was highlighted separately to signify its 
+proposed acquisition by ReNew; (e) the Investment Recommendation further notes 
+that “The projects [of Ostro] have 
+* overlap with states where ReNew has 
+operations and are diversified across OEMs (for wind projects) and off-takers. 
+* 
+of Ostro Assets (higher than for ReNew) are facing higher credit quality, federal off-
+takers (NTPC and PTC)” Such a fact of horizontal overlap is a relevant and material 
+consideration from a competition perspective also; and (f) in its press release dated 
+3rd April, 2018 regarding Ostro acquisition by ReNew, CPPIB states that ‘…We 
+
+ 
+Page 22 of 23 
+ 
+congratulate ReNew Power on completing their significant acquisition…’ 
+(emphasis added), which is also indicative of the fact that Ostro Acquisition was a 
+material event. 
+ 
+34. 
+These show that Transaction II and developments in that regard are material 
+fact(s)/consideration in pursuing Primary Acquisition in Transaction I and such 
+materiality was well within the knowledge of CPPIB.  
+ 
+35. 
+CPPIB has contended that it had mentioned in the Notice that “The proposed 
+Transaction represents an opportunity for ReNew to enable smooth shareholder 
+transition, and secure primary funding to leverage for growth and expansion 
+plans.”. This according to CPPIB amounts to full disclosure and thus, there was no 
+suppression or omission on its part. The Commission notes that Form I under the 
+Combination Regulations inter alia requires the notifying party to “Please explain 
+the purpose (including business objective and/or economic rationale for each of the 
+parties to the combination and how are they intended to be achieved) of the 
+combination”. In spite of this requirement, no detail regarding Transaction II was 
+disclosed to the Commission in the Form I filed by CPPIB in Combination 
+Registration No. C-2017/11/536. Mere statement that Transaction I would secure 
+primary funding to leverage the growth and expansion plans of ReNew cannot be 
+taken as a disclosure about Transaction II. Such vague statements cannot meet the 
+requirement to disclose material particular to the Commission. Having seen the 
+extent of knowledge and the linkage between Primary Acquisition in Transaction I 
+and Transaction II, CPPIB ought to have disclosed the details of Transaction II in 
+the combination Notice filed for Transaction I. However, CPPIB having failed to do 
+so, the Commission has no hesitation in concluding that CPPIB omitted to disclose 
+a material particular, knowing it to be material. 
+ 
+36. 
+In terms of Section 43A of the Act, if any person or enterprise fails to give notice 
+under sub-section (2) of Section 6 of the Act, the Commission shall impose on such 
+person or enterprise, a penalty which may extend to one percent of the total turnover 
+or the assets, whichever is higher, of such a combination. In case of contravention 
+under Section 44, the person shall be liable to a penalty which shall not be less than 
+
+ 
+Page 23 of 23 
+ 
+rupees fifty lakhs but which may extend to rupees one crore, as may be determined 
+by the Commission. 
+ 
+37. 
+Though the penalty under sections 43A and 44 of the Act can be to the extent 
+mentioned therein, the Commission has sufficient discretion to consider the conduct 
+of the Parties and the circumstances of the case to arrive at an appropriate amount of 
+penalty. In the instant case, CPPIB and ReNew have extended cooperation in the 
+inquiry and supplied requisite material/ documents in response to the information 
+requirement of the Commission. Such material/ documents formed the basis of 
+above findings of contravention. Considering these, the Commission considers it 
+appropriate to impose a penalty of INR 50,00,000 (Rupees fifty lakh) on CPPIB. 
+CPPIB shall pay the penalty within 60 days from the date of receipt of this Order. 
+ 
+38. 
+The Secretary is directed to inform CPPIB and ReNew, accordingly.  
+ 
+ 

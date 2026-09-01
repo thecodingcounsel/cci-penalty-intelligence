@@ -1,0 +1,207 @@
+ 
+COMPETITION COMMISSION OF INDIA 
+                                          (Combination Registration No. C-2015/06/283) 
+ 
+Page 1 of 5 
+ 
+Fair Competition  
+For Greater Good 
+ 
+ 
+30.12.2015 
+ 
+ 
+Order u/s 43A of the Competition Act, 2002 (“Act”) in the notice given u/s 6(2) of the Act by: 
+ 
+(a) 
+Johnson and Johnson Innovation, Inc. (‘JJDC’),  
+(b) 
+Ethicon Endo-surgery, Inc. (‘Ethicon’)and  
+(c) 
+Google Inc. (‘Google’) 
+ 
+CORAM: 
+ 
+Mr. Sudhir Mital 
+Member 
+ 
+Mr. U. C. Nahta 
+Member 
+ 
+Mr. M. S. Sahoo 
+Member 
+ 
+Mr. G. P. Mittal 
+Member 
+ 
+Legal representative / Appearances: Mr. Amit Sibal, Sr. Advocate with Mr. Avinash 
+Amarnath, Advocate, Vinod Dhall&tt&a, and Ms 
+KamyaRajgopal, Advocate, for AZB & Partners.  
+ 
+1. 
+On 5thJune 2015, the Competition Commission of India (“Commission”) received a notice 
+given under sub-section (2) of Section 6 of the Competition Act, 2002 (“Act”)by JJDC, 
+Ethicon, and Google.(JJDC, Ethicon, and Google are hereinafter collectively referred to as 
+“Parties”). 
+ 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+                                    (Combination Registration No. C-2015/06/283) 
+ 
+Page 2 of 5 
+ 
+Fair Competition  
+For Greater Good 
+2. 
+The combination relates to the formation of a greenfield joint venture (“JV”), namely Warren 
+Robotics Inc., amongst the Parties, to carry out research and development in respect of robotic 
+systems for surgical intervention. The combination involves the transfer of certain assets 
+(including intellectual property and related assets) from Google and Ethicon to the JV and 
+meets the notification thresholds prescribed under Section 5(a) of the Act read with sub-
+regulation (9) of Regulation 5 of the Competition Commission of India (Procedure in regard 
+to the transaction of business relating to combinations) Regulations, 2011 (“Combination 
+Regulations”).  
+ 
+3. 
+On 10th July 2015, the Commission considered and assessed the proposed combination and 
+approved the same under sub-section (1) of Section 31 of the Act. While considering the 
+combination in its meeting held on 10th July 2015, the Commission also noted that the notice 
+was filed after expiry of the statutory time period of 30 (thirty) days provided in Section 6(2) 
+of the Act. With regards to the delay, it was noted that the Parties had entered into a Share 
+Purchase Agreement dated 24th March 2015 (“SPA 1”) which was subsequently modified by 
+an amendment dated 15th May 2015 (“SPA 2”). Accordingly, the notice was given on 5th June 
+2015, after a delay of 43 days. It was, therefore, noted that the notice was filed after expiry of 
+the statutory time period of 30 (thirty) days provided in Section 6(2) of the Act.  
+ 
+4. 
+In view of the foregoing and information on record, the Commission, in its meeting held on 
+30th July 2015, directed that penalty proceedings under Section 43A of the Act be initiated 
+against the Parties. Accordingly, a show cause notice (“SCN”) was issued to the Parties under 
+Regulation 48 of the Competition Commission of India (General) Regulations, 2009 
+(“General Regulations”), read with Section 43A of the Act, on23rd July 2015, requiring them 
+to show cause, in writing, within 15 days of receipt of the same, as to why penalty, in terms 
+of Section 43A of the Act, should not be imposed on them. The response to the SCN 
+(“Response”) was submitted by the Parties on7th August 2015. 
+ 
+5. 
+In its meeting held on 21st September 2015, the Commission considered the Response and 
+decided to grant an oral hearing to the Parties. Accordingly, the Parties presented their case 
+before the Commission on 20th October 2015. The Commission further deliberated on the 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+                                    (Combination Registration No. C-2015/06/283) 
+ 
+Page 3 of 5 
+ 
+Fair Competition  
+For Greater Good 
+written and oral submissions of the Parties in its meeting held on 30th December 2015. The 
+Commission noted that the parties have made, inter alia, the following broad submissions: 
+ 
+a. 
+The relevant “agreement or other document” for the purposes of sub-section (2) of 
+Section 6 of the Act in this case is SPA 2, executed on15th May 2015. This final 
+agreement, i.e., SPA 2, was based on SPA 1, which was subject to continuing negotiations 
+between the Parties with respect to, in particular, matters relating to merger filings. On 
+24th March 2015, the Parties had foreseen that further negotiations would be necessary. 
+These continued negotiations were to be undertaken to ensure compliance with applicable 
+antitrust laws, including the Act; and 
+ 
+b. Sub-section (2) of Section 6 of the Act affords discretion as to which agreement or 
+document should be deemed relevant for the purposes of triggering the relevant period. 
+Given that this discretion is in the hands of the Parties, it would not be rational to interpret 
+the provisions of sub-section (2) of Section 6 of the Act to consider an agreement which 
+does not specify the conditions that must be fulfilled before a transaction is complete (nor 
+the rights and obligations of the Parties to the agreement with respect to ensuring that 
+these conditions are satisfied) as a binding document under sub-section (2) of Section 6 
+of the Act. Accordingly, such an agreement is incomplete and not “definitive” so as to 
+serve as the basis for a notice. 
+ 
+6. 
+The Commission observed that: 
+a. 
+Clause 6.13 of SPA 1 provides that “[t]his Agreement (including exhibits hereto), the 
+Certificate of Incorporation and other Transaction Agreements constitute the full and 
+entire understanding and agreement between the Parties with respect to subject 
+matter hereof…”. As a result, SPA 1 constituted the definitive agreement between 
+the Parties for the purchase of shares in the JV; 
+ 
+b. It is also noted that SPA 2, which amended SPA 1, is not a standalone agreement 
+between the Parties and has, in fact, been referred to as “Amendment No. 1 to Stock 
+Purchase Agreement”. Further, it may be noted that SPA 2 provides that “any 
+reference to the “date of the Agreement” shall, unless the context expressly requires 
+otherwise, refer to March 24, 2015 and any reference to the date of this Letter shall 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+                                    (Combination Registration No. C-2015/06/283) 
+ 
+Page 4 of 5 
+ 
+Fair Competition  
+For Greater Good 
+refer to the date first set forth above. Except as expressly amended in Section 1 of 
+this Letter, the Purchase Agreement shall apply, control and continue in full force 
+and effect as originally constituted and is hereby ratified and affirmed by and/or on 
+behalf of each of the Parties”.Thus, the date of the relevant agreement for acquisition 
+of shares of the JV is evidently the date of SPA 1; 
+ 
+c. 
+Based on the above, it is observed that SPA 2 was merely an amendment to the SPA 
+1 and did not constitute an agreement for acquisition of shares, voting rights, control 
+or assets, as provided under sub-section (2) of Section 6 of the Act. This is also 
+evidenced by the content of SPA 2, which amended only the following limited clauses 
+of SPA 1, viz., (a) the jurisdictions in which notification is required to be filed; (b) 
+extension of the “Outside Date”, i.e., the long stop date for Closing; and (c) reverse 
+termination fee payable on termination of SPA 1. The provisions regarding share 
+subscription, etc., as provided in the SPA 1 remain unchanged; 
+ 
+d. Based on the foregoing, it is observed that SPA 1, would be the agreement for 
+acquisition in terms of sub-section (2) of Section 6 of the Act and the notice ought to 
+have been given by the Parties to the Commission within 30 days of execution of 
+SPA 1. However, the notice was given by the Parties to the Commission only on 
+5thJune 2015, with a delay of 43 days; and 
+ 
+e. 
+With regard to the submission of the Parties that sub-section (2) of Section 6 of the 
+Act affords discretion as to which agreement or document should be deemed relevant 
+for the purposes of trigger for filing, it is observed that if the argument of the Parties 
+is accepted, it would mean that parties may keep amending the transaction documents 
+and thereby keep postponing the notification timelines. This would render the 
+statutory timeline of filing a notice within 30 days of the execution of the agreement 
+for acquisition, meaningless. 
+ 
+7. 
+Thus, in view of the foregoing, the Commission observed that the Parties failed to give notice 
+to the Commission within the time period of 30 days of execution of the agreement for 
+acquisition, i.e., SPA1,under sub-section(2) of Section 6of the Act which attracts penalty 
+under Section 43A of the Act. Section 43A of the Act reads as under: 
+
+ 
+COMPETITION COMMISSION OF INDIA 
+                                    (Combination Registration No. C-2015/06/283) 
+ 
+Page 5 of 5 
+ 
+Fair Competition  
+For Greater Good 
+ 
+“If any person or enterprise who fails to give notice to the Commission under 
+subsection(2) of section 6, the Commission shall impose on such person or enterprise 
+a penalty which may extend to one percent of the total turnover or the assets, 
+whichever is higher, of such a combination.” 
+ 
+8. 
+However, considering the fact that the Parties, notwithstanding the delay of around 43 days in 
+giving notice, had voluntarily filed the notice with the Commission before giving effect to the 
+combination, the Commission considered it appropriate to impose a nominal penalty of INR 
+5,00,000/- (INR Five Lakhs only) on the Parties. The Parties shall pay the penalty within sixty 
+(60) days from the date of receipt of this order. 
+ 
+9. 
+The Secretary is directed to communicate to the Parties accordingly. 
+ 
+ 
+ 
