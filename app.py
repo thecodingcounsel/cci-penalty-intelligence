@@ -15,13 +15,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-from src.analytics import (
-    compare_outlier_impact,
-    compute_penalty_stats,
-    exclude_outliers,
-    flag_statistical_outliers,
-    format_inr,
-)
+from src.analytics import compute_penalty_stats, flag_statistical_outliers, format_inr
 from src.comparables import build_case_profile, find_comparables
 from src.data import DataValidationError, add_quality_flags, get_filter_options, load_full_dataset
 from src.search import search as search_corpus
@@ -29,25 +23,58 @@ from src.search import search as search_corpus
 DATA_PATH = "data/orders.csv"
 METADATA_PATH = "data/corpus_metadata.json"
 
+# Amazon/Future's penalty (~₹202 Cr) is roughly two orders of magnitude larger than every
+# other case in the corpus. Left in, it flattens every other bar/line on the Overview tab's
+# charts to invisibility. This constant is used ONLY by render_overview() below (via
+# _overview_corpus()) - Amazon stays fully present in the underlying dataset, the Penalty
+# Benchmark table, Case Explorer, Find Comparables, and Corpus Search. This is a presentation
+# choice on one tab, not a data exclusion - see README "Trust model" / "Amazon handling".
+AMAZON_ORDER_ID = "CCI-1138"
+
 st.set_page_config(page_title="CCI Penalty Intelligence", layout="wide")
+
+CSS = """
+<style>
+.block-container { padding-top: 2.5rem; padding-bottom: 3rem; max-width: 1180px; }
+[data-testid="stMetricValue"] { font-size: 1.7rem; font-weight: 600; letter-spacing: -0.01em; }
+[data-testid="stMetricLabel"] { font-size: 0.78rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.04em; }
+hr { margin: 1.5rem 0; border-color: #e9ebee; }
+h3 { margin-top: 0.25rem; }
+.cci-hero { padding: 0.25rem 0 0.75rem 0; }
+.cci-hero .cci-label { font-size: 0.78rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.15rem; }
+.cci-hero .cci-value { font-size: 2.8rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+.cci-tag { display: inline-block; font-size: 0.78rem; padding: 0.18rem 0.6rem; border-radius: 999px;
+           background: #f3f4f6; color: #374151; margin: 0 0.3rem 0.3rem 0; white-space: nowrap; }
+.cci-score { font-weight: 700; font-size: 1.15rem; text-align: right; }
+.cci-muted { color: #6b7280; }
+</style>
+"""
 
 
 # ------------------------------------------------------------------------------------------
-# Data loading
+# Data loading + small display helpers
 # ------------------------------------------------------------------------------------------
 
 @st.cache_data(show_spinner=False)
 def _load() -> pd.DataFrame:
     df = load_full_dataset(DATA_PATH)
     df = add_quality_flags(df)
+    # Informational only - shown as a read-only column in the benchmark table so a lawyer
+    # can see which cases are statistical outliers. Never auto-excludes anything; the
+    # Include checkbox is the only thing that controls the benchmark set.
     df = flag_statistical_outliers(df, "penalty_43a")
     return df
+
+
+def _overview_corpus(df: pd.DataFrame) -> pd.DataFrame:
+    """Presentation-only: drops Amazon/Future for Overview-tab visuals. See AMAZON_ORDER_ID."""
+    return df[df["order_id"] != AMAZON_ORDER_ID]
 
 
 def _corpus_last_updated() -> str:
     path = Path(METADATA_PATH)
     if not path.exists():
-        return "unknown (run update_corpus.py)"
+        return "unknown"
     try:
         meta = json.loads(path.read_text())
         return meta.get("last_updated_utc", "unknown")[:10]
@@ -55,20 +82,28 @@ def _corpus_last_updated() -> str:
         return "unknown"
 
 
-def render_disclaimer() -> None:
-    st.info(
-        "This tool is an analytical aid. The CCI order is the primary source. "
-        "Verify every figure and legal conclusion against the original order before relying on it."
+def _date_str(value) -> str:
+    return str(value.date()) if pd.notna(value) else "—"
+
+
+def render_hero_metric(label: str, value: str) -> None:
+    st.markdown(
+        f'<div class="cci-hero"><div class="cci-label">{label}</div><div class="cci-value">{value}</div></div>',
+        unsafe_allow_html=True,
     )
 
 
+def render_tags(items: list[str]) -> None:
+    if not items:
+        return
+    st.markdown(" ".join(f'<span class="cci-tag">{i}</span>' for i in items), unsafe_allow_html=True)
+
+
 def render_quality_badges(row: pd.Series) -> None:
-    badges = []
-    badges.append("📄 Source text" if row.get("source_text_available") else "🔍 OCR required")
-    badges.append("💰 Penalty extracted" if row.get("penalty_extracted") else "💰 Penalty not extracted")
+    badges = ["Source text available" if row.get("source_text_available") else "OCR required"]
     if row.get("legal_intelligence_available"):
-        badges.append("🧠 Legal intelligence available")
-    badges.append("✅ Human verified" if row.get("human_verified") else "🤖 Auto-extracted, unverified")
+        badges.append("Legal intelligence available")
+    badges.append("Human verified" if row.get("human_verified") else "Auto-extracted, unverified")
     st.caption(" · ".join(badges))
 
 
@@ -77,8 +112,9 @@ def render_quality_badges(row: pd.Series) -> None:
 # ------------------------------------------------------------------------------------------
 
 def main() -> None:
+    st.markdown(CSS, unsafe_allow_html=True)
     st.title("CCI Penalty Intelligence")
-    st.caption("Section 43A / 44 precedent, penalty benchmarking and comparable-case intelligence.")
+    st.caption("Section 43A / 44 precedent intelligence")
 
     try:
         df = _load()
@@ -93,8 +129,10 @@ def main() -> None:
         st.warning("orders.csv loaded but contains no rows.")
         st.stop()
 
-    render_disclaimer()
-    st.caption(f"Corpus last updated: {_corpus_last_updated()}  ·  {len(df)} orders in the dataset")
+    st.caption(
+        f"{len(df)} orders · corpus last updated {_corpus_last_updated()} · "
+        "an analytical aid — the CCI order remains the primary source"
+    )
 
     tab_overview, tab_benchmark, tab_explorer, tab_comparables, tab_search = st.tabs(
         ["Overview", "Penalty Benchmark", "Case Explorer", "Find Comparables", "Corpus Search"]
@@ -117,81 +155,66 @@ def main() -> None:
 # ------------------------------------------------------------------------------------------
 
 def render_overview(df: pd.DataFrame) -> None:
-    st.subheader("Corpus overview")
-
-    penalized = df[df["penalty_43a"].notna()]
     stats = compute_penalty_stats(df, "penalty_43a")
-    years = df["year"].dropna()
-    year_range = f"{int(years.min())}–{int(years.max())}" if not years.empty else "-"
+    overview_df = _overview_corpus(df)
+    overview_penalized = overview_df[overview_df["penalty_43a"].notna()]
+    largest_excl_amazon = overview_penalized["penalty_43a"].max() if not overview_penalized.empty else None
 
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Total orders", len(df))
-    c2.metric("Orders with a Section 43A penalty", len(penalized))
-    c3.metric("Year range", year_range)
-
-    c4, c5, c6 = st.columns(3)
-    c4.metric("Median Section 43A penalty", format_inr(stats["median"]))
-    c5.metric("Mean Section 43A penalty", format_inr(stats["mean"]))
-    c6.metric("Largest penalty", format_inr(stats["max"]))
+    c1, c2, c3, c4 = st.columns(4)
+    c1.metric("Total Orders", len(df))
+    c2.metric("Median Penalty", format_inr(stats["median"]))
+    c3.metric("Mean / Average Penalty", format_inr(stats["mean"]))
+    c4.metric("Largest Penalty (excl. Amazon)", format_inr(largest_excl_amazon))
+    st.caption(
+        "Amazon/Future is excluded from this overview visual because its exceptional penalty "
+        "materially distorts the scale. It remains available throughout the underlying corpus "
+        "and benchmarking tools."
+    )
 
     st.divider()
     col_a, col_b = st.columns(2)
 
     with col_a:
         st.markdown("**Penalty trend by year**")
-        if not penalized.empty:
-            yearly = penalized.groupby(penalized["decision_date"].dt.year)["penalty_43a"].median()
-            st.bar_chart(yearly.rename("Median Section 43A penalty (INR)"))
+        if not overview_penalized.empty:
+            yearly = (
+                overview_penalized.groupby(overview_penalized["decision_date"].dt.year)["penalty_43a"]
+                .median() / 1_00_000
+            )
+            st.line_chart(yearly.rename("Median penalty (₹ Lakh)"))
         else:
-            st.caption("No penalty data to chart yet.")
+            st.caption("Not enough data to chart yet.")
 
     with col_b:
-        st.markdown("**Distribution of penalties**")
-        if not penalized.empty:
-            st.bar_chart(penalized.set_index("case_name")["penalty_43a"].sort_values(ascending=False))
+        st.markdown("**Most common conduct types**")
+        conduct_counts = df[df["conduct_type"] != ""]["conduct_type"].value_counts()
+        if not conduct_counts.empty:
+            st.bar_chart(conduct_counts, horizontal=True, y_label="", x_label="Orders")
         else:
-            st.caption("No penalty data to chart yet.")
-
-    st.markdown("**Most common conduct types**")
-    conduct_counts = df[df["conduct_type"] != ""]["conduct_type"].value_counts()
-    if not conduct_counts.empty:
-        st.bar_chart(conduct_counts)
-    else:
-        st.caption("No conduct-type intelligence extracted yet - run build_intelligence.py.")
+            st.caption("No conduct-type intelligence extracted yet.")
 
 
 # ------------------------------------------------------------------------------------------
 # Tab 2 - Penalty Benchmark
 # ------------------------------------------------------------------------------------------
 
-DETAIL_COLUMNS = [
-    "order_id", "case_name", "decision_date", "provision",
+BENCHMARK_TABLE_COLUMNS = [
+    "case_name", "decision_date", "provision",
     "penalty_43a", "penalty_44", "penalty_45", "total_penalty",
-    "penalty_source_page", "penalty_source_text",
-    "conduct_type", "transaction_type", "sector",
-    "notification_issue", "gun_jumping_type", "voluntary_disclosure", "cooperation",
-    "mitigating_factors", "aggravating_factors",
-    "statistical_outlier", "verified", "notes", "source_url", "pdf_url",
+    "conduct_type", "statistical_outlier", "verified", "source_url", "pdf_url",
 ]
 
 
 def render_benchmark(df: pd.DataFrame) -> None:
-    st.subheader("Penalty benchmark")
-    st.caption(
-        "Every case has an Include checkbox - exclude any case you don't want in the benchmark. "
-        "Nothing is excluded by default except where the dataset's own include_default says so."
-    )
-
     options = get_filter_options(df)
     f1, f2, f3 = st.columns(3)
     f_year = f1.multiselect("Year", options["year"])
     f_provision = f2.multiselect("Provision", options["provision"])
     f_conduct = f3.multiselect("Conduct type", options["conduct_type"])
 
-    f4, f5, f6 = st.columns(3)
+    f4, f5 = st.columns(2)
     f_transaction = f4.multiselect("Transaction type", options["transaction_type"])
-    f_voluntary = f5.multiselect("Voluntary disclosure", options["voluntary_disclosure"])
-    f_cooperation = f6.multiselect("Cooperation", options["cooperation"])
+    f_cooperation = f5.multiselect("Cooperation", options["cooperation"])
 
     f_sector = []
     if options["sector"]:
@@ -200,91 +223,57 @@ def render_benchmark(df: pd.DataFrame) -> None:
     filtered = df.copy()
     for col, selected in [
         ("year", f_year), ("provision", f_provision), ("conduct_type", f_conduct),
-        ("transaction_type", f_transaction), ("voluntary_disclosure", f_voluntary),
-        ("cooperation", f_cooperation), ("sector", f_sector),
+        ("transaction_type", f_transaction), ("cooperation", f_cooperation), ("sector", f_sector),
     ]:
         if selected:
             filtered = filtered[filtered[col].isin(selected)]
 
-    st.markdown("**Cases**")
+    st.caption("Tick Include to build your benchmark set. No case is excluded automatically.")
     if filtered.empty:
         st.warning("No cases match the current filters.")
         edited = filtered.assign(Include=pd.Series(dtype=bool))
     else:
         table = filtered.copy()
         table.insert(0, "Include", table["include_default"])
-        display_cols = ["Include"] + DETAIL_COLUMNS
+        display_cols = ["Include"] + BENCHMARK_TABLE_COLUMNS
         edited = st.data_editor(
             table[display_cols],
             hide_index=True,
             width="stretch",
             disabled=[c for c in display_cols if c != "Include"],
             column_config={
-                "Include": st.column_config.CheckboxColumn("Include"),
-                "decision_date": st.column_config.DateColumn("Decision date"),
-                "penalty_43a": st.column_config.NumberColumn("Penalty 43A", format="%.0f"),
-                "penalty_44": st.column_config.NumberColumn("Penalty 44", format="%.0f"),
-                "penalty_45": st.column_config.NumberColumn("Penalty 45", format="%.0f"),
-                "total_penalty": st.column_config.NumberColumn("Total penalty", format="%.0f"),
-                "statistical_outlier": st.column_config.CheckboxColumn("Statistical outlier"),
+                "Include": st.column_config.CheckboxColumn("Include", width="small"),
+                "case_name": st.column_config.TextColumn("Case", width="large"),
+                "decision_date": st.column_config.DateColumn("Date"),
+                "penalty_43a": st.column_config.NumberColumn("43A", format="%.0f"),
+                "penalty_44": st.column_config.NumberColumn("44", format="%.0f"),
+                "penalty_45": st.column_config.NumberColumn("45", format="%.0f"),
+                "total_penalty": st.column_config.NumberColumn("Total", format="%.0f"),
+                "statistical_outlier": st.column_config.CheckboxColumn("Outlier"),
                 "verified": st.column_config.CheckboxColumn("Verified"),
-                "source_url": st.column_config.LinkColumn("Source"),
-                "pdf_url": st.column_config.LinkColumn("PDF"),
+                "source_url": st.column_config.LinkColumn("Source", display_text="Open"),
+                "pdf_url": st.column_config.LinkColumn("PDF", display_text="Open"),
             },
             key="benchmark_editor",
         )
 
-    exclude_flagged = st.toggle(
-        "Exclude statistical outliers from the benchmark (IQR rule - see Overview for what this flags)",
-        value=False,
-    )
-
     included = edited[edited["Include"] == True] if not edited.empty else edited  # noqa: E712
-    selected_df = exclude_outliers(included) if exclude_flagged else included
 
     st.divider()
-    st.subheader("Section 43A statistics")
-    stats = compute_penalty_stats(selected_df, "penalty_43a")
+    stats = compute_penalty_stats(included, "penalty_43a")
+    render_hero_metric("Median Penalty", format_inr(stats["median"]))
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Selected cases", stats["count"])
-    c2.metric("MEDIAN", format_inr(stats["median"]))
-    c3.metric("Mean", format_inr(stats["mean"]))
-    c4.metric("Total", format_inr(stats["total"]))
-    c5, c6, c7, c8 = st.columns(4)
-    c5.metric("Minimum", format_inr(stats["min"]))
-    c6.metric("Maximum", format_inr(stats["max"]))
-    c7.metric("25th percentile", format_inr(stats["p25"]))
-    c8.metric("75th percentile", format_inr(stats["p75"]))
-    st.caption(
-        "The median is often the more reliable benchmark: a single exceptional penalty "
-        "(a large or unusually lenient case) can swing the mean without changing what a "
-        "typical case actually looks like. Compare the two above."
-    )
+    c1.metric("Selected Cases", stats["count"])
+    c2.metric("Mean / Average", format_inr(stats["mean"]))
+    c3.metric("Minimum", format_inr(stats["min"]))
+    c4.metric("Maximum", format_inr(stats["max"]))
+    st.caption("Median is often more representative where exceptional penalties distort the average.")
 
-    st.subheader("Outlier impact")
-    st.caption("All filtered cases, with vs. without statistically flagged outliers (independent of the Include ticks above).")
-    comparison = compare_outlier_impact(filtered, "penalty_43a")
-    c1, c2 = st.columns(2)
-    c1.metric("Average incl. all filtered cases", format_inr(comparison["including_outliers"]["mean"]))
-    c1.caption(f"{comparison['including_outliers']['count']} cases")
-    c2.metric("Average excl. statistical outliers", format_inr(comparison["excluding_outliers"]["mean"]))
-    c2.caption(f"{comparison['excluding_outliers']['count']} cases")
-
-    st.subheader("Penalty by case")
-    if selected_df.empty:
-        st.caption("No cases selected.")
-    else:
-        chart_data = selected_df.set_index("case_name")[["penalty_43a", "penalty_44", "penalty_45"]].fillna(0)
-        st.bar_chart(chart_data)
-
-    st.subheader("Selected case details")
-    if selected_df.empty:
-        st.caption("No cases selected.")
-    else:
-        st.dataframe(
-            selected_df[DETAIL_COLUMNS], hide_index=True, width="stretch",
-            column_config={"source_url": st.column_config.LinkColumn("Source"), "pdf_url": st.column_config.LinkColumn("PDF")},
-        )
+    if not included.empty:
+        st.divider()
+        st.markdown("**Penalty by case (₹ Lakh)**")
+        chart = included.set_index("case_name")[["penalty_43a", "penalty_44", "penalty_45"]].fillna(0) / 1_00_000
+        st.bar_chart(chart)
 
 
 # ------------------------------------------------------------------------------------------
@@ -292,9 +281,10 @@ def render_benchmark(df: pd.DataFrame) -> None:
 # ------------------------------------------------------------------------------------------
 
 def render_case_explorer(df: pd.DataFrame) -> None:
-    st.subheader("Case explorer")
-
-    query = st.text_input("Filter by case name or registration number", key="explorer_filter")
+    query = st.text_input(
+        "Find a case", key="explorer_filter", placeholder="Search by case name or registration number",
+        label_visibility="collapsed",
+    )
     options_df = df
     if query:
         mask = (
@@ -304,55 +294,69 @@ def render_case_explorer(df: pd.DataFrame) -> None:
         options_df = df[mask]
 
     if options_df.empty:
-        st.warning("No cases match that filter.")
+        st.warning("No cases match that search.")
         return
 
-    labels = options_df.apply(
-        lambda r: f"{r['case_name'][:70]} — {r['decision_date'].date() if pd.notna(r['decision_date']) else '?'}", axis=1
-    )
-    choice = st.selectbox("Select a case", options=options_df.index, format_func=lambda i: labels.loc[i])
+    labels = options_df.apply(lambda r: f"{r['case_name'][:70]} — {_date_str(r['decision_date'])}", axis=1)
+    choice = st.selectbox("Select a case", options=options_df.index, format_func=lambda i: labels.loc[i], label_visibility="collapsed")
     row = df.loc[choice]
 
+    st.divider()
     render_case_profile(row)
 
 
 def render_case_profile(row: pd.Series) -> None:
-    st.markdown(f"## {row['case_name']}")
+    st.markdown(f"### {row['case_name']}")
+    st.caption(f"{row['combination_registration_no'] or '—'} · {_date_str(row['decision_date'])} · Section {row['provision'] or '—'}")
     render_quality_badges(row)
 
-    c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Registration no.", row["combination_registration_no"] or "-")
-    c2.metric("Decision date", str(row["decision_date"].date()) if pd.notna(row["decision_date"]) else "-")
-    c3.metric("Provision", row["provision"] or "-")
-    c4.metric("Total penalty", format_inr(row["total_penalty"]))
+    render_hero_metric("Total Penalty", format_inr(row["total_penalty"]))
 
-    with st.expander("Legal issue & outcome", expanded=True):
-        st.markdown(f"**Legal issue:** {row['legal_issue_summary'] or '_not extracted_'}")
-        st.markdown(f"**Conduct:** {row['conduct_type'] or '_not extracted_'}")
-        st.markdown(f"**Transaction type:** {row['transaction_type'] or '_not extracted_'}")
-        st.markdown(f"**Outcome:** {row['outcome_summary'] or '_not extracted_'}")
+    st.divider()
+    c1, c2, c3 = st.columns(3)
+    with c1:
+        st.markdown("**Legal issue**")
+        st.caption(row["legal_issue_summary"] or "Not extracted")
+    with c2:
+        st.markdown("**Conduct**")
+        st.caption(row["conduct_type"] or "Not extracted")
+    with c3:
+        st.markdown("**Outcome**")
+        st.caption(row["outcome_summary"] or "Not extracted")
 
     with st.expander("Penalty rationale"):
-        st.write(row["penalty_rationale"] or "_not extracted_")
+        st.write(row["penalty_rationale"] or "Not extracted")
 
-    with st.expander("Mitigating & aggravating factors"):
-        st.markdown(f"**Mitigating factors:** {row['mitigating_factors'] or '_not identified_'}")
-        st.markdown(f"**Aggravating factors:** {row['aggravating_factors'] or '_not identified_'}")
-        st.markdown(f"**Voluntary disclosure:** {row['voluntary_disclosure'] or '_not stated_'}")
-        st.markdown(f"**Cooperation:** {row['cooperation'] or '_not stated_'}")
+    c4, c5 = st.columns(2)
+    with c4:
+        st.markdown("**Mitigating factors**")
+        st.caption(row["mitigating_factors"] or "None identified")
+    with c5:
+        st.markdown("**Aggravating factors**")
+        st.caption(row["aggravating_factors"] or "None identified")
+
+    c6, c7 = st.columns(2)
+    with c6:
+        st.markdown("**Voluntary disclosure**")
+        st.caption(row["voluntary_disclosure"] or "Not stated")
+    with c7:
+        st.markdown("**Cooperation**")
+        st.caption(row["cooperation"] or "Not stated")
+
+    st.divider()
+    src_col, pdf_col, prov_col = st.columns([2, 2, 3])
+    src_col.markdown(f"[CCI order page]({row['source_url']})" if row["source_url"] else "_Source not available_")
+    pdf_col.markdown(f"[Original PDF]({row['pdf_url']})" if row["pdf_url"] else "")
 
     with st.expander("Source excerpts (provenance)"):
         if row["penalty_source_text"]:
-            st.markdown(f"**Penalty finding** (page {row['penalty_source_page'] or '?'}):")
+            st.markdown(f"**Penalty finding** — page {row['penalty_source_page'] or '?'}")
             st.caption(row["penalty_source_text"])
         if row["intelligence_source_text"]:
-            st.markdown(f"**Legal-factor finding** (page {row['intelligence_source_page'] or '?'}):")
+            st.markdown(f"**Legal-factor finding** — page {row['intelligence_source_page'] or '?'}")
             st.caption(row["intelligence_source_text"])
         if not row["penalty_source_text"] and not row["intelligence_source_text"]:
             st.caption("No source excerpt captured for this case.")
-
-    st.markdown("**Official source**")
-    st.markdown(f"[CCI order page]({row['source_url']})  ·  [PDF]({row['pdf_url']})" if row["source_url"] else "_not available_")
 
 
 # ------------------------------------------------------------------------------------------
@@ -360,100 +364,84 @@ def render_case_profile(row: pd.Series) -> None:
 # ------------------------------------------------------------------------------------------
 
 def render_comparables_tab(df: pd.DataFrame) -> None:
-    st.subheader("Find comparables")
-    st.caption(
-        "Select an existing precedent, or build a hypothetical fact pattern, to find the "
-        "most comparable CCI orders and benchmark the likely penalty range."
-    )
-
-    mode = st.radio("Mode", ["Select an existing case", "Build a fact pattern"], horizontal=True)
+    mode = st.radio("Mode", ["Select an existing case", "Build a fact pattern"], horizontal=True, label_visibility="collapsed")
 
     base = None
     exclude_ids: set = set()
 
     if mode == "Select an existing case":
-        labels = df.apply(
-            lambda r: f"{r['case_name'][:70]} — {r['decision_date'].date() if pd.notna(r['decision_date']) else '?'}", axis=1
+        labels = df.apply(lambda r: f"{r['case_name'][:70]} — {_date_str(r['decision_date'])}", axis=1)
+        choice = st.selectbox(
+            "Precedent case", options=df.index, format_func=lambda i: labels.loc[i],
+            key="comparables_case_select", label_visibility="collapsed",
         )
-        choice = st.selectbox("Precedent case", options=df.index, format_func=lambda i: labels.loc[i], key="comparables_case_select")
         base_row = df.loc[choice]
         base = build_case_profile(base_row)
         exclude_ids = {base_row["order_id"]}
-        st.caption(
-            f"Base case: **{base['case_name']}** — conduct: {base['conduct_type'] or '?'}, "
-            f"transaction: {base['transaction_type'] or '?'}"
-        )
+        st.caption(f"Base case: **{base['case_name']}** — {base['conduct_type'] or 'conduct unknown'}, {base['transaction_type'] or 'transaction type unknown'}")
 
     else:
         opts = get_filter_options(df)
-        c1, c2 = st.columns(2)
+        c1, c2, c3 = st.columns(3)
         conduct = c1.selectbox("Conduct", [""] + opts["conduct_type"])
         transaction = c2.selectbox("Transaction type", [""] + opts["transaction_type"])
-        c3, c4 = st.columns(2)
-        closed_before = c3.selectbox("Closed before approval?", ["", "Yes", "No"])
-        voluntary = c4.selectbox("Voluntary disclosure", ["", "Yes", "No"])
-        c5, c6 = st.columns(2)
-        cooperation = c5.selectbox("Cooperation", ["", "Full", "Partial"])
-        delay_days = c6.number_input("Approximate delay (days)", min_value=0, value=0, step=1)
+        cooperation = c3.selectbox("Cooperation", ["", "Full", "Partial"])
+        c4, c5, c6 = st.columns(3)
+        closed_before = c4.selectbox("Closed before approval?", ["", "Yes", "No"])
+        voluntary = c5.selectbox("Voluntary disclosure", ["", "Yes", "No"])
+        delay_days = c6.number_input("Approx. delay (days)", min_value=0, value=0, step=1)
 
         base = {
-            "order_id": None,
-            "case_name": "Hypothetical fact pattern",
-            "decision_date": None,
-            "conduct_type": conduct or None,
-            "transaction_type": transaction or None,
-            "closed_before_approval": closed_before or None,
-            "voluntary_disclosure": voluntary or None,
-            "cooperation": cooperation or None,
-            "delay_duration_days": float(delay_days) if delay_days else None,
-            "penalty_43a": None,
-            "mitigating_factors": None,
-            "aggravating_factors": None,
+            "order_id": None, "case_name": "Hypothetical fact pattern", "decision_date": None,
+            "conduct_type": conduct or None, "transaction_type": transaction or None,
+            "closed_before_approval": closed_before or None, "voluntary_disclosure": voluntary or None,
+            "cooperation": cooperation or None, "delay_duration_days": float(delay_days) if delay_days else None,
+            "penalty_43a": None, "mitigating_factors": None, "aggravating_factors": None,
         }
 
+    st.divider()
     results = find_comparables(base, df, exclude_order_ids=exclude_ids, top_n=10)
 
     if results.empty:
-        st.warning("No comparable cases could be scored - not enough overlapping data between this case/fact pattern and the corpus.")
+        st.warning("No comparable cases could be scored — not enough overlapping data for this case or fact pattern.")
         return
 
-    st.markdown("**Adjust the comparable set**")
-    results_table = results.copy()
-    results_table.insert(0, "Include", True)
-    edited = st.data_editor(
-        results_table[["Include", "order_id", "case_name", "decision_date", "penalty_43a", "comparable_score"]],
-        hide_index=True, width="stretch",
-        disabled=["order_id", "case_name", "decision_date", "penalty_43a", "comparable_score"],
-        column_config={
-            "Include": st.column_config.CheckboxColumn("Include"),
-            "comparable_score": st.column_config.NumberColumn("Comparable score (%)", format="%.1f"),
-            "penalty_43a": st.column_config.NumberColumn("Penalty 43A", format="%.0f"),
-        },
-        key="comparables_editor",
-    )
+    with st.expander("Adjust the comparable set"):
+        results_table = results.copy()
+        results_table.insert(0, "Include", True)
+        edited = st.data_editor(
+            results_table[["Include", "order_id", "case_name", "decision_date", "penalty_43a", "comparable_score"]],
+            hide_index=True, width="stretch",
+            disabled=["order_id", "case_name", "decision_date", "penalty_43a", "comparable_score"],
+            column_config={
+                "Include": st.column_config.CheckboxColumn("Include"),
+                "comparable_score": st.column_config.NumberColumn("Score %", format="%.0f"),
+                "penalty_43a": st.column_config.NumberColumn("Penalty 43A", format="%.0f"),
+            },
+            key="comparables_editor",
+        )
     included_ids = set(edited.loc[edited["Include"] == True, "order_id"])  # noqa: E712
-    benchmark_set = results[results["order_id"].isin(included_ids)]
+    shown = results[results["order_id"].isin(included_ids)]
+
+    for _, r in shown.iterrows():
+        with st.container(border=True):
+            title_col, score_col = st.columns([5, 1])
+            title_col.markdown(f"**{r['case_name'][:70]}**")
+            score_col.markdown(f'<div class="cci-score">{r["comparable_score"]:.0f}%</div>', unsafe_allow_html=True)
+            st.caption(f"{format_inr(r['penalty_43a'])} penalty · {_date_str(r['decision_date'])}")
+            render_tags(r["reasons"])
+            if r["source_url"]:
+                st.markdown(f"[Open case / source]({r['source_url']})")
 
     st.divider()
-    st.subheader("Comparable-set benchmark")
-    stats = compute_penalty_stats(benchmark_set, "penalty_43a")
+    st.markdown("**Comparable-set benchmark**")
+    stats = compute_penalty_stats(shown, "penalty_43a")
+    st.caption(f"{stats['count']} comparable case(s)")
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("Comparable cases", stats["count"])
-    c2.metric("Median", format_inr(stats["median"]))
-    c3.metric("Mean", format_inr(stats["mean"]))
-    c4.metric("Range", f"{format_inr(stats['min'])} – {format_inr(stats['max'])}")
-    c5, c6 = st.columns(2)
-    c5.metric("25th percentile", format_inr(stats["p25"]))
-    c6.metric("75th percentile", format_inr(stats["p75"]))
-
-    st.subheader("Why each case matches")
-    for _, r in results[results["order_id"].isin(included_ids)].iterrows():
-        with st.expander(f"{r['comparable_score']}%  —  {r['case_name'][:70]} ({r['points_earned']}/{r['points_possible']} pts)"):
-            st.markdown(f"**Penalty:** {format_inr(r['penalty_43a'])}  ·  **Date:** {r['decision_date'].date() if pd.notna(r['decision_date']) else '?'}")
-            for reason in r["reasons"]:
-                st.markdown(f"- {reason}")
-            if r["source_url"]:
-                st.markdown(f"[Case profile / source]({r['source_url']})")
+    c1.metric("Median", format_inr(stats["median"]))
+    c2.metric("Mean / Average", format_inr(stats["mean"]))
+    c3.metric("Minimum", format_inr(stats["min"]))
+    c4.metric("Maximum", format_inr(stats["max"]))
 
 
 # ------------------------------------------------------------------------------------------
@@ -461,11 +449,12 @@ def render_comparables_tab(df: pd.DataFrame) -> None:
 # ------------------------------------------------------------------------------------------
 
 def render_search_tab(df: pd.DataFrame) -> None:
-    st.subheader("Search CCI penalty precedent")
-    st.caption("Examples: pre-closing integration · voluntary disclosure · delay in notification · share purchase agreement · exercise of control")
-
-    query = st.text_input("Search CCI penalty precedent…", key="corpus_search_query")
+    query = st.text_input(
+        "Search", key="corpus_search_query", label_visibility="collapsed",
+        placeholder="Search CCI penalty precedent… e.g. pre-closing integration, voluntary disclosure, delay in notification",
+    )
     if not query:
+        st.caption("Try: pre-closing integration · voluntary disclosure · delay in notification · share purchase agreement · exercise of control")
         return
 
     results = search_corpus(df, query, top_n=15)
@@ -473,15 +462,19 @@ def render_search_tab(df: pd.DataFrame) -> None:
         st.warning("No matches found.")
         return
 
+    results = results.merge(df[["order_id", "conduct_type"]], on="order_id", how="left")
+
     st.caption(f"{len(results)} result(s)")
     for _, r in results.iterrows():
         with st.container(border=True):
-            date_str = r["decision_date"].date() if pd.notna(r["decision_date"]) else "?"
-            st.markdown(f"**{r['case_name']}**  —  {date_str}  ·  {format_inr(r['total_penalty'])}")
+            st.markdown(f"**{r['case_name'][:80]}**")
+            st.caption(f"{_date_str(r['decision_date'])} · {format_inr(r['total_penalty'])}")
             if r["snippet"]:
-                st.caption(r["snippet"])
+                st.write(r["snippet"])
+            if r.get("conduct_type"):
+                render_tags([r["conduct_type"]])
             if r["source_url"]:
-                st.markdown(f"[Source]({r['source_url']})")
+                st.markdown(f"[Open case / source]({r['source_url']})")
 
 
 if __name__ == "__main__":

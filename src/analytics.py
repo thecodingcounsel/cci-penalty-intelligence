@@ -89,8 +89,9 @@ def compare_outlier_impact(df: pd.DataFrame, column: str = "penalty_43a") -> dic
 def format_inr(value) -> str:
     """Format a rupee amount using the Indian lakh/crore convention.
 
-    Examples: 500000 -> '₹5.00 Lakh', 12500000 -> '₹1.25 Crore', 0 -> '₹0'.
-    Returns '-' for missing/NaN values instead of raising.
+    Examples: 500000 -> '₹5 Lakh', 15000000 -> '₹1.5 Crore', 2000000000 -> '₹200 Crore',
+    0 -> '₹0'. Trailing zeros are trimmed (up to 2 decimal places) so a round figure like
+    ₹5 Lakh never displays as '₹5.00 Lakh'. Returns '-' for missing/NaN values instead of raising.
     """
     if value is None or (isinstance(value, float) and pd.isna(value)):
         return "-"
@@ -100,7 +101,12 @@ def format_inr(value) -> str:
     value = abs(value)
 
     if value >= 1_00_00_000:
-        return f"{sign}₹{value / 1_00_00_000:.2f} Crore"
+        return f"{sign}₹{_trim(value / 1_00_00_000)} Crore"
     if value >= 1_00_000:
-        return f"{sign}₹{value / 1_00_000:.2f} Lakh"
+        return f"{sign}₹{_trim(value / 1_00_000)} Lakh"
     return f"{sign}₹{value:,.0f}"
+
+
+def _trim(number: float) -> str:
+    """'5.00' -> '5', '1.50' -> '1.5', '1.23' -> '1.23'."""
+    return f"{number:.2f}".rstrip("0").rstrip(".")
