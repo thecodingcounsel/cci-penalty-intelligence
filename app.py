@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+import altair as alt
 import pandas as pd
 import streamlit as st
 
@@ -35,18 +36,31 @@ st.set_page_config(page_title="CCI Penalty Intelligence", layout="wide")
 
 CSS = """
 <style>
+/* Clean system-font stack across the whole app, applied broadly so it reaches Streamlit's
+   form controls (buttons/inputs/selects don't inherit body font-family by default) and
+   BaseWeb-rendered widgets (multiselects, tabs) without needing per-widget overrides. */
+.stApp, .stApp * {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
 .block-container { padding-top: 2.5rem; padding-bottom: 3rem; max-width: 1180px; }
+
+/* Metric labels: title case as written in the Python code (no forced uppercase), medium
+   weight rather than bold, muted via opacity so it adapts to both light and dark themes. */
 [data-testid="stMetricValue"] { font-size: 1.7rem; font-weight: 600; letter-spacing: -0.01em; }
-[data-testid="stMetricLabel"] { font-size: 0.78rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.04em; }
-hr { margin: 1.5rem 0; border-color: #e9ebee; }
-h3 { margin-top: 0.25rem; }
+[data-testid="stMetricLabel"] { font-size: 0.82rem; font-weight: 500; opacity: 0.65; letter-spacing: 0.01em; }
+
+hr { margin: 1.5rem 0; border-color: rgba(128, 128, 128, 0.25); }
+h3 { margin-top: 0.25rem; font-weight: 600; }
+
 .cci-hero { padding: 0.25rem 0 0.75rem 0; }
-.cci-hero .cci-label { font-size: 0.78rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.15rem; }
-.cci-hero .cci-value { font-size: 2.8rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+.cci-hero .cci-label { font-size: 0.82rem; font-weight: 500; opacity: 0.65; margin-bottom: 0.15rem; }
+.cci-hero .cci-value { font-size: 2.8rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; }
+
 .cci-tag { display: inline-block; font-size: 0.78rem; padding: 0.18rem 0.6rem; border-radius: 999px;
-           background: #f3f4f6; color: #374151; margin: 0 0.3rem 0.3rem 0; white-space: nowrap; }
-.cci-score { font-weight: 700; font-size: 1.15rem; text-align: right; }
-.cci-muted { color: #6b7280; }
+           background: rgba(128, 128, 128, 0.16); margin: 0 0.3rem 0.3rem 0; white-space: nowrap; }
+.cci-score { font-weight: 600; font-size: 1.15rem; text-align: right; }
+.cci-muted { opacity: 0.65; }
 </style>
 """
 
@@ -168,11 +182,7 @@ def render_overview(df: pd.DataFrame) -> None:
     c2.metric("Median Penalty (excl. Amazon)", format_inr(overview_stats["median"]))
     c3.metric("Mean / Average (excl. Amazon)", format_inr(overview_stats["mean"]))
     c4.metric("Largest Penalty (excl. Amazon)", format_inr(overview_stats["max"]))
-    st.caption(
-        "Amazon/Future is excluded from overview penalty statistics and the trend visual "
-        "because its exceptional penalty materially distorts the scale. It remains available "
-        "throughout the corpus and benchmarking tools."
-    )
+    st.caption("Amazon/Future is excluded from overview penalty statistics.")
 
     st.divider()
     col_a, col_b = st.columns(2)
@@ -192,7 +202,21 @@ def render_overview(df: pd.DataFrame) -> None:
         st.markdown("**Most common conduct types**")
         conduct_counts = df[df["conduct_type"] != ""]["conduct_type"].value_counts()
         if not conduct_counts.empty:
-            st.bar_chart(conduct_counts, horizontal=True, y_label="", x_label="Orders")
+            # st.bar_chart's simplified API truncates long y-axis labels in horizontal mode
+            # with no way to widen the label area - built directly on Altair (which
+            # st.bar_chart itself wraps) instead, with labelLimit set high enough that no
+            # conduct-type label is ever cut off, however long it gets.
+            chart_df = conduct_counts.rename("Orders").rename_axis("Conduct type").reset_index()
+            chart = (
+                alt.Chart(chart_df)
+                .mark_bar()
+                .encode(
+                    x=alt.X("Orders:Q", title="Orders"),
+                    y=alt.Y("Conduct type:N", sort="-x", title=None, axis=alt.Axis(labelLimit=500)),
+                )
+                .properties(height=alt.Step(30))
+            )
+            st.altair_chart(chart, width="stretch")
         else:
             st.caption("No conduct-type intelligence extracted yet.")
 
