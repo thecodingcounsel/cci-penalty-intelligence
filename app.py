@@ -97,6 +97,23 @@ h3 { margin-top: 0.25rem; font-weight: 600; }
 </style>
 """
 
+# Page-level attribution, rendered once at the bottom of main() below the tabs - not a
+# native <footer> element since the CSS above hides those (see "Hide default Streamlit
+# chrome"). Kept subtle: small, muted opacity, no color accent.
+FOOTER_HTML = """
+<div style="margin-top: 2rem; padding-top: 1rem; border-top: 1px solid rgba(128, 128, 128, 0.15);
+            display: flex; justify-content: flex-end;">
+  <a href="https://www.linkedin.com/in/sarthak-mishra/" target="_blank" rel="noopener noreferrer"
+     style="display: inline-flex; align-items: center; gap: 0.4rem; font-size: 0.78rem;
+            opacity: 0.55; color: inherit; text-decoration: none;">
+    <span>Built by Sarthak</span>
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.03-1.85-3.03-1.85 0-2.14 1.45-2.14 2.94v5.66H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29ZM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12ZM7.12 20.45H3.56V9h3.56v11.45Z"/>
+    </svg>
+  </a>
+</div>
+"""
+
 
 # ------------------------------------------------------------------------------------------
 # Data loading + small display helpers
@@ -220,6 +237,8 @@ def main() -> None:
         render_comparables_tab(df)
     with tab_search:
         render_search_tab(df)
+
+    st.markdown(FOOTER_HTML, unsafe_allow_html=True)
 
 
 # ------------------------------------------------------------------------------------------
