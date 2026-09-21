@@ -1,0 +1,767 @@
+ 
+ 
+ 
+Page 1 of 18 
+ 
+ 
+ 
+COMPETITION COMMISSION OF INDIA 
+Combination Registration No. C-2025/03/1254 
+8th September 2026 
+ 
+Proceedings under Section 43A of the Competition Act, 2002 in relation to notice filed 
+under sub-section (2) of Section 6 of the Competition Act, 2002 by Lloyds Metals and 
+Energy Limited and Others  
+ 
+CORAM:  
+Ms. Ravneet Kaur 
+Chairperson 
+ 
+Ms. Sweta Kakkad 
+Member 
+ 
+Mr. Deepak Anurag 
+Member 
+ 
+Appearances during the hearing: Mr. Samar Bansal, Senior Advocate; Ms. Atreyee Sarkar, 
+Mr. Ritesh Puri, Mr. Aryan Uppal, Ms. Pranika Goel, Mr. Dilip Kumar Niranjan, Ms. Anshika 
+Saxena, Advocates; and Mr. Gaurav Jangle, Senior Executive – Legal, Lloyds Metals and 
+Energy Limited 
+ 
+Order under Section 43A of the Competition Act, 2002 
+ 
+A. 
+FILING OF NOTICE AND APPROVAL OF COMBINATION 
+ 
+1. 
+On 5th March 2025, the Competition Commission of India (Commission) received a 
+notice (Notice), under sub-section (2) of Section 6 of the Competition Act, 2002 (Act), 
+jointly given by Lloyds Metals and Energy Limited (LMEL), and Thriveni 
+Earthmovers and Infra Private Limited (TEIL). In response to a communication issued 
+under Regulation 14 of the Competition Commission of India (Combinations) 
+Regulations, 2024 (Combination Regulations), Prakar Estates and Promoters LLP, 
+Naaval Prakar Farms LLP, Aeon Trading LLP, Lloyds Enterprises Limited, 
+Mahaprabhu Ventures Private Limited, and Indrani Patnaik (collectively, ‘Additional 
+
+ 
+       
+ 
+ 
+Page 2 of 18 
+ 
+Investors’) also became notifying parties to the Notice. The Notice was given pursuant 
+to execution of the Share Subscription Agreement entered amongst LMEL, Additional 
+Investors, and TEIL on 17th February 2025 (SSA); and the Demerger Scheme filed with 
+the National Company Law Tribunal (NCLT), Chennai on 9th October 2024 
+(Demerger Scheme). 
+ 
+2. 
+The Combination as notified to the Commission envisaged the following: 
+- 
+Subscription to the shares of TEIL: LMEL will subscribe to certain equity shares, 
+representing 79.82% of the total issued, subscribed and paid-up equity share capital 
+of TEIL. Further, the remaining equity shares, representing 20.18% of the total, 
+issued, subscribed and paid-up equity share capital of TEIL shall be held by 
+Additional Investors;  
+- 
+Merger of MDO Business: The mining development and operations (MDO) 
+business (MDO Business) of Thriveni Earthmovers Private Limited (TEMPL) will 
+be demerged from TEMPL to TEIL. As consideration for the demerger, TEIL will 
+issue fully paid-up 9.5% non-cumulative non-convertible redeemable preference 
+shares (RPS) to the shareholders of TEMPL (TEMPL Shareholders); and 
+- 
+Acquisition of Lloyds Surya: TEIL will acquire 99.83% shareholding in Lloyds 
+Surya Private Limited (Lloyds Surya).  
+ 
+3. 
+The Commission in its meeting held on 13th May 2025 approved the Combination under 
+Section 31(1) of the Act. 
+ 
+B. 
+SUBJECT MATTER OF SECTION 43A PROCEEDINGS, ISSUE OF SHOW 
+CAUSE NOTICE AND FILING OF RESPONSE THEREOF BY LMEL 
+ 
+4. 
+During the course of review of the Combination, the Commission had noted that it has 
+been agreed that until completion of the demerger of the MDO Business and issuance 
+of RPS to shareholders of TEMPL, LMEL would issue guarantee of upto INR 2,500 
+crore of principal amount (and any returns for the same) to any party from which 
+TEMPL Shareholders directly or through their controlled entity may seek borrowing, 
+subject to a counter-guarantee being provided by TEMPL. In this regard, following 
+observations were made:  
+
+ 
+       
+ 
+ 
+Page 3 of 18 
+ 
+ 
+• LMEL, as a corporate guarantor, entered into a deed of corporate guarantee on 
+12th March 2025 in favour of Catalyst Trusteeship Limited for a principal 
+amount of INR 1,745 crore (Corporate Guarantee). 
+• The Corporate Guarantee is provided in relation to the proposed issuance of 
+senior, secured, redeemable non-convertible debentures (Debentures) by 
+Mahaprabhu Projects Private Limited (MPPL), a company controlled by Mr. 
+Prabhakaran Sooryanarayanan (a TEMPL Promoter).  
+• Further, a counter-guarantee dated 12th March 2025 (Counter Guarantee) is 
+issued by TEMPL in favour of LMEL for an equal amount of the Corporate 
+Guarantee given by LMEL to Catalyst Trusteeship Limited. As submitted, the 
+Counter Guarantee will be withdrawn upon receiving the approval of the 
+Commission and National Company Law Tribunal, Chennai and issuance of the 
+RPS by TEIL to the TEMPL Shareholders. 
+• The Debentures were issued by MPPL to certain institutional investors in due 
+course. 
+ 
+5. 
+As regards the Corporate Guarantee, the Commission observed that Section 6(2A) of 
+the Act provides that no combination shall come into effect until one hundred and fifty 
+days had passed from the day on which the notice was given to the Commission under 
+Section 6(2) of the Act or the Commission has issued any order under Section 31 of the 
+Act, whichever is earlier. When LMEL issued the Corporate Guarantee as well as when 
+the Debentures were issued neither one hundred and fifty days had passed from the day 
+on which the Notice was given to the Commission, nor the Commission had passed any 
+order under Section 31 of the Act.  
+ 
+6. 
+In view of the above, the Commission formed a prima facie opinion that LMEL has 
+contravened Section 6(2A) of the Act. Accordingly, the Commission, vide Order dated 
+13th May 2025 (SCN), directed LMEL, under Regulation 49 of the Competition 
+Commission of India (General) Regulations, 2024, to show cause in writing within 15 
+days of receipt of the SCN, as to why it should not be held in contravention of the 
+provisions of Section 6(2A) of the Act for giving effect to a part of the Combination by 
+providing Corporate Guarantee before expiry of the standstill obligation prescribed 
+
+ 
+       
+ 
+ 
+Page 4 of 18 
+ 
+under Section 6(2A) of the Act, and penalty not be imposed on it under Section 43A of 
+the Act. The SCN was communicated to LMEL on 26th May 2025. LMEL submitted 
+the response to SCN on 8th July 2025 after seeking extension of time (Response). Along 
+with the Response, LMEL also requested for an oral hearing in the matter. The 
+Commission heard LMEL at length on 18th August 2026 (Oral Hearing). Further, 
+LMEL also made additional written submissions dated 21st August 2026 (Additional 
+Submissions).  
+ 
+C. 
+SUBMISSIONS OF LMEL 
+ 
+7. 
+LMEL has submitted that by issuing the Corporate Guarantee (and the subsequent 
+issuance of the Debentures), it has not given effect to any part of the Combination and 
+is therefore not in violation of Section 6(2A) of the Act. The key submissions made by 
+LMEL as a part of the Response, Oral Hearing and Additional Submissions are set out 
+below. 
+ 
+I. 
+Matter of commercial necessity   
+ 
+8. 
+The consideration for the demerger of the MDO Business from TEMPL into TEIL is 
+the RPS to be issued by TEIL to the shareholders of TEMPL, which are redeemable 
+after six (6) years from the date of issuance. As a result, payment to TEMPL for the 
+transfer of the MDO Business is not immediate but rather deferred for six (6) years. 
+Given the deferred payment mechanism, it was important to provide security or 
+assurance that TEIL would actually pay the consideration when it becomes due in six 
+(6) years to TEMPL Promoters and / or their external lenders. Therefore, by issuing the 
+Corporate Guarantee, LMEL (which will hold 79.82% shareholding in TEIL), as 
+TEIL’s parent post the Combination, had agreed to provide the promoters of TEMPL 
+(TEMPL Promoters) with the requisite degree of comfort that its subsidiary will pay 
+the deferred consideration. Accordingly, as submitted, the provision of the Corporate 
+Guarantee and the issuance of the Debentures were only a form of credit-support 
+measures to secure the deferred element of consideration for the MDO Business (i.e., 
+the RPS proposed to be issued by TEIL).  
+ 
+
+ 
+       
+ 
+ 
+Page 5 of 18 
+ 
+9. 
+The second set of arguments in support of the Corporate Guarantee as a matter of 
+commercial necessity hinge on the valuation. As submitted: 
+• The provision of the Corporate Guarantee and the issuance of the Debentures 
+was highly time sensitive and commercially necessary given the following 
+factors— (i) The shareholders of LMEL, a listed company where 36.53% equity 
+shares are held by public shareholders (as on 31st March 2025), had already 
+given their approval for all the necessary steps of the Combination; and (ii) The 
+appointed date of the acquisition of the MDO Business by TEIL was fixed as 1st 
+April 2025. This appointed date was significant because it served as the 
+reference point for the transfer of the MDO Business for accounting purposes. 
+• As such, it was imperative that the Corporate Guarantee be provided by LMEL 
+and the Debentures be issued by MPPL before the close of FY 2024-25 (i.e., by 
+31st March 2025) to align with the agreed timeline and to ensure that the value 
+of the Combination is captured extant as at that date, as approved by the 
+shareholders of LMEL. This is an important aspect because the value of a 
+business / undertaking can fluctuate due to various factors, such as market 
+conditions, operational performance, or regulatory changes. 
+• By finalising the Corporate Guarantee and Debentures’ issuance before the 
+close of the financial year, the parties could ensure that the valuation used for 
+the Combination accurately reflected the business's status as on 31st March 
+2025. As businesses continue to develop and perform well, their overall worth 
+(or enterprise value) rises. Accordingly, if the provision of the Corporate 
+Guarantee and / or the issuance of the Debentures had been delayed until the 
+commencement of the following financial year, the value of the MDO Business 
+would likely increase because of its ongoing growth and expansion activities. 
+ 
+II. 
+Conditional and transient nature of Corporate Guarantee as a safeguard 
+ 
+10. 
+As submitted, to ensure compliance with standstill obligations, the arrangements are 
+typically structured with appropriate safeguards. In this case, the Counter Guarantee 
+acts as a safeguard. Therefore, while the provision of the Corporate Guarantee and the 
+issuance of the Debentures were necessary terms of the Combination to ensure 
+
+ 
+       
+ 
+ 
+Page 6 of 18 
+ 
+alignment between the parties’ commercial expectations, the reciprocal Counter 
+Guarantee effectually negated any potential risk or liability for LMEL. 
+ 
+11. 
+As regards how the Counter Guarantee is an effective safeguard, it has been submitted 
+that: 
+• The Counter Guarantee provided by TEMPL was for an equal amount as the 
+Corporate Guarantee, and it could be triggered immediately and automatically 
+if there was any attempt to enforce the Corporate Guarantee before the necessary 
+regulatory approvals were obtained. In substance, therefore, if any potential 
+liability or obligation had arisen for LMEL to discharge under the Corporate 
+Guarantee before the required regulatory approvals were obtained, it would 
+have been immediately offset by the Counter Guarantee. 
+• Even with the Debentures’ proceeds having been received, the arrangement was 
+fully reversible and contingent on regulatory approvals, with the Counter 
+Guarantee neutralising any risk to LMEL. As such, LMEL did not assume any 
+financial risk by way of the Corporate Guarantee given the arrangement was 
+temporary and reversible in nature due to the Counter Guarantee from TEMPL. 
+ 
+Basis the aforesaid, it has been submitted that the arrangement was designed to be fully 
+reversible and contingent on regulatory approvals, preventing any effective pre-
+payment of consideration or conferment of control. 
+ 
+12. 
+LMEL submitted that the parties were guided by the extant decisional practice of the 
+Commission to the effect that a standalone guarantee without any safeguard would not 
+be 
+compliant 
+with 
+the 
+law 
+as 
+held 
+in 
+UltraTech 
+Cement 
+Limited 
+(UltraTech)/Jaiprakash Associates Limited (JAL)1. LMEL submitted that in UltraTech 
+/ JAL, the Commission held that the corporate guarantee extended by UltraTech to Axis 
+Bank Limited on behalf of JAL (the seller) was in substance pre-payment of 
+consideration and while arriving at this conclusion, the Commission noted that no 
+safeguards were in place to prevent the competition-distorting effects of the corporate 
+guarantee. Further, in UltraTech / JAL, the guarantee directly funded the acquisition 
+ 
+1 UltraTech / JAL, Combination Registration No. C-2015/02/246, order under Section 43A of the Competition 
+Act dated 12 March 2018 
+
+ 
+       
+ 
+ 
+Page 7 of 18 
+ 
+price for the target’s benefit. Here, MPPL and TEIL (the target) are separate entities 
+(albeit MPPL being controlled by a TEMPL Promoter), and the debenture proceeds 
+received by MPPL were not consideration for the Combination. Accordingly, it has 
+been submitted that as such, holding LMEL guilty of violating the Act would be 
+tantamount to rewriting the section itself as the standstill obligation applies to the 
+Proposed Combination (between LMEL and TEIL) and not to independent transactions 
+by related party companies (in the present case, MPPL). 
+ 
+13. 
+With a view to emphasise the safeguard element in the Corporate Guarantee, LMEL 
+submitted that the parties contemplated two options to provide the necessary comfort 
+to the TEMPL Promoters — (i) A guarantee for a principal amount of INR 2,500 crore 
+to be provided by LMEL to the TEMPL Promoters to secure the redemption of the RPS; 
+or (ii) A guarantee for a principal amount of INR 2,500 crore to be provided by LMEL 
+to an external lender of the TEMPL Promoters or any other company controlled by the 
+TEMPL Promoters, to be backed by a counter guarantee of an equal amount to be 
+provided by TEMPL to LMEL. As submitted, the parties consciously implemented 
+option (ii), which provided for the Counter Guarantee, in order to comply with Section 
+6(2A) of the Competition Act. The Counter Guarantee operated as a safeguard against 
+premature implementation of the Proposed Combination during the standstill period. 
+The fact that the Counter Guarantee would be released upon the receipt of regulatory 
+approvals and issuance of RPS, demonstrates that the parties implemented the 
+arrangement to ensure compliance with Section 6(2A) of the Act. 
+ 
+III. 
+No violation of standstill obligations for mere preparatory steps 
+ 
+14. 
+The legal standard for triggering a violation of Section 43A of the Act is the actual 
+implementation or transfer of control prior to receipt of the Commission’s approval. It 
+is well established that undertaking merely preparatory or contingent steps do not 
+constitute as implementation of a combination unless they result in the actual exercise 
+of control or integration of businesses. 
+ 
+ 
+
+ 
+       
+ 
+ 
+Page 8 of 18 
+ 
+IV. 
+Absence of premature change in control 
+ 
+15. 
+A guarantee, counter-guarantee or debenture arrangement, by its very nature, is a credit 
+support mechanism. It does not, in itself, confer any rights to participate in, veto, or 
+otherwise influence the management or strategic commercial decisions of any entity. 
+Unless the guarantee / debentures are accompanied by specific contractual rights that 
+allow the guarantor to intervene in the affairs of the enterprise (for example, through 
+board representation, veto rights on budgets, business plans, or key appointments), the 
+mere existence of a guarantee does not amount to de jure control. 
+ 
+16. 
+In the present case, there is no evidence that the back-to-back guarantee arrangement 
+comprising the Corporate Guarantee and the Counter Guarantee or the Debentures are 
+accompanied by any such rights. The arrangement does not provide LMEL with any 
+legal entitlement to participate in or influence the management or policy decisions of 
+MPPL (the entity to whom the Corporate Guarantee was given) or any other entity 
+controlled by the TEMPL Promoters. Therefore, the arrangement does not result in de 
+jure control. 
+ 
+17. 
+Further, as submitted, the parties have maintained status quo in terms of their 
+management and operations and have not exercised any form of control, and continue 
+to operate independently pending regulatory approvals. There have been no changes in 
+the ownership pattern, or conferment of any rights of management, control, or economic 
+benefit to any of the parties before receipt of the Commission’s approval. Therefore, 
+there is no indication that LMEL or any other entity is, in fact, using the Corporate 
+Guarantee arrangement or the Debentures’ issuance to direct or influence the affairs of 
+MPPL / any other entity. Accordingly, there is no change in de facto control of any of 
+the parties. The existing management of the relevant entities continue to exercise 
+control as before. 
+ 
+18. 
+LMEL is part of the Lloyds Group, while the Thriveni Group, to which TEMPL 
+belongs, also holds a substantial (approximately 32%) shareholding in LMEL. 
+Furthermore, LMEL and Lloyds Surya are both part of the Lloyds Group, and following 
+Step 1 of the Combination, TEIL (which is currently a part of the Thriveni Group) will 
+
+ 
+       
+ 
+ 
+Page 9 of 18 
+ 
+become a subsidiary of LMEL and thus also part of the Lloyds Group. Given the 
+existing relationships, the entities were already subject to significant inter-linkages and 
+common interests through cross shareholdings. As such, the provision of the Corporate 
+Guarantee and the issuance of the Debentures did not alter the degree of independence 
+or the incentives of the parties to compete or act autonomously. The Parties’ incentives 
+and ability to act independently were already influenced by these structural connections, 
+and the relevant arrangements did not introduce any new alignment of incentives or 
+reduction in competitive independence. 
+ 
+19. 
+Accordingly, the provision of the Corporate Guarantee and the issuance of the 
+Debentures could not possibly have had any impact on the Parties’ independence or 
+their conduct in their respective markets in any manner. Therefore, there has been no 
+change in the status quo, and the parties remain entirely independent, with no impact 
+on competition or market structure. 
+ 
+20. 
+Such a contingent arrangement, which did not result in any change of control over any 
+enterprise or asset and did not confer any rights or benefits to any of the concerned 
+parties, cannot be viewed as amounting to “giving effect” to the Combination under 
+Section 6(2A) of the Competition Act. 
+ 
+V. 
+Other Submissions 
+ 
+21. 
+This arrangement enabled the Thriveni Group to secure legitimate business funding, 
+thereby supporting ongoing operational efficiency. However, it is important to note that 
+for the TEMPL Promoters, LMEL’s role in obtaining the funding was primarily 
+administrative. The guarantee to secure external borrowing could, in principle, have 
+been provided by any other group company of the TEMPL Promoters. In fact, 
+considering that the amount of the guarantee was not significant relative to the overall 
+valuation of TEMPL, TEMPL could have directly provided a guarantee to the 
+Debenture-holders. LMEL’s role was not unique or indispensable in this context, but 
+rather a matter of business convenience and group structure. 
+ 
+
+ 
+       
+ 
+ 
+Page 10 of 18 
+ 
+22. 
+As regards the issuance of the Debentures by MPPL, it has been stated that it was a 
+necessary and independent financial transaction, undertaken to ensure that the TEMPL 
+Promoters could meet their financial obligations and maintain business continuity 
+during the interim period pending completion of the demerger and the subsequent 
+issuance of RPS by TEIL. Thus, it has been stated that the issuance of the Debentures 
+was, therefore, a standalone financial arrangement, distinct from the implementation of 
+the Combination.  
+ 
+23. 
+Further submissions have been made on the Corporate Guarantee and Counter 
+Guarantee arrangement satisfying the inherence-proportionality test and that the same 
+does not amount to pre-payment of consideration. As submitted,  
+• The actual consideration for the demerger of MDO Business is the issuance of 
+RPS by TEIL in favour of shareholders of TEMPL and the same was explicitly 
+reserved to occur only after all regulatory approvals have been received. 
+• Further, the proceeds of the Debentures received by MPPL were not 
+consideration for the Combination, but merely an independent financial 
+arrangement, fully risk mitigated by the Counter Guarantee. At all times, the 
+entities remained independent and there was no change or alignment in 
+economic incentives. 
+• There is a clear temporal and procedural separation between the provision of 
+the Corporate Guarantee and the issuance of the Debentures (which is an 
+ancillary step to provide comfort to the TEMPL Promoters), and the 
+consummation of the Combination. All steps relating to the actual transfer of 
+value or control were contractually and practically deferred until after receipt of 
+all regulatory approvals. As such, the economic effects of the Combination 
+remained notional until regulatory approval was received. 
+ 
+24. 
+The Corporate Guarantee is inherent to the Proposed Combination as a means of 
+securing the deferred consideration (as RPS are payable after 6 years) and locking the 
+transaction value to prevent renegotiation or withdrawal by promoters of TEMPL. The 
+arrangement is proportionate because it is fully safeguarded by the Counter Guarantee 
+(which is of an equal amount, immediately and automatically enforceable), ensuring no 
+
+ 
+       
+ 
+ 
+Page 11 of 18 
+ 
+premature implementation of the Combination or alteration of the competitive 
+landscape. 
+ 
+VI. 
+Mitigating factors 
+ 
+25. 
+LMEL has submitted that in the event that the Commission finds a violation, it is 
+submitted that no / only a nominal penalty should be imposed in this case, based on the 
+various mitigating circumstances viz., cooperation of LMEL demonstrating 
+transparency and proactiveness, no prior findings of contravention against LMEL, no 
+malafide intention to evade compliance of the provisions of the Act, lack of appreciable 
+adverse effect on competition etc.   
+ 
+D. 
+Observations and Findings of the Commission  
+ 
+26. 
+The Commission observed that considering the submissions of LMEL, it is clear that 
+the parties were well aware of the standstill obligations contained under Section 6(2A) 
+of the Act and accordingly actively deliberated on the structuring of the arrangement so 
+as to meet their commercial necessities and comply with the standstill obligations. Thus, 
+the only issue for determination is whether the provision of Corporate Guarantee and 
+Counter Guarantee can be considered as inherent and proportionate to the commercial 
+objectives of the parties and consistent with the standstill obligations.  
+ 
+27. 
+The first submission made by LMEL justifying its issuance of Corporate Guarantee in 
+relation to the Debentures proposed to be issued by MPPL is rooted in the fact that 
+payment to TEMPL for the transfer of the MDO Business as a part of the Combination 
+is not immediate but rather deferred for six (6) years. Accordingly, it has been stated 
+that it was important to provide security or assurance that TEIL would actually pay the 
+consideration when it becomes due in six (6) years to TEMPL Promoters and/or their 
+external lenders.  
+ 
+28. 
+The Commission observed that while it may be considered inherent for the parties to 
+provide corporate guarantees in transactions involving deferred consideration from the 
+security or assurance of payment perspective, there are two (2) key elements which 
+
+ 
+       
+ 
+ 
+Page 12 of 18 
+ 
+indicate that Corporate Guarantee was neither inherent nor proportionate to this 
+objective.  
+ 
+29. 
+The first element is the timing of Corporate Guarantee coming into effect. While the 
+general practice is to settle payment on closing (if there is no deferred payment 
+envisaged), the Corporate Guarantee came into effect even before closing of the 
+Combination. Thus, settlement/payment of consideration in all transactions remain 
+‘deferred’ during the period from signing of transaction documents to closing of the 
+transaction. Accordingly, the question of providing ‘security’ or ‘assurance’ to the 
+sellers ordinarily arises on closing in cases where the consideration is discharged in a 
+form where the payment settlement gets deferred. Thus, while any such arrangement to 
+provide ‘security’ for deferred consideration which comes into effect on closing of a 
+transaction and covers the period over which settlement remains pending may be 
+considered as inherent to the commercial objectives of the parties involved, the 
+arrangement in the nature of Corporate Guarantee which was implemented even before 
+closing of the Combination cannot be considered as inherent to the objective of 
+provision of ‘security’ or ‘assurance’ for deferred consideration.  
+ 
+30. 
+The second element is timing of issue of Debentures. LMEL has submitted that “it was 
+important to provide security or assurance that TEIL would actually pay the 
+consideration when it becomes due in 6 years…”. However, for all practical purposes, 
+the arrangement of Corporate Guarantee has allowed the TEMPL Promoters to gain 
+funds even before closing and effectively their consideration did not remain ‘deferred’ 
+to the extent of issuance of Debentures at all.  Thus, the arrangement is not 
+proportionate to the stated objective of LMEL which is limited to provision of security 
+or assurance that TEIL would actually pay the consideration when it becomes due in 
+six (6) years.  
+ 
+31. 
+The Commission also observed that in order to emphasise the inherence and 
+proportionality of Corporate Guarantee, LMEL has expanded the objective “to provide 
+security or assurance that TEIL would actually pay the consideration when it becomes 
+due in 6 years to TEMPL Promoters and / or their external lenders”. The reference to 
+‘external lenders’ appears to be an afterthought and is not tenable. If including the 
+
+ 
+       
+ 
+ 
+Page 13 of 18 
+ 
+assurance towards external lenders also was the original objective, it would mean and 
+imply that the Corporate Guarantee and issuance of Debentures were always envisaged 
+to allow the flow of funds to TEMPL Promoters immediately while LMEL discharges 
+its payment obligation after six (6) years which implies that the arrangement was always 
+designed to function as a transfer of consideration.  
+ 
+32. 
+The Commission noted that in order to emphasise the Corporate Guarantee as a 
+commercial necessity, LMEL has made submissions on its role in locking the valuation 
+of MDO Business. Some points made by LMEL are noteworthy and reproduced 
+hereunder: 
+ 
+i. 
+“The appointed date of the acquisition of the MDO Business by TEIL was fixed as 
+1st April 2025”. 
+ii. 
+“The primary purpose of LMEL providing the Corporate Guarantee (conditional 
+upon the Counter Guarantee, effective until the necessary regulatory approvals 
+were obtained) was to lock in the value of the Combination…”. 
+iii. 
+“By finalising the Corporate Guarantee and Debentures’ issuance before the close 
+of the financial year, the Parties could ensure that the valuation used for the 
+Combination accurately reflected the business's status as at 31st March 2025”. 
+ 
+33. 
+The Commission observed that while LMEL has made the above points to stress 
+commercial necessity of the arrangement, it also brings out the fact that settling the 
+consideration immediately was critical to the parties and because the same was 
+envisaged to be settled by issuance of RPS, an arrangement which de facto allows the 
+sellers of MDO Business to gain immediate funds in lieu of agreed valuation and sale 
+of MDO Business was worked out. Thus, in effect, what the Corporate Guarantee 
+framework has achieved is that the sellers got a part of consideration and LMEL locked 
+the valuation and terms of merger of MDO Business with TEIL. Importantly, this is 
+substantively the effect of payment or discharge of consideration and thus, it appears 
+that the Corporate Guarantee framework was always intended and has in effect 
+functioned as a mechanism for prepayment of consideration.  
+ 
+
+ 
+       
+ 
+ 
+Page 14 of 18 
+ 
+34. 
+Notwithstanding the aforesaid observations which clearly suggest that the Corporate 
+Guarantee framework was neither inherent nor proportionate to the objectives of 
+providing security for the deferred consideration to the TEMPL Promoters and locking 
+valuation of MDO Business for LMEL, and the Corporate Guarantee framework is in 
+fact a mechanism for prepayment of consideration, the Commission considered the 
+submissions of LMEL on the efficacy of Counter Guarantee as a safeguard which 
+allows to ensure alignment between the Parties’ commercial expectations while 
+effectually negating any potential risk or liability for LMEL and prevent premature 
+implementation of the Combination or alteration of the competitive landscape. 
+ 
+35. 
+In this regard, firstly, it may be noted that the key concern behind standstill obligations 
+is the risk of competition distortions and not the financial risk of the parties to a 
+combination. The Commission has noted in its decisional practice that arrangements 
+which allow for prepayment of consideration may result in the parties to the 
+combination not acting independently as they are required to do till the combination is 
+approved by a competition authority and in the event a transaction is not consummated 
+and such arrangement is restored, the competition remains harmed in the interim time 
+period. The Commission in its decisional practice relating to instance of prepayment of 
+consideration has observed that pre-payment of consideration is considered significant 
+as such an arrangement is potentially likely to facilitate tacit collusion which is 
+considered to be the worst form of collusion and therefore cannot be allowed. The 
+sources of harm have been identified as acquirer gaining a strategic advantage over the 
+target, reduction in incentive or will of the target to compete etc. Thus, any stated 
+‘safeguard’ is required to be assessed on these parameters. 
+ 
+36. 
+Accordingly, the aspects of the Counter Guarantee neutralising any risk to LMEL or 
+LMEL not assuming any financial risk by way of the Corporate Guarantee are 
+inconsequential to assessment of contravention of standstill obligations. In terms of 
+how the arrangement will safeguard the premature implementation of the transaction, 
+no submissions other than reversibility and neutralising of LMEL financial risk have 
+been made. The only submission made on the aspect of competition distortions (or lack 
+thereof) is rooted in the existing relationships between Lloyds and Thriveni Groups. As 
+submitted, the entities involved were already subject to significant inter-linkages and 
+
+ 
+       
+ 
+ 
+Page 15 of 18 
+ 
+common interests through significant cross shareholdings and as such, the parties’ 
+incentives and ability to act independently were already influenced by these structural 
+connections, and the relevant arrangements did not introduce any new alignment of 
+incentives or reduction in competitive independence. 
+ 
+37. 
+In this regard, the Commission noted that the common and cross shareholdings do not 
+mean and imply an inference of a single economic entity with common incentives. 
+Control is a matter of degree and a change in degree of control is also of relevance as 
+the instance of acquisition of control/influence. The entities at the core of the impugned 
+framework are independent and must be driven by their own strategic imperatives and 
+as such it does not appear tenable to say that the newer transactions between entities 
+having structural/financial linkages do not cause any change in their intent or 
+competition dynamics or that standstill obligations do not apply to such transactions. 
+ 
+38. 
+The Commission further considered the submissions of LMEL on the back-to-back 
+guarantee arrangement comprising the Corporate Guarantee and the Counter Guarantee 
+being a novel structure and consequently the situation being distinct from 
+Ultratech/JAL. In Ultratech/JAL, the Commission had noted that loan amount was 
+repayable irrespective of the combination. However, the Commission had considered 
+the intent of the parties in that case to decide if the arrangement was in fact a prepayment 
+of consideration. Moreover, it was also noted that even if the loan amount is repayable, 
+the same does not mitigate violation of the standstill obligations. The key issue is that 
+such an arrangement may result in the parties to the combination not acting 
+independently as they are required to do till the combination is approved by a 
+competition authority. In the event a transaction is not consummated and such 
+arrangement is restored, the competition would have still been harmed in the interim 
+time period. The yardstick as applied in Ultratech/JAL is also applicable to the present 
+case. As examined above, regardless of the form of instrument and the procedure 
+followed, the key aspect is that the acquirer shall not prepay the consideration as it 
+entails the possible competition distortion effects. The safeguards if any need to be 
+efficacious to prevent such possible competition distortions and mere reversibility of 
+payments is not sufficient. The Commission’s analysis has revealed that the framework 
+of Corporate Guarantee was intended and effectively functioned as a means of 
+
+ 
+       
+ 
+ 
+Page 16 of 18 
+ 
+prepayment of consideration. With the Corporate Guarantee been found to be an 
+effective instrument of prepayment of consideration, the other issues raised by LMEL 
+with an intent of making a distinction from UltraTech / JAL, viz., in Ultratech/JAL, the 
+guarantee directly funded the acquisition price for the target’s benefit while here, MPPL 
+and TEIL (the target) are separate entities (albeit MPPL being controlled by a TEMPL 
+Promoter) and the standstill obligations not applicable to independent transactions by 
+related party companies (in the present case, MPPL) are internally inconsistent with 
+LMEL submissions and inconsequential to assessment. On one hand, LMEL argued for 
+significant cross shareholdings between the Lloyds and Thriveni Groups as a factor to 
+suggest no change in competition landscape, on the other hand, it is arguing for MPPL 
+to be an independent company. The key is that the arrangement was pursuant to the 
+Combination and it was structured that LMEL would issue Corporate Guarantee in 
+favour of debentures to be issued by MPPL and the Counter Guarantee would be given 
+by TEMPL. 
+ 
+39. 
+As regards the submissions on the arrangement being akin to preparatory steps, the 
+Commission finds the same untenable considering the effect of Corporate Guarantee 
+and issuance of Debentures is substantive in effect and has led to prepayment of 
+consideration. 
+ 
+40. 
+LMEL has also argued on lack of any premature change in control. The submissions 
+are not relevant as it has never been alleged that LMEL has acquired control over the 
+MDO Business. The Commission in its decisional practice has maintained that while 
+there are many aspects of a combination that may require parallel activities on the part 
+of the parties to a combination, the objective of standstill obligations is to ensure that 
+the parties remain as independent competitors as they were before the proposed 
+transaction. Accordingly, all the activities/actions which may reduce or have the 
+potential to reduce the degree of independence or the incentives of the parties to 
+compete may be considered to be in contravention of Section 6(2A) of the Act. It is 
+important to note that whether or not a particular conduct of the parties can be regarded 
+as gun jumping in contravention of Section 6(2A) of the Act is a subject matter of 
+examination as consummating a part of a combination may, in substance, have impact 
+
+ 
+       
+ 
+ 
+Page 17 of 18 
+ 
+similar to consummation of the combination itself. The Corporate Guarantee 
+framework has been assessed accordingly.  
+ 
+41. 
+The Commission observed that LMEL has also submitted on its role being 
+administrative and that the guarantee to secure external borrowing could, in principle, 
+have been provided by any other group company of the TEMPL Promoters. It has also 
+been stated that considering that the amount of the guarantee was not significant relative 
+to the overall valuation of TEMPL, TEMPL could have directly provided a guarantee 
+to the Debenture-holders. While LMEL has submitted that its role was not unique or 
+indispensable in this context, but rather a matter of business convenience and group 
+structure, the Commission observed that firstly the issue is irrelevant and secondly 
+LMEL’s role in the arrangement is central. Pursuant to the Combination, LMEL’s 
+shareholding in TEIL is increasing to ~79% and MDO Business is to merge with TEIL 
+and accordingly the consideration was supposed to move from LMEL and in that 
+backdrop the fact that LMEL provided the Corporate Guarantee indicates the actual role 
+of LMEL.  
+ 
+42. 
+On the basis of the aforesaid, the Commission is of the opinion that the Corporate 
+Guarantee framework and issuance of Debentures by MPPL have had the effect of 
+contravention of standstill obligations contained under Section 6(2A) of the Act and by 
+agreeing and implementing the framework, LMEL has contravened the provisions of 
+Section 6(2A) of the Act and is liable to penalty under Section 43A of the Act. Section 
+43A of the Act provides that if any person or enterprise contravenes Section 6(2A) of 
+the Act, the Commission may impose on such person or enterprise, a penalty which 
+may extend to one per cent of the total turnover or assets or the value of transaction 
+referred to in clause (d) of section 5, whichever is higher, of such a combination. Thus, 
+Section 43A of the Act empowers the Commission to determine the appropriate amount 
+of penalty in a matter, subject to the maximum of 1% of the total turnover or the assets, 
+or the value of transaction, whichever is higher. 
+ 
+43. 
+Considering the facts and circumstances of the instant matter and the conduct of LMEL 
+during the proceedings, the Commission considers it appropriate to impose a penalty of 
+
+ 
+       
+ 
+ 
+Page 18 of 18 
+ 
+INR 15,00,000 (INR Fifteen Lakh Only) on LMEL. LMEL is directed to pay the penalty 
+within 60 days from the date of receipt of this order. 
+ 
+44. 
+It is made clear that nothing used in this order shall be deemed to be confidential or 
+deemed to have been granted confidentiality, as the same has been used for the purposes 
+of the Act in terms of the provisions contained in Section 57 thereof. 
+ 
+45. 
+The Secretary is directed to communicate to LMEL accordingly. 
+ 
+ 
+ 
+ 
+ 

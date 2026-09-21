@@ -161,6 +161,12 @@ def extract_penalty_info(text: str, page_texts: list[str], provision_hint: str) 
         )
         return result
 
+    # A "penalty of ..." clause can itself be split across a page boundary, with the
+    # PDF's own "Page X of Y" footer/header landing between "penalty of" and the
+    # amount (e.g. "...impose a penalty of \n\nPage 18 of 18 \n\nINR 15,00,000...").
+    # Strip these pagination markers before matching so they don't break the anchor.
+    text = re.sub(r"Page\s+\d+\s+of\s+\d+", " ", text, flags=re.IGNORECASE)
+
     # PDF text extraction inserts line breaks at arbitrary layout points (sometimes
     # splitting "INR Twenty Lakhs" from its "(INR 20,00,000/-)" restatement across a
     # line) - normalize whitespace once so patterns can match across those breaks.

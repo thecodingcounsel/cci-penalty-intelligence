@@ -84,14 +84,17 @@ def run() -> dict:
             pd.concat([prior_errors, pd.DataFrame(error_log_rows)], ignore_index=True).to_csv(
                 ERROR_LOG_PATH, index=False)
 
-        print("[4/4] Rebuilding legal intelligence layer for the full corpus...")
-        build_intelligence()
+        print("[4/4] Deriving legal intelligence for the new order(s) only (existing rows untouched)...")
+        build_intelligence(incremental=True)
     else:
         print("[4/4] Nothing new - legal intelligence layer unchanged.")
 
     total_orders = len(existing) + len(new_rows)
     metadata = {
-        "last_updated_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        # This timestamp means "the official CCI listing was checked at this time" - it is
+        # written every run regardless of whether any new orders were found, since checking
+        # and finding nothing new is still a legitimate, completed check of the source.
+        "last_checked_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "total_orders": total_orders,
         "new_orders_this_run": len(new_rows),
         "cci_reported_total": total_reported,

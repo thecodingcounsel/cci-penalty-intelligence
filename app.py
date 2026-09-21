@@ -45,8 +45,13 @@ CSS = """
 <style>
 /* Clean system-font stack across the whole app, applied broadly so it reaches Streamlit's
    form controls (buttons/inputs/selects don't inherit body font-family by default) and
-   BaseWeb-rendered widgets (multiselects, tabs) without needing per-widget overrides. */
-.stApp, .stApp * {
+   BaseWeb-rendered widgets (multiselects, tabs) without needing per-widget overrides.
+   EXCLUDES [data-testid="stIconMaterial"]: Streamlit renders its built-in icons (expander
+   chevrons, alert icons, etc.) as ligature text (e.g. "keyboard_arrow_right") on a span
+   whose own font-family turns that text into a glyph. Forcing our font stack onto that
+   span too broke the ligature, so the raw text rendered literally and overlapped adjacent
+   labels (e.g. above "Adjust the comparable set" in Find Comparables). */
+.stApp, .stApp *:not([data-testid="stIconMaterial"]) {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
 }
 
@@ -135,13 +140,16 @@ def _overview_corpus(df: pd.DataFrame) -> pd.DataFrame:
     return df[df["order_id"] != AMAZON_ORDER_ID]
 
 
-def _corpus_last_updated() -> str:
+def _corpus_checked_date() -> str:
+    """Date the official CCI listing was last actually checked by the scheduled updater
+    (see update_corpus.py / .github/workflows/update-corpus.yml) - not merely a display
+    date, and not updated unless the source was genuinely queried."""
     path = Path(METADATA_PATH)
     if not path.exists():
         return "unknown"
     try:
         meta = json.loads(path.read_text())
-        return meta.get("last_updated_utc", "unknown")[:10]
+        return meta.get("last_checked_utc", "unknown")[:10]
     except (json.JSONDecodeError, OSError):
         return "unknown"
 
@@ -219,7 +227,7 @@ def main() -> None:
         st.stop()
 
     st.caption(
-        f"{len(df)} orders · corpus last updated {_corpus_last_updated()} · "
+        f"{len(df)} orders · corpus checked {_corpus_checked_date()} · "
         "an analytical aid — the CCI order remains the primary source"
     )
 
@@ -550,6 +558,9 @@ def render_comparables_tab(df: pd.DataFrame) -> None:
             disabled=["order_id", "case_name", "decision_date", "penalty_43a", "comparable_score"],
             column_config={
                 "Include": st.column_config.CheckboxColumn("Include"),
+                "order_id": st.column_config.TextColumn("ID", width="small"),
+                "case_name": st.column_config.TextColumn("Case", width="large"),
+                "decision_date": st.column_config.DateColumn("Date"),
                 "comparable_score": st.column_config.NumberColumn("Score %", format="%.0f"),
                 "penalty_43a": st.column_config.NumberColumn("Penalty 43A", format="%.0f"),
             },

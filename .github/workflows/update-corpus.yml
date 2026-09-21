@@ -1,0 +1,95 @@
+name: Update CCI corpus
+
+# Daily check of the official CCI Section 43A/44 listing for new orders. CCI orders don't
+# publish continuously, so daily is enough - this is a scheduled batch check, not real-time
+# monitoring. See update_corpus.py for what "checking" actually does: it queries CCI's own
+# listing (src/crawler.py), downloads only genuinely new PDFs, extracts objective fields with
+# no LLM/no invented data, and never touches rows already in data/orders.csv.
+on:
+  schedule:
+    # 18:30 UTC daily = 00:00 IST - after CCI's business day, so that day's publications are
+    # already listed. Adjust here if CCI's typical publication time changes.
+    - cron: "30 18 * * *"
+  workflow_dispatch: {} # manual "Run workflow" button, for on-demand checks/testing
+
+permissions:
+  contents: write # required to commit/push data changes back to main
+
+concurrency:
+  group: update-corpus
+  cancel-in-progress: false # never cancel a run partway through an ingest
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check the official CCI source and ingest any genuinely new orders
+        run: python update_corpus.py
+
+      - name: Validate the corpus
+        run: python quality_check.py
+
+      - name: Fail the run if validation found real errors
+        run: |
+          python3 - <<'PY'
+          import sys
+          from pathlib import Path
+
+          import pandas as pd
+
+          path = Path("data/quality_report.csv")
+          if not path.exists():
+              sys.exit(0)
+
+          report = pd.read_csv(path)
+          errors = report[report["severity"] == "error"]
+          if not errors.empty:
+              print(f"Quality check found {len(errors)} error(s) - refusing to commit:")
+              print(errors.to_string(index=False))
+              sys.exit(1)
+
+          print("No quality-check errors found.")
+          PY
+
+      - name: Run smoke tests
+        run: python smoke_test.py
+
+      - name: Commit and push if the corpus actually changed
+        run: |
+          git config user.name "Sarthak"
+          git config user.email "ivy.dunker@gmail.com"
+
+          # Only data/ is ever touched by update_corpus.py - never app.py, src/, or anything
+          # else, so scoping `git add` here is a second safety net on top of that.
+          git add data/
+
+          if git diff --cached --quiet; then
+            echo "Nothing changed - not committing (this includes the case where the source"
+            echo "was checked but no new orders were found; corpus_metadata.json's checked"
+            echo "timestamp itself only changes on a genuine successful check, so if even that"
+            echo "didn't change, the check did not complete)."
+            exit 0
+          fi
+
+          NEW_COUNT=$(python3 -c "import json; print(json.load(open('data/corpus_metadata.json')).get('new_orders_this_run', 0))")
+          if [ "$NEW_COUNT" != "0" ]; then
+            MESSAGE="Automated corpus update: ${NEW_COUNT} new order(s) ingested from the official CCI listing"
+          else
+            MESSAGE="Automated corpus check: official CCI listing checked, no new orders found"
+          fi
+
+          git commit -m "$MESSAGE"
+          git push
